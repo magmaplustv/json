@@ -92,7 +92,7 @@
                 }
             },
             {
-                "name": "LN+ - LA NACION",
+                "name": "LN+ LA NACION",
                 "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/La_Nacion\/SA_Live_dash_enc_C\/La_Nacion.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",

@@ -75,6 +75,12 @@
                 "url": "",
                 "icono": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La pena máxima 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170034.ts",
+                "icono": "https://image.tmdb.org/t/p/original/grLob90P4NfAEXb0RInk4b49UjP.jpg",
+                "type": "PELICULA"
             }
         ]
     },

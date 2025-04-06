@@ -594,6 +594,26 @@
         ]
     },
     {
+        "name": "⚽ DEPORTES DIRECTV ARG",
+        "samples": [
+            {
+                "name": "DIRECTV SPORTS",
+                "url": "https:\/\/director.taihotel.asia:443\/v4\/variant\/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0kzN5Q2MiFmZidTL5YmMi1CZ2QDNtUjY2cTLygDMldTOldzL.m3u8",
+                "icono": "https:\/\/i.ibb.co\/jkTvMpKH\/DTV-sports-logo-white.png"
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "https:\/\/39osta28l0q8tvo4.tamalpsdrtd.lat\/v3\/director\/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0\/master.m3u8",
+                "icono": "https:\/\/i.ibb.co\/RGy1cnLP\/directv-sports2.png"
+            },
+            {
+                "name": "DIRECTV SPORTS PLUS",
+                "url": "https:\/\/39osta28l0q8tvo4.tamalpsdrtd.lat\/v3\/director\/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0\/master.m3u8",
+                "icono": "https:\/\/i.ibb.co\/rG8VJmk2\/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png"
+            }
+        ]
+    },
+    {
         "name": "CANALES DE PARAGUAY",
         "samples": [
             {
@@ -884,26 +904,6 @@
                 "type": "CLEARKEY",
                 "icono": "https:\/\/i.ibb.co\/qMCdxFQ\/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/kg654aptb3wmdvhw1e06i\/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0"
-            }
-        ]
-    },
-    {
-        "name": "⚽ DEPORTES DIRECTV ARG",
-        "samples": [
-            {
-                "name": "DIRECTV SPORTS",
-                "url": "https:\/\/director.taihotel.asia:443\/v4\/variant\/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0kzN5Q2MiFmZidTL5YmMi1CZ2QDNtUjY2cTLygDMldTOldzL.m3u8",
-                "icono": "https:\/\/i.ibb.co\/jkTvMpKH\/DTV-sports-logo-white.png"
-            },
-            {
-                "name": "DIRECTV SPORTS 2",
-                "url": "https:\/\/39osta28l0q8tvo4.tamalpsdrtd.lat\/v3\/director\/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0\/master.m3u8",
-                "icono": "https:\/\/i.ibb.co\/RGy1cnLP\/directv-sports2.png"
-            },
-            {
-                "name": "DIRECTV SPORTS PLUS",
-                "url": "https:\/\/39osta28l0q8tvo4.tamalpsdrtd.lat\/v3\/director\/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0\/master.m3u8",
-                "icono": "https:\/\/i.ibb.co\/rG8VJmk2\/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png"
             }
         ]
     },

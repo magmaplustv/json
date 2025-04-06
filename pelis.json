@@ -43,5 +43,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Estrenos CAM 2025",
+        "samples": [
+            {
+                "name": "Una película de Minecraft",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169953.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qNEmbTNjf5hVzecPq96pxGfBhbX.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

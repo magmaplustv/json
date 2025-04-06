@@ -10,9 +10,15 @@
             },
             {
                 "name": "GRAN HERMANO 1",
-                "url": "https:\/\/zona593.live:8443\/live\/Flamatv2.0\/q4F479ZGZ5\/938798.ts",
-                "type": "HLS",
-                "icono": "https:\/\/i.ibb.co\/tq4M9Pk\/granhermano.png"
+                "url": "http:\/\/m.mtd.llc:8880\/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=\/CH0100000000340\/index_fk.mpd",
+                "type": "CLEARKEY",
+                "icono": "https:\/\/i.ibb.co\/tq4M9Pk\/granhermano.png",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/ktewuzblnb6nbfpmrg9md\/granhermano1.json?rlkey=e94mjk6eeei3hi3b7xp4hgiug&st=pijir7bj&dl=0",
+                "headers": {
+                    "Origin": "https:\/\/directvgo.com",
+                    "Referer": "https:\/\/directvgo.com\/",
+                    "User-Agent": "dgo\/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer\/2.19.1"
+                }
             },
             {
                 "name": "GRAN HERMANO 2",

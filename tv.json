@@ -323,6 +323,12 @@
                 "url": "https:\/\/vivo.solumedia.com:19360\/grupoemail\/grupoemail.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/diariochilecito.com\/wp-content\/uploads\/2022\/09\/Chilecito-TV.jpg"
+            },
+            {
+                "name": "Multivision Cable",
+                "url": "https:\/\/videostream.shockmedia.com.ar:19360\/multivisioncable\/multivisioncable.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/static.tvar.io\/imagenes\/multivisioncable.jpg"
             }
         ]
     },

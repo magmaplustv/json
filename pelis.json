@@ -2,18 +2,7 @@
     {
         "name": "ACCION",
         "samples": [
-            {
-                "name": "",
-                "url": "",
-                "icono": "",
-                "type": "PELICULA"
-            },
-            {
-                "name": "",
-                "url": "",
-                "icono": "",
-                "type": "PELICULA"
-            },
+            
             {
                 "name": "Deepwater Horizon: In Their Own Words",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
@@ -22,34 +11,8 @@
             }
         ]
     },
-    {
-        "name": "COMEDIA",
-        "samples": [
-            {
-                "name": "",
-                "url": "",
-                "icono": "",
-                "type": "PELICULA"
-            },
-            {
-                "name": "",
-                "url": "",
-                "icono": "",
-                "type": "PELICULA"
-            }
-        ]
-    },
-    {
-        "name": "DRAMA",
-        "samples": [
-            {
-                "name": "",
-                "url": "",
-                "icono": "",
-                "type": "PELICULA"
-            }
-        ]
-    },
+    
+    
     {
         "name": "Estrenos CAM 2025",
         "samples": [
@@ -81,12 +44,8 @@
                 "icono": "https://image.tmdb.org/t/p/original/wwGzsJT36GzT1UU39SKlSav1h7n.jpg",
                 "type": "PELICULA"
             },
-            {
-                "name": "",
-                "url": "",
-                "icono": "",
-                "type": "PELICULA"
-            },
+
+            
             {
                 "name": "La pena máxima 2",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170034.ts",

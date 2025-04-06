@@ -393,6 +393,65 @@
         ]
     },
     {
+        "name": "⚽ DEPORTES TYC Y TNT SPORTS",
+        "samples": [
+            {
+                "name": "TYC SPORTS",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/TyCSport\/SA_Live_dash_enc_C\/TyCSport.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/3cmvxd9jsvvde816z4obc\/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
+                "icono": "https:\/\/i.ibb.co\/60QvHcnr\/R-2.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "TYC SPORT (PLAY 1)",
+                "url": "https:\/\/d320m3arb2wo8b.cloudfront.net\/out\/v1\/34e0da501a8c4489b713809eb08a9bf3\/index.m3u8",
+                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
+            },
+            {
+                "name": "TYC SPORT (PLAY 2)",
+                "url": "https:\/\/dj8bzwveg7go9.cloudfront.net\/out\/v1\/19321d887c274b58a4f62fe0f6e2151b\/index_9.m3u8",
+                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
+            },
+            {
+                "name": "TYC SPORT (PLAY 3)",
+                "url": "https:\/\/d1xm2jznwi5xzj.cloudfront.net\/out\/v1\/1bcd1ee954894463b1793597891a25b6\/index_10.m3u8",
+                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
+            },
+            {
+                "name": "TYC SPORT (PLAY 4)",
+                "url": "https:\/\/dj8bzwveg7go9.cloudfront.net\/out\/v1\/366fc52554ae42c58465ea4b278eac0c\/index_15.m3u8",
+                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
+            },
+            {
+                "name": "TYC SPORT (PLAY 5)",
+                "url": "https:\/\/d107yb993altze.cloudfront.net\/out\/v1\/772e0b0193134726ad84693b7baca6c6\/index_9.m3u8",
+                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
+            },
+            {
+                "name": "TYC SPORT (PLAY 6)",
+                "url": "https:\/\/d21no6qan3ol31.cloudfront.net\/out\/v1\/a2f25f61e9d44701aa4e813ac5efc4a4\/index.m3u8",
+                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
+            },
+            {
+                "name": "TNT SPORT HD",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c6eds\/TNT_Sports_HD\/SA_Live_dash_enc_C\/TNT_Sports_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/3tf1070cyrjky1hx9fv3i\/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+                "icono": "https:\/\/i.ibb.co\/vCVx3Qyc\/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "CANALES DE PARAGUAY",
         "samples": [
             {
@@ -683,65 +742,6 @@
                 "type": "CLEARKEY",
                 "icono": "https:\/\/i.ibb.co\/qMCdxFQ\/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/kg654aptb3wmdvhw1e06i\/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0"
-            }
-        ]
-    },
-    {
-        "name": "⚽ DEPORTES TYC Y TNT SPORTS",
-        "samples": [
-            {
-                "name": "TYC SPORTS",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/TyCSport\/SA_Live_dash_enc_C\/TyCSport.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/3cmvxd9jsvvde816z4obc\/tycsports.json?rlkey=t0hknbazqzkp3n9tfi13wkrux&st=9ey5xmzc&dl=0",
-                "icono": "https:\/\/i.ibb.co\/60QvHcnr\/R-2.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "TYC SPORT (PLAY 1)",
-                "url": "https:\/\/d320m3arb2wo8b.cloudfront.net\/out\/v1\/34e0da501a8c4489b713809eb08a9bf3\/index.m3u8",
-                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
-            },
-            {
-                "name": "TYC SPORT (PLAY 2)",
-                "url": "https:\/\/dj8bzwveg7go9.cloudfront.net\/out\/v1\/19321d887c274b58a4f62fe0f6e2151b\/index_9.m3u8",
-                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
-            },
-            {
-                "name": "TYC SPORT (PLAY 3)",
-                "url": "https:\/\/d1xm2jznwi5xzj.cloudfront.net\/out\/v1\/1bcd1ee954894463b1793597891a25b6\/index_10.m3u8",
-                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
-            },
-            {
-                "name": "TYC SPORT (PLAY 4)",
-                "url": "https:\/\/dj8bzwveg7go9.cloudfront.net\/out\/v1\/366fc52554ae42c58465ea4b278eac0c\/index_15.m3u8",
-                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
-            },
-            {
-                "name": "TYC SPORT (PLAY 5)",
-                "url": "https:\/\/d107yb993altze.cloudfront.net\/out\/v1\/772e0b0193134726ad84693b7baca6c6\/index_9.m3u8",
-                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
-            },
-            {
-                "name": "TYC SPORT (PLAY 6)",
-                "url": "https:\/\/d21no6qan3ol31.cloudfront.net\/out\/v1\/a2f25f61e9d44701aa4e813ac5efc4a4\/index.m3u8",
-                "icono": "https:\/\/i.ibb.co\/njgDHwJ\/unnamed.webp"
-            },
-            {
-                "name": "TNT SPORT HD",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c6eds\/TNT_Sports_HD\/SA_Live_dash_enc_C\/TNT_Sports_HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/3tf1070cyrjky1hx9fv3i\/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
-                "icono": "https:\/\/i.ibb.co\/vCVx3Qyc\/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
             }
         ]
     },

@@ -15,7 +15,7 @@
                 "icono": "https:\/\/i.ibb.co\/tq4M9Pk\/granhermano.png",
                 "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/ktewuzblnb6nbfpmrg9md\/granhermano1.json?rlkey=e94mjk6eeei3hi3b7xp4hgiug&st=pijir7bj&dl=0",
                 "headers": {
-                    "Origin": "https:\/\/directvgo.com",
+                    "Origin": "android_mobile.directvgo.com",
                     "Referer": "https:\/\/directvgo.com\/",
                     "User-Agent": "dgo\/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer\/2.19.1"
                 }

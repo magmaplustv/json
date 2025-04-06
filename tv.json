@@ -452,6 +452,29 @@
         ]
     },
     {
+        "name": "⚽ DEPORTES DIRECTV ARG",
+        "samples": [
+            {
+                "name": "DIRECTV SPORTS",
+                "url": "http:\/\/megaplux.lat:80\/live\/MAGMA\/11223344\/581716.m3u8",
+                "icono": "https:\/\/i.ibb.co\/jkTvMpKH\/DTV-sports-logo-white.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS 2",
+                "url": "https:\/\/pro.pccaptv.xyz:2087\/flamatv2.0\/vkFdZG4BcqQp\/73111",
+                "icono": "https:\/\/i.ibb.co\/RGy1cnLP\/directv-sports2.png",
+                "type": "HLS"
+            },
+            {
+                "name": "DIRECTV SPORTS PLUS",
+                "url": "http:\/\/deluxe-tv.xyz:80\/Rodotv2025\/Rodotv2025\/49547",
+                "icono": "https:\/\/i.ibb.co\/rG8VJmk2\/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+                "type": "HLS"
+            }
+        ]
+    },
+    {
         "name": "⚽ DISNEY +",
         "samples": [
             {
@@ -590,29 +613,6 @@
                 "type": "HLS",
                 "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/mvxasp2naascu373f4fev\/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https:\/\/i.ibb.co\/S4zyQVmW\/Disney-Plus-logo-svg.png"
-            }
-        ]
-    },
-    {
-        "name": "⚽ DEPORTES DIRECTV ARG",
-        "samples": [
-            {
-                "name": "DIRECTV SPORTS",
-                "url": "http:\/\/megaplux.lat:80\/live\/MAGMA\/11223344\/581716.m3u8",
-                "icono": "https:\/\/i.ibb.co\/jkTvMpKH\/DTV-sports-logo-white.png",
-                "type": "HLS"
-            },
-            {
-                "name": "DIRECTV SPORTS 2",
-                "url": "https:\/\/pro.pccaptv.xyz:2087\/flamatv2.0\/vkFdZG4BcqQp\/73111",
-                "icono": "https:\/\/i.ibb.co\/RGy1cnLP\/directv-sports2.png",
-                "type": "HLS"
-            },
-            {
-                "name": "DIRECTV SPORTS PLUS",
-                "url": "http:\/\/deluxe-tv.xyz:80\/Rodotv2025\/Rodotv2025\/49547",
-                "icono": "https:\/\/i.ibb.co\/rG8VJmk2\/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-                "type": "HLS"
             }
         ]
     },

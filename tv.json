@@ -377,6 +377,12 @@
                 "url": "http:\/\/204.199.3.2\/.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/directostv.teleame.com\/wp-content\/uploads\/2020\/09\/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png"
+            },
+            {
+                "name": "CANAL 9 RIO CUARTO",
+                "url": "https:\/\/tv.streamcasthd.com:3614\/live\/canal9riocuartotvlive.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjRcmiYzNwzn89j7ks8I1vYHGd0oyNLWh3d_R0NFMD-WCiN-udg2juUYvOvmbuXN2HN4tErMp1AdPpQND4TMa6JQgBQGfUYWjYudy5oYj87_3tyrRgrMbtUjwIElxsTCadryU7el078PbU\/s1600\/canal9-rcuarto.png"
             }
         ]
     },

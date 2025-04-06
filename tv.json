@@ -80,6 +80,18 @@
                 }
             },
             {
+                "name": "Telefé Internacional",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c4eds\/Telefe_Internacional\/SA_Live_dash_enc\/Telefe_Internacional.mpd",
+                "type": "CLEARKEY",
+                "icono": "https:\/\/i.ibb.co\/Xk2ZFyC\/telefe-internacional.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                },
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877"
+            },
+            {
                 "name": "EL TRECE",
                 "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ArtearHD\/SA_Live_dash_enc\/ArtearHD.mpd",
                 "type": "CLEARKEY",
@@ -215,18 +227,6 @@
                     "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
                 },
                 "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8"
-            },
-            {
-                "name": "Telefé Internacional",
-                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c4eds\/Telefe_Internacional\/SA_Live_dash_enc\/Telefe_Internacional.mpd",
-                "type": "CLEARKEY",
-                "icono": "https:\/\/i.ibb.co\/Xk2ZFyC\/telefe-internacional.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                },
-                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877"
             },
             {
                 "name": "Volver",

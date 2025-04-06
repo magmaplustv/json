@@ -144,7 +144,12 @@
                 "url": "https:\/\/cdn.cvattv.com.ar\/live\/c7eds\/America24\/SA_Live_dash_enc\/America24.mpd",
                 "type": "CLEARKEY",
                 "icono": "https:\/\/github.com\/masterentertainment\/listas\/blob\/main\/logos\/A24.png",
-                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             }
         ]
     },

@@ -263,6 +263,12 @@
                 "url": "https:\/\/stream.arcast.com.ar\/c7nq\/ngrp:c7nq_all\/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4b\/Canalsiete-nqn-logo.png"
+            },
+            {
+                "name": "Canal 9 Litoral",
+                "url": "https:\/\/stream.arcast.live\/canal9litoral\/ngrp:canal9litoral_all\/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/static.tvar.io\/imagenes\/canal9litoral.png"
             }
         ]
     },

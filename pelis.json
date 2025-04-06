@@ -117,5 +117,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Prime Video",
+        "samples": [
+            {
+                "name": "Criminales de lujo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168931.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rpAbueORafYSgTk2oSc2t6ayktb.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

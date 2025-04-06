@@ -162,6 +162,18 @@
                     "Referer": "https:\/\/portal.app.flow.com.ar\/",
                     "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
                 }
+            },
+            {
+                "name": "Canal Rural",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c6eds\/Canal_Rural\/SA_Live_dash_enc\/Canal_Rural.mpd",
+                "type": "CLEARKEY",
+                "icono": "https:\/\/3.bp.blogspot.com\/-kRrQVEhftUU\/V-_RmD35S8I\/AAAAAAAABB0\/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB\/s1600\/canalrural-2016.png",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             }
         ]
     },

@@ -87,6 +87,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169909.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tTmm4roxrc4TlU3cxGSC6e7ueaP.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi lista de deseos",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169031.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/a3IFeDHSCIkMLmoBzaOcD60BOoR.jpg",
+                "type": "PELICULA"
             }
         ]
     },

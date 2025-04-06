@@ -7,6 +7,12 @@
                 "url": "http:\/\/megaplux.lat:80\/live\/MAGMA\/11223344\/563228.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/i.ibb.co\/tq4M9Pk\/granhermano.png"
+            },
+            {
+                "name": "GRAN HERMANO 1",
+                "url": "https:\/\/zona593.live:8443\/live\/Flamatv2.0\/q4F479ZGZ5\/938798.ts",
+                "type": "HLS",
+                "icono": "https:\/\/i.ibb.co\/tq4M9Pk\/granhermano.png"
             }
         ]
     },

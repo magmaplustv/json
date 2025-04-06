@@ -395,6 +395,18 @@
                 "url": "https:\/\/cdn.sensa.com.ar\/output\/COR\/CaroyaCoopH\/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/www.canalcoop.com.ar\/_next\/static\/media\/canal-coop.d704a2e4.png"
+            },
+            {
+                "name": "CBA24N córdoba",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c4eds\/CBA24\/SA_Live_dash_enc_C\/CBA24.mpd",
+                "type": "CLEARKEY",
+                "icono": "https:\/\/i.ibb.co\/K2sJwVC\/canal-u.png",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=b93e6ce6b4fb51b890ac57d8c0b6a402&key=53eb2499d8c57cf6f9ea887c8683c591",
+                "headers": {
+                    "Origin": "https:\/\/web.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             }
         ]
     },

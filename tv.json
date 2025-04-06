@@ -138,6 +138,18 @@
                     "Referer": "https:\/\/portal.app.flow.com.ar\/",
                     "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
                 }
+            },
+            {
+                "name": "Argentinísima Satelital",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c6eds\/Argentinisima\/SA_Live_dash_enc\/Argentinisima.mpd",
+                "type": "CLEARKEY",
+                "icono": "https:\/\/github.com\/masterentertainment\/listas\/blob\/main\/logos\/ARGST.png",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             }
         ]
     },

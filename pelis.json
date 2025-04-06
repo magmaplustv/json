@@ -20,5 +20,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "DRAMA",
+        "samples": [
+            {
+                "name": "Terremoto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170254.ts",
+                "icono": "https://image.tmdb.org/t/p/original/lgkaXJd8RCmN9LE9Db1RJhqFrVG.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

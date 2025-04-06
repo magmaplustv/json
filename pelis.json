@@ -100,5 +100,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Disney",
+        "samples": [
+            {
+                "name": "Alexander y el viaje terrible, horrible, espantoso, horroroso",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169908.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

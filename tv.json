@@ -257,6 +257,12 @@
                 "url": "https:\/\/stream.arcast.live\/canal7jujuy\/ngrp:canal7jujuy_all\/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/i.ibb.co\/ZGSTNsG\/canal7jujuy.png"
+            },
+            {
+                "name": "CANAL 7 NEUQUEN",
+                "url": "https:\/\/stream.arcast.com.ar\/c7nq\/ngrp:c7nq_all\/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4b\/Canalsiete-nqn-logo.png"
             }
         ]
     },

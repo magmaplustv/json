@@ -329,6 +329,12 @@
                 "url": "https:\/\/videostream.shockmedia.com.ar:19360\/multivisioncable\/multivisioncable.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/static.tvar.io\/imagenes\/multivisioncable.jpg"
+            },
+            {
+                "name": "RTV Neuquen",
+                "url": "http:\/\/media.neuquen.gov.ar\/rtn\/television\/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/i.ibb.co\/Fqf4R9T\/descarga.jpg"
             }
         ]
     },

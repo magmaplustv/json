@@ -377,6 +377,12 @@
                 "url": "https:\/\/videostream.shockmedia.com.ar:19360\/canal4telecondor\/canal4telecondor.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/pbs.twimg.com\/profile_images\/913627349\/telecondor_satelital_400x400.jpg"
+            },
+            {
+                "name": "CANAL 4 SAN FRANCISCO CORDOBA",
+                "url": "http:\/\/204.199.3.2\/.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/yt3.googleusercontent.com\/bv_2_Ib1HlUx_iwLnSkZtPGYV_gQciut9czjC0PLl9QWTlQY3Q73ga1jQFuQZZq14XU7x2oDsw=s176-c-k-c0x00ffffff-no-rj"
             }
         ]
     },

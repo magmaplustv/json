@@ -1363,6 +1363,18 @@
                     "Referer": "https:\/\/portal.app.flow.com.ar\/",
                     "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
                 }
+            },
+            {
+                "name": "Universal TV",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c6eds\/Universal_Channel_HD\/SA_Live_dash_enc\/Universal_Channel_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dc\/Universal_TV_Logo_2018.png",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             }
         ]
     },

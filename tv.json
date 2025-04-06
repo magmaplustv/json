@@ -197,6 +197,126 @@
         ]
     },
     {
+        "name": "DEPORTES ESPN",
+        "samples": [
+            {
+                "name": "ESPN",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ESPN2HD\/SA_Live_dash_enc_C\/ESPN2HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropboxusercontent.com\/scl\/fi\/1lh2bppd9ch61z29cc9mb\/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
+                "icono": "https:\/\/static.flow.com.ar\/images\/8458\/CH_LOGO\/60\/40\/0\/0\/71306601073528.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 2",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c6eds\/ESPN2_Arg\/SA_Live_dash_enc_C\/ESPN2_Arg.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
+                "icono": "https:\/\/static.flow.com.ar\/images\/8457\/CH_LOGO\/60\/40\/0\/0\/29410352075256.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 2 SUDAMERICA",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c4eds\/ESPN_PY\/SA_Live_dash_enc_C\/ESPN_PY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
+                "icono": "https:\/\/static.flow.com.ar\/images\/8457\/CH_LOGO\/60\/40\/0\/0\/29410352075256.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 3",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ESPN3\/SA_Live_dash_enc_C\/ESPN3.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/5pmsn36mgpxkgzgul0z0t\/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
+                "icono": "https:\/\/static.flow.com.ar\/images\/8817\/CH_LOGO\/60\/40\/0\/0\/29145259072020.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 4",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ESPNHD\/SA_Live_dash_enc_C\/ESPNHD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/3sh7b04gzfmu7ivkj651x\/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
+                "icono": "https:\/\/static.flow.com.ar\/images\/279\/CH_LOGO\/60\/40\/0\/0\/43362732071132.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 5",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/ESPN4\/SA_Live_dash_enc_C\/ESPN4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/t7ega0hz7u3js2191tik5\/espn5.json?rlkey=dwasaai3kbsaw0oacj9d2o0k0&st=30ufbl3a&dl=0",
+                "icono": "https:\/\/static.flow.com.ar\/images\/8897\/CH_LOGO\/60\/40\/0\/0\/5522598607348.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 6",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/FoxSports3_UY\/SA_Live_dash_enc_C\/FoxSports3_UY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/bkvm5yb33tu5tun5loxyb\/espn6.json?rlkey=1gve9snrc4w3rswypx9vkbhmr&st=4yyfkgfd&dl=0",
+                "icono": "https:\/\/static.flow.com.ar\/images\/9019\/CH_LOGO\/60\/40\/0\/0\/15905984073899.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN 7",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/FoxSports2_UY\/SA_Live_dash_enc_C\/FoxSports2_UY.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/18mgscd6hfjucorty09e3\/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
+                "icono": "https:\/\/static.flow.com.ar\/images\/9017\/CH_LOGO\/60\/40\/0\/0\/12041360073463.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            },
+            {
+                "name": "ESPN DEPORTES",
+                "url": "http:\/\/nxtv2112.xyz:80\/5MUK2Fhqtq\/wqq6nhKF4W\/591971.ts",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/18mgscd6hfjucorty09e3\/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
+                "icono": "https:\/\/i.ibb.co\/RgtSQhW\/unnamed.jpg"
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/Fox_Sports_Premiun_HD\/SA_Live_dash_enc_C\/Fox_Sports_Premiun_HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/96rqr70ljuva1eift5325\/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
+                "icono": "https:\/\/i.ibb.co\/0jSPkhK\/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "headers": {
+                    "Origin": "https:\/\/portal.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "CANALES DE PARAGUAY",
         "samples": [
             {
@@ -487,126 +607,6 @@
                 "type": "CLEARKEY",
                 "icono": "https:\/\/i.ibb.co\/qMCdxFQ\/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/kg654aptb3wmdvhw1e06i\/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0"
-            }
-        ]
-    },
-    {
-        "name": "DEPORTES ESPN",
-        "samples": [
-            {
-                "name": "ESPN",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ESPN2HD\/SA_Live_dash_enc_C\/ESPN2HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropboxusercontent.com\/scl\/fi\/1lh2bppd9ch61z29cc9mb\/espn1.json?rlkey=urq70uvge80wenomj54kb2ec1&st=q6gmos0w&dl=0",
-                "icono": "https:\/\/static.flow.com.ar\/images\/8458\/CH_LOGO\/60\/40\/0\/0\/71306601073528.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 2",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c6eds\/ESPN2_Arg\/SA_Live_dash_enc_C\/ESPN2_Arg.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
-                "icono": "https:\/\/static.flow.com.ar\/images\/8457\/CH_LOGO\/60\/40\/0\/0\/29410352075256.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 2 SUDAMERICA",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c4eds\/ESPN_PY\/SA_Live_dash_enc_C\/ESPN_PY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
-                "icono": "https:\/\/static.flow.com.ar\/images\/8457\/CH_LOGO\/60\/40\/0\/0\/29410352075256.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 3",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ESPN3\/SA_Live_dash_enc_C\/ESPN3.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/5pmsn36mgpxkgzgul0z0t\/espn3.json?rlkey=vviwugbaa85er0cnpd1tzuw24&st=kbezymwy&dl=0",
-                "icono": "https:\/\/static.flow.com.ar\/images\/8817\/CH_LOGO\/60\/40\/0\/0\/29145259072020.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 4",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c3eds\/ESPNHD\/SA_Live_dash_enc_C\/ESPNHD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/3sh7b04gzfmu7ivkj651x\/espn4.json?rlkey=mxjzhate18x9ie317u2phv6dn&st=mfe42eya&dl=0",
-                "icono": "https:\/\/static.flow.com.ar\/images\/279\/CH_LOGO\/60\/40\/0\/0\/43362732071132.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 5",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/ESPN4\/SA_Live_dash_enc_C\/ESPN4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/t7ega0hz7u3js2191tik5\/espn5.json?rlkey=dwasaai3kbsaw0oacj9d2o0k0&st=30ufbl3a&dl=0",
-                "icono": "https:\/\/static.flow.com.ar\/images\/8897\/CH_LOGO\/60\/40\/0\/0\/5522598607348.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 6",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/FoxSports3_UY\/SA_Live_dash_enc_C\/FoxSports3_UY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/bkvm5yb33tu5tun5loxyb\/espn6.json?rlkey=1gve9snrc4w3rswypx9vkbhmr&st=4yyfkgfd&dl=0",
-                "icono": "https:\/\/static.flow.com.ar\/images\/9019\/CH_LOGO\/60\/40\/0\/0\/15905984073899.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN 7",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/FoxSports2_UY\/SA_Live_dash_enc_C\/FoxSports2_UY.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/18mgscd6hfjucorty09e3\/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
-                "icono": "https:\/\/static.flow.com.ar\/images\/9017\/CH_LOGO\/60\/40\/0\/0\/12041360073463.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
-            },
-            {
-                "name": "ESPN DEPORTES",
-                "url": "http:\/\/nxtv2112.xyz:80\/5MUK2Fhqtq\/wqq6nhKF4W\/591971.ts",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/18mgscd6hfjucorty09e3\/espn6.json?rlkey=82ogpotgsmxryc9dik5n8s8bc&st=m240mw77&dl=0",
-                "icono": "https:\/\/i.ibb.co\/RgtSQhW\/unnamed.jpg"
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "https:\/\/chromecast.cvattv.com.ar\/live\/c7eds\/Fox_Sports_Premiun_HD\/SA_Live_dash_enc_C\/Fox_Sports_Premiun_HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https:\/\/dl.dropbox.com\/scl\/fi\/96rqr70ljuva1eift5325\/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0",
-                "icono": "https:\/\/i.ibb.co\/0jSPkhK\/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "headers": {
-                    "Origin": "https:\/\/portal.app.flow.com.ar",
-                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
-                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
-                }
             }
         ]
     },

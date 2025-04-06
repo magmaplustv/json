@@ -54,5 +54,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Netflix",
+        "samples": [
+            {
+                "name": "Promesas Del Corazón",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170250.ts",
+                "icono": "https://image.tmdb.org/t/p/original/wwGzsJT36GzT1UU39SKlSav1h7n.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

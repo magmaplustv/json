@@ -215,7 +215,14 @@
     },
     {
         "name": "INTERIOR DE ARGENTINA",
-        "samples": []
+        "samples": [
+            {
+                "name": "13 Max Televisi\\u00f3n",
+                "url": "http:\/\/coninfo.net:1935\/13maxhd\/live13maxtvnuevo_720p\/chunklist_w247540946.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/static.tvar.io\/imagenes\/13maxdigital.png"
+            }
+        ]
     },
     {
         "name": "PACK FUTBOL ARGENTINO",

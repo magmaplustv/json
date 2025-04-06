@@ -175,6 +175,12 @@
                 "url": "https:\/\/cdn.cvattv.com.ar\/live\/c7eds\/Fox_Sports_Premiun_HD\/SA_Live_dash_enc\/Fox_Sports_Premiun_HD.mpd",
                 "type": "HLS",
                 "icono": "https:\/\/static.flow.com.ar\/images\/3545\/CH_LOGO\/1000\/1000\/0\/0\/92564610073951.png"
+            },
+            {
+                "name": "TNT SPORTS PREMIUM",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c6eds\/TNT_Sports_HD\/SA_Live_dash_enc\/TNT_Sports_HD.mpd",
+                "type": "HLS",
+                "icono": "https:\/\/github.com\/masterentertainment\/listas\/blob\/main\/logos\/TNTSP.png"
             }
         ]
     },

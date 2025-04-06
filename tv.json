@@ -1,7 +1,14 @@
 [
     {
         "name": "GRAN HERMANO ARGENTINA",
-        "samples": []
+        "samples": [
+            {
+                "name": "Gran Hermano",
+                "url": "http:\/\/megaplux.lat:80\/live\/MAGMA\/11223344\/563228.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/i.ibb.co\/tq4M9Pk\/granhermano.png"
+            }
+        ]
     },
     {
         "name": "CANALES DE ARGENTINA",

@@ -2,14 +2,16 @@
     {
         "name": "ACCION",
         "samples": [
-          
+            {
+                "name": "Super rápidos y mega furiosos",
+                "url": "https://vsd165.okcdn.ru/hls/7981650020947.m3u8/sig/Q3yp0PCJ3bU/expires/1736869517459/srcIp/181.94.225.121/urls/185.226.55.84/clientType/1/srcAg/UNKNOWN_ANDROID/mid/10429169213011/7981650020947_high/index.m3u8",
+                "icono": "https://image.tmdb.org/t/p/original/65nizg9kZ3kWHvE4QLqUDbBLIXa.jpg",
+                "type": "PELICULA"
+            }
         ]
     },
-   
     {
         "name": "COMEDIA",
-        "samples": [
-           
-        ]
+        "samples": []
     }
 ]

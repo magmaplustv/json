@@ -210,6 +210,12 @@
                     "Referer": "https:\/\/portal.app.flow.com.ar\/",
                     "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
                 }
+            },
+            {
+                "name": "CANAL 4 SAN FRANCISCO CORDOBA",
+                "url": "http:\/\/204.199.3.2\/.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/yt3.googleusercontent.com\/bv_2_Ib1HlUx_iwLnSkZtPGYV_gQciut9czjC0PLl9QWTlQY3Q73ga1jQFuQZZq14XU7x2oDsw=s176-c-k-c0x00ffffff-no-rj"
             }
         ]
     },

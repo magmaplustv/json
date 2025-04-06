@@ -77,5 +77,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Estrenos 2025",
+        "samples": [
+            {
+                "name": "Crónicas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170251.ts",
+                "icono": "https://image.tmdb.org/t/p/original/iq09xOhoQowgZVOzViQGwgPEhyG.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

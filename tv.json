@@ -275,6 +275,18 @@
                 "url": "https:\/\/srv2.zcast.com.br\/machagay\/machagay\/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/oncedigital.com.ar\/wp-content\/uploads\/2022\/11\/cropped-qqqqqq.png"
+            },
+            {
+                "name": "CANAL 12 MISIONES",
+                "url": "https:\/\/cdn.cvattv.com.ar\/live\/c4eds\/CH_12_Posadas\/SA_Live_dash_enc\/CH_12_Posadas.mpd",
+                "type": "CLEARKEY",
+                "icono": "http:\/\/canal12misiones.com\/wp-content\/uploads\/2020\/01\/logo_horiz_1200x720px.png",
+                "drm_license_uri": "https:\/\/vercel-php-clearkey-hex-base64-json.vercel.app\/api\/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e",
+                "headers": {
+                    "Origin": "https:\/\/web.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             }
         ]
     },

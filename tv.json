@@ -175,7 +175,12 @@
                 "url": "https:\/\/cdn.cvattv.com.ar\/live\/c7eds\/Fox_Sports_Premiun_HD\/SA_Live_dash_enc\/Fox_Sports_Premiun_HD.mpd",
                 "type": "CLEARKEY",
                 "icono": "https:\/\/static.flow.com.ar\/images\/3545\/CH_LOGO\/1000\/1000\/0\/0\/92564610073951.png",
-                "drm_license_uri": "#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257"
+                "drm_license_uri": "#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257",
+                "headers": {
+                    "Origin": "https:\/\/web.app.flow.com.ar",
+                    "Referer": "https:\/\/portal.app.flow.com.ar\/",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36"
+                }
             },
             {
                 "name": "TNT SPORTS PREMIUM",

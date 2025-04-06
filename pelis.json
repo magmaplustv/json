@@ -81,6 +81,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170034.ts",
                 "icono": "https://image.tmdb.org/t/p/original/grLob90P4NfAEXb0RInk4b49UjP.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La madre de las estafas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169909.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tTmm4roxrc4TlU3cxGSC6e7ueaP.jpg",
+                "type": "PELICULA"
             }
         ]
     },

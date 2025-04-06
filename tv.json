@@ -269,6 +269,12 @@
                 "url": "https:\/\/stream.arcast.live\/canal9litoral\/ngrp:canal9litoral_all\/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https:\/\/static.tvar.io\/imagenes\/canal9litoral.png"
+            },
+            {
+                "name": "CANAL 11 MACHAGAY CHACO",
+                "url": "https:\/\/srv2.zcast.com.br\/machagay\/machagay\/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/oncedigital.com.ar\/wp-content\/uploads\/2022\/11\/cropped-qqqqqq.png"
             }
         ]
     },

@@ -239,6 +239,12 @@
                 "url": "https:\/\/5cd577a3dd8ec.streamlock.net\/CAMARAS\/live3\/playlist.m3u8",
                 "type": "HLS",
                 "icono": "http:\/\/static.tvar.io\/imagenes\/canal4jujuy.png"
+            },
+            {
+                "name": "CANAL 4 SAN JUAN",
+                "url": "http:\/\/streamlov.alsolnet.com\/canal4sanjuan\/live\/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5d\/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png\/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png"
             }
         ]
     },

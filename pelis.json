@@ -589,6 +589,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Supervillanos: la investigación",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
+                "type": "PELICULA"
             }
         ]
     }

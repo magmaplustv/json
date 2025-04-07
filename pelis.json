@@ -882,6 +882,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167979.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "(Ho Ho Ho) Santa Homer",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167978.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -266,6 +266,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169792.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/pYUGx3ARSPL3i9V53P6Z6t0v04x.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Imagínatelo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169784.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ke6Awqk7WembxYHifay7ujOjXwJ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

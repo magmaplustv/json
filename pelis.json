@@ -262,6 +262,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169710.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Delicia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169709.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg",
+                "type": "PELICULA"
             }
         ]
     },

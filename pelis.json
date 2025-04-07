@@ -70,6 +70,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169010.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/pS5ch16PlJe8lhRx1o2U4EaM5Eg.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Estado eléctrico",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168131.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -428,6 +428,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/150828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Desconectados 2: Reconectados",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169007.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
+                "type": "PELICULA"
             }
         ]
     },

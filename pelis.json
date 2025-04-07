@@ -972,6 +972,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76482.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Equipaje de mano",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76335.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xQzQIrVbwft9nICAt6S6BWkthF5.jpg",
+                "type": "PELICULA"
             }
         ]
     }

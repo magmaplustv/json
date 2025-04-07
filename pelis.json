@@ -230,6 +230,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/75978.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Noryang: la batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169792.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pYUGx3ARSPL3i9V53P6Z6t0v04x.jpg",
+                "type": "PELICULA"
             }
         ]
     },

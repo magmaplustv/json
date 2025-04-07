@@ -774,6 +774,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167999.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/rAMZcPylMH1G7gO4YQy96Nib3CA.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Romper el círculo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167998.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -488,6 +488,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168814.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/sVuYUl7EtBxyJTOl4Ao7eZVjKDb.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Chico Bento e a Goiabeira Maraviosa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
+                "type": "PELICULA"
             }
         ]
     },

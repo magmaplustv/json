@@ -494,6 +494,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Barbie y Teresa: La receta de la amistad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168734.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
+                "type": "PELICULA"
             }
         ]
     },

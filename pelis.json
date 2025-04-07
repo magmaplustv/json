@@ -1163,6 +1163,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44467.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eFfkF9uVqOhAxIKEyNCHfRRdGgj.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Gnomeo y Julieta",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/45983.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qPbBWRwGvYoOJbEBFkLs8KWUcnP.jpg",
+                "type": "PELICULA"
             }
         ]
     }

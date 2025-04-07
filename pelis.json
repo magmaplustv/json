@@ -392,6 +392,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169703.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Don Jediondo Recargado",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169701.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mhzjbQBu7P5KANUde2WlMqql5gd.jpg",
+                "type": "PELICULA"
             }
         ]
     },

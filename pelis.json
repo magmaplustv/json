@@ -96,6 +96,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168132.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/sPauBC638fpNHj1Bl3Qto8uWO93.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Gladiators",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168124.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg",
+                "type": "PELICULA"
             }
         ]
     },

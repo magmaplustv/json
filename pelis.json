@@ -524,6 +524,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168587.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Doble espionaje",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168586.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cjDs56iwx4i29VQ1RbSkqO9RUyU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

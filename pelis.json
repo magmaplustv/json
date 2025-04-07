@@ -530,6 +530,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168586.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/cjDs56iwx4i29VQ1RbSkqO9RUyU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El retorno",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168303.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mZhOvUZdlIiJ4sXGEsFTJ8XvwCP.jpg",
+                "type": "PELICULA"
             }
         ]
     },

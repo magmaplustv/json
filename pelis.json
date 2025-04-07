@@ -966,6 +966,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76340.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Alien: Romulus",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76482.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
+                "type": "PELICULA"
             }
         ]
     }

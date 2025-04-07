@@ -274,6 +274,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169706.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Miss Italia no debe morir",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169705.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qJ95TtMjaFmfLhiIaQYR9DrTX8q.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -416,6 +416,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169698.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Algo Azul",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/150828.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg",
+                "type": "PELICULA"
             }
         ]
     },

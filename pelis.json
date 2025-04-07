@@ -446,6 +446,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168892.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/uQ8Drd3GbNDHQy9eqAxHVbkCRXn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hellhound",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168891.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/n0njyECtGMZmaNk1It44yVE8zEB.jpg",
+                "type": "PELICULA"
             }
         ]
     },

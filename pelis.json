@@ -560,6 +560,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167531.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jB26CKrdHYbqZPKotbUfieqkbNl.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Straight",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167486.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/34l0QGrhDv8DawQss6rDRkio4Ga.jpg",
+                "type": "PELICULA"
             }
         ]
     },

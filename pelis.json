@@ -35,6 +35,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170252.ts",
                 "icono": "https://image.tmdb.org/t/p/original/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Like Friends",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169833.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2uDzWRLQU7RzgpXweM4cmFE1D0n.jpg",
+                "type": "PELICULA"
             }
         ]
     },

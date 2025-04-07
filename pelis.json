@@ -704,6 +704,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/staVor97Wqd8omvgEEXbc7sXJR.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Vidas perfectas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168007.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",
+                "type": "PELICULA"
             }
         ]
     },

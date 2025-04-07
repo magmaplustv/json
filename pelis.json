@@ -864,6 +864,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167982.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "10 vidas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167981.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
+                "type": "PELICULA"
             }
         ]
     }

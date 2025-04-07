@@ -692,6 +692,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167444.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hereje",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168009.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
+                "type": "PELICULA"
             }
         ]
     },

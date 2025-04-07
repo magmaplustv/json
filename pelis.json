@@ -750,6 +750,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168003.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Joker: Folie à Deux",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168002.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
+                "type": "PELICULA"
             }
         ]
     }

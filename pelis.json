@@ -2,7 +2,6 @@
     {
         "name": "ACCION",
         "samples": [
-            
             {
                 "name": "Deepwater Horizon: In Their Own Words",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
@@ -11,8 +10,6 @@
             }
         ]
     },
-    
-    
     {
         "name": "Estrenos CAM 2025",
         "samples": [
@@ -44,8 +41,6 @@
                 "icono": "https://image.tmdb.org/t/p/original/wwGzsJT36GzT1UU39SKlSav1h7n.jpg",
                 "type": "PELICULA"
             },
-
-            
             {
                 "name": "La pena máxima 2",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170034.ts",
@@ -68,6 +63,12 @@
                 "name": "Contraataque",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169699.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Rebel Ridge",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169010.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pS5ch16PlJe8lhRx1o2U4EaM5Eg.jpg",
                 "type": "PELICULA"
             }
         ]

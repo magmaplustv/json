@@ -822,6 +822,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167990.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "GTMAX",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167989.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+                "type": "PELICULA"
             }
         ]
     }

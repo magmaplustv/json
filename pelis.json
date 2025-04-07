@@ -744,6 +744,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168004.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sonic 3: La película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168003.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+                "type": "PELICULA"
             }
         ]
     }

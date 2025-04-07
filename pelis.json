@@ -117,6 +117,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168780.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "O'Dessa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168333.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg",
+                "type": "PELICULA"
             }
         ]
     },

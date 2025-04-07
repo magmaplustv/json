@@ -756,6 +756,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168002.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La sustancia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76487.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+                "type": "PELICULA"
             }
         ]
     }

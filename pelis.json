@@ -1010,5 +1010,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Cine Infantil",
+        "samples": [
+            {
+                "name": "El valiente Despereaux",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42779.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uvzCRdX3zFf8ouwzIBmblrSK3PC.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

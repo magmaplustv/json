@@ -95,6 +95,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169789.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Giro final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169787.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/npzFyBu4fFPQpWXaLKdrXc6JrUK.jpg",
+                "type": "PELICULA"
             }
         ]
     },

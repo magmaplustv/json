@@ -506,6 +506,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168698.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kc6vCBHH81zlmYZ4h14U0cx4sux.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Un Viaje de Sobriedad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168697.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/s7vHYNh2eJ6W1EccCcRULur0ial.jpg",
+                "type": "PELICULA"
             }
         ]
     },

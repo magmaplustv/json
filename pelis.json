@@ -942,6 +942,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76506.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Longlegs",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76499.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
+                "type": "PELICULA"
             }
         ]
     }

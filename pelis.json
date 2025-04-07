@@ -127,6 +127,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169711.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tHkFVhZji6o9UyHXezAeFma8IOW.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Oso Yogui",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44348.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
+                "type": "PELICULA"
             }
         ]
     },

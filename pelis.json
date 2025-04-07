@@ -88,6 +88,12 @@
                 "url": "Entre la vida y la muerte",
                 "icono": "https://image.tmdb.org/t/p/original/7Zl8wBKWTAalJ2wubT9HofMrrSX.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Rüzgara Bırak",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167494.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
+                "type": "PELICULA"
             }
         ]
     },

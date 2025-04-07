@@ -24,6 +24,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170253.ts",
                 "icono": "https://image.tmdb.org/t/p/original/eL91oFnvXAdlW4KN6qXAXTG567u.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Pérdida total",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169912.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bo95ixqzqcDL2CsbK1eeROZBqN2.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -120,6 +120,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167481.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "¡Qué Huevos, Sofía!",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167480.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
+                "type": "PELICULA"
             }
         ]
     },

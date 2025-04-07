@@ -111,6 +111,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168854.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Another You",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168780.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
+                "type": "PELICULA"
             }
         ]
     },

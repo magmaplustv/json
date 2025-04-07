@@ -834,6 +834,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167987.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Culpa tuya",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167986.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+                "type": "PELICULA"
             }
         ]
     }

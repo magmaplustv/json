@@ -924,6 +924,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167971.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hellboy: The Crooked Man",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167970.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                "type": "PELICULA"
             }
         ]
     }

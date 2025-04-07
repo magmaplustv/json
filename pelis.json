@@ -177,6 +177,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167491.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mesa de regalos",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167335.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",
+                "type": "PELICULA"
             }
         ]
     },

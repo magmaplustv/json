@@ -894,6 +894,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167977.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Un muñeco de nieve para derretirse",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167976.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg",
+                "type": "PELICULA"
             }
         ]
     }

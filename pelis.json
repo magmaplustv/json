@@ -912,6 +912,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76270.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Terrifier 3",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76254.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+                "type": "PELICULA"
             }
         ]
     }

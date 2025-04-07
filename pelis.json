@@ -572,6 +572,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "The Fire Inside",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167444.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg",
+                "type": "PELICULA"
             }
         ]
     },

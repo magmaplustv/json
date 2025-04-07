@@ -954,6 +954,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167966.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Anora",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167965.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -930,6 +930,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167970.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "No entres",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167969.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg",
+                "type": "PELICULA"
             }
         ]
     }

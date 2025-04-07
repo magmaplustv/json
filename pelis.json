@@ -906,6 +906,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167975.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los festivos caballeros",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76270.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
+                "type": "PELICULA"
             }
         ]
     }

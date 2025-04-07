@@ -1067,6 +1067,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42892.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4UpNg3ejFazDjMZ3g9R56RSRVWD.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Planet 51",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42875.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vYKAExhbNvXceccU8kNUMUht8dj.jpg",
+                "type": "PELICULA"
             }
         ]
     }

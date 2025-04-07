@@ -512,6 +512,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168697.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/s7vHYNh2eJ6W1EccCcRULur0ial.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Detained",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168602.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
+                "type": "PELICULA"
             }
         ]
     },

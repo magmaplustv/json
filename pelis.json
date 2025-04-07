@@ -1091,6 +1091,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44323.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7YVyH5sS6kLQRsSDF5dhhR0BWeh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Batman: Capucha Roja",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44328.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/p8UzVTfi9ualTRzS7o8za8ctAAI.jpg",
+                "type": "PELICULA"
             }
         ]
     }

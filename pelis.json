@@ -452,6 +452,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168891.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/n0njyECtGMZmaNk1It44yVE8zEB.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La ciudad de los guerreros",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168890.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5gwxDPkp091c8rMp4W8RT8aeEnz.jpg",
+                "type": "PELICULA"
             }
         ]
     },

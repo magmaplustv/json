@@ -888,6 +888,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167978.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La cueva azul",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167977.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -786,6 +786,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167997.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Robot salvaje",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167996.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+                "type": "PELICULA"
             }
         ]
     }

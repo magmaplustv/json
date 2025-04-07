@@ -338,6 +338,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169716.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/uX40XUTBJFIskKmpThelUnRXelq.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Love Hurts",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169712.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/152YLDtthOTvMPEPK7W8bMPq8vD.jpg",
+                "type": "PELICULA"
             }
         ]
     },

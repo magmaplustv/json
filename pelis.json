@@ -84,6 +84,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168318.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Blancanieves",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168302.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
+                "type": "PELICULA"
             }
         ]
     },

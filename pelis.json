@@ -1002,6 +1002,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167957.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Apocalipsis Z: el principio del fin",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
+                "type": "PELICULA"
             }
         ]
     }

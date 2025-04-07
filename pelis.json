@@ -154,6 +154,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/75976.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7DBLmQ1Dy3PqWJV5FWzo9i3RMGd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La chica más hermosa del mundo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/75973.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oxySAH7i9PDJnQj261pV7jeb0AL.jpg",
+                "type": "PELICULA"
             }
         ]
     },

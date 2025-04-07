@@ -440,6 +440,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168903.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kAQA0Ftb3kxSUgoo4eQkHoA7rpz.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mañana Antes Después",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168892.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/uQ8Drd3GbNDHQy9eqAxHVbkCRXn.jpg",
+                "type": "PELICULA"
             }
         ]
     },

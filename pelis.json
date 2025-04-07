@@ -735,5 +735,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Estrenos 2024",
+        "samples": [
+            {
+                "name": "Transformers One",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168004.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

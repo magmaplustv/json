@@ -105,6 +105,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169908.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Control Freak",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168854.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

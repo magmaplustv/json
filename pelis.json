@@ -126,6 +126,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167480.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mickey 17",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/166760.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
+                "type": "PELICULA"
             }
         ]
     },

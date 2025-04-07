@@ -47,6 +47,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168807.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Capitán América: Brave New World",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168719.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
+                "type": "PELICULA"
             }
         ]
     },

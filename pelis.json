@@ -148,6 +148,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76011.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El caos está en el aire",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/75976.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7DBLmQ1Dy3PqWJV5FWzo9i3RMGd.jpg",
+                "type": "PELICULA"
             }
         ]
     },

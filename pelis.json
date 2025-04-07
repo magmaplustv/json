@@ -131,6 +131,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169778.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Holland",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169777.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

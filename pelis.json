@@ -48,6 +48,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168812.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hrB8YhpgbDPGk843Te29VLp4DOm.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "What You Wish For",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168808.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9T6ww265pozXkNPKl26hRhIpbxt.jpg",
+                "type": "PELICULA"
             }
         ]
     },

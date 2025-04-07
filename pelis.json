@@ -792,6 +792,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167996.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Seis Triple Ocho",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167995.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
+                "type": "PELICULA"
             }
         ]
     }

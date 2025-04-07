@@ -518,6 +518,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168602.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Duplicidad, de Tyler Perry",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168587.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
+                "type": "PELICULA"
             }
         ]
     },

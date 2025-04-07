@@ -762,6 +762,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76487.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El juego del asesino",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/123766.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg",
+                "type": "PELICULA"
             }
         ]
     }

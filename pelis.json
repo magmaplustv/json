@@ -232,6 +232,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169788.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nAI8kxnjQS0YBj0EBy2yYkadM6K.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los dos hemisferios de Lucca",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169717.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg",
+                "type": "PELICULA"
             }
         ]
     },

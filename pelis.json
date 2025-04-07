@@ -90,6 +90,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168302.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Novocaine",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168132.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sPauBC638fpNHj1Bl3Qto8uWO93.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -206,6 +206,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168931.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/rpAbueORafYSgTk2oSc2t6ayktb.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El abismo secreto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/75978.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
+                "type": "PELICULA"
             }
         ]
     },

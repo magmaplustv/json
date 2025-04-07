@@ -286,6 +286,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169702.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bOVmksfmax1kA7FF0pmCq89TrF4.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Inheritance",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169700.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
+                "type": "PELICULA"
             }
         ]
     },

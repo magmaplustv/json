@@ -1175,6 +1175,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/45999.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los pitufos 2",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/46000.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vjb5WNkwZJDIcmVrzR4GyPmPRZo.jpg",
+                "type": "PELICULA"
             }
         ]
     }

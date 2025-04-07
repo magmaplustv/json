@@ -280,6 +280,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169705.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qJ95TtMjaFmfLhiIaQYR9DrTX8q.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Una muerte antes de una boda",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169702.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bOVmksfmax1kA7FF0pmCq89TrF4.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -858,6 +858,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76377.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oujEGO5eXnP8PsFRPJHZfUzlKFK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mufasa: El rey león",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+                "type": "PELICULA"
             }
         ]
     }

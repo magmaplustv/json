@@ -1121,6 +1121,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44364.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dsOfwuOYnXUzOORTwYr9aKiKqtL.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Gru. Mi villano favorito",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44395.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/avm0bLWtSoHk9erXAnViuPQ9mqf.jpg",
+                "type": "PELICULA"
             }
         ]
     }

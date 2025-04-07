@@ -298,6 +298,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169697.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "De vuelta a la acción",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/150828.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -129,6 +129,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168304.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cHQef5ohvTtiG53h04NSsVPoSJ5.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Una muerte silenciosa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167491.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -82,6 +82,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168126.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ggXb37lX9gW4SR7kpMaraXDFeFR.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Entre la vida y la muerte",
+                "url": "Entre la vida y la muerte",
+                "icono": "https://image.tmdb.org/t/p/original/7Zl8wBKWTAalJ2wubT9HofMrrSX.jpg",
+                "type": "PELICULA"
             }
         ]
     },

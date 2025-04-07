@@ -196,5 +196,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Hbo/Max",
+        "samples": [
+            {
+                "name": "The Parenting",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

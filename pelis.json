@@ -936,6 +936,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167969.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cacería Sangrienta",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76506.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
+                "type": "PELICULA"
             }
         ]
     }

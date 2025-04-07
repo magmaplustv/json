@@ -119,6 +119,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169781.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Colmillos del Bayou",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169779.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/eVoBCxDHmpXhidKWhIubG2I0ffJ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

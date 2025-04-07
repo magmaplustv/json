@@ -308,6 +308,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169784.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ke6Awqk7WembxYHifay7ujOjXwJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Francotirador: La batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
+                "type": "PELICULA"
             }
         ]
     },

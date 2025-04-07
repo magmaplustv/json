@@ -484,12 +484,6 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "TYC SPORTS INTERNACIONAL",
-                "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
-                "type": "HLS",
-                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png"
             }
         ]
     },

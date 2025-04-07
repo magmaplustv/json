@@ -566,6 +566,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167486.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/34l0QGrhDv8DawQss6rDRkio4Ga.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "O Auto da Compadecida 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
+                "type": "PELICULA"
             }
         ]
     },

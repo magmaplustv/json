@@ -123,6 +123,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168333.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los Simpsons: The Past and the Furious",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168304.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cHQef5ohvTtiG53h04NSsVPoSJ5.jpg",
+                "type": "PELICULA"
             }
         ]
     },

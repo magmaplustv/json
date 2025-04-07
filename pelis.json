@@ -816,6 +816,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76229.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Smile 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167990.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
+                "type": "PELICULA"
             }
         ]
     }

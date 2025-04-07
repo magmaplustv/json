@@ -464,6 +464,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168871.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Lazareth",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168856.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6J69iDonqx7sLURtwD9iOjYmr1d.jpg",
+                "type": "PELICULA"
             }
         ]
     },

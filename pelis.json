@@ -828,6 +828,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167989.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Vaiana 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167987.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
+                "type": "PELICULA"
             }
         ]
     }

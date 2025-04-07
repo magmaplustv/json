@@ -59,6 +59,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168334.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bridget Jones: Loca por él",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168122.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

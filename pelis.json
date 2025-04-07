@@ -536,6 +536,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168303.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mZhOvUZdlIiJ4sXGEsFTJ8XvwCP.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "High Rollers",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168125.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hHowAaChDjwueySmwVbsjHmpWa.jpg",
+                "type": "PELICULA"
             }
         ]
     },

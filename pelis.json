@@ -810,6 +810,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76287.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/1ZSVA2pNpc89C07RDgsR6p0GMs7.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76229.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA"
             }
         ]
     }

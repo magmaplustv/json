@@ -1151,6 +1151,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44453.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dyu6DJSNWnEWxLnFlFkWFAgF9X9.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "DC Showcase: Superman/Shazam! El Regreso de Black Adam",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44463.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jsbLcuUUteHqCTjShoLDqqOvgpY.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -30,6 +30,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169912.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bo95ixqzqcDL2CsbK1eeROZBqN2.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Opus",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169911.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+                "type": "PELICULA"
             }
         ]
     },

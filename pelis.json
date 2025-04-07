@@ -374,6 +374,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169712.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/152YLDtthOTvMPEPK7W8bMPq8vD.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Un día de esos",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169704.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7FCcl763dbG6ieiqdKbYBkDzohS.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -102,6 +102,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168124.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Confidencial (Black Bag)",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168123.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -948,6 +948,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76499.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Piece by Piece",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167966.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
+                "type": "PELICULA"
             }
         ]
     }

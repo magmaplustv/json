@@ -78,6 +78,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168588.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fOxsQAg1RmICNrh0gdI27UP2DVD.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sin oxígeno",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168318.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
+                "type": "PELICULA"
             }
         ]
     },

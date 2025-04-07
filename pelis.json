@@ -178,6 +178,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/75973.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oxySAH7i9PDJnQj261pV7jeb0AL.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tonterías de amor",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169788.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nAI8kxnjQS0YBj0EBy2yYkadM6K.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -780,6 +780,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167998.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Campamento con mamá",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167997.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
+                "type": "PELICULA"
             }
         ]
     }

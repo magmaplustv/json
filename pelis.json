@@ -53,6 +53,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168719.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Z Zone",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168334.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg",
+                "type": "PELICULA"
             }
         ]
     },

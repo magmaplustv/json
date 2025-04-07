@@ -244,6 +244,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169714.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Luna de miel con mamá",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169713.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/vbR7BnhyUUR4PZ2zLbgBNr2uX3V.jpg",
+                "type": "PELICULA"
             }
         ]
     },

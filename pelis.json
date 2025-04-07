@@ -41,6 +41,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169833.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2uDzWRLQU7RzgpXweM4cmFE1D0n.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Este amor sí que duele",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168807.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
+                "type": "PELICULA"
             }
         ]
     },

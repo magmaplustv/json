@@ -918,6 +918,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76254.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi amigo el pingüino",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167971.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",
+                "type": "PELICULA"
             }
         ]
     }

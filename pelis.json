@@ -125,6 +125,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169779.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/eVoBCxDHmpXhidKWhIubG2I0ffJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "En un confín del mundo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169778.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg",
+                "type": "PELICULA"
             }
         ]
     },

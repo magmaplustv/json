@@ -960,6 +960,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167965.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jurado Nº 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76340.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+                "type": "PELICULA"
             }
         ]
     }

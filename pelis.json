@@ -900,6 +900,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167976.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Kraven the Hunter",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167975.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
+                "type": "PELICULA"
             }
         ]
     }

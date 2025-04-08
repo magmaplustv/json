@@ -1632,6 +1632,18 @@
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
                 "type": "HLS",
                 "icono": "https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg"
+            },
+            {
+                "name": "Pasiones",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

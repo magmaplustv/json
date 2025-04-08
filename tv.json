@@ -123,6 +123,12 @@
                 }
             },
             {
+                "name": "IP Noticias",
+                "url": "http://181.78.27.128:8000/play/a055/index.m3u8",
+                "icono": "https://i.ibb.co/m5G70dXc/OIP.jpg",
+                "type": "HLS"
+            },
+            {
                 "name": "TELEFE",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
                 "type": "CLEARKEY",
@@ -145,11 +151,6 @@
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 },
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877"
-            },
-            {
-                "name": "IP NOTICIAS",
-                "url": "http://181.78.27.128:8000/play/a055/index.m3u8",
-                "icono": "https://i.ibb.co/m5G70dXc/OIP.jpg"
             },
             {
                 "name": "TN NOTICIAS",

@@ -347,6 +347,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89086.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oK3uHrW5BcaFGCdE9ZorFTkI3w2.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Black Panther",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89752.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+                "type": "PELICULA"
             }
         ]
     },

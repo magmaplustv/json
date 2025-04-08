@@ -293,6 +293,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48773.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1ssq3vz2fgHR2xTPDKxPJMcEvIs.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Redada Asesina 2",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48822.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zRm67zvPYcz3xV3t21CZ7hg50v.jpg",
+                "type": "PELICULA"
             }
         ]
     },

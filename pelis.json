@@ -143,17 +143,6 @@
         ]
     },
     {
-        "name": "ACCION",
-        "samples": [
-            {
-                "name": "Deepwater Horizon: In Their Own Words",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
-                "type": "PELICULA"
-            }
-        ]
-    },
-    {
         "name": "Estrenos CAM 2025",
         "samples": [
             {
@@ -274,6 +263,17 @@
                 "name": "Mickey 17",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/166760.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
+                "type": "PELICULA"
+            }
+        ]
+    },
+    {
+        "name": "ACCION",
+        "samples": [
+            {
+                "name": "Deepwater Horizon: In Their Own Words",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
                 "type": "PELICULA"
             }
         ]

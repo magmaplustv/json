@@ -1361,6 +1361,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90670.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Vaiana",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90674.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -3150,6 +3150,18 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Nick Music",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_C/Nickmusic.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDidZNjBwX2nHyg8Y7q8FUiMmvErMRJVxam373Tv-xChbpXhy5WEj8KquqRPR6M_iIIyJjf6RKpr_HFrYdHLA8m1Y-x3c8U442_uuusZlvKYBAiYtmRejZVdYk0JnkPXUjjXYJ3nU0MA/s1600/nickmusic.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }

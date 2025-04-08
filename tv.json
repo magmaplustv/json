@@ -3056,18 +3056,6 @@
                 }
             },
             {
-                "name": "El Folklórico",
-                "url": "https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6075bd0304bd40812aaa2a113b30be24&key=98c85fae2ce02017573a23fad09a8dfa",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "HTV",
                 "url": "http://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd",
                 "type": "CLEARKEY",

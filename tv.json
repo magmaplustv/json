@@ -3122,7 +3122,8 @@
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e7/S73070_h3_aa.png/revision/latest?cb=20201011144730",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=930f2b33864637faf2b2dab6c8d0ba92&key=530e6561cc4197e9eab7bf7b6f35a3ed",
                 "headers": {
-                    "Referer": "https://player.sensa.com.ar/"
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
                 }
             }
         ]

@@ -434,6 +434,18 @@
                 "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
             },
             {
+                "name": "El Doce Córdoba",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.imgur.com/HfyKPpD.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Multivision Cable",
                 "url": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
                 "type": "HLS",
@@ -456,18 +468,6 @@
                 "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/streammax.png"
-            },
-            {
-                "name": "El Doce Córdoba",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.imgur.com/HfyKPpD.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "Telefé Córdoba",

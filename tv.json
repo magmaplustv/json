@@ -3092,18 +3092,6 @@
                 }
             },
             {
-                "name": "MTV Live",
-                "url": "http://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNv1EsbeOOlArOI6zipLhTbD5DL4qGH2qyLw&s",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=886601a4fdbcbfebacbabfebcb72a9ef&key=6513b2b8fda2b4d2f3d940c621e1c30e",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "Mi Música Hit",
                 "url": "http://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
                 "type": "CLEARKEY",

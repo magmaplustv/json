@@ -2211,6 +2211,54 @@
         ]
     },
     {
+        "name": "🇨🇴CANALES DE COLOMBIA",
+        "samples": [
+            {
+                "name": "CARACOL",
+                "url": "http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.m3u8",
+                "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "RCN CANAL",
+                "icono": "https://i.ibb.co/BVqjFvVp/Logo-RCN-Televisi-n.png",
+                "url": "http://190.2.212.209:8050/play/a0lt"
+            },
+            {
+                "name": "RED+",
+                "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
+                "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+            },
+            {
+                "name": "TELECAFE",
+                "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png",
+                "url": "http://190.2.212.209:8050/play/a0ne"
+            },
+            {
+                "name": "CANAL CAPITAL",
+                "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png",
+                "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8"
+            },
+            {
+                "name": "TELE MEDELLIN",
+                "icono": "https://i.ibb.co/hFq85CWJ/R-2.png",
+                "url": "http://190.60.33.245:4002/play/a0hb/index.m3u8"
+            },
+            {
+                "name": "EL TRECE",
+                "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
+                "url": "http://190.2.212.209:8050/play/a0nf"
+            }
+        ]
+    },
+    {
         "name": "🇨🇱CANALES DE CHILE",
         "samples": [
             {
@@ -2331,54 +2379,6 @@
                 "name": "CLICKTV",
                 "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "name": "🇨🇴CANALES DE COLOMBIA",
-        "samples": [
-            {
-                "name": "CARACOL",
-                "url": "http://magmaplayer.com/stream/m3u8/ZwH4KmRlAy8kBGRhBGxhZmRhAmAsZGp0ZmNm/hls/126.m3u8",
-                "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "RCN CANAL",
-                "icono": "https://i.ibb.co/BVqjFvVp/Logo-RCN-Televisi-n.png",
-                "url": "http://190.2.212.209:8050/play/a0lt"
-            },
-            {
-                "name": "RED+",
-                "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png",
-                "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
-            },
-            {
-                "name": "TELECAFE",
-                "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png",
-                "url": "http://190.2.212.209:8050/play/a0ne"
-            },
-            {
-                "name": "CANAL CAPITAL",
-                "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png",
-                "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8"
-            },
-            {
-                "name": "TELE MEDELLIN",
-                "icono": "https://i.ibb.co/hFq85CWJ/R-2.png",
-                "url": "http://190.60.33.245:4002/play/a0hb/index.m3u8"
-            },
-            {
-                "name": "EL TRECE",
-                "icono": "https://i.ibb.co/v6xyk8yY/1662578.png",
-                "url": "http://190.2.212.209:8050/play/a0nf"
             }
         ]
     },

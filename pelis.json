@@ -139,6 +139,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89376.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Isla de perros",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
+                "type": "PELICULA"
             }
         ]
     },

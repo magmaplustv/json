@@ -1241,6 +1241,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/63961.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qTCvI3AXpritP3fCHo7TcJkIbzM.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El libro de la vida",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/65246.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/vUqYsOhwDAoFlN2hJktT0XoilXv.jpg",
+                "type": "PELICULA"
             }
         ]
     }

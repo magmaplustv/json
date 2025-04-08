@@ -314,6 +314,12 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png"
             },
             {
+                "name": "Canal 4 San Francisco Cordoba",
+                "url": "http://204.199.3.2/.m3u8",
+                "type": "HLS",
+                "icono": "https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png"
+            },
+            {
                 "name": "Canal 4 Telecondor",
                 "url": "https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8",
                 "type": "HLS",
@@ -420,12 +426,6 @@
                 "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/streammax.png"
-            },
-            {
-                "name": "CANAL 4 SAN FRANCISCO CORDOBA",
-                "url": "http://204.199.3.2/.m3u8",
-                "type": "HLS",
-                "icono": "https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png"
             },
             {
                 "name": "CANAL 9 RIO CUARTO",

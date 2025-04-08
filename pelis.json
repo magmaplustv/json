@@ -1205,6 +1205,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49340.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Stuart Little",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/56151.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wFcrKqCdQRQxZCkBILhX949lXo2.jpg",
+                "type": "PELICULA"
             }
         ]
     }

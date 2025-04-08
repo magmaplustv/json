@@ -1429,7 +1429,10 @@
                 "name": "Netflix Kids 1",
                 "url": "https://zona593.live:8443/live/Flamatv2.0/q4F479ZGZ5/841640.ts",
                 "type": "HLS",
-                "icono": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456"
+                "icono": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0"
+                }
             },
             {
                 "name": "Netflix Kids 2",

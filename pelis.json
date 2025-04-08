@@ -133,6 +133,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169790.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La muerte de Superman",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89376.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",
+                "type": "PELICULA"
             }
         ]
     },

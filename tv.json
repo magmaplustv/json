@@ -254,6 +254,18 @@
                 "icono": "https://i.ibb.co/T9nVYpS/Whats-App-Image-2025-02-13-at-08-11-21.jpg"
             },
             {
+                "name": "America Tucuman",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/B6ZHDXy/america-tucuman.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "BRAGADO TV",
                 "url": "https://inliveserver.com:1936/12000/12000/chunklist_w100079146.m3u8",
                 "type": "HLS",
@@ -463,18 +475,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://git.io/JOTOu",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "AMERICA TUCUMÁN",
-                "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/B6ZHDXy/america-tucuman.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",

@@ -299,6 +299,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48822.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zRm67zvPYcz3xV3t21CZ7hg50v.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "3 Minutos Y Medio 12 Balas",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49318.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x260Ft36AcquuEslxPfcZWCw3KV.jpg",
+                "type": "PELICULA"
             }
         ]
     },

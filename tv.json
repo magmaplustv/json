@@ -27,6 +27,18 @@
                 }
             },
             {
+                "name": "Argentinísima Satelital",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "C5N",
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
                 "type": "CLEARKEY",
@@ -133,18 +145,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
                 "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Argentinísima Satelital",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",

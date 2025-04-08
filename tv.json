@@ -27,6 +27,18 @@
                 }
             },
             {
+                "name": "C5N",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
+                "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "CANAL 9 ",
                 "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
                 "type": "CLEARKEY",
@@ -97,18 +109,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
                 "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "C5N",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
-                "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",

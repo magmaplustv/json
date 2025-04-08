@@ -404,6 +404,12 @@
                 "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
             },
             {
+                "name": "Canal 50 Morteros",
+                "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
+                "type": "HLS",
+                "icono": "https://canal50.tv/public/images/logos/CANAL50_HD.png"
+            },
+            {
                 "name": "Chaco TV (720p)",
                 "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
                 "type": "HLS",
@@ -444,12 +450,6 @@
                 "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/streammax.png"
-            },
-            {
-                "name": "CANAL 50 MORTEROS",
-                "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
-                "type": "HLS",
-                "icono": "https://canal50.tv/public/images/logos/CANAL50_HD.png"
             },
             {
                 "name": "CANAL COOP JESUS MARIA CORDOBA",

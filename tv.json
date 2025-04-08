@@ -488,7 +488,7 @@
                 "icono": "http://static.tvar.io/imagenes/sptv32.png"
             },
             {
-                "name": "STREAM MAX JUJUY",
+                "name": "Stream Max Jujuy",
                 "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/streammax.png"

@@ -3092,18 +3092,6 @@
                 }
             },
             {
-                "name": "Mi Música Pop",
-                "url": "http://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.wikia.nocookie.net/rarter/images/8/82/Kskslslslsla.png/revision/latest/scale-to-width-down/250?cb=20240430153408",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c6f0b2b0142007b8624de0c2d53962c8&key=46b8fb713fdd09a1c55b85b6f8ad9c9c",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "Mi Música Reggaetón",
                 "url": "http://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
                 "type": "CLEARKEY",

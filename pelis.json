@@ -1271,6 +1271,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/84277.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/9LjBVBcRM0VW2yywXu5p6bqX965.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón 3",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88424.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
+                "type": "PELICULA"
             }
         ]
     }

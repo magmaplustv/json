@@ -482,7 +482,7 @@
                 "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
             },
             {
-                "name": "SPTV SAN PEDRO",
+                "name": "SPTV San Pedro",
                 "url": "https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8",
                 "type": "HLS",
                 "icono": "http://static.tvar.io/imagenes/sptv32.png"

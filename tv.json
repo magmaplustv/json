@@ -2277,129 +2277,6 @@
         ]
     },
     {
-        "name": "🇵🇪CANALES DE PERÙ",
-        "samples": [
-            {
-                "name": "EXITOSA TV",
-                "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
-                "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8"
-            },
-            {
-                "name": "TVPE",
-                "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg",
-                "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
-            },
-            {
-                "name": "TVPE NOTICIAS",
-                "icono": "https://i.ibb.co/5gTNNSYr/TV-Per-noticias-2019.png",
-                "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
-            },
-            {
-                "name": "PANAMERICANA",
-                "url": "http://magmaplayer.com/stream/m3u8/AQtlKmRjAwEsZGt2YwR3AF4lAQVhZGR4KmR3AQZjAj/hls/1064.m3u8",
-                "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CANAL N",
-                "url": "http://magmaplayer.com/stream/m3u8/ZwRmKmRjAwIsZGH3YwRjZP42ZF42BS8kAmDmZQp/hls/1065.m3u8",
-                "icono": "https://i.ibb.co/Zp4QMd8V/Canal-N-2006-2017-con-l-nea.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "SOL TV",
-                "icono": "https://i.ibb.co/FkfJJLsk/Logo.png",
-                "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
-            },
-            {
-                "name": "LATINA",
-                "icono": "https://i.ibb.co/vvqpxJVG/R-1.png",
-                "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
-            },
-            {
-                "name": "SEÑAL PERU",
-                "icono": "https://i.ibb.co/8LJVjVPV/1q0R6R9.png",
-                "url": "https://livestream.perucast.com/low/stream_low/index.m3u8"
-            },
-            {
-                "name": "ATV ANDINA",
-                "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
-                "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
-            },
-            {
-                "name": "ATV SUR",
-                "icono": "https://i.ibb.co/cStWXzMz/LnyVa5H.png",
-                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
-            },
-            {
-                "name": "AMERICA",
-                "url": "http://magmaplayer.com/stream/m3u8/BGNkKmZ1KmR2BP4lAQZhZGt0YwR3Ay8kAmDmZQZ/hls/35.m3u8",
-                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "GOL PERÚ",
-                "url": "http://magmaplayer.com/stream/m3u8/AwDmKmD5ZS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/490.m3u8",
-                "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "LIGA 1 MAX",
-                "url": "http://magmaplayer.com/stream/m3u8/ZGZ5KmRjAmOsZGL4YwV0Zl4kBQDhZGp2KmR3AQZjZj/hls/1070.m3u8",
-                "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "MOVISTAR DEPORTES",
-                "url": "http://magmaplayer.com/stream/m3u8/AmpkKmL2Ay8kBGNhZwR4YwV0YwR3Zy8kAmDmZGR/hls/666.m3u8",
-                "icono": "https://i.ibb.co/TDS0Fm3q/movistar-deportes.webp",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            }
-        ]
-    },
-    {
         "name": "🇨🇱CANALES DE CHILE",
         "samples": [
             {
@@ -2520,6 +2397,129 @@
                 "name": "CLICKTV",
                 "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "name": "🇵🇪CANALES DE PERÙ",
+        "samples": [
+            {
+                "name": "EXITOSA TV",
+                "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
+                "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8"
+            },
+            {
+                "name": "TVPE",
+                "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg",
+                "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
+            },
+            {
+                "name": "TVPE NOTICIAS",
+                "icono": "https://i.ibb.co/5gTNNSYr/TV-Per-noticias-2019.png",
+                "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+            },
+            {
+                "name": "PANAMERICANA",
+                "url": "http://magmaplayer.com/stream/m3u8/AQtlKmRjAwEsZGt2YwR3AF4lAQVhZGR4KmR3AQZjAj/hls/1064.m3u8",
+                "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "CANAL N",
+                "url": "http://magmaplayer.com/stream/m3u8/ZwRmKmRjAwIsZGH3YwRjZP42ZF42BS8kAmDmZQp/hls/1065.m3u8",
+                "icono": "https://i.ibb.co/Zp4QMd8V/Canal-N-2006-2017-con-l-nea.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "SOL TV",
+                "icono": "https://i.ibb.co/FkfJJLsk/Logo.png",
+                "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
+            },
+            {
+                "name": "LATINA",
+                "icono": "https://i.ibb.co/vvqpxJVG/R-1.png",
+                "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+            },
+            {
+                "name": "SEÑAL PERU",
+                "icono": "https://i.ibb.co/8LJVjVPV/1q0R6R9.png",
+                "url": "https://livestream.perucast.com/low/stream_low/index.m3u8"
+            },
+            {
+                "name": "ATV ANDINA",
+                "icono": "https://i.ibb.co/C592Sf3C/R-3.png",
+                "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
+            },
+            {
+                "name": "ATV SUR",
+                "icono": "https://i.ibb.co/cStWXzMz/LnyVa5H.png",
+                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
+            },
+            {
+                "name": "AMERICA",
+                "url": "http://magmaplayer.com/stream/m3u8/BGNkKmZ1KmR2BP4lAQZhZGt0YwR3Ay8kAmDmZQZ/hls/35.m3u8",
+                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "GOL PERÚ",
+                "url": "http://magmaplayer.com/stream/m3u8/AwDmKmD5ZS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/490.m3u8",
+                "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "LIGA 1 MAX",
+                "url": "http://magmaplayer.com/stream/m3u8/ZGZ5KmRjAmOsZGL4YwV0Zl4kBQDhZGp2KmR3AQZjZj/hls/1070.m3u8",
+                "icono": "https://i.ibb.co/xKjXb8p5/image-LIGA-1-MAX-fabe3155b8.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "MOVISTAR DEPORTES",
+                "url": "http://magmaplayer.com/stream/m3u8/AmpkKmL2Ay8kBGNhZwR4YwV0YwR3Zy8kAmDmZGR/hls/666.m3u8",
+                "icono": "https://i.ibb.co/TDS0Fm3q/movistar-deportes.webp",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
             }
         ]
     },

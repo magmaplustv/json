@@ -2287,6 +2287,106 @@
         ]
     },
     {
+        "name": "MUSICA",
+        "samples": [
+            {
+                "name": "Allegro",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/ts85rN6/allegro.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "CM",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MTV",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MTV 00s",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "MTV Hits",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Nick Music",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_C/Nickmusic.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDidZNjBwX2nHyg8Y7q8FUiMmvErMRJVxam373Tv-xChbpXhy5WEj8KquqRPR6M_iIIyJjf6RKpr_HFrYdHLA8m1Y-x3c8U442_uuusZlvKYBAiYtmRejZVdYk0JnkPXUjjXYJ3nU0MA/s1600/nickmusic.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "Quiero Musica",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "TeleHit Música Plus",
+                "url": "http://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e7/S73070_h3_aa.png/revision/latest?cb=20201011144730",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=930f2b33864637faf2b2dab6c8d0ba92&key=530e6561cc4197e9eab7bf7b6f35a3ed",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
+    },
+    {
         "name": "🇧🇴CANALES DE BOLIVIA",
         "samples": [
             {
@@ -3025,106 +3125,6 @@
                 "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8",
                 "drm_scheme": "HLS",
                 "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
-            }
-        ]
-    },
-    {
-        "name": "MUSICA",
-        "samples": [
-            {
-                "name": "Allegro",
-                "url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/ts85rN6/allegro.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "CM",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "MTV",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "MTV 00s",
-                "url": "https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "MTV Hits",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Nick Music",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_C/Nickmusic.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDidZNjBwX2nHyg8Y7q8FUiMmvErMRJVxam373Tv-xChbpXhy5WEj8KquqRPR6M_iIIyJjf6RKpr_HFrYdHLA8m1Y-x3c8U442_uuusZlvKYBAiYtmRejZVdYk0JnkPXUjjXYJ3nU0MA/s1600/nickmusic.jpg",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Quiero Musica",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "TeleHit Música Plus",
-                "url": "http://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e7/S73070_h3_aa.png/revision/latest?cb=20201011144730",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=930f2b33864637faf2b2dab6c8d0ba92&key=530e6561cc4197e9eab7bf7b6f35a3ed",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
             }
         ]
     }

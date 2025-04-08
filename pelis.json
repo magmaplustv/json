@@ -1325,6 +1325,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89747.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fVLwKs8hY3gNw1EZa9hzAl8e2R6.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Condorito: la película",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89822.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg",
+                "type": "PELICULA"
             }
         ]
     }

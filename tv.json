@@ -3126,6 +3126,18 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Mi Música Reggaetón",
+                "url": "http://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://image.roku.com/developer_channels/prod/d1aa951c15a8e3b7290cd16188bc65d1559ae3e638e2dca2c59449e293a82977.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d288fc2da0339c9cfa178be4a07c4cd2&key=c0e25b5d30b6829b15266e84807a0ca6",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }

@@ -2383,6 +2383,72 @@
         ]
     },
     {
+        "name": "🇪🇨CANALES DE ECUADOR",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "ECUAVISA",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1"
+            },
+            {
+                "name": "TELEAMAZONAS",
+                "url": "http://magmaplayer.com/stream/m3u8/ZwZ3Kmt2A18kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/867.m3u8",
+                "icono": "https://i.ibb.co/BVGGqzx4/R.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "TELEVICENTRO",
+                "url": "http://magmaplayer.com/stream/m3u8/AGp0Kmx2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/966.m3u8",
+                "icono": "https://i.ibb.co/hxbDT16f/Televicentro-HN-logo-2020.png",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "CANAL UNO",
+                "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
+                "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8"
+            },
+            {
+                "name": "EL CANAL DEL FÚTBOL",
+                "url": "http://magmaplayer.com/stream/m3u8/ZmN4KmxmBS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/938.m3u8",
+                "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
+                "headers": {
+                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
+                    "X-Did": "704b97090ad1fb5e",
+                    "X-Version": "8/1.0.7",
+                    "User-Agent": "Magma Player/8",
+                    "Accept-Encoding": "gzip",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "name": "GOL TV",
+                "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
+                "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
+                "drm_scheme": "clearkey",
+                "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
+            }
+        ]
+    },
+    {
         "name": "CANALES DE PARAGUAY",
         "samples": [
             {
@@ -2673,72 +2739,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0"
-            }
-        ]
-    },
-    {
-        "name": "🇪🇨CANALES DE ECUADOR",
-        "samples": [
-            {
-                "name": "ECUADOR TV",
-                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "ECUAVISA",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1"
-            },
-            {
-                "name": "TELEAMAZONAS",
-                "url": "http://magmaplayer.com/stream/m3u8/ZwZ3Kmt2A18kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/867.m3u8",
-                "icono": "https://i.ibb.co/BVGGqzx4/R.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "TELEVICENTRO",
-                "url": "http://magmaplayer.com/stream/m3u8/AGp0Kmx2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/966.m3u8",
-                "icono": "https://i.ibb.co/hxbDT16f/Televicentro-HN-logo-2020.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "CANAL UNO",
-                "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
-                "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8"
-            },
-            {
-                "name": "EL CANAL DEL FÚTBOL",
-                "url": "http://magmaplayer.com/stream/m3u8/ZmN4KmxmBS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/938.m3u8",
-                "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
-                "name": "GOL TV",
-                "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
-                "url": "http://nxtv2112.xyz:80/5MUK2Fhqtq/wqq6nhKF4W/2370.ts",
-                "drm_scheme": "clearkey",
-                "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
             }
         ]
     },

@@ -1391,6 +1391,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90895.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/AnPwhS4narxS6fD7fHuhehfnQzz.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Kung Fu Panda 2",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90896.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aNji9U9SPTecmoqGippQUBEyouy.jpg",
+                "type": "PELICULA"
             }
         ]
     }

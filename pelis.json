@@ -1337,6 +1337,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90334.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/grCBNLzAGbRrGMzF4eTM9EXwP78.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tom y Jerry: Regreso al mundo de OZ",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90346.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mHmKLJrzG6abmtzEflJ36qIYE4G.jpg",
+                "type": "PELICULA"
             }
         ]
     }

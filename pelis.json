@@ -353,6 +353,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89752.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El rey Mono 2",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91097.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8uRiv8c5jz7vkEC1ERQXe675DOi.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -266,6 +266,12 @@
                 "icono": "https://i.ibb.co/T9nVYpS/Whats-App-Image-2025-02-13-at-08-11-21.jpg"
             },
             {
+                "name": "Alegria Tv Bellville",
+                "url": "https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8",
+                "type": "HLS",
+                "icono": "https://radioalegriafmweb.com/imagenes/banner.png"
+            },
+            {
                 "name": "America Tucuman",
                 "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
                 "type": "CLEARKEY",
@@ -408,12 +414,6 @@
                 "url": "https://srv6.zcast.com.br/streamax/streamax/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/streammax.png"
-            },
-            {
-                "name": "ALEGRIA TV BELLVILLE",
-                "url": "https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8",
-                "type": "HLS",
-                "icono": "https://radioalegriafmweb.com/imagenes/banner.png"
             },
             {
                 "name": "CANAL 4 TELECONDOR",

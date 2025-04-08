@@ -1217,6 +1217,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/56152.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lyb8jlDqqmjGz3sDtIcjTBcGdgf.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Stuart Little: Aventura en el bosque",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/56153.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4cBE2lIwzIBf1l5ohtMRlBXUmO8.jpg",
+                "type": "PELICULA"
             }
         ]
     }

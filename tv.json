@@ -9,6 +9,12 @@
                 "icono": "https://i.ibb.co/tq4M9Pk/granhermano.png"
             },
             {
+                "name": "Gran Hermano 2",
+                "url": "https://zona593.live:8443/live/Flamatv2.0/q4F479ZGZ5/938798.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/tq4M9Pk/granhermano.png"
+            },
+            {
                 "name": "A24",
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
                 "type": "CLEARKEY",
@@ -241,12 +247,6 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Gran Hermano 2",
-                "url": "https://zona593.live:8443/live/Flamatv2.0/q4F479ZGZ5/938798.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/tq4M9Pk/granhermano.png"
             }
         ]
     },

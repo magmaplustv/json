@@ -3102,6 +3102,18 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Quiero Musica",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }

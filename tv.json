@@ -235,6 +235,17 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "gran hermano 1",
+                "url": "http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000340/index_fk.mpd?|Origin=\"android_mobile.directvgo.com\"",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/tq4M9Pk/granhermano.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/x0ufpu3xors0nzp9w49uj/granhermano2.json?rlkey=9r4vw9zd5dq870gk3c99rtcj0&st=jyanjxwk&dl=0",
+                "headers": {
+                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
+                    "Origin": "android_mobile.directvgo.com"
+                }
             }
         ]
     },

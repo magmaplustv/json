@@ -1289,6 +1289,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88665.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Salvando al Reino de Oz",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88700.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/gvwBDB32JMC98MmVUafBtyfKibz.jpg",
+                "type": "PELICULA"
             }
         ]
     }

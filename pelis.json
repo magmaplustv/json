@@ -1253,6 +1253,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/66416.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/c76KUCWUqBDHFB9H5Yz9qCY9XBa.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El príncipe Encantador",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/74764.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jDrsEpnCzQAvyJWv0Ac2imtPoc5.jpg",
+                "type": "PELICULA"
             }
         ]
     }

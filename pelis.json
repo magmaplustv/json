@@ -1265,6 +1265,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/75519.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "My Hero Academia: Dos héroes",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/84277.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9LjBVBcRM0VW2yywXu5p6bqX965.jpg",
+                "type": "PELICULA"
             }
         ]
     }

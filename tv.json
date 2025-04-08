@@ -2980,6 +2980,12 @@
                 "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/841645.ts",
                 "type": "HLS",
                 "icono": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456"
+            },
+            {
+                "name": "Amazon Prime Peliculas 1",
+                "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/841652.ts",
+                "type": "HLS",
+                "icono": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/19/17091241821730.jpeg"
             }
         ]
     }

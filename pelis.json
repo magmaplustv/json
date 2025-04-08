@@ -1331,6 +1331,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89822.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Trolls",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90334.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/grCBNLzAGbRrGMzF4eTM9EXwP78.jpg",
+                "type": "PELICULA"
             }
         ]
     }

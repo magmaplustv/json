@@ -138,7 +138,7 @@
                 "name": "Ciudad Magazine",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

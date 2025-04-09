@@ -1599,6 +1599,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CB869113DC3040DA96C125693204C905_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La proposición",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F7ED4B49798247C48AE4D0C358B85140_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
+                "type": "PELICULA"
             }
         ]
     }

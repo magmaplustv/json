@@ -1742,6 +1742,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B887B381BBFD4DC8A7A533113AE8C2C2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9w30rykSjSw9KVmESIxYuPBUj4l.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los Boxtrolls",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E6C782A39BF401A8A0CF12444961F8A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tFElyskZdLHcFaIhesNEPtqKSBd.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -2092,6 +2092,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CEF010851BC4B91AB5192467C0CF60A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Resacón 3",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F4BE6A78356143C0B12D8D9C47A04309_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
+                "type": "PELICULA"
             }
         ]
     }

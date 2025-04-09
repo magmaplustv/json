@@ -139,10 +139,10 @@
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },

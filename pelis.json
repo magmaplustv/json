@@ -1724,6 +1724,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ACE53A1D344E4268B7EC7A2C5794105D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/edIFOCPgAS8zBAlr3B5EvHpVM5l.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Memorias de un caracol",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1EC84E8B843B4FDB84A7CBD24A5B89A3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sJ7bgsuC06tpC7wVl3LUW5cyKmX.jpg",
+                "type": "PELICULA"
             }
         ]
     }

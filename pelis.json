@@ -2242,6 +2242,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/56B6B2C89928447595AE33D5BABFA9D3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xUJecKzNuaL5CCqO6MS7V4S7oBI.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Historia y Geografía",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EF0C7F3A0E1544868DBF87D658648D4D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nxMV22es0QBIlQPoRfvU1zw1NLB.jpg",
+                "type": "PELICULA"
             }
         ]
     }

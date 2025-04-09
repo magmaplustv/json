@@ -1652,6 +1652,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/14D87A061EE7460F807E778087AD9874_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Shrek tercero",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/600782DFCA4D400D934DBC13941BE337_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+                "type": "PELICULA"
             }
         ]
     }

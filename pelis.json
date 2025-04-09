@@ -1920,6 +1920,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/56805BEE1EA64AFDBC8EF984269B4F2D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zg4aTLVKj3gKM2IEEmBo17W3ObY.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "1944",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4D88FEC34134475D97CB431CA5CC07E9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2pWBesbj9yPdcX4qbet4LoPXDj7.jpg",
+                "type": "PELICULA"
             }
         ]
     }

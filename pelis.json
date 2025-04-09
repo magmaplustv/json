@@ -1792,5 +1792,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Aventura",
+        "samples": [
+            {
+                "name": "Minions: El origen de Gru",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4DD04A20B1304D9D9478C03AE688D9F6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

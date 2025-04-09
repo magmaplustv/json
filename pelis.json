@@ -1631,5 +1631,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Animacion",
+        "samples": [
+            {
+                "name": "Soul",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F936A05131F14077AA1460CEBE1CF0C4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

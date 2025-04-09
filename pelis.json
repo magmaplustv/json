@@ -2200,6 +2200,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C2F7E78B188A46F18A9D72C3CC1C4C82_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Píxeles",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F0858C39B6054B7CBB00EA6D677DAEB3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7V9qLT4O8gE5rn6InUshrXelqui.jpg",
+                "type": "PELICULA"
             }
         ]
     }

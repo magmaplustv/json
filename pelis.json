@@ -2236,6 +2236,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Verano en diciembre",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/56B6B2C89928447595AE33D5BABFA9D3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xUJecKzNuaL5CCqO6MS7V4S7oBI.jpg",
+                "type": "PELICULA"
             }
         ]
     }

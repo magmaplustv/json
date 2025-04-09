@@ -1896,6 +1896,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E165ABCF51B349A280E75BE534329B64_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vTfqiOZ4bZZZpIJp8sXT1UB6QS5.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Corazones de acero",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9E06B48AA06C4BA186541FA7A31D3349_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+                "type": "PELICULA"
             }
         ]
     }

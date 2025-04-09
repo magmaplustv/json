@@ -2188,6 +2188,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ACC126D059574AD8B9B7C54B4F41E934_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Paranormal Movie 2",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4A3EC41FCD65478B990A89022B557857_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7xvLGlzqlMdJi7b2w1SKycsbpVI.jpg",
+                "type": "PELICULA"
             }
         ]
     }

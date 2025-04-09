@@ -1730,6 +1730,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1EC84E8B843B4FDB84A7CBD24A5B89A3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sJ7bgsuC06tpC7wVl3LUW5cyKmX.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Red",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BE1BCFA1F193425EA7ECE65784B426B9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cUF9UXwPfK2jryDYlrFHcRDQEwu.jpg",
+                "type": "PELICULA"
             }
         ]
     }

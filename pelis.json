@@ -49,6 +49,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D06EF6EA47364AE5ACC739E65D471B0C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Barbie",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B2D2D5EB5504454286DBA54A855146E3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+                "type": "PELICULA"
             }
         ]
     },

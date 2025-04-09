@@ -43,6 +43,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F9F41C7FAD9544E7BD5170F1BD4A626E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Orgullo y prejuicio",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D06EF6EA47364AE5ACC739E65D471B0C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+                "type": "PELICULA"
             }
         ]
     },

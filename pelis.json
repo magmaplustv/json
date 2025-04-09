@@ -2028,6 +2028,12 @@
         "name": "Comedia",
         "samples": [
             {
+                "name": "Fuera de la ley",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C191542307CD4133B125FB7F3076D9B5_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/m1qftDrvCijrLssHSHegbbdWAM0.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Contigo en el futuro",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/109082E4DCF0460F8CD38D1E581E786B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/94UuKFxMiEwTjdwBMhm1y3jKKKF.jpg",
@@ -2145,12 +2151,6 @@
                 "name": "El peque se va de marcha",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/58D9FF1201524647A75282D5535B3AA1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bxGoMGwxXyixPq9nBM5R6WRYElM.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Fuera de la ley",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C191542307CD4133B125FB7F3076D9B5_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/m1qftDrvCijrLssHSHegbbdWAM0.jpg",
                 "type": "PELICULA"
             }
         ]

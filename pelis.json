@@ -1807,6 +1807,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/54294BCCE2D543C1BFB24730D83F16F8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dIZX0YWtFd1WFbUzojlc8y5yAkC.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Super Mario Bros: La película",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2ADCF4DDE96E4451A633E008FB5E843B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+                "type": "PELICULA"
             }
         ]
     }

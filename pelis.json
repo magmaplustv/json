@@ -1587,6 +1587,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ricos, sin duda",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F42348E5FAB0458A9C00DDBED298745F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
+                "type": "PELICULA"
             }
         ]
     }

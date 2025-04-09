@@ -1766,6 +1766,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6C774185569E4F6AA2A93CE87CB01F70_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Richard, la cigüeña",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AB532F4693494D23AB56D13D4B884FF6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/IaXwzJU42eYni9rU5bJFodaOE6.jpg",
+                "type": "PELICULA"
             }
         ]
     }

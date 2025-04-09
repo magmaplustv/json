@@ -2284,6 +2284,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E45E16CC57CB42AC84C8ECAAD449A9F6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yJioJIJn3cWZhK1mj4SYP44enUh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La máscara",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2B281E267D414D4783D484793580E485_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
+                "type": "PELICULA"
             }
         ]
     }

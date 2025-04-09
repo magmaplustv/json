@@ -2134,6 +2134,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5DFDBED1A49D42D58ADFA4CD02889861_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eNcfCScUUyHQyjP84P25a8ColWp.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Solo en casa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0B338A3B8F15497A9DFFDB79A9A84044_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
+                "type": "PELICULA"
             }
         ]
     }

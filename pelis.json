@@ -1813,6 +1813,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2ADCF4DDE96E4451A633E008FB5E843B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cazatesoros",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D8A2337E84984785938C562E17727739_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",
+                "type": "PELICULA"
             }
         ]
     }

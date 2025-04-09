@@ -1902,6 +1902,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9E06B48AA06C4BA186541FA7A31D3349_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La lista de Schindler",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/797E30B115554726BA8782E7CE52854F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+                "type": "PELICULA"
             }
         ]
     }

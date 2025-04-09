@@ -2022,15 +2022,15 @@
         "name": "Comedia",
         "samples": [
             {
-                "name": "El diablo viste de Prada",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0F4E795988BA4E108425E9F1C8B9B0ED_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mRzLk61g46qpik5yt4MOaFiNyVm.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Algo embarazada",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6F825E3ADEC9464889A7DA8FDBC50EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lpMXvcdOnEg4rvsIjWEImhHI1aH.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El diablo viste de Prada",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0F4E795988BA4E108425E9F1C8B9B0ED_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mRzLk61g46qpik5yt4MOaFiNyVm.jpg",
                 "type": "PELICULA"
             }
         ]

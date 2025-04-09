@@ -1557,6 +1557,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2B49DF47B392410DBBB53162E581445C_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/kRNQstlmMKUetwiSvBXFuppW1i9.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Umjolo: Sin cura alguna",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9C4ED8AF121C4DD7A9EE6D398D2D1486_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/ndCIqBuR71GrTRPz9JjKED6e0W9.jpg",
+                "type": "PELICULA"
             }
         ]
     }

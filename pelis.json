@@ -1979,6 +1979,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5FC947F0116F413ABFED3B1DEF1ACDD7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/drpv6huMVntREXchPrrwTZcAcmQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El 47",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/60464FAC403342C1A2A92357F148066B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1mMxQuW2b5zL6TlhvufdU1poH9n.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -1801,6 +1801,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4DD04A20B1304D9D9478C03AE688D9F6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Paddington: Aventura en la selva",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/54294BCCE2D543C1BFB24730D83F16F8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dIZX0YWtFd1WFbUzojlc8y5yAkC.jpg",
+                "type": "PELICULA"
             }
         ]
     }

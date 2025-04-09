@@ -1646,6 +1646,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2BE9F2DCB2024D07B1B98F7C0FAB09AA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Shrek 2",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/14D87A061EE7460F807E778087AD9874_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+                "type": "PELICULA"
             }
         ]
     }

@@ -1581,6 +1581,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FB322BF1D2874FBAA0BC1DC1098565FA_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/y1WpsgfBA5GywXIuqLm9D4aQHNd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Rivales",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
+                "type": "PELICULA"
             }
         ]
     }

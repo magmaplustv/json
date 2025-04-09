@@ -528,6 +528,12 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Canal 9 Mendoza",
+                "url": "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8",
+                "type": "HLS",
+                "icono": "http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"
             }
         ]
     },

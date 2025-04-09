@@ -2224,6 +2224,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B2EDD336F4AB4835877412BF4C44A4A2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/86EtkVtsVgHUCxX6xDzXNNxJIeh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El juicio del perro",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5FA7102B9B55447FA888A463563B71DF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/527ZIC1SSQF9zbLfB7RItgCxgGb.jpg",
+                "type": "PELICULA"
             }
         ]
     }

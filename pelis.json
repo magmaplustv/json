@@ -1563,6 +1563,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9C4ED8AF121C4DD7A9EE6D398D2D1486_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/ndCIqBuR71GrTRPz9JjKED6e0W9.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "A un minuto de ti",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C83612ADEDCF448290F350A60D8BCFF6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1DkmVaJoOAZSL0xm6ML0LDS5Vhz.jpg",
+                "type": "PELICULA"
             }
         ]
     }

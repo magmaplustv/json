@@ -1873,6 +1873,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/49F716F429914DF0986443580E71CCB4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Proyecto Adam",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/77132EBF0D8C41ECA0B0635E2992F37D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/k5waciRFMN5bwudDrgFLffoAorm.jpg",
+                "type": "PELICULA"
             }
         ]
     }

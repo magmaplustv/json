@@ -2028,6 +2028,12 @@
         "name": "Comedia",
         "samples": [
             {
+                "name": "DJ encubierto",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Fuera de la ley",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C191542307CD4133B125FB7F3076D9B5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/m1qftDrvCijrLssHSHegbbdWAM0.jpg",
@@ -2295,12 +2301,6 @@
                 "name": "La máscara 2 (El hijo de la máscara)",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1ED2E160445E40F888E7F0F89F1D8AA9_media.mp4\"",
                 "icono": "https://image.tmdb.org/t/p/original/pLR2dgaNuHVJcS5mgIHfpRzgYAB.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "DJ encubierto",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
                 "type": "PELICULA"
             }
         ]

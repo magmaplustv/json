@@ -1837,6 +1837,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B370C6FD3E8C473C8051C69F0FD9D83E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6hlI9Ea1O4IeJ2cj7OiNinqg8Qd.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Indiana Jones y el dial del destino",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/22867DE5DB2942048771FDABDBA1B6C8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mHbjhqR277tW0uiCOf5QZpJATGf.jpg",
+                "type": "PELICULA"
             }
         ]
     }

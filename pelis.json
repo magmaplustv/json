@@ -2050,6 +2050,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F3B032AFBBD84758A8397DFEF1CFD780_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k1R2gKOAIwOGpNRNBbRszTEAKYU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Scary Movie",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/71200BD0188A41188F03F699C8AC73C7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
+                "type": "PELICULA"
             }
         ]
     }

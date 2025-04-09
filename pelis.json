@@ -315,6 +315,281 @@
         ]
     },
     {
+        "name": "Estrenos 2024",
+        "samples": [
+            {
+                "name": "Transformers One",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168004.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Sonic 3: La película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168003.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Joker: Folie à Deux",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168002.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La sustancia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76487.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El juego del asesino",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/123766.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Una Navidad patas arriba",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167999.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rAMZcPylMH1G7gO4YQy96Nib3CA.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Romper el círculo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167998.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Campamento con mamá",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167997.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Robot salvaje",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167996.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Seis Triple Ocho",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167995.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El hombre del saco",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167994.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mpdSrcuGctWLdHsuil27x58VAWI.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Wicked",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76287.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1ZSVA2pNpc89C07RDgsR6p0GMs7.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76229.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Smile 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167990.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "GTMAX",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167989.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Vaiana 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167987.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Culpa tuya",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167986.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La Trampa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167985.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Venom: El último baile",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76203.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Respira",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76377.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oujEGO5eXnP8PsFRPJHZfUzlKFK.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mufasa: El rey león",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "10 vidas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167981.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Emilia Pérez",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167980.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "María",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167979.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "(Ho Ho Ho) Santa Homer",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167978.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La cueva azul",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167977.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Un muñeco de nieve para derretirse",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167976.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Kraven the Hunter",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5FC730263094D58A2F3AAD03664E908_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los festivos caballeros",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76270.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Terrifier 3",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76254.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Mi amigo el pingüino",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167971.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Hellboy: The Crooked Man",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167970.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "No entres",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167969.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Cacería Sangrienta",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76506.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Longlegs",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76499.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Piece by Piece",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167966.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Anora",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C51602D790604B198F3BF94E4EA30A82_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Jurado Nº 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76340.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Alien: Romulus",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76482.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Equipaje de mano",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76335.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xQzQIrVbwft9nICAt6S6BWkthF5.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Red One",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76245.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Elevation",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167959.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/92cd9vR6ThBqT6Pe6m5daxX0rAk.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Babygirl",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167958.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Beekeeper: El protector",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167957.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Apocalipsis Z: el principio del fin",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
+                "type": "PELICULA"
+            }
+        ]
+    },
+    {
         "name": "ACCION",
         "samples": [
             {
@@ -869,281 +1144,6 @@
                 "name": "Supervillanos: la investigación",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
-                "type": "PELICULA"
-            }
-        ]
-    },
-    {
-        "name": "Estrenos 2024",
-        "samples": [
-            {
-                "name": "Transformers One",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168004.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Sonic 3: La película",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168003.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Joker: Folie à Deux",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168002.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La sustancia",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76487.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El juego del asesino",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/123766.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Una Navidad patas arriba",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167999.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/rAMZcPylMH1G7gO4YQy96Nib3CA.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Romper el círculo",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167998.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Campamento con mamá",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167997.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Robot salvaje",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167996.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Seis Triple Ocho",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167995.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El hombre del saco",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167994.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mpdSrcuGctWLdHsuil27x58VAWI.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Wicked",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76287.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/1ZSVA2pNpc89C07RDgsR6p0GMs7.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Nos vemos la próxima Navidad",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76229.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Smile 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167990.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "GTMAX",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167989.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Vaiana 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167987.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Culpa tuya",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167986.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La Trampa",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167985.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Venom: El último baile",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76203.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Respira",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76377.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/oujEGO5eXnP8PsFRPJHZfUzlKFK.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Mufasa: El rey león",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "10 vidas",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167981.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Emilia Pérez",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167980.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "María",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167979.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "(Ho Ho Ho) Santa Homer",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167978.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La cueva azul",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167977.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Un muñeco de nieve para derretirse",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167976.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Kraven the Hunter",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5FC730263094D58A2F3AAD03664E908_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Los festivos caballeros",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76270.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Terrifier 3",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76254.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Mi amigo el pingüino",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167971.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Hellboy: The Crooked Man",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167970.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "No entres",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167969.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Cacería Sangrienta",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76506.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Longlegs",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76499.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Piece by Piece",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167966.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Anora",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C51602D790604B198F3BF94E4EA30A82_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Jurado Nº 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76340.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Alien: Romulus",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76482.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Equipaje de mano",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76335.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/xQzQIrVbwft9nICAt6S6BWkthF5.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Red One",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76245.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Elevation",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167959.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/92cd9vR6ThBqT6Pe6m5daxX0rAk.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Babygirl",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167958.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Beekeeper: El protector",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167957.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Apocalipsis Z: el principio del fin",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
             }
         ]

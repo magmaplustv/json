@@ -1952,5 +1952,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "Crimen",
+        "samples": [
+            {
+                "name": "Leal",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B10F8FADAB0E4C7F9F3D12F171E96705_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

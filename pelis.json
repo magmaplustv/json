@@ -1623,6 +1623,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6297DB3AD6724F99B3147CFFE2734987_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ccKVfjFudH4SM16Svyab5fwBYcS.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Maravilloso desastre",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7CA317A9C80B406A829194AF7828DE7C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
+                "type": "PELICULA"
             }
         ]
     }

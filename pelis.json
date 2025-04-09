@@ -590,95 +590,6 @@
         ]
     },
     {
-        "name": "ACCION",
-        "samples": [
-            {
-                "name": "Deepwater Horizon: In Their Own Words",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "John Wick Chapter 2: Wick-vizzed",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48761.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/qQFBj2tBlkKhAcAgDVpdFWLX5x.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "The Well",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48773.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1ssq3vz2fgHR2xTPDKxPJMcEvIs.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Redada Asesina 2",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48822.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zRm67zvPYcz3xV3t21CZ7hg50v.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "3 Minutos Y Medio 12 Balas",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49318.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x260Ft36AcquuEslxPfcZWCw3KV.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Ant-Man",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49325.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El último cazador de brujas",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49417.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Venom",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88900.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Predator",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88911.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El espía que me plantó",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89004.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/1hlGrXXby3mxdlmFKksDRvfOtAe.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Sicario: El día del soldado",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89085.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ySqkGvL7TS9U3u6rtaVZsd89wU5.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La primera purga: La noche de las bestias",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89086.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oK3uHrW5BcaFGCdE9ZorFTkI3w2.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Black Panther",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89752.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El rey Mono 2",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91097.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8uRiv8c5jz7vkEC1ERQXe675DOi.jpg",
-                "type": "PELICULA"
-            }
-        ]
-    },
-    {
         "name": "Netflix",
         "samples": [
             {
@@ -1539,6 +1450,95 @@
                 "name": "Cómo entrenar a tu dragón",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91299.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+                "type": "PELICULA"
+            }
+        ]
+    },
+    {
+        "name": "ACCION",
+        "samples": [
+            {
+                "name": "Deepwater Horizon: In Their Own Words",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "John Wick Chapter 2: Wick-vizzed",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48761.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qQFBj2tBlkKhAcAgDVpdFWLX5x.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "The Well",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48773.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1ssq3vz2fgHR2xTPDKxPJMcEvIs.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Redada Asesina 2",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48822.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zRm67zvPYcz3xV3t21CZ7hg50v.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "3 Minutos Y Medio 12 Balas",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49318.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x260Ft36AcquuEslxPfcZWCw3KV.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Ant-Man",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49325.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El último cazador de brujas",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/49417.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7fwK5selQxZ7XVNBAPdewDjCfCp.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Venom",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88900.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Predator",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88911.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El espía que me plantó",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89004.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1hlGrXXby3mxdlmFKksDRvfOtAe.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Sicario: El día del soldado",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89085.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ySqkGvL7TS9U3u6rtaVZsd89wU5.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La primera purga: La noche de las bestias",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89086.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oK3uHrW5BcaFGCdE9ZorFTkI3w2.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Black Panther",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89752.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El rey Mono 2",
+                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91097.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8uRiv8c5jz7vkEC1ERQXe675DOi.jpg",
                 "type": "PELICULA"
             }
         ]

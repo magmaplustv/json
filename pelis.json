@@ -1694,6 +1694,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B64764BEB33041E393B20B5067EC2537_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Elli y el equipo de monstruos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3517760DF5F24B4B807C807832F2F552_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ro5IJwJkRAvUxrwfoSdjWVkcJIq.jpg",
+                "type": "PELICULA"
             }
         ]
     }

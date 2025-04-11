@@ -68,12 +68,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "The Monkey",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171008.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Holland",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169777.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",

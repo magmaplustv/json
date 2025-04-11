@@ -487,6 +487,65 @@
                     ],
                     "tmdb_id": 229513,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Dying for Sex",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Cuando le diagnostican a Molly cáncer de mama metastásico en estadio 4, decide dejar a su marido y empieza a explorar el alcance y la complejidad de sus deseos sexuales por primera vez en su vida, con el apoyo de su mejor amiga, Nikki.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/khTUPzHTlyjFSI7gnlBaSqkYpZY.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uuMHxOyzEFjW5tyZmoDos0hfZQH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1ygwQw1Jf8s9Q4fx2Rym7DccRBQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Refresco dietético del bueno",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170119.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Masturbarse es importante",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170120.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los sentimientos pueden amplificarse",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170121.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ponerse arriba es una habilidad sagrada",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170122.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mi mascota",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170123.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Felices fiestas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170124.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ernie, me matas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170125.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "No es tan grave",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170126.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241405,
+                    "total_seasons": 1
                 }
             ]
         },

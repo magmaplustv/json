@@ -9,6 +9,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Control Freak",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168854.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Cleaner",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20A0F6BE3961478C8FA619FAC1AF5DBB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/76Xvdqiv8ufGkerQunOpcy98oT7.jpg",
@@ -24,12 +30,6 @@
                 "name": "Sin oxígeno",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92FD0301F283484FB56BB2C34011279A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Control Freak",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/196FEE3F500149A6A10A94F9D3561EF0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qcOksMzsmPPA41c3DkCD47sElDU.jpg",
                 "type": "PELICULA"
             },
             {

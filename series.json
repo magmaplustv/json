@@ -996,6 +996,98 @@
                                     "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170765.mp4"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Regreso a casa",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170811.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "De dos en dos",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170812.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Médico, cúrate a ti mismo",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170813.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Limpieza, parte 1",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170814.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Limpieza, parte 2",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170815.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Tensión en el campamento",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170816.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Oídos para oír",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170817.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sustento",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170818.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Promesas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170819.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Confesiones",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170820.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Luna de sangre",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170821.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Calma que precede",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170822.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Sentarse, servir, maquinar",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170823.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Dedicación",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170824.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La última señal",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170825.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Humilde",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170826.mp4"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 85077,

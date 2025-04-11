@@ -235,12 +235,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "The Monkey",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170979.ts",
-                "icono": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Earthquake Underground",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170253.ts",
                 "icono": "https://image.tmdb.org/t/p/original/eL91oFnvXAdlW4KN6qXAXTG567u.jpg",

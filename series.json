@@ -664,6 +664,65 @@
                     ],
                     "tmdb_id": 210942,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Nadie nos va a extrañar",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Son los años 90 y cinco pringados dirigen un negocio ilegal en su instituto: venden trabajos y deberes a sus compañeros. La ventaja es que nadie sospecha nunca de los empollones. El negocio les reporta dinero y popularidad, pero las hormonas y una muerte inesperada amenazan con estropearlo todo. Si el negocio se acaba, su futuro y su amistad corren peligro.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hiRnc3tGBHN9K2fWcor0tshzKCC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Nadie va a volver a aceptar",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167451.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Nadie se va a ir de rositas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167449.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Nadie ha hecho los deberes de Inglés",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167452.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Nadie va a ir a la fiesta de Mariana",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167453.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Nadie va a hablar de lo que pasó en la fiesta",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167450.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Nadie va a cantar en el karaoke",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167454.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Nadie va a poder hacer frente al lado oscuro",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167455.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Nadie nos va a extrañar",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167456.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259666,
+                    "total_seasons": 1
                 }
             ]
         },

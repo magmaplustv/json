@@ -895,6 +895,111 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "The Chosen (Los elegidos)",
+                    "genero": "Drama, Familia",
+                    "descripcion": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mYvxHGbDE4aWzG4CDIjStI5jIQS.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hh9jYH0kvbHFV3Z5GH9Sp4HMIhL.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Te he llamado por tu nombre",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170750.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Sabbat",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170751.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Jesús ama a los niños",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170752.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La roca sobre la que se edificó",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170753.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Regalo de bodas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170754.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Compasión indescriptible",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170755.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Invitaciones",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170756.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Yo soy Él",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170757.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Trueno",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170758.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Te vi",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170759.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Mateo 4:24",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170760.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La ocasión perfecta",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170761.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Espíritu",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170762.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ilícito",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170763.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ajuste de cuentas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170764.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Más allá de las montañas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170765.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 85077,
+                    "total_seasons": 5
                 }
             ]
         },

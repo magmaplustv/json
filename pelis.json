@@ -62,6 +62,12 @@
         "name": "Estrenos 2025",
         "samples": [
             {
+                "name": "Plankton, la película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Holland",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169777.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
@@ -131,12 +137,6 @@
                 "name": "Matthew Perry: A Hollywood Tragedy",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167493.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qjFrFQBEiH3DfKVpm179sDZh0GR.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Plankton, la película",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
                 "type": "PELICULA"
             },
             {

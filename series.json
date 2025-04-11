@@ -1983,6 +1983,24 @@
                     ],
                     "tmdb_id": 88236,
                     "total_seasons": 4
+                },
+                {
+                    "nombre": "La franquicia",
+                    "genero": "Comedia",
+                    "descripcion": "Un equipo optimista se encuentra atrapado en el disfuncional, disparatado y alegre infierno de las franquicias de cine de superhéroes.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/w5sVwGin542zPGFkWCkBA9b1kJp.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ikqZFo86jGxjd19ZtxeXvLTJ2bc.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5bkxQ4fXDMhfF8CAToNxmz0gC7O.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 216619,
+                    "total_seasons": 1
                 }
             ]
         },

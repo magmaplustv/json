@@ -782,6 +782,65 @@
                     ],
                     "tmdb_id": 285042,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Manual para señoritas",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Elena Bianda, una carabina encargada de encontrar marido a tres hermanas adineradas, se ve envuelta en una historia de amor, escándalos y cómicos enredos de finales del siglo XIX.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hRr0FjGxNyfHGtBGFxWKR5bBJbK.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sEZfgxon0WUDRzREYM3zXGGUxfC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ucjmIaTGry7kS4g4vHD0F7sMOuB.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Lección 1: Prohibido enamorarse",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169900.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Lección 2: No contar mentiras",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169901.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Lección 3: El pasado, pasado está",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169902.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Lección 4: Alejar la tentación",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169903.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Lección 5: No traicionar a tu señorita",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169904.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Lección 6: Tus deseos no son prioridad",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169905.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Lección 7: Mantener las buenas formas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169906.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Lección 8: Hacer feliz a tu señorita",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169907.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 280890,
+                    "total_seasons": 1
                 }
             ]
         },

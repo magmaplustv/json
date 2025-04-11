@@ -342,6 +342,12 @@
         "name": "Estrenos 2024",
         "samples": [
             {
+                "name": "Venom: El último baile",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76203.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El ejecutor",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170980.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4o4fh62VZewnBotiVT33d0dvPsX.jpg",
@@ -453,12 +459,6 @@
                 "name": "La Trampa",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A3F13A5256A148B2AFE453FB6E571EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Venom: El último baile",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76203.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg",
                 "type": "PELICULA"
             },
             {

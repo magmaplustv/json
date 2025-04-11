@@ -841,6 +841,60 @@
                     ],
                     "tmdb_id": 280890,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Coyotl: Bestia vs Narco",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "En un pueblo de México disputado por narcos, el joven Lupe acepta convertirse en un hombre-bestia para proteger a su gente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qUdYNoPZJY6MrV1x41335re0Yda.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oM5Wei3OjofExdGffnVDzigu6KY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7EBWXRO4cWeq2WRbTNhAplhOr5o.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La Bestia",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170841.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Instinto",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170842.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El Corrido del Cótotl",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170843.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El Cazador y la Presa",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170844.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170845.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Pueblo fantasma",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170846.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La Última Tentación de Lupe",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170847.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 280043,
+                    "total_seasons": 1
                 }
             ]
         },

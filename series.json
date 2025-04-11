@@ -723,6 +723,65 @@
                     ],
                     "tmdb_id": 259666,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Bienvenidos a la familia",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Una madre soltera en apuros une fuerzas con su peculiar familia para burlar a un mafioso después de heredar una deuda millonaria de su adinerado y distanciado padre.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/cOAMk7ZLa1R5pzgpm5qZYmYuOen.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nzHRr0X96jg1s6P9E4T5wbeBJKq.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4bQlw0ScPTLHFdzioX6FuH4Rmys.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Desalojo",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168134.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Acto de asamblea",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168135.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ab Intestato",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168136.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Profanación de cadáver",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168137.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Suplantación mortuoria",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168138.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Usurpación de identidad",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168139.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Constelaciones",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168140.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sucesión",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/168141.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 285042,
+                    "total_seasons": 1
                 }
             ]
         },

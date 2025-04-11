@@ -784,6 +784,12 @@
         "name": "Disney",
         "samples": [
             {
+                "name": "Mientras Cupido no está",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Alexander y el viaje terrible, horrible, espantoso, horroroso",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169908.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
@@ -817,12 +823,6 @@
                 "name": "Mesa de regalos",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167335.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Mientras Cupido no está",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
                 "type": "PELICULA"
             }
         ]

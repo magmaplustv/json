@@ -342,6 +342,12 @@
         "name": "Estrenos 2024",
         "samples": [
             {
+                "name": "El ejecutor",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170980.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4o4fh62VZewnBotiVT33d0dvPsX.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Transformers One",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168004.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
@@ -609,12 +615,6 @@
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El ejecutor",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170980.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4o4fh62VZewnBotiVT33d0dvPsX.jpg",
                 "type": "PELICULA"
             }
         ]

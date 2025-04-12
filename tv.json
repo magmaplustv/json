@@ -2368,6 +2368,12 @@
                 }
             },
             {
+                "name": "Now 80s",
+                "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png"
+            },
+            {
                 "name": "Quiero Musica",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
                 "type": "CLEARKEY",
@@ -2389,12 +2395,6 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
-            },
-            {
-                "name": "NOW 80s",
-                "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png"
             }
         ]
     },

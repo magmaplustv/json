@@ -1092,6 +1092,55 @@
                     ],
                     "tmdb_id": 85077,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "El jardinero",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La madre de Elmer usó la falta de sentimientos de su hijo para convertirlo en sicario. Pero cuando él se enamora de su próxima víctima, su tapadera de apacibles jardineros titubea.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/a9KNavWCf8X8ZFXBqX4AnRUPmZZ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8nEYffm7XDQXSGoh1Ce0jvd45AO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Paisaje atlántico",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171063.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Germinación de las semillas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171064.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sustrato orgánico",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171065.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Control de plagas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171066.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Isla de descomposición",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171067.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Calendario de podas",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171068.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241883,
+                    "total_seasons": 1
                 }
             ]
         },

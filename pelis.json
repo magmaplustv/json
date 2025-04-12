@@ -229,6 +229,12 @@
         "name": "Estrenos CAM 2025",
         "samples": [
             {
+                "name": "Amateur",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171050.ts",
+                "icono": "https://image.tmdb.org/t/p/original/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Una película de Minecraft",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169953.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qNEmbTNjf5hVzecPq96pxGfBhbX.jpg",
@@ -334,12 +340,6 @@
                 "name": "Mickey 17",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Amateur",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171050.ts",
-                "icono": "https://image.tmdb.org/t/p/original/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg",
                 "type": "PELICULA"
             }
         ]

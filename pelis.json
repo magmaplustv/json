@@ -62,6 +62,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Corina",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171051.ts",
+                "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Plankton, la película",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
@@ -221,12 +227,6 @@
                 "name": "Isla de perros",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Corina",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171051.ts",
-                "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
                 "type": "PELICULA"
             }
         ]

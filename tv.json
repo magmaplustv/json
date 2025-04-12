@@ -2405,6 +2405,35 @@
         ]
     },
     {
+        "name": "CANALES RELIGIOSOS",
+        "samples": [
+            {
+                "name": "ORBE 21",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/320px-Canal_Orbe_21_logo.svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=29ccae9b98d74e76b35ac4e9a7fd1af1&key=cd6f0d4dca0fc30533e845fc8ea6a945",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "EWTN",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd?",
+                "type": "CLEARKEY",
+                "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            }
+        ]
+    },
+    {
         "name": "🇧🇴CANALES DE BOLIVIA",
         "samples": [
             {
@@ -3198,35 +3227,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-        ]
-    },
-    {
-        "name": "CANALES RELIGIOSOS",
-        "samples": [
-            {
-                "name": "ORBE 21",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/320px-Canal_Orbe_21_logo.svg.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=29ccae9b98d74e76b35ac4e9a7fd1af1&key=cd6f0d4dca0fc30533e845fc8ea6a945",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "EWTN",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd?",
-                "type": "CLEARKEY",
-                "icono": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar",

@@ -353,6 +353,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La huella del mal",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171071.ts",
+                "icono": "https://image.tmdb.org/t/p/original/o410zKXtZYy2vVBcQJPxzOc9KYc.jpg",
+                "type": "PELICULA"
             }
         ]
     },

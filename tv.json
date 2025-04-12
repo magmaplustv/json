@@ -3103,6 +3103,18 @@
         "name": "🇺🇾CANALES DE URUGUAY",
         "samples": [
             {
+                "name": "Canal 4 Uruguay",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "CANAL 10",
                 "url": "http://magmaplayer.com/stream/m3u8/AQNmKmt2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/866.m3u8",
                 "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
@@ -3150,18 +3162,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Canal 4 Uruguay",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar",

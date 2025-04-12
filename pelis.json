@@ -341,6 +341,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "The Monkey",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171069.ts",
+                "icono": "https://image.tmdb.org/t/p/original/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+                "type": "PELICULA"
             }
         ]
     },

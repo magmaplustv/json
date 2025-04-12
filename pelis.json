@@ -62,6 +62,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Seven Veils",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171077.ts",
+                "icono": "https://image.tmdb.org/t/p/original/wzoAoKuiWttbaUnQkkchCF20Wf2.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Y2K",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170981.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
@@ -233,12 +239,6 @@
                 "name": "Isla de perros",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Seven Veils",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171077.ts",
-                "icono": "https://image.tmdb.org/t/p/original/wzoAoKuiWttbaUnQkkchCF20Wf2.jpg",
                 "type": "PELICULA"
             }
         ]

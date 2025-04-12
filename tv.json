@@ -3106,7 +3106,7 @@
                 "name": "TNU",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
                 "type": "CLEARKEY",
-                "icono": "\"https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Canal_5_Uruguay.png/250px-Canal_5_Uruguay.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c50518d7f59f4c0aa9a3079fe2b014fd&key=96038f76a2ba33866ea54eb4b260573f",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

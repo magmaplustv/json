@@ -2389,6 +2389,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "NOW 80s",
+                "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png"
             }
         ]
     },

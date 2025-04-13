@@ -371,6 +371,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cleaner",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171109.ts",
+                "icono": "https://image.tmdb.org/t/p/original/76Xvdqiv8ufGkerQunOpcy98oT7.jpg",
+                "type": "PELICULA"
             }
         ]
     },

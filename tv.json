@@ -2339,6 +2339,18 @@
                 "url": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/ySxjmnL/teleritmo.png"
+            },
+            {
+                "name": "En Alta",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://www.qmusica.tv/img/programas/logo/xagd598m.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

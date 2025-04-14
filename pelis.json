@@ -56,6 +56,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "El hilo rojo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171154.ts",
+                "icono": "https://image.tmdb.org/t/p/original/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Hombre lobo",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171079.ts",
                 "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
@@ -239,12 +245,6 @@
                 "name": "Isla de perros",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El hilo rojo",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171154.ts",
-                "icono": "https://image.tmdb.org/t/p/original/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg",
                 "type": "PELICULA"
             }
         ]

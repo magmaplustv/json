@@ -664,6 +664,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Absolución",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171120.ts",
+                "icono": "https://image.tmdb.org/t/p/original/26D1gPCZkDB94NHcIzK7vXJeXca.jpg",
+                "type": "PELICULA"
             }
         ]
     },

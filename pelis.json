@@ -43,6 +43,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B2D2D5EB5504454286DBA54A855146E3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Boca Juniors 3D, la película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171155.ts",
+                "icono": "https://image.tmdb.org/t/p/original/fJRPF9IjBCFk3Ne6HlfMV9Fqm5Q.jpg",
+                "type": "PELICULA"
             }
         ]
     },

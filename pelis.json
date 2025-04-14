@@ -240,6 +240,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El hilo rojo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171154.ts",
+                "icono": "https://image.tmdb.org/t/p/original/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg",
+                "type": "PELICULA"
             }
         ]
     },

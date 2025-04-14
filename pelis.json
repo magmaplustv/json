@@ -56,6 +56,12 @@
         "name": "Estrenos 2025",
         "samples": [
             {
+                "name": "PRESENCIA",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B32D8FC096254ED182D9D0FEB020783B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wBqQbPhJmxQUFFQPxTlRYRtHgzQ.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Home Sweet Home: Rebirth",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0229344DA248469C939AC099D53FE182_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",
@@ -257,12 +263,6 @@
                 "name": "Isla de perros",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "PRESENCIA",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B32D8FC096254ED182D9D0FEB020783B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wBqQbPhJmxQUFFQPxTlRYRtHgzQ.jpg",
                 "type": "PELICULA"
             }
         ]

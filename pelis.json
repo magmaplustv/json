@@ -909,6 +909,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Los superhéroes de Malegaon",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171153.ts",
+                "icono": "https://image.tmdb.org/t/p/original/tuxmpcPlmsOiBSadI5byoPGEV4.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Gunslingers",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171152.ts",
                 "icono": "https://image.tmdb.org/t/p/original/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
@@ -1158,12 +1164,6 @@
                 "name": "Resident Evil: Degeneración",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Los superhéroes de Malegaon",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171153.ts",
-                "icono": "https://image.tmdb.org/t/p/original/tuxmpcPlmsOiBSadI5byoPGEV4.jpg",
                 "type": "PELICULA"
             }
         ]

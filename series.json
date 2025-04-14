@@ -1940,6 +1940,40 @@
                     ],
                     "tmdb_id": 233686,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Cat's Eyes",
+                    "genero": "Action & Adventure, Comedia",
+                    "descripcion": "",
+                    "anio": "2024",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/sLrUScBosE83TSwCoeM8jBylZid.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rbYaYW9HgtuRvmnPmPbD5DRhHZb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/53D416BC9D4A441F8C6FF622B4615417_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A74905E5BB484576A0FFF57575DBAA2B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AC98F7BF61D048D5ABB61EDE7A321370_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 222176,
+                    "total_seasons": 1
                 }
             ]
         },

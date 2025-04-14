@@ -402,6 +402,12 @@
         "name": "Estrenos 2024",
         "samples": [
             {
+                "name": "Zorro y Liebre salvan el bosque",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/90FA0BE5D5754404A39631B47325CBD4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zEwqKPeG3BMZRWJEirP6YHVkpVK.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Absolución",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171120.ts",
                 "icono": "https://image.tmdb.org/t/p/original/26D1gPCZkDB94NHcIzK7vXJeXca.jpg",
@@ -681,12 +687,6 @@
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Zorro y Liebre salvan el bosque",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/90FA0BE5D5754404A39631B47325CBD4_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zEwqKPeG3BMZRWJEirP6YHVkpVK.jpg",
                 "type": "PELICULA"
             }
         ]

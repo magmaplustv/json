@@ -682,6 +682,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Zorro y Liebre salvan el bosque",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/90FA0BE5D5754404A39631B47325CBD4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zEwqKPeG3BMZRWJEirP6YHVkpVK.jpg",
+                "type": "PELICULA"
             }
         ]
     },

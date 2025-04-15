@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Número 9",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42874.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mu1zDw4qxlUzrBizasO24unC766.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Up",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42892.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4UpNg3ejFazDjMZ3g9R56RSRVWD.jpg",

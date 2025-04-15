@@ -1421,6 +1421,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115251.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/wdiMAU3KgGlomdTYhqtNn3Uulfs.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Vaiana",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115266.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
+                "type": "PELICULA"
             }
         ]
     },

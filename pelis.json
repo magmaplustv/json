@@ -1709,6 +1709,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115150.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Alita: Ángel de combate",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115151.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aeoCkr6GwXLNjijUKq5VoKlKxRl.jpg",
+                "type": "PELICULA"
             }
         ]
     },

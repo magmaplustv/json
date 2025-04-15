@@ -1337,6 +1337,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115153.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Astérix y la residencia de los dioses",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115155.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tuBDjGCBeDq4ypT58yfDMGaPOIb.jpg",
+                "type": "PELICULA"
             }
         ]
     },

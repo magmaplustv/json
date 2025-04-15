@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Cómo entrenar a tu dragón 2",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91298.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Cómo entrenar a tu dragón",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91299.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",

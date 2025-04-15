@@ -1703,6 +1703,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115149.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oOQMJM7G2W8v2AEK722k8welIJY.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Angry Birds: La película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115150.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
+                "type": "PELICULA"
             }
         ]
     },

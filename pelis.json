@@ -1654,6 +1654,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164622.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mechanic: Resurrection",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164629.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+                "type": "PELICULA"
             }
         ]
     },

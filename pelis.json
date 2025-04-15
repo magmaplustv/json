@@ -1379,6 +1379,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115189.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115201.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

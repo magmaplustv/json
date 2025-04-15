@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Madagascar 2",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90729.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2uL5unGWKgBnaLdJLRjqcZjMr3I.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Ice Age 4: La formación de los continentes",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90880.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg",

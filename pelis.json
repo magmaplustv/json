@@ -1666,6 +1666,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164646.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El origen del planeta de los simios",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164648.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6TqjIMQV11NkHMuriprN3xNoN6o.jpg",
+                "type": "PELICULA"
             }
         ]
     },

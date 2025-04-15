@@ -1600,6 +1600,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164515.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mvBBcLN4Cjei3I7RiY2bQLAOtHA.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ip Man 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164526.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ype1J4olDfeQpseCiQob5I74oqg.jpg",
+                "type": "PELICULA"
             }
         ]
     },

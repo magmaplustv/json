@@ -1678,6 +1678,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164678.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El reino prohibido",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164704.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg",
+                "type": "PELICULA"
             }
         ]
     },

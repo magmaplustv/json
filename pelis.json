@@ -1486,6 +1486,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164222.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/f56cB64d5tuRa07hnHbMvON35H5.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Altered Carbon: Reenfundados",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164225.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fMeFA5Jy8NvuuvnYmYywRsM62ca.jpg",
+                "type": "PELICULA"
             }
         ]
     },

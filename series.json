@@ -92,6 +92,65 @@
                     "total_seasons": 1
                 },
                 {
+                    "nombre": "Doc",
+                    "genero": "Drama",
+                    "descripcion": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yT1KPoclKvUCL1UPaMiurfoIKJi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8rGnY4OnI7h7WK4SpTLUfDXE7vz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nZnzeTBrOHZ9LOSJX8MOGgtGIpA.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Si no empiezas bien...",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170023.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "...Inténtalo de nuevo",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170024.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El primer día",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170025.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un pequeño paso",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170026.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un día muy intenso",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170027.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Y con sentimiento",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170267.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Secretos y mentiras",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170268.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El hombre propone",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170269.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255055,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Envidiosa",
                     "genero": "Comedia, Drama",
                     "descripcion": "Después de una ruptura muy dolorosa, Vicky, con cerca de 40 años, busca un nuevo amor. No sabe que lo que la espera es un profundo —y divertido— proceso de autodescubrimiento.",
@@ -1262,65 +1321,6 @@
                         }
                     ],
                     "tmdb_id": 286338,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Doc",
-                    "genero": "Drama",
-                    "descripcion": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/yT1KPoclKvUCL1UPaMiurfoIKJi.png",
-                    "icono": "https://image.tmdb.org/t/p/original/8rGnY4OnI7h7WK4SpTLUfDXE7vz.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nZnzeTBrOHZ9LOSJX8MOGgtGIpA.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Si no empiezas bien...",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170023.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "...Inténtalo de nuevo",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170024.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "El primer día",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170025.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Un pequeño paso",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170026.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Un día muy intenso",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170027.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Y con sentimiento",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170267.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Secretos y mentiras",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170268.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "El hombre propone",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170269.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 255055,
                     "total_seasons": 1
                 }
             ]

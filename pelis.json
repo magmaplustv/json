@@ -1619,6 +1619,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91299.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tom y Jerry. El tesoro del galeón pirata",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115131.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/g85rGahQAntohJ8FqCI4pS6l2Jx.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1391,6 +1391,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115209.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bob Esponja: Un héroe al rescate",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115213.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fi2pg2mtAZwhq3qVuAs6PztjnHT.jpg",
+                "type": "PELICULA"
             }
         ]
     },

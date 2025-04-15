@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Futbolín",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/48461.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/JsVAm9FAw1A9qlTw3zNNR8zhLP.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Stuart Little",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/56151.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wFcrKqCdQRQxZCkBILhX949lXo2.jpg",

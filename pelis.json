@@ -1690,6 +1690,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164710.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los mercenarios",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164717.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
+                "type": "PELICULA"
             }
         ]
     },

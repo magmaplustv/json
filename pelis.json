@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Ralph rompe Internet",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88665.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La Princesa Cisne: Un Misterio Real",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/88879.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/69i8ZzyWuyUoGuDx0CJlxKhFyFh.jpg",

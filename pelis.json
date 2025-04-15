@@ -1679,6 +1679,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115142.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/juHiAq7lvRoaEiBYXn2B8XAANs2.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ben 10: La destrucción de los aliens",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115143.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
+                "type": "PELICULA"
             }
         ]
     },

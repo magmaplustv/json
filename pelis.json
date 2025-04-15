@@ -1498,6 +1498,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164227.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Deadpool 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164229.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
+                "type": "PELICULA"
             }
         ]
     },

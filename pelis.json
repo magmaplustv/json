@@ -1691,6 +1691,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115144.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Alvin y las ardillas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115146.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xpInKihOnJZ9QePD5letvwDV9W8.jpg",
+                "type": "PELICULA"
             }
         ]
     },

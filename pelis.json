@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Monstruos contra alienígenas",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42872.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/pNRkYUevzL34QyeKRMe7MjvDj20.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Número 9",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42874.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mu1zDw4qxlUzrBizasO24unC766.jpg",

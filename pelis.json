@@ -1612,6 +1612,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164527.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jin-Roh: La brigada del lobo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164540.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/clACOLa2bbgV9BbwHjWZ3bMs4iJ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

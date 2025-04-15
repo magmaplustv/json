@@ -1630,6 +1630,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164550.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6MeSTWX5LRknrXkApFiQZJF2Nqj.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La verdadera historia de la banda de Kelly",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164557.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9dumUhmSjAF4tDwejXkr39P1dcT.jpg",
+                "type": "PELICULA"
             }
         ]
     },

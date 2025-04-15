@@ -1642,6 +1642,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164566.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/voM9RFRBMxb73ruMqAFoEFica5w.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El justiciero",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164597.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg",
+                "type": "PELICULA"
             }
         ]
     },

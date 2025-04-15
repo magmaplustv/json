@@ -200,6 +200,40 @@
                     "total_seasons": 1
                 },
                 {
+                    "nombre": "Malas influencias: El lado oscuro de las redes en la infancia",
+                    "genero": "Documental",
+                    "descripcion": "En este revelador documental, padres y adolescentes cuentan inquietantes casos de maltrato y explotación en el mundo de los influencers infantiles.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/eIwkKBaqV4Bg0avHimzPoDtYWQm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kbgdBz6VezAOCgNAhzNP6dL7XBC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7nXGzXoBbTKfKrvFz3xBqO5rDwk.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "#mamánager",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6A36D92A42274F77B88F00DDA28F658D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "#crush",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BB38ABB4EAAD4EFF9BA5C03A47DCD3B9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "#dejardeseguir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/46EA3A69DF74428FA88CE5106A3D8FAE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286338,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Envidiosa",
                     "genero": "Comedia, Drama",
                     "descripcion": "Después de una ruptura muy dolorosa, Vicky, con cerca de 40 años, busca un nuevo amor. No sabe que lo que la espera es un profundo —y divertido— proceso de autodescubrimiento.",
@@ -1288,40 +1322,6 @@
                     ],
                     "tmdb_id": 85077,
                     "total_seasons": 5
-                },
-                {
-                    "nombre": "Malas influencias: El lado oscuro de las redes en la infancia",
-                    "genero": "Documental",
-                    "descripcion": "En este revelador documental, padres y adolescentes cuentan inquietantes casos de maltrato y explotación en el mundo de los influencers infantiles.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/eIwkKBaqV4Bg0avHimzPoDtYWQm.png",
-                    "icono": "https://image.tmdb.org/t/p/original/kbgdBz6VezAOCgNAhzNP6dL7XBC.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7nXGzXoBbTKfKrvFz3xBqO5rDwk.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "#mamánager",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6A36D92A42274F77B88F00DDA28F658D_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "#crush",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BB38ABB4EAAD4EFF9BA5C03A47DCD3B9_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "#dejardeseguir",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/46EA3A69DF74428FA88CE5106A3D8FAE_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 286338,
-                    "total_seasons": 1
                 }
             ]
         },

@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Gru 3. Mi villano favorito",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44397.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/1xQ6K6623qdjVkOwEjNneMSxdiB.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Los Minions",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44398.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nmqLwaTfgyWLQWbYd82w159cAqJ.jpg",

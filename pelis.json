@@ -1660,6 +1660,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164629.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Batman vs Superman: El amanecer de la justicia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164646.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+                "type": "PELICULA"
             }
         ]
     },

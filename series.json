@@ -2028,6 +2028,55 @@
                     ],
                     "tmdb_id": 222176,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Reinas del Soho",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Kate Galloway es una mujer que lo ha perdido todo después de que su marido se suicide. Junto a su hija adolescente, con desparpajo y bastantes agallas, abre un club en el Soho londinense, un barrio que pronto controlan bandas de mujeres que regentan los clubs y controlan el negocio de las drogas y el alcohol. Como respuesta, la policía metropolitana experimenta con una división de agentes femeninas infiltrando a una de ellas, Violet Davies, en la banda de Kate.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6mMCBLynUe2iDIVpcqOm5lIOUOc.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kcTBj5bJ5aHG2R3bw9wgKChtjT8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/x0G46dWMpwdE8XJJe5ZJkUYliYX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cuando era mala, era muy muy mala",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/87C6EB51C2694298AFD2EBBFB775B077_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La mantequilla no se derretía",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/55382AB2D4584522862377EDA0BA173E_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Un pequeño topo sucio en un pequeño agujero sucio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2A2CA1CC67C045ED9320A2247F5CEBB9_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Contempla las estrellas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/391F7F579B0046938C1F45B11EF588C3_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Monstruo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/73CFAA6E32CC478A8BF902F37448C279_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Furia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9FCA3E0BCB854791B160224959356DC5_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 239615,
+                    "total_seasons": 1
                 }
             ]
         },

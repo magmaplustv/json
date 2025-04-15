@@ -1492,6 +1492,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164225.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fMeFA5Jy8NvuuvnYmYywRsM62ca.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Predator",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164227.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

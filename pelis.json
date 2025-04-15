@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "El rey león 3: Hakuna Matata",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91099.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x2SAEOXURbKDgKfdHdZ49VhPGrB.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "El rey león",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/91101.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",

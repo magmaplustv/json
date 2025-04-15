@@ -718,6 +718,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La patasola",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39BD8DAC01A6492388E14DF0638EA772_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8hAi3I6vxlqtLqvcmP0sRktvNwA.jpg",
+                "type": "PELICULA"
             }
         ]
     },

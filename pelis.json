@@ -1672,6 +1672,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164648.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6TqjIMQV11NkHMuriprN3xNoN6o.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ninja Turtles: Fuera de las sombras",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164678.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
+                "type": "PELICULA"
             }
         ]
     },

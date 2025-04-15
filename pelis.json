@@ -1457,6 +1457,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115293.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Daphne & Velma",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

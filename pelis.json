@@ -289,6 +289,12 @@
         "name": "Estrenos CAM 2025",
         "samples": [
             {
+                "name": "La cita",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171195.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nCCtlyWeDkUUFu9eESd4jIQnUcj.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Freaky Tales",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171113.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
@@ -424,12 +430,6 @@
                 "name": "Mickey 17",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La cita",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171195.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nCCtlyWeDkUUFu9eESd4jIQnUcj.jpg",
                 "type": "PELICULA"
             }
         ]

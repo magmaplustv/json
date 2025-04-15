@@ -1673,6 +1673,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115141.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Batman: El regreso de los cruzados enmascarados",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115142.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/juHiAq7lvRoaEiBYXn2B8XAANs2.jpg",
+                "type": "PELICULA"
             }
         ]
     },

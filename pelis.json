@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Campanilla y el tesoro perdido",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42841.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Tiana y el sapo",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42866.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",

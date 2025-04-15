@@ -1427,6 +1427,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115266.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La familia Addams 2: La gran escapada",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115267.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/esOfrTHCoGXbysiLGeimR8nT94q.jpg",
+                "type": "PELICULA"
             }
         ]
     },

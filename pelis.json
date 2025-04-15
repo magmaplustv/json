@@ -1643,6 +1643,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115135.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/raxDqPCjSlKgEkxhwME75tjq8M2.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Shreketefeliz Navidad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115136.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3G2Xs4lKCkhTcechHSu85o7auXr.jpg",
+                "type": "PELICULA"
             }
         ]
     },

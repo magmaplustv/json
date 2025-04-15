@@ -1685,6 +1685,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115143.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Antz (Hormigaz)",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115144.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
+                "type": "PELICULA"
             }
         ]
     },

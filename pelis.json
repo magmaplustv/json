@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Alicia a través del espejo",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44322.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/enTsjngbsWuf1JB6YoYOOd67GdE.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Alpha y Omega",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/44323.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7YVyH5sS6kLQRsSDF5dhhR0BWeh.jpg",

@@ -1343,6 +1343,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115155.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tuBDjGCBeDq4ypT58yfDMGaPOIb.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Barbie en El campamento de princesas",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115158.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/55NspwnwJuMhj9nFAOBs3YyUiZH.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1655,6 +1655,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115137.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "5 centímetros por segundo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115139.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1KPWmeARPtmdPLEEIJn4zThyyuy.jpg",
+                "type": "PELICULA"
             }
         ]
     },

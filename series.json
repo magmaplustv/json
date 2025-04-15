@@ -4,6 +4,35 @@
             "nombre": "RECOMENDADOS",
             "series": [
                 {
+                    "nombre": "La cúpula de cristal",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Cuando la hija de una amiga desaparece, la criminóloga Lejla se une a la búsqueda… y se enfrenta al doloroso trauma de su propio secuestro durante la infancia.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oYSKM4g0SeD2FEG90ESoDk1Nx5d.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oWmJIQAdxAQYQ3lZz92KR9jRdGU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/w8NsengOrWLapYBVutr52gwWMio.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C9B8A94E740246A096DD1E5D5EDEF962_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C5896319D5AA4421AC0228049A21E642_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 275388,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Envidiosa",
                     "genero": "Comedia, Drama",
                     "descripcion": "Después de una ruptura muy dolorosa, Vicky, con cerca de 40 años, busca un nuevo amor. No sabe que lo que la espera es un profundo —y divertido— proceso de autodescubrimiento.",
@@ -1292,35 +1321,6 @@
                         }
                     ],
                     "tmdb_id": 242871,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "La cúpula de cristal",
-                    "genero": "Drama, Crimen",
-                    "descripcion": "Cuando la hija de una amiga desaparece, la criminóloga Lejla se une a la búsqueda… y se enfrenta al doloroso trauma de su propio secuestro durante la infancia.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/oYSKM4g0SeD2FEG90ESoDk1Nx5d.png",
-                    "icono": "https://image.tmdb.org/t/p/original/oWmJIQAdxAQYQ3lZz92KR9jRdGU.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/w8NsengOrWLapYBVutr52gwWMio.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C9B8A94E740246A096DD1E5D5EDEF962_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C5896319D5AA4421AC0228049A21E642_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 275388,
                     "total_seasons": 1
                 }
             ]

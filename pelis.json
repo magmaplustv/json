@@ -1510,6 +1510,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164229.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Dead Rising: Watchtower",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164237.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/95gMn5GwR6rPHmmHfDyEs0pO2U7.jpg",
+                "type": "PELICULA"
             }
         ]
     },

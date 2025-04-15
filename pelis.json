@@ -1445,6 +1445,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115276.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "LEGO DC Super Heroes: Aquaman: la ira de Atlantis",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115274.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1636,6 +1636,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164557.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/9dumUhmSjAF4tDwejXkr39P1dcT.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Pánico nuclear",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164566.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/voM9RFRBMxb73ruMqAFoEFica5w.jpg",
+                "type": "PELICULA"
             }
         ]
     },

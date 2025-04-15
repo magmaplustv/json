@@ -1474,6 +1474,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164221.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/j6RDEmmkkDwF8hoAWh9xiYybYC7.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Independence Day: Contraataque",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164222.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/f56cB64d5tuRa07hnHbMvON35H5.jpg",
+                "type": "PELICULA"
             }
         ]
     },

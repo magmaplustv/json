@@ -1576,6 +1576,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164444.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/pBFqLpJzwYK13XxKoJtARxJiuvf.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ghost Rider: Espíritu de venganza",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164456.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg",
+                "type": "PELICULA"
             }
         ]
     },

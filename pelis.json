@@ -1403,6 +1403,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115214.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ngu7BkIewxtknFb2jsIA1wxZ0oD.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El jinete del dragón",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115226.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/g8TTuBZFSFzQLTyP92XE1I9WVVC.jpg",
+                "type": "PELICULA"
             }
         ]
     },

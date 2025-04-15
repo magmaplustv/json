@@ -1624,6 +1624,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164546.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/d0tCSswCeMBzaDsyXc82qfDDvPD.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Juegos salvajes: Red de traiciones",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164550.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6MeSTWX5LRknrXkApFiQZJF2Nqj.jpg",
+                "type": "PELICULA"
             }
         ]
     },

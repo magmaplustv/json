@@ -1385,6 +1385,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115201.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Earwig y la bruja",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115209.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1637,6 +1637,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115133.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Robots",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115135.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/raxDqPCjSlKgEkxhwME75tjq8M2.jpg",
+                "type": "PELICULA"
             }
         ]
     },

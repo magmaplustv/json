@@ -1667,6 +1667,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115140.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xnmUTYvVrTOlhytQsXdM0c63Bcj.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Agencia Secreta de Control Mágico",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115141.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

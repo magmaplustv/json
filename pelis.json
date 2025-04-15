@@ -1570,6 +1570,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164432.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/gNj1p2rItPNlUXck8yLFIC39T1u.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Attrition",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164444.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pBFqLpJzwYK13XxKoJtARxJiuvf.jpg",
+                "type": "PELICULA"
             }
         ]
     },

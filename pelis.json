@@ -1697,6 +1697,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115146.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xpInKihOnJZ9QePD5letvwDV9W8.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Arlo, el chico caimán",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115149.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oOQMJM7G2W8v2AEK722k8welIJY.jpg",
+                "type": "PELICULA"
             }
         ]
     },

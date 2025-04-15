@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Ice Age 4: La formación de los continentes",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90880.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Lego DC Comics Super Heroes: Flash",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90895.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/AnPwhS4narxS6fD7fHuhehfnQzz.jpg",

@@ -1439,6 +1439,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115268.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "LEGO DC: ¡Shazam! Magia y monstruos",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115276.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
+                "type": "PELICULA"
             }
         ]
     },

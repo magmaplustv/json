@@ -1618,6 +1618,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164540.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/clACOLa2bbgV9BbwHjWZ3bMs4iJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Kingsman: El círculo de oro",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164546.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/d0tCSswCeMBzaDsyXc82qfDDvPD.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1355,6 +1355,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115171.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bolt",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115173.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+                "type": "PELICULA"
             }
         ]
     },

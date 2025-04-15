@@ -1582,6 +1582,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164456.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Guardianes de la galaxia Vol. 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164470.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+                "type": "PELICULA"
             }
         ]
     },

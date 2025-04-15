@@ -1361,6 +1361,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115173.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bright: Alma de samurái",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115180.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rZrWSMVg2sIsYFwc6iKtaE9y3LR.jpg",
+                "type": "PELICULA"
             }
         ]
     },

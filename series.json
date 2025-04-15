@@ -33,6 +33,65 @@
                     "total_seasons": 1
                 },
                 {
+                    "nombre": "Física o química: La nueva generación",
+                    "genero": "Drama, Familia",
+                    "descripcion": "La adolescencia es la época de las primeras veces: las primeras borracheras, las primeras fiestas petting, el primer te quiero… Y el primer duelo. El nuevo curso del Zurbarán arranca marcado por la pérdida de una alumna, lo que lleva a la cooperativa de padres que ahora dirige el centro a tomar una decisión: crear un grupo de apoyo para los estudiantes. Así, ocho adolescentes muy diferentes acaban compartiendo un espacio en el que chocarán de lleno, pero donde también terminarán conociéndose a sí mismos y compartiendo sus ganas de vivir. Y de enamorarse.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gXfjdYMbiFAupfis4AfL2ppZ8JK.png",
+                    "icono": "https://image.tmdb.org/t/p/original/gtFmcR0kh8CQsqYxGuxHwidNmYK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pJIWrJrQSZMyPiXoVkCyx3KMj59.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Capítulo 1",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170466.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Capítulo 2",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170467.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Capítulo 3",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170468.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Capítulo 4",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170469.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Capítulo 5",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170470.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Capítulo 6",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170471.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Capítulo 7",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170472.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Capítulo 8",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170473.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 242871,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Envidiosa",
                     "genero": "Comedia, Drama",
                     "descripcion": "Después de una ruptura muy dolorosa, Vicky, con cerca de 40 años, busca un nuevo amor. No sabe que lo que la espera es un profundo —y divertido— proceso de autodescubrimiento.",
@@ -1262,65 +1321,6 @@
                         }
                     ],
                     "tmdb_id": 255055,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Física o química: La nueva generación",
-                    "genero": "Drama, Familia",
-                    "descripcion": "La adolescencia es la época de las primeras veces: las primeras borracheras, las primeras fiestas petting, el primer te quiero… Y el primer duelo. El nuevo curso del Zurbarán arranca marcado por la pérdida de una alumna, lo que lleva a la cooperativa de padres que ahora dirige el centro a tomar una decisión: crear un grupo de apoyo para los estudiantes. Así, ocho adolescentes muy diferentes acaban compartiendo un espacio en el que chocarán de lleno, pero donde también terminarán conociéndose a sí mismos y compartiendo sus ganas de vivir. Y de enamorarse.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/gXfjdYMbiFAupfis4AfL2ppZ8JK.png",
-                    "icono": "https://image.tmdb.org/t/p/original/gtFmcR0kh8CQsqYxGuxHwidNmYK.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pJIWrJrQSZMyPiXoVkCyx3KMj59.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Capítulo 1",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170466.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Capítulo 2",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170467.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Capítulo 3",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170468.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Capítulo 4",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170469.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Capítulo 5",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170470.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Capítulo 6",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170471.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Capítulo 7",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170472.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Capítulo 8",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/170473.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 242871,
                     "total_seasons": 1
                 }
             ]

@@ -1552,6 +1552,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164395.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El rey de los kickboxers",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164400.avi",
+                "icono": "https://image.tmdb.org/t/p/original/kHGryC1UwsVYW7DMTF7nzVUx9mV.jpg",
+                "type": "PELICULA"
             }
         ]
     },

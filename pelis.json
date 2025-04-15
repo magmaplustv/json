@@ -1237,12 +1237,6 @@
         "name": "Cine Infantil",
         "samples": [
             {
-                "name": "Río 2",
-                "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90531.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xx1k3kCfIs95eAMa1pglXv74cRp.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Río",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/90532.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ydExhIrbFvPedN9tSIHzzniU1Dd.jpg",

@@ -1468,6 +1468,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Dioses de Egipto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164221.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/j6RDEmmkkDwF8hoAWh9xiYybYC7.jpg",
+                "type": "PELICULA"
             }
         ]
     },

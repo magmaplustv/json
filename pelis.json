@@ -1540,6 +1540,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164295.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8jC7C4dAohb2CdWrEmAPyeTMT3f.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El rey Mono 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164383.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8uRiv8c5jz7vkEC1ERQXe675DOi.jpg",
+                "type": "PELICULA"
             }
         ]
     },

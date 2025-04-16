@@ -74,6 +74,12 @@
         "name": "⭐️⭐️Estrenos 2025⭐️⭐️",
         "samples": [
             {
+                "name": "El Rey de Reyes",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171265.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "The Woman in the Yard",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171198.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
@@ -287,12 +293,6 @@
                 "name": "Isla de perros",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El Rey de Reyes",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171265.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
                 "type": "PELICULA"
             }
         ]

@@ -1732,6 +1732,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164717.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Titanic",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88301F8C3DD3453FAB3F8000E806CC50_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/l7rAG4P16SNFdPmWfTC8ZQydOon.jpg",
+                "type": "PELICULA"
             }
         ]
     },

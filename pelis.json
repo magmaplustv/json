@@ -777,6 +777,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E968F6496A8B4C8296518CFBEE178EE6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wH28FUPq2wjp23GXqMmzhOdvLcD.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Objetos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DC77346C53B34241A6D06369F50DE7E3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -4389,6 +4389,24 @@
                     ],
                     "tmdb_id": 2288,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "La hora de la justicia",
+                    "genero": "Action & Adventure",
+                    "descripcion": "Una banda de luchadores por la libertad invade el juicio de un oficial de policía blanco que le disparó a un hombre negro, y una situación de rehenes se desarrolla en las pantallas de todo el país.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/m3AOoSVJQehfsAlHI4yvawMezDi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fMWz7dVxatF4Mki8YuWzvwVrgR0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wng1Vvh62AS8IdzbScFl9Tm3R1P.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 205788,
+                    "total_seasons": 1
                 }
             ]
         },

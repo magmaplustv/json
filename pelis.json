@@ -765,6 +765,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/243403A16A564637BC5F2CF5CFEF0DF3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Nueve reinas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5289550102C7447BAF9A92ECAC1B046B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/v8l85vxFe9J1uEvK9qyIMBlYJNv.jpg",
+                "type": "PELICULA"
             }
         ]
     },

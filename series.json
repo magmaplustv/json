@@ -2126,6 +2126,40 @@
                     ],
                     "tmdb_id": 239615,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Conversaciones con asesinos: Las cintas de Jeffrey Dahmer",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "El asesino en serie Jeffrey Dahmer confiesa sus macabros crímenes en una serie de entrevistas sin tapujos que ofrecen una inquietante mirada a una mente trastornada.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/g4Ov3KqqKHMexhV4DivsvSCCw2B.png",
+                    "icono": "https://image.tmdb.org/t/p/original/x7kCnzYOHWSJtxt9HXehDJr7I6J.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/42iDbOtqWqPvI3FnP3KafLFrQq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Simpatía por el diablo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1BBB3ACF15B94B26A3C7819EBFDD044D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Puedo hacerte una foto?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B61113DEC89B40D3AD131BCC9C56EB3D_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Maldad o locura?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1F86EEEF85104653977DDD96A32B3AF4_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 209167,
+                    "total_seasons": 1
                 }
             ]
         },

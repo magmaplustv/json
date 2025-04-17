@@ -2160,6 +2160,55 @@
                     ],
                     "tmdb_id": 209167,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La hora de la justicia",
+                    "genero": "Action & Adventure",
+                    "descripcion": "Una banda de luchadores por la libertad invade el juicio de un oficial de policía blanco que le disparó a un hombre negro, y una situación de rehenes se desarrolla en las pantallas de todo el país.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/m3AOoSVJQehfsAlHI4yvawMezDi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fMWz7dVxatF4Mki8YuWzvwVrgR0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wng1Vvh62AS8IdzbScFl9Tm3R1P.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CB77F47422E246F383B6175E94E812AF_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/832B206E0DA9449EBB6806AD6955BC3A_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FAEBB374D125467B92298C2CB6DF8417_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/34DA22AD89EB4DB2BC62958A7E8372BA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/178BEA257DB649448AE41243F53E1CA2_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7E62BD7AE2E54F299D4A15C3C59DAA9B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 205788,
+                    "total_seasons": 1
                 }
             ]
         },

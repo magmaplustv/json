@@ -2160,6 +2160,65 @@
                     ],
                     "tmdb_id": 209167,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Traición y Redención",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Seok, una brillante y entusiasta neurocirujana, se reencuentra con Deokhee, el doctor que le arruinó la vida hace años. En su día, los dos tenían una relación muy especial, pero ahora solo se desprecian. Seok está furiosa de que haya vuelto a su vida y jura vengarse.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rkmfW38Nx2ue2k188fxZKsxR8ev.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nZR53Tr5jqYDMJYe5mV3jnbIIqi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7KDcstak3SdXhSpIrPcSSNTlOQS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39DA9003ABC44AD68AEF169E80566A97_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0A047DDE13284B51AAAE703FE9529A84_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/52DAE61D7FED4C6BBF1F060928430AEC_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EAB148A025014B228C4E209A143CBD3E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C25F51E3052444EBAFF6787EB8FCE6A6_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1CCA2255C75548DBB44F67ECE0084DEC_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0331CE3948054E6C99B38F8ECF84A9C2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5B0C814B2AA420CB1901A6058307727_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245079,
+                    "total_seasons": 1
                 }
             ]
         },

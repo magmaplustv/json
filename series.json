@@ -2743,6 +2743,50 @@
             ]
         },
         {
+            "nombre": "⭐️⭐️Aventura⭐️⭐️",
+            "series": [
+                {
+                    "nombre": "Nautilus",
+                    "genero": "Drama, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "Un príncipe indio despojado de su derecho de nacimiento y de su familia, prisionero de la Compañía de las Indias Orientales y un hombre empeñado en vengarse de las fuerzas que le han quitado todo, Nemo zarpó con su tripulación heterogénea a bordo del impresionante barco, luchando contra  enemigos y descubrir mundos submarinos mágicos.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/aAJhrJpfppfmEcHc14RZwNbMOD4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8pWGfg6siFjgWJahhkrzGDz1UDs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Anahata",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A66EDE1075AB423098A2963965B3869D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tick, Tick Boom",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C882C881CD834CA3A5D38F70F37D15FF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Lo que hay debajo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/08AAFC1FDE5C49C2964141844C3080B9_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Resbaladizo cuando está mojado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D42789C3C1A841A89C460B512D25291A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 131835,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "⭐️⭐️Series de Ciencia Ficción⭐️⭐️",
             "series": [
                 {

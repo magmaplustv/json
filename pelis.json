@@ -2530,5 +2530,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "⭐️⭐️Peliculas Argentinas⭐️⭐️",
+        "samples": [
+            {
+                "name": "Argentina 1985",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/243403A16A564637BC5F2CF5CFEF0DF3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

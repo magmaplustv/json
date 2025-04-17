@@ -4362,6 +4362,40 @@
             "nombre": "⭐️⭐️Series de Suspenso⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Gul",
+                    "genero": "Misterio, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Con la llegada de un siniestro prisionero a un centro militar, la búsqueda de la verdad de una joven interrogadora se convierte en una batalla por la supervivencia.",
+                    "anio": "2018",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1LfMJ06E5Jh5w9vOSPhgKJkJx9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lnNj4ysMDiY9kcYpT5NN2QdBBBw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "De un fuego sin humo",
+                                    "url": "ttp://vddgcoud02.gd34fdldh.xyz/vod/694A8C3D840C4F61A64C304CE03AA196_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Empezarán las pesadillas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/037E0D676CE743D5BEB461A8EC532292_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Revela su culpa, come su carne",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/27F87D79A0A343EC838A200ACB2E0EC9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 80707,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Stranger Things",
                     "genero": "Drama, Sci-Fi & Fantasy, Misterio",
                     "descripcion": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
@@ -4516,40 +4550,6 @@
                     ],
                     "tmdb_id": 0,
                     "total_seasons": 0
-                },
-                {
-                    "nombre": "Gul",
-                    "genero": "Misterio, Sci-Fi & Fantasy, Drama",
-                    "descripcion": "Con la llegada de un siniestro prisionero a un centro militar, la búsqueda de la verdad de una joven interrogadora se convierte en una batalla por la supervivencia.",
-                    "anio": "2018",
-                    "iconPng": "https://image.tmdb.org/t/p/original/1LfMJ06E5Jh5w9vOSPhgKJkJx9.png",
-                    "icono": "https://image.tmdb.org/t/p/original/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lnNj4ysMDiY9kcYpT5NN2QdBBBw.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "De un fuego sin humo",
-                                    "url": "ttp://vddgcoud02.gd34fdldh.xyz/vod/694A8C3D840C4F61A64C304CE03AA196_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Empezarán las pesadillas",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/037E0D676CE743D5BEB461A8EC532292_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Revela su culpa, come su carne",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/27F87D79A0A343EC838A200ACB2E0EC9_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 80707,
-                    "total_seasons": 1
                 }
             ]
         }

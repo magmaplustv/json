@@ -1922,6 +1922,55 @@
             "nombre": "⭐️⭐️Series de Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "La chica que mato a sus padres",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Presenta el punto de vista de Daniel Cravinhos sobre los eventos que llevaron a la muerte de la pareja Richthofen, padres de su entonces novia Suzane von Richthofen. Un drama criminal real sobre uno de los casos de asesinato mas impactantes de Brasil.",
+                    "anio": "2024",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/A16Uylh7bGLHZ6MLwtsmaPOtuL5.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3TuiVcp0PoxOcrw6O22Wq34Dv75.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/75DF9B4890E343FFBF1239272D9EA987_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5BC5F1BEE2F44573AE891ACED69DA462_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86DC2E516D1F430C96D75D813B015667_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23E4B59D31614C76B908AEE9DC48D2A3_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EAEF52C7C9534F44B69095C06A559D2E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF26EF1325894AAA91EECF825D5C679B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 278383,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Karma",
                     "genero": "Crimen, Drama",
                     "descripcion": "Un fatídico accidente entrelaza las vidas de seis personas en esta historia de karma y misterio, en la que todos se deben enfrentar a sus propias verdades y oscuros lazos.",
@@ -2076,55 +2125,6 @@
                         }
                     ],
                     "tmdb_id": 239615,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "La chica que mato a sus padres",
-                    "genero": "Drama, Crimen",
-                    "descripcion": "Presenta el punto de vista de Daniel Cravinhos sobre los eventos que llevaron a la muerte de la pareja Richthofen, padres de su entonces novia Suzane von Richthofen. Un drama criminal real sobre uno de los casos de asesinato mas impactantes de Brasil.",
-                    "anio": "2024",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/A16Uylh7bGLHZ6MLwtsmaPOtuL5.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3TuiVcp0PoxOcrw6O22Wq34Dv75.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/75DF9B4890E343FFBF1239272D9EA987_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5BC5F1BEE2F44573AE891ACED69DA462_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86DC2E516D1F430C96D75D813B015667_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23E4B59D31614C76B908AEE9DC48D2A3_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EAEF52C7C9534F44B69095C06A559D2E_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF26EF1325894AAA91EECF825D5C679B_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 278383,
                     "total_seasons": 1
                 }
             ]

@@ -2219,6 +2219,40 @@
                     ],
                     "tmdb_id": 245079,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El robo del diamante",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "Esta travesura criminal más extraña que la ficción sigue el intento de robo de una gema preciosa, contado por los gángsters que lo hicieron y la policía que los pisa los talones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7nSVIgailEnSPMvHFg2wiBNfop1.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8nUlkojaXzBRNncycEk8i3fL2aV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5nWLwHIX9nAgsreSY6MaAc39gm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171517.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171518.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/171519.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286840,
+                    "total_seasons": 1
                 }
             ]
         },

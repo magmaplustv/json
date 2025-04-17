@@ -2848,6 +2848,45 @@
                     ],
                     "tmdb_id": 42009,
                     "total_seasons": 7
+                },
+                {
+                    "nombre": "The Tyrant",
+                    "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "EE. UU. descubre un proyecto secreto de Corea, por lo que este se desmantela. Un accidente impide la entrega del último ejemplar del proyecto. Mientras Paul lo busca, el director Choe intenta ocultarlo, pero acaban en el mismo sitio que Jagyeong y Lim Sang. ¿Quién se apoderará del ejemplar?",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8UfvdpaiFkKNwqwjYJCoYnb0HL7.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rrNdOifgpKsLeUWgljARXGHCG5x.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/A0VcA80YupTVei5a05UGfBXVrUT.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5CE467A700BD4C76B208E1EF72BEE197_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C85BF7104A6C40288265CE8C536A0509_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2E2A9D35DE3B47A9807F918ADB523194_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/850CBEB77012497A9CED4E8E8384FA49_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246748,
+                    "total_seasons": 1
                 }
             ]
         },

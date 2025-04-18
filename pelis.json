@@ -861,6 +861,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3A73AB9BA85843959D0B36CD5DA88515_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tFL9IuEwA35xmG3kSKFEWxWJDaz.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La odisea de los giles",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EEE5504E86E04CE6A02E151F29CF76DB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
+                "type": "PELICULA"
             }
         ]
     },

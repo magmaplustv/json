@@ -1065,6 +1065,12 @@
         "name": "⭐️⭐️Disney⭐️⭐️",
         "samples": [
             {
+                "name": "Una muerte silenciosa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BF5C35E549BC45A3AE7AEAC6CD74E880_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Mientras Cupido no está",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
@@ -1092,12 +1098,6 @@
                 "name": "Los Simpsons: The Past and the Furious",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168304.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cHQef5ohvTtiG53h04NSsVPoSJ5.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Una muerte silenciosa",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167491.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
                 "type": "PELICULA"
             },
             {

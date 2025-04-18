@@ -3015,6 +3015,78 @@
                                     "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5834AB0A0EA34D0DAB330F59D69244EF_media.mp4"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Caída en picado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5D0D2EB78A3F4A4E8B590742B874DBDB_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Playtesting",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4582757B914744239A701658482D98AD_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Cállate y baila",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8E916074DAD542DFB6D4F40A82B215D5_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "San Junípero",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0D26EB46656D496A8849360FFB517A2C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La ciencia de matar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E156F45C5C844598ADA9BFF60815A3A3_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Odio nacional",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/177DDCE0A01D4FFA9E2F28FF53A76BAE_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "USS Callister",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1659BCD7D9644730A39670B74579C3F7_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Arkangel",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42E5012E7A304A89A188A7B2A3999369_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Cocodrilo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/52D0DBFDED1848CBBACF1721CF74BECA_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Hang the DJ",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E84CEA84025842768B904090AA847480_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Cabeza de metal",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F29B4CAD43E2492EB1486AC9C54DA3EC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Black Museum",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6BF5A5F44278434599902980307051E0_media.mp4"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 42009,

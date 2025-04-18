@@ -891,6 +891,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5F1C21C01F0448BC9ABDDB50D2A6467C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/AeLZROGOpgJZS0HP6vuA9hj01Ju.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Puan",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/731F62DBA1B44099BD8E932A53015AB5_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vtCU7HDpZtpyMOvPeZWBz45hQ8f.jpg",
+                "type": "PELICULA"
             }
         ]
     },

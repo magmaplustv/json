@@ -873,6 +873,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F894799BA00F4AA58078357C60A43382_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aol93ghyDZqgc1s9WnlQlUmwHp3.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El aura",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/32E09018AD994B5B9440D4678BF7AEEE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wzJok3MeJk7Zi0BGBII3UxnLyHn.jpg",
+                "type": "PELICULA"
             }
         ]
     },

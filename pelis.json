@@ -843,6 +843,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5ECDB9446AAD4CEA82C3EE8D98E10E00_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mnGZ6VPB7T923oLDGChcPdzmZxk.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El hijo de la novia",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11A6A94BF7594D74BDB589657566C81A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/d7asQbYjP3iAICg7CRKbis0MIcf.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -831,6 +831,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F4796DB962E84684A2A2DA0667B0709D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi obra maestra",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F92820B000C54F5CBCD353E65BCA7528_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg",
+                "type": "PELICULA"
             }
         ]
     },

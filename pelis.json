@@ -849,6 +849,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11A6A94BF7594D74BDB589657566C81A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/d7asQbYjP3iAICg7CRKbis0MIcf.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Kamchatka",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/31DD630AED3142368E38C7B95905B8D2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/raielLvbmZw1SUTOWHVNciXcDHU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

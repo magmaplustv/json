@@ -885,6 +885,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1DFFB085FD164B268DA95ED3DA9915DA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3LTgQf2NKmLiDAPUaMfbZ8yOxjN.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El bonaerense",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5F1C21C01F0448BC9ABDDB50D2A6467C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/AeLZROGOpgJZS0HP6vuA9hj01Ju.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -837,6 +837,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F92820B000C54F5CBCD353E65BCA7528_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Corazón de león",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5ECDB9446AAD4CEA82C3EE8D98E10E00_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mnGZ6VPB7T923oLDGChcPdzmZxk.jpg",
+                "type": "PELICULA"
             }
         ]
     },

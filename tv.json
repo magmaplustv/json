@@ -1,7 +1,14 @@
 [
     {
         "name": "Eventos Premium",
-        "samples": []
+        "samples": [
+            {
+                "name": "LaLiga: Espanyol vs Getafe",
+                "url": "//dpstream2.my/global1.html?channel=espndeportes",
+                "type": "HLS",
+                "icono": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/04/16/image-68d85478-1d83-410a-8607-4cd630a9d2d3-85-2560-1440.jpeg"
+            }
+        ]
     },
     {
         "name": "CANALES DE ARGENTINA",

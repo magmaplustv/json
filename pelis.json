@@ -825,6 +825,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9083688D0F4424E93D8F53DFF71EF34_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5yRBIxOAnEaQOqy0eYHX1rJWGQh.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Corazón loco",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F4796DB962E84684A2A2DA0667B0709D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg",
+                "type": "PELICULA"
             }
         ]
     },

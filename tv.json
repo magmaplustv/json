@@ -1431,7 +1431,7 @@
                 "name": "Sony Movies",
                 "url": "https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88b9c41e72acd5b589bbfb4776969781&key=43b9403f7a9e28fc2d7cbf10373b85aa",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

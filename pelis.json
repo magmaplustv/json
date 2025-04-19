@@ -306,6 +306,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Brave the Dark",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+                "type": "PELICULA"
             }
         ]
     },

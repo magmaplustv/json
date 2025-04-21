@@ -1017,6 +1017,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/517FC5DD0DE74C75857CF129D08D0F14_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/p6vTD1Ctbz79TKkUwk8RSBzZk8A.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El rey del Once",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/705BF82DFF31412B9102660B0D6CF9AB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hpGHSU4UJfMexrhblHoVJToVlL3.jpg",
+                "type": "PELICULA"
             }
         ]
     },

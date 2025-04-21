@@ -2875,6 +2875,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/00AF90199EDA4FE9BA38ED651D6011EC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zGrw785ezgPS43yNxZcD3Xhi8oy.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Heretic (Hereje)",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/41E4EDE7D32342EAA5CF48E07A9B4FB7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
+                "type": "PELICULA"
             }
         ]
     }

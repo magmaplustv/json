@@ -3160,16 +3160,15 @@
             },
             {
                 "name": "CANAL 10",
-                "url": "http://magmaplayer.com/stream/m3u8/AQNmKmt2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/866.m3u8",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
                 "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
                 "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                },
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51"
             },
             {
                 "name": "Canal 12 Uruguay",

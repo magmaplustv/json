@@ -2869,6 +2869,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66D69980E6CB486A8426463123940310_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4akd1zxzCUdow2gXX1ovbRE3ZoO.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Oddity",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/00AF90199EDA4FE9BA38ED651D6011EC_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zGrw785ezgPS43yNxZcD3Xhi8oy.jpg",
+                "type": "PELICULA"
             }
         ]
     }

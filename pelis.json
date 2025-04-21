@@ -975,6 +975,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0AD58143EE8E45DBBF6866A28B90C79A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mIC8ENJk2DdKk7KgcRK3ODbJRtU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Carancho",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7D19CDA1D914DE899C8B429A04D1963_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5raNl2q1SyBYQkhkg9mdXAQqgeq.jpg",
+                "type": "PELICULA"
             }
         ]
     },

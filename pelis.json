@@ -916,6 +916,12 @@
         "name": "⭐️⭐️Netflix⭐️⭐️",
         "samples": [
             {
+                "name": "Pangolín: El viaje de Kulu",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/087A8F48ADD344D29404A7EAD1E3B3C0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "iRehén",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/08D743CB70024228AAFFF61E1A30B04D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
@@ -1099,12 +1105,6 @@
                 "name": "No te muevas",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168006.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Pangolín: El viaje de Kulu",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/087A8F48ADD344D29404A7EAD1E3B3C0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg",
                 "type": "PELICULA"
             }
         ]

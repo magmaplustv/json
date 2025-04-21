@@ -969,6 +969,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/18D4FDAD714441479A1642BA8523153A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/2zg6WE5maWgH6rJH9BjVIesuOkP.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Inseparables",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0AD58143EE8E45DBBF6866A28B90C79A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mIC8ENJk2DdKk7KgcRK3ODbJRtU.jpg",
+                "type": "PELICULA"
             }
         ]
     },

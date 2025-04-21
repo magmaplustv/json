@@ -963,6 +963,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/670D898CF3B04B089212B7D052847C0A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Dos más dos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/18D4FDAD714441479A1642BA8523153A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2zg6WE5maWgH6rJH9BjVIesuOkP.jpg",
+                "type": "PELICULA"
             }
         ]
     },

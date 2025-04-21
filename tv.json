@@ -3199,14 +3199,6 @@
                 "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
             },
             {
-                "name": "GOL TV",
-                "icono": "https://i.ibb.co/WBs0G8p/Goltv.png",
-                "url": "http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8",
-                "drm_scheme": "HLS",
-                "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-                "type": "HLS"
-            },
-            {
                 "name": "VTV+",
                 "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",

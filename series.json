@@ -1920,65 +1920,6 @@
                     ],
                     "tmdb_id": 235930,
                     "total_seasons": 1
-                },
-                {
-                    "nombre": "APARI3NCIAS",
-                    "genero": "Comedia, Drama, Animación",
-                    "descripcion": "En una sociedad en la que el físico lo es todo, un marginado del instituto lleva una doble vida alternando entre dos cuerpos totalmente opuestos.",
-                    "anio": "2022",
-                    "iconPng": "https://image.tmdb.org/t/p/original/iCs15QuQMcWhOpHO2R2KbdtZiQa.png",
-                    "icono": "https://image.tmdb.org/t/p/original/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vjvL4LCLMxOcFOuaYLPQMtAEFJ0.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167457.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167458.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167459.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167460.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167461.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167462.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167463.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/167464.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 210942,
-                    "total_seasons": 1
                 }
             ]
         },

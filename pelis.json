@@ -3073,6 +3073,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Regresión",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EE09AA41B13A462698A394583C699061_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
+                "type": "PELICULA"
             }
         ]
     }

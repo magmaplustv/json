@@ -2973,6 +2973,12 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "La mujer de las sombras",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1EF978CA1DAD47E1A995A43E1BB40A76_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La primera profecía",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D7EFEC2EADBE4BB59102A5391EF87FE0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zukKt2xmxNVFhHjkYSMqHmllYXC.jpg",
@@ -3138,12 +3144,6 @@
                 "name": "Mamá",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D60C98F471484DB58CACA9709633AA53_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La mujer de las sombras",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1EF978CA1DAD47E1A995A43E1BB40A76_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
                 "type": "PELICULA"
             }
         ]

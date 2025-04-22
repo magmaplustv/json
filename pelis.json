@@ -1041,6 +1041,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B51F04411CBD48EB8732FB0622C2CF50_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zIRCirg18lhRQoBCSZ9Dl6DVY7W.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Acusada",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/301FEC048B0746128D26B767E877DB14_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oleJ8S5dwAOhvApbMLXMuBsYHbL.jpg",
+                "type": "PELICULA"
             }
         ]
     },

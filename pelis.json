@@ -462,12 +462,6 @@
         "name": "⭐️⭐️Estrenos 2024⭐️⭐️",
         "samples": [
             {
-                "name": "Campamento con mamá",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4B5CCC9AC2184559A713F7960BF2F0F1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La patasola",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39BD8DAC01A6492388E14DF0638EA772_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8hAi3I6vxlqtLqvcmP0sRktvNwA.jpg",
@@ -1088,6 +1082,12 @@
                 "name": "Sin hijos",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D3EFAF10B0FE4D24939ADB1A144E1BF3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8ABPcRThqfqv7o9ohhkLKEc6gZ2.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Campamento con mamá",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4B5CCC9AC2184559A713F7960BF2F0F1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
                 "type": "PELICULA"
             }
         ]

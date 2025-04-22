@@ -462,12 +462,6 @@
         "name": "⭐️⭐️Estrenos 2024⭐️⭐️",
         "samples": [
             {
-                "name": "Oh, Canada",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C8F77651A9304DEE88489FEFBC3617A7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9MbhhZP62zitaouJxkKb1tiQcEU.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La patasola",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39BD8DAC01A6492388E14DF0638EA772_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8hAi3I6vxlqtLqvcmP0sRktvNwA.jpg",
@@ -3239,6 +3233,12 @@
                 "name": "Inexplicable",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8792304E1F1F40B5B3FC81FA82DFD956_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yiWrMyJA6yYo147S9Xu7Cy4ghEI.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Oh, Canada",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C8F77651A9304DEE88489FEFBC3617A7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9MbhhZP62zitaouJxkKb1tiQcEU.jpg",
                 "type": "PELICULA"
             }
         ]

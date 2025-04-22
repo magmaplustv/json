@@ -2870,6 +2870,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9C982127709489CA96B8BE08F327665_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Frogman",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/350824BBC42445B495BBE0AF4EE0F602_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wFCM4SKsBQIpKXhcCGgkVf7DK2F.jpg",
+                "type": "PELICULA"
             }
         ]
     },

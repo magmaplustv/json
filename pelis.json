@@ -2888,6 +2888,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B3E5F78EDD484F6ABCA8643FF2E41923_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/r34HRvpgkuszOB2mLgd0iplZ7fC.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "[REC]",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/52755CC828EF45119515A2EDED3914D4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg",
+                "type": "PELICULA"
             }
         ]
     },

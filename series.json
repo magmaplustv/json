@@ -1327,6 +1327,55 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Camaleón: El pasado no cambia",
+                    "genero": "Drama",
+                    "descripcion": "Sabrina, una periodista de investigación, lleva una vida estable junto a su hija y su marido. Sin embargo, su mundo colapsa con la reaparición de Salvador Carvallo, un famoso artista y amigo de su madre Iris, que reabre en Sabrina capítulos oscuros de su vida que creía olvidados y que ponen en jaque su estabilidad. Enfrentada con el pasado y con el descubrimiento de un nuevo secreto en el presente, Sabrina luchará por exponer la verdad, incluso si nadie está dispuesto a escucharla.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/md8qtkfUBVaRgQVCGzeOxemw8Mo.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rjumY1oVb5ml0EDxkZSnwQmmwwH.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "En restropectiva",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6B11E9B7BC22421F96F45968D6E5B235_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bocetos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FE2CB30C0DD34DDF97A9105A8C58A324_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "En caída",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A485C60E9ED54B2C9904388652CBDEDA_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Manipulación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/999CA4AB01DF43F1AB7B5BE9CDF2963A_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Marcado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99E2C586C8504D0D8BEE8D83AA3714FB_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ave Fénix",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8A3D21BC05DB4A2DBB4AA8632D45B133_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 221812,
+                    "total_seasons": 1
                 }
             ]
         },

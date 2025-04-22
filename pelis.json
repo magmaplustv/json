@@ -2840,6 +2840,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/94042FAC4D4A45A1A6C505C998B9FA6A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lH2UI7qwvKtmHk9vFTxxnCQPLKa.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sin salida",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11BB48439CF24ABE8ED6E0E5DA71F10F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x794nkQvEKAWCTXk3EISd2T52zh.jpg",
+                "type": "PELICULA"
             }
         ]
     },

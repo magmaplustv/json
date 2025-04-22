@@ -2983,6 +2983,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4389DDA78AAC4727B3DB4D4D8AEBC026_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/knZo3KnD7mT4aXwLDbYyQw7ZA8Z.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Terrifier 2",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D445BD8CAFA94AEEBFCC8830404D5A2F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg",
+                "type": "PELICULA"
             }
         ]
     }

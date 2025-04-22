@@ -1059,6 +1059,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/04BD5BD4A453421495EBA85D00D8FF6A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wcAHJpXWOOLukNW7nSe5snBt0xK.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Culpa cero",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7A6A42C9ADED403B88CFC814B3E404E4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
+                "type": "PELICULA"
             }
         ]
     },

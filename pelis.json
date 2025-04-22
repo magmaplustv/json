@@ -2955,6 +2955,12 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "La primera profecía",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D7EFEC2EADBE4BB59102A5391EF87FE0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zukKt2xmxNVFhHjkYSMqHmllYXC.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El vigilante nocturno. Demonios heredados",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/133F04E7660042918CFD3B6A461DAE79_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6oRJkenJ1vhng041xm46j7U98pW.jpg",
@@ -3114,12 +3120,6 @@
                 "name": "Mamá",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D60C98F471484DB58CACA9709633AA53_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La primera profecía",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D7EFEC2EADBE4BB59102A5391EF87FE0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zukKt2xmxNVFhHjkYSMqHmllYXC.jpg",
                 "type": "PELICULA"
             }
         ]

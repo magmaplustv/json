@@ -2971,6 +2971,45 @@
             "nombre": "⭐️⭐️Series de Ciencia Ficción⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Proyecto Ovni",
+                    "genero": "Comedia, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Un presentador de televisión engreído y un ufólogo de un pequeño pueblo trabajan para descubrir los orígenes de un supuesto avistamiento de ovnis, dividiendo a la nación en una tormenta de dudas y creencias.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4OZSfJL3ltFr1TRFQnMaebdxvY4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kfrtJn6AuwGvOhctbDxWJtHEYSb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1kDcpOzVcyqqP0UXj0kX8WIOIY7.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D06FFAC0A30742D0BAE70523A293DB3C_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/85D93225ADBA4417A777D40CFA3B4672_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1F1DD4E8750E4E91B61A14AEE1D104F8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D6F95837E20343B8B5D2F862AC50A26F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 252591,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "The Tyrant",
                     "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
                     "descripcion": "EE. UU. descubre un proyecto secreto de Corea, por lo que este se desmantela. Un accidente impide la entrega del último ejemplar del proyecto. Mientras Paul lo busca, el director Choe intenta ocultarlo, pero acaban en el mismo sitio que Jagyeong y Lim Sang. ¿Quién se apoderará del ejemplar?",
@@ -3228,45 +3267,6 @@
                     ],
                     "tmdb_id": 42009,
                     "total_seasons": 7
-                },
-                {
-                    "nombre": "Proyecto ovni",
-                    "genero": "Comedia, Drama, Sci-Fi & Fantasy",
-                    "descripcion": "Un presentador de televisión engreído y un ufólogo de un pequeño pueblo trabajan para descubrir los orígenes de un supuesto avistamiento de ovnis, dividiendo a la nación en una tormenta de dudas y creencias.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/4OZSfJL3ltFr1TRFQnMaebdxvY4.png",
-                    "icono": "https://image.tmdb.org/t/p/original/kfrtJn6AuwGvOhctbDxWJtHEYSb.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1kDcpOzVcyqqP0UXj0kX8WIOIY7.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D06FFAC0A30742D0BAE70523A293DB3C_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/85D93225ADBA4417A777D40CFA3B4672_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1F1DD4E8750E4E91B61A14AEE1D104F8_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D6F95837E20343B8B5D2F862AC50A26F_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 252591,
-                    "total_seasons": 1
                 }
             ]
         },

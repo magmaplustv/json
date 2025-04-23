@@ -974,13 +974,10 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
             },
             {
-                "name": "DISNEY+ 20",
-                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YmIzNTlkNDY1NmQ2LWVlNTktZTZhNC0wNDk1LWI4MWI4ZDZm/master.m3u8",
+                "name": "DSports Radio",
+                "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO",
                 "type": "HLS",
-                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
-                "headers": {
-                    "User-Agent": "Mozilla/5.0"
-                }
+                "icono": "https://static.mytuner.mobi/media/tvos_radios/329/d-sports.4f470dc8.png"
             }
         ]
     },

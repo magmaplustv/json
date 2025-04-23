@@ -2920,6 +2920,60 @@
                     ],
                     "tmdb_id": 216619,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Valiendo Madres",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Cuatro madres jóvenes fortalecen su amistad más allá del grupo de chat escolar de sus hijos después de un intenso viaje de campamento escolar, donde descubren quién está teniendo una aventura con uno de sus maridos.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/AsMQn2rVC7QSUN6Qp5YxXTo4Iwx.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wgKZJafFzLe95weUv22Y6wEynoo.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E95FB006C23B481791A1A9963CA64B60_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/424C6430DCF94905A0E6F78EBC7B6374_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0CE37612C2264928B04A012F8B9EBB84_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5CDB1FFBC2CA402FB9C983E432195EBD_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBA4E2DDAFB744CF839007950339AC4D_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1671671F41644414A1315678BD188B3E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A579D516F3164E96B5909015DBD84203_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 288752,
+                    "total_seasons": 1
                 }
             ]
         },

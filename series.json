@@ -3328,6 +3328,50 @@
             "nombre": "⭐️⭐️Series de Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "El Camino estrecho al norte Profundo",
+                    "genero": "Drama",
+                    "descripcion": "Año 1943. II Guerra Mundial, frente del Pacífico. Dorrigo Evans, oficial médico australiano, es capturado por los japoneses como prisionero de guerra y obligado a trabajar en la construcción del ferrocarril entre Tailandia y Birmania. Pasa los días intentando conservar la vida alentado y atormentado a la vez por el recuerdo de su aventura con la esposa de su tío, Amy. Su amor comenzó por casualidad cuando se conocieron en una librería. Desde ese momento, los pensamientos sobre Amy han inundado constantemente la mente de Dorrigo, a pesar de llevar mucho tiempo casado con otra mujer. Adaptación de la novela homónima de Richard Flanagan.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iffMvmNHnAi1nQpV9ZYYZfux2C7.png",
+                    "icono": "https://image.tmdb.org/t/p/original/iGq2IxzUPon33MQYoEgVMjkUcvp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qfH62PRofinrwRQ6vSxxDSwTtcq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/882B87730A4149C48C9A76B3A4EF4491_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C47589D84A264CB9806CD92AD0CE9391_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B5AEB3B17E8A4A8485D28A6E85E1F24E_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6ED5B7CE8AFD4F42B5C2F76B2E82A120_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9FB35212B8149B4BEA7DCBB36FFCA9F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 238339,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Enciclopedia de Estambul",
                     "genero": "Drama",
                     "descripcion": "Una estudiante se muda a Estambul con una amiga de la familia, a la que apenas conoce, y cambia su pueblo natal por una ciudad que pone a prueba su identidad y sus convicciones.",
@@ -4301,50 +4345,6 @@
                         }
                     ],
                     "tmdb_id": 241259,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "El Camino estrecho al norte Profundo",
-                    "genero": "Drama",
-                    "descripcion": "Año 1943. II Guerra Mundial, frente del Pacífico. Dorrigo Evans, oficial médico australiano, es capturado por los japoneses como prisionero de guerra y obligado a trabajar en la construcción del ferrocarril entre Tailandia y Birmania. Pasa los días intentando conservar la vida alentado y atormentado a la vez por el recuerdo de su aventura con la esposa de su tío, Amy. Su amor comenzó por casualidad cuando se conocieron en una librería. Desde ese momento, los pensamientos sobre Amy han inundado constantemente la mente de Dorrigo, a pesar de llevar mucho tiempo casado con otra mujer. Adaptación de la novela homónima de Richard Flanagan.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/iffMvmNHnAi1nQpV9ZYYZfux2C7.png",
-                    "icono": "https://image.tmdb.org/t/p/original/iGq2IxzUPon33MQYoEgVMjkUcvp.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qfH62PRofinrwRQ6vSxxDSwTtcq.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/882B87730A4149C48C9A76B3A4EF4491_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C47589D84A264CB9806CD92AD0CE9391_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B5AEB3B17E8A4A8485D28A6E85E1F24E_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6ED5B7CE8AFD4F42B5C2F76B2E82A120_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9FB35212B8149B4BEA7DCBB36FFCA9F_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 238339,
                     "total_seasons": 1
                 }
             ]

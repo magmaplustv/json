@@ -4243,6 +4243,65 @@
                     ],
                     "tmdb_id": 207411,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Enciclopedia de Estambul",
+                    "genero": "Drama",
+                    "descripcion": "Una estudiante se muda a Estambul con una amiga de la familia, a la que apenas conoce, y cambia su pueblo natal por una ciudad que pone a prueba su identidad y sus convicciones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/a1TRhAghf8LB0FMzcTKFGUz6TyD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/relVjfwpzlISUx4oiDTr5dOMmy8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uLrgsKBc3SLHmF4ReRy03jP2ZzI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/794509B03563459A92B65E6A0CAC73C0_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2808FEDA57CA442487EC7CA1C3591B7B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D0965763AF1742F39491520CA2C7A02B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/860477E2DB0E4194AC7807EDAF2CB972_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B6E0EBC8E1E448158AB1E0D5B5436A44_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C6156D9C08C44DE68935DEE317A9107B_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/456AFF11DA9C4C84A380CBCFEEA35506_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9AB8ADFFBACB4C9CA93601D502F68DE2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 278004,
+                    "total_seasons": 1
                 }
             ]
         },

@@ -956,13 +956,10 @@
                 "icono": "https://static.mytuner.mobi/media/tvos_radios/074/fm-popular-891.0ee1b784.png"
             },
             {
-                "name": "DISNEY+ 17",
-                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1N2NmM2UxMmJlNzQ5LThjZjgtMDBhNC1lNGVkLTVjNzY3MTg1/master.m3u8",
+                "name": "Radio con Vos (🇦🇷)",
+                "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
                 "type": "HLS",
-                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
-                "headers": {
-                    "User-Agent": "Mozilla/5.0"
-                }
+                "icono": "https://static.mytuner.mobi/media/tvos_radios/473/radio-con-vos-899-fm.eac1ac49.jpg"
             },
             {
                 "name": "DISNEY+ 18",

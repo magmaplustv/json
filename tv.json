@@ -968,13 +968,10 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg"
             },
             {
-                "name": "DISNEY+ 19",
-                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjI1NzVlMTk0OTcxLWMyZjktNTNkNC1mNzM4LTE0YzEzODJm/master.m3u8",
+                "name": "AM 910",
+                "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910",
                 "type": "HLS",
-                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
-                "headers": {
-                    "User-Agent": "Mozilla/5.0"
-                }
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png"
             },
             {
                 "name": "DISNEY+ 20",

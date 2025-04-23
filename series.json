@@ -4346,6 +4346,50 @@
                     ],
                     "tmdb_id": 241259,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La Niña robada",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Una madre de dos hijos cuyo mundo se pone patas arriba cuando acepta que su hija de nueve años pase la noche en la casa de su nueva mejor amiga.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3B6qh4mVhozFsc0kc0kCHUrfqCl.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cuoFKKZ7YFEP9zlXh9G0w7kCGFL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dDx7bjxtJcMwUhowCn7VhPwLEzp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6834D2F5A54B4965B5ECF578DE79DA73_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4DB43A7BC62B40789E438A54785214DC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C2ECE7D994064600B5A3B409B40C3E16_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/943DC73D9034469C98D7C172AC44BFD5_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F01610090EE4C0395FFA923A119E7EC_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 233256,
+                    "total_seasons": 1
                 }
             ]
         },

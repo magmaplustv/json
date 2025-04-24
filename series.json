@@ -4410,6 +4410,60 @@
                     ],
                     "tmdb_id": 241259,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Dope Thief: ladrones de drogas",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Dos amigos de toda la vida de Filadelfia se hacen pasar por agentes de la DEA para robar a traficantes de poca monta. Es el timo perfecto... hasta que eligen a la víctima equivocada y acaban siendo el objetivo de un gran entramado de narcóticos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2CN6HT6968bneyShxlRr2qLoSiE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6JthW5YU0LZK79FwHFzr0R30MSq.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qbUeqIQAn1cy01OuSctGmatVJCC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Jolly Ranchers",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4FDD98F37621498290E841721ED30F9A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Como alma que lleva el diablo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4FD46B19CDF4451CBB705EF58E3ADBAF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Corre, muere o recae",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AFF6B242611D402AB5606A683D4F434C_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La abogada de Filadelfia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96ADD91C4C50474DA8B317AA37BFE770_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Miedo a Dios",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C11EDFA2867B4A72A604697348914CAC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Canciones de amor desde Marte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A416A13E5179423EBDEB36DE40668790_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Mussolini",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F61A1A61D9D0426CA123FB1F2CF287EA_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 209876,
+                    "total_seasons": 1
                 }
             ]
         },

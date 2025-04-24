@@ -2962,6 +2962,12 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "Tu Sangre",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF99F13989394458A12675399C1171CA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wfcQRWmO23ND6zCQIxZ2TIOoDYy.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La mujer de las sombras",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1EF978CA1DAD47E1A995A43E1BB40A76_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
@@ -3139,12 +3145,6 @@
                 "name": "Y al séptimo día",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Tu Sangre",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF99F13989394458A12675399C1171CA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wfcQRWmO23ND6zCQIxZ2TIOoDYy.jpg",
                 "type": "PELICULA"
             }
         ]

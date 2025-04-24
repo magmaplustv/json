@@ -1403,6 +1403,65 @@
             "nombre": "⭐️⭐️Series Animadas⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Rey lobo",
+                    "genero": "Animación, Action & Adventure, Kids, Sci-Fi & Fantasy",
+                    "descripcion": "Un chico normal llega a la edad adulta y descubre que es el último de una larga saga de hombres lobo y el heredero del trono en esta increíble serie de aventuras.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vPuamyJG8ssIGp0HMZ3g42A9u5n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sKncI0Rcv8FB8UugAO9a138x98R.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El resurgir del lobo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AEFBD308214F47848AEB509A3D26089B_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Brackenholme",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/742F6E3A624A4EC981EE874E0C0BD01C_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El animal enjaulado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3D96A879B2E548099BA8E73001EE8336_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El bosque Wyrmwood",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C63CED610A534CD283B5B19E336CAE6C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Regreso a Motley",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5A4F30EE4594044BE6CBE53FA17F152_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El Maelstrom",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7DC844ABC2FB49DAA5EEC40E5B774975_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Encadenado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7666F8FC538345DDA846B80B7DFD02DF_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La caída del león",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7666F8FC538345DDA846B80B7DFD02DF_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231727,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Campeones hacia el Mundial: Oliver y Benji",
                     "genero": "Animación, Drama, Action & Adventure",
                     "descripcion": "Tras haber ganado el campeonato del mundo sub19, Tsubasa Ozora pide la mano de su gran amiga, Sanae, quien no se lo piensa mucho y acepta. También ha sido fichado por el Barcelona F.C., mientras que los demás se van a distintos equipos profesionales, como Hyuga, que se va al Juventus, o Wabayashi, quien se va al Hamburgo... Los demás se reparten en toda la J-League.",
@@ -1988,65 +2047,6 @@
                         }
                     ],
                     "tmdb_id": 235930,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Rey lobo",
-                    "genero": "Animación, Action & Adventure, Kids, Sci-Fi & Fantasy",
-                    "descripcion": "Un chico normal llega a la edad adulta y descubre que es el último de una larga saga de hombres lobo y el heredero del trono en esta increíble serie de aventuras.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/vPuamyJG8ssIGp0HMZ3g42A9u5n.png",
-                    "icono": "https://image.tmdb.org/t/p/original/sKncI0Rcv8FB8UugAO9a138x98R.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El resurgir del lobo",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AEFBD308214F47848AEB509A3D26089B_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Brackenholme",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/742F6E3A624A4EC981EE874E0C0BD01C_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "El animal enjaulado",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3D96A879B2E548099BA8E73001EE8336_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "El bosque Wyrmwood",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C63CED610A534CD283B5B19E336CAE6C_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Regreso a Motley",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5A4F30EE4594044BE6CBE53FA17F152_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "El Maelstrom",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7DC844ABC2FB49DAA5EEC40E5B774975_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Encadenado",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7666F8FC538345DDA846B80B7DFD02DF_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "La caída del león",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7666F8FC538345DDA846B80B7DFD02DF_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 231727,
                     "total_seasons": 1
                 }
             ]

@@ -5373,6 +5373,45 @@
                     ],
                     "tmdb_id": 0,
                     "total_seasons": 0
+                },
+                {
+                    "nombre": "La chica desaparecida",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "El tímido y simpático Aaro conoce a la misteriosa e inteligente Maura. Comienza una relación apasionada que parece demasiado buena para ser verdad. De repente, Maura desaparece. Aaro comienza a buscarla y descubre que ha inventado su identidad. Los secretos del pasado comienzan a revelarse poco a poco.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/8kRmPunv62mGq8UglzbA8K8bsZS.jpg",
+                    "logoHorizontal": "",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C4B6F33BD61F44F49108327DA370F565_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/815BEAB66E7C4DA89544521AEE112A4A_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B6C66B317E514CDAB912F3A9919FD544_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1406BD5709447738C30B37479F610C5_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 240254,
+                    "total_seasons": 1
                 }
             ]
         }

@@ -313,6 +313,12 @@
         "name": "⭐️⭐️Estrenos CAM 2025⭐️⭐️",
         "samples": [
             {
+                "name": "El Contador 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/173926.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La cita",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171195.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nCCtlyWeDkUUFu9eESd4jIQnUcj.jpg",
@@ -460,12 +466,6 @@
                 "name": "Mickey 17",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El contable 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/173926.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg",
                 "type": "PELICULA"
             }
         ]

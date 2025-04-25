@@ -1075,7 +1075,7 @@
                 "name": "PeacockTV Premier League",
                 "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://corporate.comcast.com/media/img/1000w/2020/07/corporate_Web-Publishing_Peacock-Premier_16x9_Thumbnail.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e"
             }
         ]

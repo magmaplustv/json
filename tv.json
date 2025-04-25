@@ -1200,7 +1200,15 @@
     },
     {
         "name": "⚽DEPORTES INTERNACIONALES✈️",
-        "samples": []
+        "samples": [
+            {
+                "name": "Espn Mx",
+                "url": "https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=227153e801d97c9c672ddb65d0f7d139&key=2d37b9e083bb849b6e913d817de2b8f2"
+            }
+        ]
     },
     {
         "name": "🎬PELICULAS, NOVELAS Y SERIES",

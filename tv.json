@@ -575,7 +575,7 @@
                 "name": "Somos Corrientes",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/Jy849HS/somos-corrientes.png",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnXL-g9Q8Z1C6ZihDETcgSh-NvT1iNMMYpA&s",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

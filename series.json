@@ -2393,6 +2393,65 @@
             "nombre": "⭐️⭐️Series de Comedia⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Estrella",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "En una ambiciosa apuesta por salvar sus históricas instituciones, dos compañías de ballet de Nueva York y París conocidas en todo el mundo intercambian a sus estrellas. De los productores ejecutivos de La maravillosa Sra. Maisel llega una nueva y atrevida serie que celebra la belleza, el humor y la imprevisibilidad de una vida dedicada a las artes, tanto dentro como fuera del escenario.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wjJcc7Ijwu5gzH65UnzvznPwoLM.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pY7ktIeY36SVYTm5qcj4yOAtaaP.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hUTHJLZc1GO92uijwsKc67l4q3Y.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/58C2F7B80E7C4EE68F2EC841E04EB13C_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/482FDBEA3BFE4BB3AD282FB9568BEAD3_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4DECA77D2B63444DAEBA9CD2F5EDB30D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF7D55FEA7654494983C2D0BB8919CE5_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1AE9932C72FC4E6CA6B3E9CC68EBC146_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE22D81CA6824F88A11B9A262E6504CA_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2FD9D60185BD436B8C7FC834BE994832_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7215A83AF314EC8942296E8579D03F3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 225383,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Valiendo Madres",
                     "genero": "Comedia, Drama",
                     "descripcion": "Cuatro madres jóvenes fortalecen su amistad más allá del grupo de chat escolar de sus hijos después de un intenso viaje de campamento escolar, donde descubren quién está teniendo una aventura con uno de sus maridos.",
@@ -3052,65 +3111,6 @@
                         }
                     ],
                     "tmdb_id": 216619,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Estrella",
-                    "genero": "Comedia, Drama",
-                    "descripcion": "En una ambiciosa apuesta por salvar sus históricas instituciones, dos compañías de ballet de Nueva York y París conocidas en todo el mundo intercambian a sus estrellas. De los productores ejecutivos de La maravillosa Sra. Maisel llega una nueva y atrevida serie que celebra la belleza, el humor y la imprevisibilidad de una vida dedicada a las artes, tanto dentro como fuera del escenario.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/wjJcc7Ijwu5gzH65UnzvznPwoLM.png",
-                    "icono": "https://image.tmdb.org/t/p/original/pY7ktIeY36SVYTm5qcj4yOAtaaP.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hUTHJLZc1GO92uijwsKc67l4q3Y.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/58C2F7B80E7C4EE68F2EC841E04EB13C_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/482FDBEA3BFE4BB3AD282FB9568BEAD3_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4DECA77D2B63444DAEBA9CD2F5EDB30D_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF7D55FEA7654494983C2D0BB8919CE5_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1AE9932C72FC4E6CA6B3E9CC68EBC146_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE22D81CA6824F88A11B9A262E6504CA_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2FD9D60185BD436B8C7FC834BE994832_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7215A83AF314EC8942296E8579D03F3_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 225383,
                     "total_seasons": 1
                 }
             ]

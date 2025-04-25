@@ -2556,6 +2556,12 @@
         "name": "⭐️⭐️Comedia⭐️⭐️",
         "samples": [
             {
+                "name": "Vampira humanista busca suicida",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/51AB874355834C0BA0354A4E8C43276A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vQNOB42MJNi2655nMaLsQa8XaiK.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El Asesino de los ojos de corazon",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/62CA838DFAD34EE48902C39E69177ABC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cQdfSHkmPnSS3AncCz13H0fCUoq.jpg",
@@ -2835,12 +2841,6 @@
                 "name": "La máscara 2 (El hijo de la máscara)",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1ED2E160445E40F888E7F0F89F1D8AA9_media.mp4\"",
                 "icono": "https://image.tmdb.org/t/p/original/pLR2dgaNuHVJcS5mgIHfpRzgYAB.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Vampira humanista busca suicida",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/51AB874355834C0BA0354A4E8C43276A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vQNOB42MJNi2655nMaLsQa8XaiK.jpg",
                 "type": "PELICULA"
             }
         ]

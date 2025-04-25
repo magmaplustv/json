@@ -582,6 +582,18 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Somos Bahía Blanca",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc/Somos_Bahia_Blanca.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihwU2t6DGM7T2CLKAWcCzUcUjySb3XZHJuw&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

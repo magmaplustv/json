@@ -1076,6 +1076,12 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Premiere 1 - Brasil",
+                "url": "http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8",
+                "type": "HLS",
+                "icono": "https://logo.iptveditor.com/premiere2.png"
             }
         ]
     },

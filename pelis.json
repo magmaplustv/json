@@ -1650,6 +1650,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ash",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7B4C454970FE4EA091A5436ECC2E58EB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
+                "type": "PELICULA"
             }
         ]
     },

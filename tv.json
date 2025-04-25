@@ -1084,6 +1084,12 @@
                 "type": "CLEARKEY",
                 "icono": "https://external-preview.redd.it/multiview-might-be-coming-to-peacock-for-the-premier-league-v0-dXbkviv234kTD072MickjJM_Q_swuSRPgu0emgCHB-k.jpg?auto=webp&s=3ac0a16aba745123206482a5bf0729f9962f39df",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0045a118e231f1326bcdb45350b1ceaa&key=8c13afbfa54ea37a368b8b859021f6e3"
+            },
+            {
+                "name": "TSN 1",
+                "url": "http://212.102.60.231/TSN_1/index.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10"
             }
         ]
     },

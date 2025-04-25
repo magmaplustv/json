@@ -1322,6 +1322,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168006.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El ladrón de joyas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1F392B7E53B45F78500467583411B4D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9e7ZPLbyVV1JvIVu7yNECXnTwXR.jpg",
+                "type": "PELICULA"
             }
         ]
     },

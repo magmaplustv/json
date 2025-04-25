@@ -1077,6 +1077,13 @@
                 "type": "CLEARKEY",
                 "icono": "https://corporate.comcast.com/media/img/1000w/2020/07/corporate_Web-Publishing_Peacock-Premier_16x9_Thumbnail.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e"
+            },
+            {
+                "name": "NBC Sport Peacock",
+                "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://external-preview.redd.it/multiview-might-be-coming-to-peacock-for-the-premier-league-v0-dXbkviv234kTD072MickjJM_Q_swuSRPgu0emgCHB-k.jpg?auto=webp&s=3ac0a16aba745123206482a5bf0729f9962f39df",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0045a118e231f1326bcdb45350b1ceaa&key=8c13afbfa54ea37a368b8b859021f6e3"
             }
         ]
     },

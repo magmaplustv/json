@@ -1316,6 +1316,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168006.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Estragos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BF65AFA5D1CC4E988FF2D1D4137146C7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg",
+                "type": "PELICULA"
             }
         ]
     },

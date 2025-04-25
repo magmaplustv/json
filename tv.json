@@ -1070,13 +1070,6 @@
                 "url": "http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8",
                 "type": "HLS",
                 "icono": "https://logo.iptveditor.com/premiere2.png"
-            },
-            {
-                "name": "Premiere 2 - Brasil",
-                "url": "https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330"
             }
         ]
     },

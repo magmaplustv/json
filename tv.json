@@ -1090,7 +1090,10 @@
                 "url": "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://static3.go3.tv/file/go3/resources/logos/OM.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=610ad79e26a84fc782c987455e21a86b&key=d2d4acc6e79447b55f3f5c0267af06f5"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=610ad79e26a84fc782c987455e21a86b&key=d2d4acc6e79447b55f3f5c0267af06f5",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

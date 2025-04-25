@@ -1417,6 +1417,17 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Film & Arts",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

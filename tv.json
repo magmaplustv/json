@@ -1206,7 +1206,12 @@
                 "url": "https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=227153e801d97c9c672ddb65d0f7d139&key=2d37b9e083bb849b6e913d817de2b8f2"
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=227153e801d97c9c672ddb65d0f7d139&key=2d37b9e083bb849b6e913d817de2b8f2",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

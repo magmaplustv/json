@@ -1,6 +1,70 @@
 {
     "categorias": [
         {
+            "nombre": "⭐️⭐️Romance⭐️⭐️",
+            "series": [
+                {
+                    "nombre": "Seguro de divorcio",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Cuando Ki-jun, el genial actuario de una aseguradora, se propone desarrollar una nueva póliza de seguros, se forma un grupo de trabajo que incluye a una evaluadora de riesgos, una analista cuantitativa, una tasadora de pérdidas y un gran veterano. En esta comedia romántica de oficina seguiremos sus viajes para cuantificar las primas adecuadas mientras descubren nuevas relaciones y el amor.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/27u4BnDXbgAnu5MsdEGVADNANCe.png",
+                    "icono": "https://image.tmdb.org/t/p/original/z17QRJn5CdsKib6DrMTghMVtZdR.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tSeyn9VqrAKuMytgDCXY9iMGXa8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE1FBEBD50CB4929B7C0A72C019AAF74_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/247E4F0C317940C2AF4E8B5FB148C0DF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1F416FA276FF4C1EBC5ED010C630E336_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B5B4F09E4E234D04B180176D5F0C3B1E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B863F63F52DB4C5088DBD2BF9488BC4C_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/518119AC17E940C99E0CED4DE4BA0F68_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5341C1C89D4C44268A02F2DD00A82AF2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5E8DE46C72F45838578CED976DF102C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 258764,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {

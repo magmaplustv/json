@@ -378,6 +378,12 @@
         "name": "⭐️⭐️Estrenos 2024⭐️⭐️",
         "samples": [
             {
+                "name": "Piece by Piece",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8DA2BB58BF5E4492B28CBA1D55F4E3C0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Motel Tlalpan",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0DCFBFB04EBE4CDABB45FD41C6666B78_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/c3UWELJxgalitM1mDlQ2lU7Mo2T.jpg",
@@ -591,12 +597,6 @@
                 "name": "Cacería Sangrienta",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/93458CD9E32040F88F01D79EA754D17D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Piece by Piece",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167966.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
                 "type": "PELICULA"
             },
             {

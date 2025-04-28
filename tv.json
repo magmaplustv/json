@@ -560,6 +560,12 @@
                 }
             },
             {
+                "name": "Telefe Rosario",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png"
+            },
+            {
                 "name": "Somos Mar del Plata Necochea",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd",
                 "type": "CLEARKEY",
@@ -630,12 +636,6 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Telefe Rosario",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png"
             }
         ]
     },

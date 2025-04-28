@@ -570,12 +570,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Los festivos caballeros",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/18AF7F74B3D6493A836F6A912E5B5AF9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Terrifier 3",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76254.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
@@ -1243,6 +1237,12 @@
                 "name": "No te muevas",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168006.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los festivos caballeros",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/18AF7F74B3D6493A836F6A912E5B5AF9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/AlbOgFcYvqq0fDMoqrQp9AZNrFl.jpg",
                 "type": "PELICULA"
             }
         ]

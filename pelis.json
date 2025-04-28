@@ -3,6 +3,12 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
+                "name": "Nuestro Papa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79A50F8450F541C28FC41AB3263B3370_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kBCtNvOwyN1GzruK0qm9co2dN3l.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Terrifier 3",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E195F76CE062437F99AD707937A023A7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
@@ -66,12 +72,6 @@
                 "name": "El Irlandés",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/67A53CC7035747EBBB2459EB8B8E8AE2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Nuestro Papa",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79A50F8450F541C28FC41AB3263B3370_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kBCtNvOwyN1GzruK0qm9co2dN3l.jpg",
                 "type": "PELICULA"
             }
         ]

@@ -378,6 +378,12 @@
         "name": "⭐️⭐️Estrenos 2024⭐️⭐️",
         "samples": [
             {
+                "name": "Alien: Romulus",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D1346EB4DDB54E19BA0B5E6247CF7211_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Piece by Piece",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8DA2BB58BF5E4492B28CBA1D55F4E3C0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
@@ -609,12 +615,6 @@
                 "name": "Jurado Nº 2",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/608293B955984B8EBE4C35CECDF22BD3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Alien: Romulus",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/76482.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
                 "type": "PELICULA"
             },
             {

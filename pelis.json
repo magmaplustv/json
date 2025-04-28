@@ -194,12 +194,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Baby Blue",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169786.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lIK5YEk9EQpcWXiE6BrgbhreXKQ.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Uppercut",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169783.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xcXq6q0p6QEXZC1o8UIFHt3L1EE.jpg",

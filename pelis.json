@@ -2938,6 +2938,12 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "Algea: God of Pain",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A5CEB7DB5DC64D778E90806C2CF21986_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Tu Sangre",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FF99F13989394458A12675399C1171CA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wfcQRWmO23ND6zCQIxZ2TIOoDYy.jpg",
@@ -3121,12 +3127,6 @@
                 "name": "Y al séptimo día",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Algea: God of Pain",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A5CEB7DB5DC64D778E90806C2CF21986_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
                 "type": "PELICULA"
             }
         ]

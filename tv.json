@@ -3330,7 +3330,7 @@
                 "icono": "",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8236bef638490a63aacdc424df908658&key=6229f752364cd5e71cd31a9ef9757bf1",
                 "headers": {
-                    "Referer": "https://player.sensa.com.ar",
+                    "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
             }

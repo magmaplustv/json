@@ -3294,12 +3294,6 @@
                 "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
             },
             {
-                "name": "VTV+ PLUS 2",
-                "url": "http://gzytv.vip:8080/live/MegaTv1%240/cf68bbb8552bd630/19a05e5e-08b4-4aeb-b288-4f3716224b2a.m3u",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
-            },
-            {
                 "name": "TV Ciudad Uruguay",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd",
                 "type": "CLEARKEY",

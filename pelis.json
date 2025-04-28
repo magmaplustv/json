@@ -438,6 +438,12 @@
         "name": "⭐️⭐️Estrenos 2024⭐️⭐️",
         "samples": [
             {
+                "name": "Motel Tlalpan",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0DCFBFB04EBE4CDABB45FD41C6666B78_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/c3UWELJxgalitM1mDlQ2lU7Mo2T.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La patasola",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39BD8DAC01A6492388E14DF0638EA772_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8hAi3I6vxlqtLqvcmP0sRktvNwA.jpg",
@@ -729,12 +735,6 @@
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167955.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Motel Tlalpan",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0DCFBFB04EBE4CDABB45FD41C6666B78_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/c3UWELJxgalitM1mDlQ2lU7Mo2T.jpg",
                 "type": "PELICULA"
             }
         ]

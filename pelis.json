@@ -218,12 +218,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "El Oso Yogui",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CECA4805A5B94DD2803CCD37346CE451_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Policán",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/347AE83EDE07482F9E973091AAC78E69_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg",
@@ -2340,6 +2334,12 @@
                 "name": "El Proyecto Adam",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/77132EBF0D8C41ECA0B0635E2992F37D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k5waciRFMN5bwudDrgFLffoAorm.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El Oso Yogui",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CECA4805A5B94DD2803CCD37346CE451_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
                 "type": "PELICULA"
             }
         ]

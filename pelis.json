@@ -594,12 +594,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Longlegs",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ECAA3DC5E643403FA6C28AB7030C3DDB_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Piece by Piece",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167966.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2xbNwhYnC1EnOMKem63yhoMBvl4.jpg",
@@ -3127,6 +3121,12 @@
                 "name": "Y al séptimo día",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Longlegs",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ECAA3DC5E643403FA6C28AB7030C3DDB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
                 "type": "PELICULA"
             }
         ]

@@ -344,6 +344,18 @@
                 "icono": "https://www.canalcoop.com.ar/_next/static/media/canal-coop.d704a2e4.png"
             },
             {
+                "name": "Canal 3 Rosario",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Canal 4 Jujuy",
                 "url": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8",
                 "type": "HLS",
@@ -613,18 +625,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjIb3we5seL4WIBk5bh57zf28LvXHjTo86g&s",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.ar",
-                    "Referer": "https://web.app.flow.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "Canal 3 Rosario",
-                "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar",

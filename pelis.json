@@ -146,12 +146,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Crónicas",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170251.ts",
-                "icono": "https://image.tmdb.org/t/p/original/iq09xOhoQowgZVOzViQGwgPEhyG.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Lady Sakura",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170252.ts",
                 "icono": "https://image.tmdb.org/t/p/original/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg",

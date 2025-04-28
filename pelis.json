@@ -270,6 +270,12 @@
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/89476.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Freaky Tales",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
+                "type": "PELICULA"
             }
         ]
     },
@@ -286,12 +292,6 @@
                 "name": "La cita",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171195.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nCCtlyWeDkUUFu9eESd4jIQnUcj.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Freaky Tales",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
                 "type": "PELICULA"
             },
             {

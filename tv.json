@@ -1570,7 +1570,7 @@
                 }
             },
             {
-                "name": "HBO 2 FLOW",
+                "name": "HBO 2",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",

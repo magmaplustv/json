@@ -3195,6 +3195,65 @@
                     ],
                     "tmdb_id": 42009,
                     "total_seasons": 7
+                },
+                {
+                    "nombre": "El Juego de la muerte",
+                    "genero": "Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Cuando está a punto de ir al infierno, Yee-jae debe pasar por doce vidas y doce muertes en este drama sobre la reencarnación.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/r20enk9QfWeTXWECSI8na4vBp0S.png",
+                    "icono": "https://image.tmdb.org/t/p/original/4Gh8Iz63uc9HZwq925B1Fk0qVz3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Muerte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1AC566AB4E6E4B559488DFEAF35EA8A0_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La razón por la que irás al infierno",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/186BFFA8E88045C58F82854484E5EE30_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La muerte no puede quitarnos nada",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9259333C6E664391B95CC9068057C9B8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La razón por la que tienes miedo a la muerte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/34F06A1E220D4150BF77F2FDDDAA0466_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "De nada sirve resistirse a la muerte",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BCE86DD4AC65439CAC450E811BC97002_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Memoria",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A75C3A3D6B5242178B4567746353EFD3_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Oportunidad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1FB00CA5A4DB4354A0B9A199FE62BD6F_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "No busques la muerte, vendrá ella a por ti",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9CA81DD516F54133984B689A80DF432E_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 218230,
+                    "total_seasons": 1
                 }
             ]
         },

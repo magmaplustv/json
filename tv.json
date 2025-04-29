@@ -284,12 +284,6 @@
                 "icono": "https://static.tvar.io/imagenes/13maxdigital.png"
             },
             {
-                "name": "Albardon TV",
-                "url": "https://vd01.streaminghd.net.ar:3814/stream/play.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/T9nVYpS/Whats-App-Image-2025-02-13-at-08-11-21.jpg"
-            },
-            {
                 "name": "Alegria Tv Bellville",
                 "url": "https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8",
                 "type": "HLS",

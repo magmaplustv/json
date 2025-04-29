@@ -102,6 +102,65 @@
                     "total_seasons": 1
                 },
                 {
+                    "nombre": "The Bondsman",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Comedia",
+                    "descripcion": "Hub Halloran, un cazarrecompensas asesinado, es resucitado por el diablo para cazar demonios que se han escapado de la prisión del infierno. Persiguiendo a esos demonios con la ayuda y el impedimento de su familia desunida, Hub descubre cómo sus propios pecados condenaron su alma, lo que le empuja a buscar una segunda oportunidad en la vida, el amor y la música country.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/qbJ3aDSQdjttn3iCHL4X0L61Qas.png",
+                    "icono": "https://image.tmdb.org/t/p/original/A85y1MJ2v6y6gt76UJnIExVEaex.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Olla de Oro",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169954.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Valacor",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169960.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Marphos",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169956.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Erdos",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169957.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Slypharis",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169955.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Revelaciones",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169958.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Pyralis",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169959.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Lilith",
+                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169961.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 229711,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Física o química: La nueva generación",
                     "genero": "Drama, Familia",
                     "descripcion": "La adolescencia es la época de las primeras veces: las primeras borracheras, las primeras fiestas petting, el primer te quiero… Y el primer duelo. El nuevo curso del Zurbarán arranca marcado por la pérdida de una alumna, lo que lleva a la cooperativa de padres que ahora dirige el centro a tomar una decisión: crear un grupo de apoyo para los estudiantes. Así, ocho adolescentes muy diferentes acaban compartiendo un espacio en el que chocarán de lleno, pero donde también terminarán conociéndose a sí mismos y compartiendo sus ganas de vivir. Y de enamorarse.",
@@ -1061,65 +1120,6 @@
                         }
                     ],
                     "tmdb_id": 229513,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "The Bondsman",
-                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Comedia",
-                    "descripcion": "Hub Halloran, un cazarrecompensas asesinado, es resucitado por el diablo para cazar demonios que se han escapado de la prisión del infierno. Persiguiendo a esos demonios con la ayuda y el impedimento de su familia desunida, Hub descubre cómo sus propios pecados condenaron su alma, lo que le empuja a buscar una segunda oportunidad en la vida, el amor y la música country.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/qbJ3aDSQdjttn3iCHL4X0L61Qas.png",
-                    "icono": "https://image.tmdb.org/t/p/original/A85y1MJ2v6y6gt76UJnIExVEaex.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Olla de Oro",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169954.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Valacor",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169960.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Marphos",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169956.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Erdos",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169957.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Slypharis",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169955.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Revelaciones",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169958.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Pyralis",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169959.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Lilith",
-                                    "url": "http://digitaltvsv.com:80/series/Conectplus/10Conectplus/169961.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 229711,
                     "total_seasons": 1
                 },
                 {

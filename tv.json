@@ -1609,11 +1609,11 @@
                 "name": "HBO SIGNATURE",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/zwc1zkwhghg0l5zovo8z9/hbosignature.json?rlkey=az5o0xgi8psuh4zotrnugw9im&st=12i64ros&dl=0",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311",
                 "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar",
-                    "Referer": "https://portal.app.flow.com.ar/",
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },

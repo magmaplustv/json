@@ -284,12 +284,6 @@
                 "icono": "https://static.tvar.io/imagenes/13maxdigital.png"
             },
             {
-                "name": "Alegria Tv Bellville",
-                "url": "https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8",
-                "type": "HLS",
-                "icono": "https://radioalegriafmweb.com/imagenes/banner.png"
-            },
-            {
                 "name": "America Tucuman",
                 "url": "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
                 "type": "CLEARKEY",

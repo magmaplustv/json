@@ -1233,6 +1233,12 @@
                 "url": "https://streamyes.alsolnet.com/goodradio/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static-media.streema.com/media/cache/d5/ba/d5ba149726ecc1db33a41e1e9c802959.jpg"
+            },
+            {
+                "name": "RADIO ÚNICA",
+                "url": "https://streaming2.mundoradio.com.ar/8504/stream",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

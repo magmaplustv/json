@@ -4,6 +4,55 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "El Eternauta",
+                    "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Cuando una nieve tóxica mata a millones de personas, Juan Salvo y un grupo de supervivientes de Buenos Aires deben combatir una amenaza invisible de otro mundo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/n1khm5vSwmps3xUd3UWufT3wikQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66FEEC57A7A64AC8B4BC2A7A324F4241_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/551B7B3BD0AC43D58A4A461BE265DF01_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CC00F49A4ED47CDA0E03F91C246163A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AC66575B8EA84B63A3A1DE5CFF85572A_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/933FDCA59E474D6B9226044DED3EB27F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/944DF4212F1245FA9AC3F34463C3A945_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 226362,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Camaleón: El pasado no cambia",
                     "genero": "Drama",
                     "descripcion": "Sabrina, una periodista de investigación, lleva una vida estable junto a su hija y su marido. Sin embargo, su mundo colapsa con la reaparición de Salvador Carvallo, un famoso artista y amigo de su madre Iris, que reabre en Sabrina capítulos oscuros de su vida que creía olvidados y que ponen en jaque su estabilidad. Enfrentada con el pasado y con el descubrimiento de un nuevo secreto en el presente, Sabrina luchará por exponer la verdad, incluso si nadie está dispuesto a escucharla.",
@@ -1410,55 +1459,6 @@
                         }
                     ],
                     "tmdb_id": 280043,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "El Eternauta",
-                    "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
-                    "descripcion": "Cuando una nieve tóxica mata a millones de personas, Juan Salvo y un grupo de supervivientes de Buenos Aires deben combatir una amenaza invisible de otro mundo.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/n1khm5vSwmps3xUd3UWufT3wikQ.png",
-                    "icono": "https://image.tmdb.org/t/p/original/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66FEEC57A7A64AC8B4BC2A7A324F4241_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/551B7B3BD0AC43D58A4A461BE265DF01_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CC00F49A4ED47CDA0E03F91C246163A_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AC66575B8EA84B63A3A1DE5CFF85572A_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/933FDCA59E474D6B9226044DED3EB27F_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/944DF4212F1245FA9AC3F34463C3A945_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 226362,
                     "total_seasons": 1
                 }
             ]

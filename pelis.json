@@ -2080,6 +2080,12 @@
         "name": "⭐️⭐️Animacion⭐️⭐️",
         "samples": [
             {
+                "name": "El día que la Tierra explotó: Una película de los Looney Tunes",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C16E3387FC45455D8A8724845262F575_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kq32P0VC4yWYujyByp7ieNCZjA.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Soul",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F936A05131F14077AA1460CEBE1CF0C4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
@@ -2239,12 +2245,6 @@
                 "name": "La muerte de Superman",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6663C2D2D6D94DD29652B04CFA039064_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El día que la Tierra explotó: Una película de los Looney Tunes",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C16E3387FC45455D8A8724845262F575_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kq32P0VC4yWYujyByp7ieNCZjA.jpg",
                 "type": "PELICULA"
             }
         ]

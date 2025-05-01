@@ -1256,6 +1256,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/05562FBBF01D4C4B8A24BE6C69AFCF54_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La más fan",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5E36603C996647CB9D517C133B618505_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",
+                "type": "PELICULA"
             }
         ]
     },

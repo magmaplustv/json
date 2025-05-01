@@ -3345,6 +3345,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Gol TV",
+                "url": "http://dnsnetplusroq.com:8080/live/salvadCAMBIO623821/VeMvtmdbem8g/67191.ts",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
             }
         ]
     }

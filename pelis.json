@@ -1310,6 +1310,12 @@
         "name": "⭐️⭐️Prime Video⭐️⭐️",
         "samples": [
             {
+                "name": "Otro pequeño favor",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B4B5296EC48845259C6E8C68F5EADA40_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "G20",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1118FE8E1BC846CAA01BF0FFF1511DF0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
@@ -1571,12 +1577,6 @@
                 "name": "Resident Evil: Degeneración",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Otro pequeño favor",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B4B5296EC48845259C6E8C68F5EADA40_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
                 "type": "PELICULA"
             }
         ]

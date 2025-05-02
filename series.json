@@ -1460,6 +1460,70 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Infieles: asuntos pendientes",
+                    "genero": "Reality",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/nR2OI6h24qoloeR2kAdXfONNYdh.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lRJAv7RCr4SM1rm5sY4IEEtFXO5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/609E63A77C48482E9E50CFE165E4D2F6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0C90C971801347FA961F3B6249507298_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/56BB9CDB19524FBE989A6DAECDFDE9E5_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/31795B10149F4F6CA7841192C1EFB1FB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/00D26AE6565E49408F4128BF46E0259E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/99AA5F48ED0340589A1E2E6835DE41C7_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A0E034301B7248CD9870C5FD3DD5911A_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D88078AC041543A69C6B5656B7849E46_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40627D5260D643BB81A775C17DC2BAE5_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 289458,
+                    "total_seasons": 1
                 }
             ]
         },

@@ -1670,6 +1670,12 @@
                 "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/531624.ts",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Hbo Family HD",
+                "url": "http://190.102.139.240:7878/play/a030",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

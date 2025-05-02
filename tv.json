@@ -1652,6 +1652,12 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Hbo",
+                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE1IExBVDogSEJPIEhE&t=p&f=.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png"
             }
         ]
     },

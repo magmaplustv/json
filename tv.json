@@ -1664,6 +1664,12 @@
                 "url": "http://181.78.67.171:8010/play/a03j/index.m3u8",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Hbo Xtreme HD",
+                "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/531624.ts",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

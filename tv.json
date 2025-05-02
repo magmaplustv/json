@@ -1675,7 +1675,7 @@
                 "name": "Hbo Family HD",
                 "url": "http://190.102.139.240:7878/play/a030",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://laguia.tv/_nuxt/img/HBOFamily_256.a44b97a.png"
             },
             {
                 "name": "Hbo Signature HD",

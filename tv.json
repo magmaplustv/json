@@ -1663,7 +1663,7 @@
                 "name": "Hbo 2 HD",
                 "url": "http://181.78.67.171:8010/play/a03j/index.m3u8",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"
             },
             {
                 "name": "Hbo Xtreme HD",

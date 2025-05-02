@@ -1689,12 +1689,6 @@
                 "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIwIExBVDogSEJPIFBsdXMgSEQ=&t=p&f=.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"
-            },
-            {
-                "name": "Hbo Pop HD",
-                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIxIExBVDogSEJPIFBvcA==&t=p&f=.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png"
             }
         ]
     },

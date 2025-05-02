@@ -1655,9 +1655,10 @@
             },
             {
                 "name": "Hbo",
-                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE1IExBVDogSEJPIEhE&t=p&f=.m3u8",
+                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE1IExBVDogSEJPIEhE&t=p&f=.m3u",
                 "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png"
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",
+                "headers": []
             },
             {
                 "name": "Hbo 2 HD",

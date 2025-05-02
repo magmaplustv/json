@@ -1676,6 +1676,12 @@
                 "url": "http://190.102.139.240:7878/play/a030",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Hbo Signature HD",
+                "url": "http://tvvip.us:8880/live/FL4m4L4T$TV*Sv/eZWd*69I88$PWq*X25a$XVc0gW$/355797.ts",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

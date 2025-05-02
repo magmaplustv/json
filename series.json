@@ -3648,6 +3648,60 @@
             "nombre": "⭐️⭐️Comedia⭐️⭐️",
             "series": [
                 {
+                    "nombre": "El Estudio",
+                    "genero": "Comedia",
+                    "descripcion": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1gGV0sgvRytpt9xrGehLgb3Xw1t.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ubqAev8CzCZemfu7yOPl9CzEoS9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/c1M3AWnwaVaVXDj7vPDbuu4uHap.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El ascenso",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C8BF7D7218B541A482FD8D1BE050F61D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El plano secuencia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88E2F3BE6695477E8733721C1EADC616_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La sugerencia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6DBE6098580A4C50AA91FC180B7F5F80_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La bobina perdida",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D3DC9C5DA4CB4424990C9779471D5147_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La guerra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C61F9C922B954106B54DD0A4D3FA080B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La oncóloga pediátrica",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F694FC2CF7864B809654CE6468AC081F_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El reparto",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/14799B6F54E447DEB395E947A6D136F9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247767,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Estrella",
                     "genero": "Comedia, Drama",
                     "descripcion": "En una ambiciosa apuesta por salvar sus históricas instituciones, dos compañías de ballet de Nueva York y París conocidas en todo el mundo intercambian a sus estrellas. De los productores ejecutivos de La maravillosa Sra. Maisel llega una nueva y atrevida serie que celebra la belleza, el humor y la imprevisibilidad de una vida dedicada a las artes, tanto dentro como fuera del escenario.",
@@ -4366,60 +4420,6 @@
                         }
                     ],
                     "tmdb_id": 216619,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "El Estudio",
-                    "genero": "Comedia",
-                    "descripcion": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/1gGV0sgvRytpt9xrGehLgb3Xw1t.png",
-                    "icono": "https://image.tmdb.org/t/p/original/ubqAev8CzCZemfu7yOPl9CzEoS9.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/c1M3AWnwaVaVXDj7vPDbuu4uHap.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El ascenso",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C8BF7D7218B541A482FD8D1BE050F61D_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "El plano secuencia",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88E2F3BE6695477E8733721C1EADC616_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "La sugerencia",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6DBE6098580A4C50AA91FC180B7F5F80_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "La bobina perdida",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D3DC9C5DA4CB4424990C9779471D5147_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "La guerra",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C61F9C922B954106B54DD0A4D3FA080B_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "La oncóloga pediátrica",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F694FC2CF7864B809654CE6468AC081F_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "El reparto",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/14799B6F54E447DEB395E947A6D136F9_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 247767,
                     "total_seasons": 1
                 }
             ]

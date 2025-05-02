@@ -1682,6 +1682,12 @@
                 "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE5IExBVDogSEJPIE11bmRp&t=p&f=.m3u8",
                 "type": "HLS",
                 "icono": "https://i.pinimg.com/736x/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg"
+            },
+            {
+                "name": "Hbo Plus HD",
+                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIwIExBVDogSEJPIFBsdXMgSEQ=&t=p&f=.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"
             }
         ]
     },

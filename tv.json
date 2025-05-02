@@ -1671,12 +1671,6 @@
                 "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE3IExBVDogSEJPIEZhbWlseSBIRA==&t=p&f=.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn.storage.foromedios.com/gallery/category_6/large.gallery_1157_6_8916.png.1deb9faa7044f40e4370531dc92d7376.png"
-            },
-            {
-                "name": "Hbo Latino HD",
-                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE4IExBVDogSEJPIExhdGlubw==&t=p&f=.m3u8",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/f/f9/HBO_Latino_HD_2008.svg/revision/latest/scale-to-width-down/250?cb=20231013183948"
             }
         ]
     },

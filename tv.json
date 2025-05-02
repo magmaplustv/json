@@ -1695,12 +1695,6 @@
                 "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIxIExBVDogSEJPIFBvcA==&t=p&f=.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png"
-            },
-            {
-                "name": "Hbo Signature HD",
-                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIyIExBVDogSEJPIFNpZ25hdHVyZSBIRA==&t=p&f=.m3u8",
-                "type": "HLS",
-                "icono": "https://cdn.storage.foromedios.com/gallery/category_6/small.gallery_1157_6_3018.png.e80dc8c44dad94f719fd6e0c50267df0.png"
             }
         ]
     },

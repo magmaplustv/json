@@ -1700,6 +1700,12 @@
                 "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIyIExBVDogSEJPIFNpZ25hdHVyZSBIRA==&t=p&f=.m3u8",
                 "type": "HLS",
                 "icono": "https://cdn.storage.foromedios.com/gallery/category_6/small.gallery_1157_6_3018.png.e80dc8c44dad94f719fd6e0c50267df0.png"
+            },
+            {
+                "name": "Hbo Xtreme HD",
+                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTIzIExBVDogSEJPIFh0cmVtZQ==&t=p&f=.m3u8",
+                "type": "HLS",
+                "icono": "https://stmify.com/wp-content/uploads/2024/11/325-s.webp"
             }
         ]
     },

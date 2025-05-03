@@ -1846,6 +1846,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La LEGO película",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C88B175F889046CE9A017EECC9CBE37C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/faKcUazMUagPhx9N3kKNaUCrES4.jpg",
+                "type": "PELICULA"
             }
         ]
     },

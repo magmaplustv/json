@@ -1652,12 +1652,6 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Hbo HD",
-                "url": "http://deluxe-tv.xyz:80/live/Rodotv2025/Rodotv2025/18095.ts",
-                "type": "HLS",
-                "icono": "https://blob.panzoid.com/creation-thumbnails/97670.jpg"
             }
         ]
     },

@@ -1664,12 +1664,6 @@
                 "url": "http://181.78.67.171:8010/play/a03j/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"
-            },
-            {
-                "name": "Hbo Xtreme HD",
-                "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/531624.ts",
-                "type": "HLS",
-                "icono": "https://iili.io/HvUnRDJ.png"
             }
         ]
     },

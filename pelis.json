@@ -1607,6 +1607,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tenet",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/075A6DDED702407A8CC14DB0BCF9D691_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
+                "type": "PELICULA"
             }
         ]
     },

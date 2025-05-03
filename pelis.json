@@ -1613,6 +1613,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Parásitos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+                "type": "PELICULA"
             }
         ]
     },

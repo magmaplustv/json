@@ -1614,6 +1614,12 @@
         "name": "⭐️⭐️Cine Infantil⭐️⭐️",
         "samples": [
             {
+                "name": "Street Fighter II: La película",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42E86A8287554841AD3A5F2FB34CEAC9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los pingüinos de Madagascar",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
@@ -1857,12 +1863,6 @@
                 "name": "Daphne & Velma",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Street Fighter II: La película",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42E86A8287554841AD3A5F2FB34CEAC9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
                 "type": "PELICULA"
             }
         ]

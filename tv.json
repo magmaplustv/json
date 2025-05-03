@@ -1658,12 +1658,6 @@
                 "url": "http://deluxe-tv.xyz:80/live/Rodotv2025/Rodotv2025/18095.ts",
                 "type": "HLS",
                 "icono": "https://blob.panzoid.com/creation-thumbnails/97670.jpg"
-            },
-            {
-                "name": "Hbo 2 HD",
-                "url": "http://181.78.67.171:8010/play/a03j/index.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png"
             }
         ]
     },

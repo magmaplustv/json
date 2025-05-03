@@ -1614,6 +1614,12 @@
         "name": "⭐️⭐️Cine Infantil⭐️⭐️",
         "samples": [
             {
+                "name": "Los pingüinos de Madagascar",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los Picapiedra conocen al conde Rockula y a Frankenstone",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E2F5943730414DF78E134243E55D455D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ndNmc7aQVzalas9Kb6cn3g4pYSb.jpg",
@@ -1851,12 +1857,6 @@
                 "name": "Daphne & Velma",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Los pingüinos de Madagascar",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
                 "type": "PELICULA"
             }
         ]

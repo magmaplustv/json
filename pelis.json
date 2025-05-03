@@ -1619,6 +1619,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Smallfoot",
+                "url": "vod/B9000D565279480187362AFEB074ABA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8DIRqjOa2vjpLt8Ek8XIzjYggYM.jpg",
+                "type": "PELICULA"
             }
         ]
     },

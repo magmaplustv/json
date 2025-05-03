@@ -1614,6 +1614,12 @@
         "name": "⭐️⭐️Cine Infantil⭐️⭐️",
         "samples": [
             {
+                "name": "Las aventuras de Petey y sus amigos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/470D9625EBB443189360740268154363_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/n0npunSHa7rOXbup1Je7Sz0hG0z.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El ángel en el reloj",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2390A849198542BB86DE989E9D09CA95_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hsOIbxeBdoSC3BrpIqbukHMQx6A.jpg",
@@ -1839,12 +1845,6 @@
                 "name": "Daphne & Velma",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "The Adventures of Petey and Friends",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/470D9625EBB443189360740268154363_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/n0npunSHa7rOXbup1Je7Sz0hG0z.jpg",
                 "type": "PELICULA"
             }
         ]

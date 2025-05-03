@@ -3302,6 +3302,12 @@
         "name": "⭐️⭐️Drama⭐️⭐️",
         "samples": [
             {
+                "name": "The Queen of My Dreams",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A29BDFF2AB3543FDBEE300B863A7DF46_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/AprPc4k1MsRpAiHPKUxlEt9EWi9.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El destino de Maya",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3C55E051BB0441C3BB9576084A52EB6A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ajdqc3vDVzH0e3zw1N9tIySA2Jn.jpg",
@@ -3353,12 +3359,6 @@
                 "name": "El arte del perdón",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/228D08D39F3546388B5306B4B2313FE6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hgVxyVikFcxXaNkbPU3LWqlOQ6b.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "The Queen of My Dreams",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A29BDFF2AB3543FDBEE300B863A7DF46_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/AprPc4k1MsRpAiHPKUxlEt9EWi9.jpg",
                 "type": "PELICULA"
             }
         ]

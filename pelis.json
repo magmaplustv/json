@@ -1858,6 +1858,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Street Fighter II: La película",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42E86A8287554841AD3A5F2FB34CEAC9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
+                "type": "PELICULA"
             }
         ]
     },

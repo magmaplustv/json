@@ -1614,6 +1614,12 @@
         "name": "⭐️⭐️Cine Infantil⭐️⭐️",
         "samples": [
             {
+                "name": "Tom y Jerry: Rapidos y Peludo",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/677B98709A794E61ACCA8A64ADED4AEA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9rn3wbkXyQen9ipaAQtX01HGAMe.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Toy Story 4",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115132.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
@@ -1833,12 +1839,6 @@
                 "name": "Daphne & Velma",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Tom y Jerry en la super carrera",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/677B98709A794E61ACCA8A64ADED4AEA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9rn3wbkXyQen9ipaAQtX01HGAMe.jpg",
                 "type": "PELICULA"
             }
         ]

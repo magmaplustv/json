@@ -1614,6 +1614,12 @@
         "name": "⭐️⭐️Cine Infantil⭐️⭐️",
         "samples": [
             {
+                "name": "Los Picapiedra conocen al conde Rockula y a Frankenstone",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E2F5943730414DF78E134243E55D455D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ndNmc7aQVzalas9Kb6cn3g4pYSb.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Las aventuras de Petey y sus amigos",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/470D9625EBB443189360740268154363_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/n0npunSHa7rOXbup1Je7Sz0hG0z.jpg",
@@ -1845,12 +1851,6 @@
                 "name": "Daphne & Velma",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Los Picapiedra conocen al conde Rockula y a Frankenstone",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E2F5943730414DF78E134243E55D455D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ndNmc7aQVzalas9Kb6cn3g4pYSb.jpg",
                 "type": "PELICULA"
             }
         ]

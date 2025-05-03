@@ -1852,6 +1852,12 @@
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164235.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los pingüinos de Madagascar",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
+                "type": "PELICULA"
             }
         ]
     },

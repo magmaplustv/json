@@ -659,6 +659,12 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Canal 9 La Rioja",
+                "url": "https://inliveserver.com:1936/12014/12014/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Canal-9-La-Rioja-en-vivo-Online-.png"
             }
         ]
     },

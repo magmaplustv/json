@@ -671,6 +671,12 @@
                 "url": "https://stream.arcast.host:8443/mp/mp/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Z9idWrF2Zx8EbLD_pb3yTYPVZcjj3S3CHXFZeqnrPff7Lf0mC2atDCe8Tzecq6biNyIpZ735k05tEgKPuJ4menvOBplKhwsqmOWCdljr2oHLDGd4WgzZynvjHdH5kNilDfLfCDUz_iri5DrR53UKe_pfz9LpGILsVueMOeSqnwUqlopFlC_MVjlP/s135/c13-larioja.png"
+            },
+            {
+                "name": "Fenix La Rioja",
+                "url": "https://stmv5.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/fenix-tv_1.png"
             }
         ]
     },

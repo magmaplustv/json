@@ -1131,6 +1131,12 @@
                 "url": "http://212.102.60.231/TSN_1/index.m3u8",
                 "type": "HLS",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10"
+            },
+            {
+                "name": "Dazn Combate",
+                "url": "http://dnsnetplusroq.com:8080/live/salvadCAMBIO623821/VeMvtmdbem8g/16241.ts",
+                "type": "HLS",
+                "icono": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1vjki8lnf5bz51okfjt4mibssf_image-header_pRow_1690455045000"
             }
         ]
     },

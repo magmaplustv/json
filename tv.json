@@ -7,6 +7,12 @@
                 "url": "http://38.49.128.38:8000/play/a0la",
                 "type": "HLS",
                 "icono": "https://phantom-marca-us.uecdn.es/66fb4c72267ebf3df86f440e33a442aa/resize/828/f/jpg/assets/multimedia/imagenes/2025/03/24/17428214779707.jpg"
+            },
+            {
+                "name": "CANELO vs SCULL",
+                "url": "http://38.49.128.38:8000/play/a0la",
+                "type": "HLS",
+                "icono": "https://phantom-marca-us.uecdn.es/66fb4c72267ebf3df86f440e33a442aa/resize/828/f/jpg/assets/multimedia/imagenes/2025/03/24/17428214779707.jpg"
             }
         ]
     },

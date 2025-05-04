@@ -3361,6 +3361,13 @@
     },
     {
         "name": "EVENTOS BOXEO",
-        "samples": []
+        "samples": [
+            {
+                "name": "CANELO vs SCULL",
+                "url": "http://38.49.128.38:8000/play/a0la",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     }
 ]

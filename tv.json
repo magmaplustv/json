@@ -1694,11 +1694,11 @@
             },
             {
                 "name": "HBO TEST",
-                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE1IExBVDogSEJPIEhE&t=p&f=.m3u8",
+                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=MDAxIExBVDogVFVETiBVUw==&t=p&f=.m3u8",
                 "type": "HLS",
                 "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
                 "headers": {
-                    "User-Agent": "Mozilla/5.0"
+                    "User-Agent": "VLC/3.0.21 LibVLC/3.0.21"
                 }
             }
         ]

@@ -944,7 +944,7 @@
     {
         "name": "⚽ DEPORTES DIRECTV ARG",
         "samples": [
-             {
+            {
                 "name": "DIRECTV SPORTS",
                 "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
@@ -1690,6 +1690,15 @@
                     "Origin": "https://web.app.flow.com.ar",
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO TEST",
+                "url": "http://rogsmediatv.xyz/rqtv/rqtvpro.php?p=NTE1IExBVDogSEJPIEhE&t=p&f=.m3u8",
+                "type": "HLS",
+                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0"
                 }
             }
         ]

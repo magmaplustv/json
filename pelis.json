@@ -3,6 +3,12 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
+                "name": "Titanic: La resurrección digital",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "WrestleMania IX: Becoming a Spectacle",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BC8FEFEFF694494B8BFF954BDEC25AF1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lpmVwzvoCrZqTWlLMqdKOGBrLcZ.jpg",
@@ -84,12 +90,6 @@
                 "name": "El Irlandés",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/67A53CC7035747EBBB2459EB8B8E8AE2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Titanic: La resurrección digital",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
                 "type": "PELICULA"
             }
         ]

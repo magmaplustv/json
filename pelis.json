@@ -2462,6 +2462,12 @@
         "name": "⭐️⭐️Belica⭐️⭐️",
         "samples": [
             {
+                "name": "Warfare. Tiempo de guerra",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6CEAE2019B9A4D1BA986DF329EFC0B9F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9Ci3Rl0eXN8lJCuxIApZrjds6cg.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "1917",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E7075F88F87045A0972D8060906378BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg",
@@ -2531,12 +2537,6 @@
                 "name": "Iluminados por el fuego",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6261155635D64551BDB7A5DEC881408D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fnJybyb0RC94fee8n5Ld4wln0Zs.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Warfare. Tiempo de guerra",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6CEAE2019B9A4D1BA986DF329EFC0B9F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9Ci3Rl0eXN8lJCuxIApZrjds6cg.jpg",
                 "type": "PELICULA"
             }
         ]

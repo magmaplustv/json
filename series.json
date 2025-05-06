@@ -1798,6 +1798,50 @@
                     ],
                     "tmdb_id": 231003,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Amigos y vecinos",
+                    "genero": "Drama",
+                    "descripcion": "Cuando un titán financiero se encuentra de repente divorciado y en paro, empieza a robar a sus vecinos ricos para mantenerse a flote. Curiosamente, robar a su círculo social le entusiasma, pero poco a poco, va enredándose en una red mortal.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2OasrKGxo1RHOHQS7zIzw3qoWtw.png",
+                    "icono": "https://image.tmdb.org/t/p/original/tlg3wBiJPgKiWKxFBFIXqpjyUGB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vVcr70RePQw75MNPSjB7ioaKseP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Esto es lo que pasa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE956B97CE224CE28ED24DC18B3FEBEA_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Iguales",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/19B71E10BE944CCE950362D31ACBDF57_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Herpes teorético",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DE3B1DBCFE224FA5BFC6AC5AAA2EA205_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Dragones de verdad",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8BFAC6C6C2194661A254E6DEFA281869_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Este turista tiene huevos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/255D0005B2E4476D85ACEBAF8772C0B3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241609,
+                    "total_seasons": 1
                 }
             ]
         },

@@ -1617,6 +1617,60 @@
                     ],
                     "tmdb_id": 235355,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Perdiendo el juicio",
+                    "genero": "Drama",
+                    "descripcion": "Amanda, una prestigiosa abogada, sufre un grave estallido de su TOC durante un importante juicio. A partir de ese momento, su carrera cae en picado y se verá obligada a aceptar una oferta de trabajo en un decadente despacho de abogados, muy alejado de sus expectativas, donde comparte casos con un grupo de profesionales en horas bajas que nada tienen que ver con los estirados abogados con los que estaba acostumbrada a tratar.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/u1ikeiZDtZOjmPF31PddlVWGTzf.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ioyuupNi55EPjqutl0Kl6KaXZuV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4jkOVu4doLLq3vafnEqIbzgFoES.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Capítulo 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6266948DA728430AB005ED3C00D2C61D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Capítulo 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/37F08675680943F88072E07D7626C85D_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Capítulo 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F852863A02374257945A731D1AFA72EA_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Capítulo 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/23FA5B3E41E64B88BF639C6394B24E4D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Capítulo 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD94AB2762544D22AFC2CFE8B9D2868F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Capítulo 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F937BBCC45647F98CC75ACFD583BBA3_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Capítulo 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/50CC04E68101414C8C764950188D44B1_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259200,
+                    "total_seasons": 1
                 }
             ]
         },

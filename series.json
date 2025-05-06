@@ -1573,6 +1573,45 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Lazarus",
+                    "genero": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+                    "descripcion": "En 2052, la humanidad vive en paz gracias a Hapuna, una droga milagrosa sin efectos secundarios. Pero su creador, el Dr. Skinner, desaparece y regresa tres años después con una revelación: todos los que la tomaron morirán en tres años. Un equipo de cinco agentes, Lazarus, debe encontrarlo y hallar una cura antes de que sea tarde.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wdFNP28q5dyHZjtsR68UttnDSXi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ActpqKbShWGYNDRsCjTueRixlrr.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1WxpAZfoW8B2sIfWND81GdTHm4G.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Adiós, mundo cruel",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9DB8A6FF949449DA8F0956FD693C8CCC_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La vida en la vía rápida",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB22B532EBAF464691C42DEB3B7EE211_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Muy lejos de casa",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DC4D14A035BA4ABE8B1005609EBA192A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5169BDF4C6F2444190C5D6F5BE84531B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231003,
+                    "total_seasons": 1
                 }
             ]
         },

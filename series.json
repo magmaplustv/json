@@ -1558,6 +1558,65 @@
                     ],
                     "tmdb_id": 231001,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "언젠가는 슬기로울 전공의생활",
+                    "genero": "Drama",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9cHQ9q6XuRlndCKZTVeMu54KtF9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/hjjRgAAwUak4TpbVYX0BzMdQU7s.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oP0G8S4sbzTd9INC5L55l0L9oaP.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92551656C1AA48FFB57C7939574E289E_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/73D510176D9946009B729202EC9FE0AD_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/76755BCBA4ED4F40972FDF148A38487A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C34114AC877C4BA99010DDF413577DC0_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/227648001F594E1286AD945D55A9EADC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/82AA50CC416848ABB3A51AF6CCA68C10_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6C02B2AE275742E39826829F69E8D5B2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C439AFE33F34626A12BF75192DFB9E9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 235355,
+                    "total_seasons": 1
                 }
             ]
         },

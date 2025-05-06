@@ -1528,6 +1528,40 @@
             ]
         },
         {
+            "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
+            "series": [
+                {
+                    "nombre": "Carême, chef de reyes",
+                    "genero": "Drama",
+                    "descripcion": "Un joven y ambicioso chef utiliza su encanto seductor para trabajar como espía y así salvar a su padre y forjarse una reputación.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yZdcjvhoI6RCFg455UdEvK5UtAj.png",
+                    "icono": "https://image.tmdb.org/t/p/original/mBDmNWD8HH8Jl8P8MNV90QHGkq4.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xedpbCiPxGiyusIutkhkLXx1shT.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La máquina infernal",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/19186F65A44941D48511917A0D65F8B6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Extorsión",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2EFE8832C8324507B668258810670DB0_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231001,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "⭐️⭐️Acción⭐️⭐️",
             "series": [
                 {

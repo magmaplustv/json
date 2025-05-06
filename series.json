@@ -6284,6 +6284,55 @@
                     ],
                     "tmdb_id": 0,
                     "total_seasons": 0
+                },
+                {
+                    "nombre": "8 meses",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La periodista Nina Wedén consigue la primicia política del siglo y se ve abocada a convertirse en la Secretaria de Prensa del recién nombrado Ministro de Asuntos Exteriores de Suecia, Jacob Weiss.",
+                    "anio": "2024",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/jg7HmFfd21rap4RbtLMzPXckrrj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7hMuu35IOjYswYNAHIHJ3RVBfHs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/747D0F1E0A40413794A807C45265D61E_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B8C99ACD2895465986A67BA3F9D73FDB_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2B914B8EF32E4D0AA556E69519B1C7AF_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6109CF26D7F945838D9B270957A330AC_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA62838183CE4D4F846863A6AF65DED4_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3FCA4FAA21B64D6299FDEBA38E299E90_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 254680,
+                    "total_seasons": 1
                 }
             ]
         }

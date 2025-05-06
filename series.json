@@ -3648,6 +3648,40 @@
             "nombre": "⭐️⭐️Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "La Narcosatánica",
+                    "genero": "Documental, Crimen, Drama",
+                    "descripcion": "Documental sobre el caso de los narcosatánicos y sus crímenes en la década de los 80 desde el punto de vista de Sara Aldrete, la narcosatánica, que relata su participación en el grupo criminal desde la cárcel.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rHpy9v8a7RQ2RmDJnLhvUkfcPEY.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8eMtC0CIgbsJQZGnJPdrCNYuyY0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iza8xqLNlrnibtMApEXnHEYqdW9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11A6D6C4E0124C3DA771F53BCC9D88A3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4AD56FC35386455989CC3514568AA7C7_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DEA5E68001764ACEB21BBE45FFB01C6A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 228811,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Los asesinatos de Elm Street",
                     "genero": "Crimen, Documental",
                     "descripcion": "Esta nueva serie aborda la pequeñas ciudades suburbanas de Estados Unidos que han sido arrasadas por el asesinato. El núcleo de la serie es la cuestión central de cómo, en una sola noche, estas pintorescas \"calles Elm\" residenciales pueden pasar de la paz y la tranquilidad al horror, la muerte sin sentido y la tragedia. Cada episodio examina la investigación de un asesinato ocurrido en una de las muchas \"calles Elm\" de Estados Unidos, y cada conjunto de circunstancias demuestra que el horror puede ocurrir en cualquier parte.",
@@ -4076,40 +4110,6 @@
                         }
                     ],
                     "tmdb_id": 245079,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "La Narcosatánica",
-                    "genero": "Documental, Crimen, Drama",
-                    "descripcion": "Documental sobre el caso de los narcosatánicos y sus crímenes en la década de los 80 desde el punto de vista de Sara Aldrete, la narcosatánica, que relata su participación en el grupo criminal desde la cárcel.",
-                    "anio": "2023",
-                    "iconPng": "https://image.tmdb.org/t/p/original/rHpy9v8a7RQ2RmDJnLhvUkfcPEY.png",
-                    "icono": "https://image.tmdb.org/t/p/original/8eMtC0CIgbsJQZGnJPdrCNYuyY0.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iza8xqLNlrnibtMApEXnHEYqdW9.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11A6D6C4E0124C3DA771F53BCC9D88A3_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4AD56FC35386455989CC3514568AA7C7_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DEA5E68001764ACEB21BBE45FFB01C6A_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 228811,
                     "total_seasons": 1
                 }
             ]

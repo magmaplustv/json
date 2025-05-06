@@ -4028,6 +4028,55 @@
                     ],
                     "tmdb_id": 245079,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los asesinatos de Elm Street",
+                    "genero": "Crimen, Documental",
+                    "descripcion": "Esta nueva serie aborda la pequeñas ciudades suburbanas de Estados Unidos que han sido arrasadas por el asesinato. El núcleo de la serie es la cuestión central de cómo, en una sola noche, estas pintorescas \"calles Elm\" residenciales pueden pasar de la paz y la tranquilidad al horror, la muerte sin sentido y la tragedia. Cada episodio examina la investigación de un asesinato ocurrido en una de las muchas \"calles Elm\" de Estados Unidos, y cada conjunto de circunstancias demuestra que el horror puede ocurrir en cualquier parte.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ek3aKiQkxA6zc3sNnWn94eHvPE8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oeEYqS8uKvguZ8UhlPcGbvOIOMi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6gpmoDDPqc7MV9mXu9tOclog4Ay.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/80FD888E864F49C1B3E205848C933297_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/77DE93B990CF4B62BD1A96930B719FC3_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1505C71400584BABBC68719B96F8AC46_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4EEDF838427B40BEBD985326AE2E7987_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D1BAE53F48524595BAF148A962E0BC4C_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5422B430022E4AD8A84CDFD120D810EA_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 262445,
+                    "total_seasons": 1
                 }
             ]
         },

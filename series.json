@@ -4,6 +4,55 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Star Wars: Crónicas del submundo",
+                    "genero": "Animación, Sci-Fi & Fantasy, Crimen, Action & Adventure",
+                    "descripcion": "Dos proscritos se abren camino en el peligroso submundo de la galaxia mientras forjan su destino.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2e6UYqgG74IjiK6bQiPFNSzaBbQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7hcA0DZJWlbucSoh29gbNZFRlew.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jnHpQVjGW5x3GjpFTGHnQKAn8NG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un camino hacia delante",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D241D853C62B493EA87DD81151DF0A75_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Amigos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2EE89B6A50B44DEDAFBE6F066D3E6677_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "De guerrero a guerrero",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E3BD0C3A515746C4A8C387263DF97098_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La buena vida",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/703F6C3C2FAD421CBD30A1F1BB7DA0C4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un cambio a mejor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/30453EB58E18468EBA0EF1A259C0B996_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una buena acción",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DD5C3027C6244F4182C79B10322B76BE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 288055,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "El Eternauta",
                     "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
                     "descripcion": "Cuando una nieve tóxica mata a millones de personas, Juan Salvo y un grupo de supervivientes de Buenos Aires deben combatir una amenaza invisible de otro mundo.",
@@ -1523,55 +1572,6 @@
                         }
                     ],
                     "tmdb_id": 280043,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Star Wars: Crónicas del submundo",
-                    "genero": "Animación, Sci-Fi & Fantasy, Crimen, Action & Adventure",
-                    "descripcion": "Dos proscritos se abren camino en el peligroso submundo de la galaxia mientras forjan su destino.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/2e6UYqgG74IjiK6bQiPFNSzaBbQ.png",
-                    "icono": "https://image.tmdb.org/t/p/original/7hcA0DZJWlbucSoh29gbNZFRlew.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jnHpQVjGW5x3GjpFTGHnQKAn8NG.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Un camino hacia delante",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D241D853C62B493EA87DD81151DF0A75_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Amigos",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2EE89B6A50B44DEDAFBE6F066D3E6677_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "De guerrero a guerrero",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E3BD0C3A515746C4A8C387263DF97098_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "La buena vida",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/703F6C3C2FAD421CBD30A1F1BB7DA0C4_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Un cambio a mejor",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/30453EB58E18468EBA0EF1A259C0B996_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Una buena acción",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DD5C3027C6244F4182C79B10322B76BE_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 288055,
                     "total_seasons": 1
                 }
             ]

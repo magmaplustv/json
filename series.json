@@ -3604,6 +3604,55 @@
                     "total_seasons": 1
                 },
                 {
+                    "nombre": "Mentalidad Asesina",
+                    "genero": "Crimen, Documental",
+                    "descripcion": "",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gBoEYTWXNYBVFBKkNJCoMJEL3bc.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sKlXaK3BZvobJp2sm94wF10VLob.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zTOvGTgW2RyLivML548LDpKO5Uk.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DE53A939499E4DA88E8BA6EF44E96A00_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/768BA75D5F554A32AD6F068C8A5A3E03_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1460F14591A54D489B7D838D83BBB594_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E7903407E6664B9D8FCAF1E56BAA88CD_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4A07D8086800478099D786F351B27897_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6E47C8F2A4674361A5C5A5216574B9FB_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 275587,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "La chica que mato a sus padres",
                     "genero": "Drama, Crimen",
                     "descripcion": "Presenta el punto de vista de Daniel Cravinhos sobre los eventos que llevaron a la muerte de la pareja Richthofen, padres de su entonces novia Suzane von Richthofen. Un drama criminal real sobre uno de los casos de asesinato mas impactantes de Brasil.",
@@ -3900,55 +3949,6 @@
                         }
                     ],
                     "tmdb_id": 245079,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Mentalidad Asesina",
-                    "genero": "Crimen, Documental",
-                    "descripcion": "",
-                    "anio": "2024",
-                    "iconPng": "https://image.tmdb.org/t/p/original/gBoEYTWXNYBVFBKkNJCoMJEL3bc.png",
-                    "icono": "https://image.tmdb.org/t/p/original/sKlXaK3BZvobJp2sm94wF10VLob.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/zTOvGTgW2RyLivML548LDpKO5Uk.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DE53A939499E4DA88E8BA6EF44E96A00_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/768BA75D5F554A32AD6F068C8A5A3E03_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1460F14591A54D489B7D838D83BBB594_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E7903407E6664B9D8FCAF1E56BAA88CD_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4A07D8086800478099D786F351B27897_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6E47C8F2A4674361A5C5A5216574B9FB_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 275587,
                     "total_seasons": 1
                 }
             ]

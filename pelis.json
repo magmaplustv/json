@@ -1059,6 +1059,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F267C81BD394A4CB4E2828847046A10_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Biónica",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C93DE0DF9C0941C3917653D008E0D074_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/byQJb7SyIaLsoMUCdBbnANAPLfI.jpg",
+                "type": "PELICULA"
             }
         ]
     },

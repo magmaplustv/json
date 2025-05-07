@@ -110,6 +110,12 @@
         "name": "⭐️⭐️Estrenos 2025⭐️⭐️",
         "samples": [
             {
+                "name": "Gravedad cero",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El Mono",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
@@ -275,12 +281,6 @@
                 "name": "Isla de perros",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CAFB07B718F84A59BBD701D7470771BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Gravedad cero",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
                 "type": "PELICULA"
             }
         ]

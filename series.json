@@ -5216,6 +5216,60 @@
             ]
         },
         {
+            "nombre": "⭐️⭐️Documentales⭐️⭐️",
+            "series": [
+                {
+                    "nombre": "Selección Argentina, la serie - Camino a Qatar",
+                    "genero": "Documental",
+                    "descripcion": "La Selección Argentina de Fútbol se prepara para el Mundial y abre la puerta al detrás de cámaras. Las eliminatorias, la Copa América, la Finalissima y la preparación del partido para Qatar como nunca antes visto.",
+                    "anio": "2022",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/dLeqKotFP8dTHk5fadCHlcc5iiV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kf1QF3v49qn2AvMJA1GrOWNZFdd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6B9C107D991F4714BE5F2DDCFE2CC703_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0FD539255790446F8E4128796E70731C_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Eliminatorias",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2AAB5EE219A9408FB7C0D35704E12267_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Centro de Formación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45057ABD02D64B62BD3638373F46EABD_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A291246C2EAA4AE3AB76B32B838FEBF0_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/63D1EDB7ED8A49BB96D1C11D64BC066B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 206085,
+                    "total_seasons": 1
+                }
+            ]
+        },
+        {
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {

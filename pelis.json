@@ -3,6 +3,12 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
+                "name": "Troya",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Corazon Valiente",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/44B021E29F914D84BA566CBFA0AB4103_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
@@ -114,12 +120,6 @@
                 "name": "El Irlandés",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/67A53CC7035747EBBB2459EB8B8E8AE2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Troya",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
                 "type": "PELICULA"
             }
         ]

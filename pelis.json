@@ -725,6 +725,12 @@
         "name": "⭐️⭐️Peliculas Argentinas⭐️⭐️",
         "samples": [
             {
+                "name": "Imágenes paganas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66E285573CAD47CEA3E2F0654BC1F0E2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wNgRY67A7fIcDvfjUmUqqmNumPV.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Biónica",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C93DE0DF9C0941C3917653D008E0D074_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/byQJb7SyIaLsoMUCdBbnANAPLfI.jpg",
@@ -1094,12 +1100,6 @@
                 "name": "Re loca",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F267C81BD394A4CB4E2828847046A10_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Imágenes paganas",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/66E285573CAD47CEA3E2F0654BC1F0E2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wNgRY67A7fIcDvfjUmUqqmNumPV.jpg",
                 "type": "PELICULA"
             }
         ]

@@ -4,6 +4,45 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Kun por Agüero",
+                    "genero": "Documental",
+                    "descripcion": "Presenta imágenes inéditas y entrevistas exclusivas con Messi, Guardiola, Otamendi e Ibai Llanos, siguiendo el viaje de Kun Agüero desde sus primeros días hasta el estrellato del fútbol mundial, su vínculo con su padre y el retiro relacionado con el corazón.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/y27fxExVvXM0Lz9BHNNipWfqjDI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/obelg5o4E2Rn9xtwnFLkAKNYkV9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9C076BB253B4287BA150E47D149AF22_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/24D95EDE56624D4D9700DDA7DE614416_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/699E503FD53742AC8051E5C097B6C218_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42EF174E3FA145FE9A6598F4081125B2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 289163,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "La canción",
                     "genero": "Drama",
                     "descripcion": "En 1968, TVE inicia un proceso para seleccionar a un cantante que interprete la canción \"La, la, la\", compuesto por el Dúo Dinámico, en Eurovisión. En un primer momento, Joan Manuel Serrat, quien grabó el tema en catalán, había sido elegido; sin embargo, el régimen franquista se opuso a que cantara en una lengua cooficial y el cantautor abandonó. Fue tras ello cuando Massiel apareció en la ecuación y se inició el periplo para alcanzar la única victoria de España en Eurovisión.",
@@ -1790,45 +1829,6 @@
                         }
                     ],
                     "tmdb_id": 280043,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Kun por Agüero",
-                    "genero": "Documental",
-                    "descripcion": "Presenta imágenes inéditas y entrevistas exclusivas con Messi, Guardiola, Otamendi e Ibai Llanos, siguiendo el viaje de Kun Agüero desde sus primeros días hasta el estrellato del fútbol mundial, su vínculo con su padre y el retiro relacionado con el corazón.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/y27fxExVvXM0Lz9BHNNipWfqjDI.png",
-                    "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/obelg5o4E2Rn9xtwnFLkAKNYkV9.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9C076BB253B4287BA150E47D149AF22_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/24D95EDE56624D4D9700DDA7DE614416_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/699E503FD53742AC8051E5C097B6C218_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42EF174E3FA145FE9A6598F4081125B2_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 289163,
                     "total_seasons": 1
                 }
             ]

@@ -3560,5 +3560,16 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "⭐️⭐️Documentales⭐️⭐️",
+        "samples": [
+            {
+                "name": "Gran Bretaña y el Blitz",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/44C5701459D04322B2109E7480EFA653_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qVEsjfEFx6XLganODtCNVcYUw08.jpg",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

@@ -3362,6 +3362,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Stream",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88FF763306154C3B8A87B4A03663A868_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/az0k8pzdeqrrEO9iu8vL081bjA0.jpg",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1757,6 +1757,40 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La canción",
+                    "genero": "Drama",
+                    "descripcion": "En 1968, TVE inicia un proceso para seleccionar a un cantante que interprete la canción \"La, la, la\", compuesto por el Dúo Dinámico, en Eurovisión. En un primer momento, Joan Manuel Serrat, quien grabó el tema en catalán, había sido elegido; sin embargo, el régimen franquista se opuso a que cantara en una lengua cooficial y el cantautor abandonó. Fue tras ello cuando Massiel apareció en la ecuación y se inició el periplo para alcanzar la única victoria de España en Eurovisión.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/uH0GE8Klh7xiTv5tthREJpDXzW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bwgwcqf3xHMcmyhVnpllr7j69Cm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F14CB151122462F83BE31165A369CB3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C96D623A5059492292E65B452F6815EE_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E184A8FEDC7E4E139A7F9CBF362FCF38_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 273912,
+                    "total_seasons": 1
                 }
             ]
         },

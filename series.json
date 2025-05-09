@@ -5273,6 +5273,65 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "La Realeza",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fSvnn2ferd9IQIcLmKIRGlTBzZj.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nnD4364ToXZwDpFWEnY94xzykIs.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2lj4e5psR9jJA0LSn557fwxcqLv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2EB3185DCA9B427AB084A2E98181AF9D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FCF6161DDFE54FD48C4893165B182EDB_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9155E5E22914405DB8C2E626C0C1C77C_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96CEEBCD450E4A37B1120E526A8D8B9D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DFF4AC452F9F42D8BF7E4A9DFB031C7B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/155BB30F5B7E40F8AF66D3F7076CBDEE_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0433284ACC0D4BEDBD6A5A5E8320ADFA_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/26A57D573DFF42588CBB4F11B3EA0FAE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261545,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Invisible",
                     "genero": "Crimen, Drama",
                     "descripcion": "Una limpiadora busca desesperadamente a su marido mientras una temible organización criminal desentierra las tragedias de su pasado y acaba empujándola a la violencia.",
@@ -6758,65 +6817,6 @@
                         }
                     ],
                     "tmdb_id": 97173,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "द रॉयल्स",
-                    "genero": "Drama, Comedia",
-                    "descripcion": "",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/fSvnn2ferd9IQIcLmKIRGlTBzZj.png",
-                    "icono": "https://image.tmdb.org/t/p/original/nnD4364ToXZwDpFWEnY94xzykIs.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2lj4e5psR9jJA0LSn557fwxcqLv.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2EB3185DCA9B427AB084A2E98181AF9D_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FCF6161DDFE54FD48C4893165B182EDB_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9155E5E22914405DB8C2E626C0C1C77C_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96CEEBCD450E4A37B1120E526A8D8B9D_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DFF4AC452F9F42D8BF7E4A9DFB031C7B_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/155BB30F5B7E40F8AF66D3F7076CBDEE_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0433284ACC0D4BEDBD6A5A5E8320ADFA_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/26A57D573DFF42588CBB4F11B3EA0FAE_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 261545,
                     "total_seasons": 1
                 }
             ]

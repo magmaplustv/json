@@ -5327,6 +5327,55 @@
                     "total_seasons": 1
                 },
                 {
+                    "nombre": "La Pasión Turca",
+                    "genero": "Drama",
+                    "descripcion": "Olivia, tras haber intentado suicidarse, es investigada por su colaboración una red de contrabando de obras de arte junto a Yaman, su amante turco del que está plenamente enamorada.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6np4hJ66AQv7CH97nK2X0cBwQeY.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5PYnJtDj3D6KU2AtQr5OVuU8lBG.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rM4xVckaPmT7pL3rJREv4QyryDC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Temblorosa ante ti",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/90F087E510C64E3798593DA13598FE25_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mi Dios",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0BA13E5F36B54D5FBE73E46288840A56_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Perder el control",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CE6A6931696454CA4559B9C1ECC3F5F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Una nueva vida",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92B30B4590EE4DD0A6973CA4C092667A_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Una jaula",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EF6C2856EC8C4A138BDF5A7028A41D1A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Morir al mismo tiempo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EA0FAA197B264805BA15944439AC7BE5_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 237013,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "La Niña robada",
                     "genero": "Drama, Misterio",
                     "descripcion": "Una madre de dos hijos cuyo mundo se pone patas arriba cuando acepta que su hija de nueve años pase la noche en la casa de su nueva mejor amiga.",
@@ -6565,55 +6614,6 @@
                         }
                     ],
                     "tmdb_id": 97173,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "La Pasión Turca",
-                    "genero": "Drama",
-                    "descripcion": "Olivia, tras haber intentado suicidarse, es investigada por su colaboración una red de contrabando de obras de arte junto a Yaman, su amante turco del que está plenamente enamorada.",
-                    "anio": "2024",
-                    "iconPng": "https://image.tmdb.org/t/p/original/6np4hJ66AQv7CH97nK2X0cBwQeY.png",
-                    "icono": "https://image.tmdb.org/t/p/original/5PYnJtDj3D6KU2AtQr5OVuU8lBG.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rM4xVckaPmT7pL3rJREv4QyryDC.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Temblorosa ante ti",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/90F087E510C64E3798593DA13598FE25_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Mi Dios",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0BA13E5F36B54D5FBE73E46288840A56_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Perder el control",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2CE6A6931696454CA4559B9C1ECC3F5F_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Una nueva vida",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/92B30B4590EE4DD0A6973CA4C092667A_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Una jaula",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EF6C2856EC8C4A138BDF5A7028A41D1A_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Morir al mismo tiempo",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EA0FAA197B264805BA15944439AC7BE5_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 237013,
                     "total_seasons": 1
                 }
             ]

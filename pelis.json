@@ -313,12 +313,6 @@
         "name": "⭐️⭐️Estrenos CAM 2025⭐️⭐️",
         "samples": [
             {
-                "name": "Los Perez-osos",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9988D7207C474EC09C5C565F0D7BAA48_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Thunderbolts*",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/424460.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zLbhKNJGDSfBCXFNtypM7ZuPTaW.jpg",
@@ -717,6 +711,12 @@
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los Perez-osos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9988D7207C474EC09C5C565F0D7BAA48_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
                 "type": "PELICULA"
             }
         ]

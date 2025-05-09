@@ -5273,6 +5273,65 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Por siempre (Forever)",
+                    "genero": "Drama",
+                    "descripcion": "Serie de TV (2025). 1 temporada, 8 episodios. Ambientada en Los Ángeles en 2018. Dos amigos de la infancia que se reúnen en la adolescencia se enamoran y experimentan la alegría y el dolor del primer amor, que cambiará sus vidas para siempre.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/hFl6uoSHeWNdf9SmNdb9umWXevg.png",
+                    "icono": "https://image.tmdb.org/t/p/original/tHlVPrRJYckbxPUgTukyBhTiYOW.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lhbT6Kmv8yi4QJzyshTRCdoNhfV.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7A8A5CE685BD4A2A94C9EA242B33F3E3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7AF9BE64271941808F17520721989D53_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C724722FD9A4F50BDE1CF7B6B7A35A4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A491A58688714483B2E2960689892A74_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6B01446CA2B045DF8A35B700D10637C5_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0E84E559FAFA4BD49BF7401B576CF07F_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BA332C44DD5247FEB1281A1705AAF741_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/659E07CA705844C29509779426939D8E_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248394,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Dope Thief: ladrones de drogas",
                     "genero": "Crimen, Drama",
                     "descripcion": "Dos amigos de toda la vida de Filadelfia se hacen pasar por agentes de la DEA para robar a traficantes de poca monta. Es el timo perfecto... hasta que eligen a la víctima equivocada y acaban siendo el objetivo de un gran entramado de narcóticos.",
@@ -6614,65 +6673,6 @@
                         }
                     ],
                     "tmdb_id": 97173,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Por siempre (Forever)",
-                    "genero": "Drama",
-                    "descripcion": "Serie de TV (2025). 1 temporada, 8 episodios. Ambientada en Los Ángeles en 2018. Dos amigos de la infancia que se reúnen en la adolescencia se enamoran y experimentan la alegría y el dolor del primer amor, que cambiará sus vidas para siempre.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/hFl6uoSHeWNdf9SmNdb9umWXevg.png",
-                    "icono": "https://image.tmdb.org/t/p/original/tHlVPrRJYckbxPUgTukyBhTiYOW.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/lhbT6Kmv8yi4QJzyshTRCdoNhfV.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7A8A5CE685BD4A2A94C9EA242B33F3E3_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7AF9BE64271941808F17520721989D53_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7C724722FD9A4F50BDE1CF7B6B7A35A4_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A491A58688714483B2E2960689892A74_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6B01446CA2B045DF8A35B700D10637C5_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0E84E559FAFA4BD49BF7401B576CF07F_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BA332C44DD5247FEB1281A1705AAF741_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/659E07CA705844C29509779426939D8E_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 248394,
                     "total_seasons": 1
                 }
             ]

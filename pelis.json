@@ -712,12 +712,6 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
-            },
-            {
-                "name": "Los Perez-osos",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9988D7207C474EC09C5C565F0D7BAA48_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
-                "type": "PELICULA"
             }
         ]
     },
@@ -1989,6 +1983,12 @@
                 "name": "Daphne & Velma",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A9EC6D7CE5CB461EB67EF689E8981952_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los Perez-osos",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9988D7207C474EC09C5C565F0D7BAA48_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
                 "type": "PELICULA"
             }
         ]

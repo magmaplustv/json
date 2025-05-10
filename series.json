@@ -3859,6 +3859,75 @@
                     ],
                     "tmdb_id": 214582,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Zorro",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Diego de la Vega es elegido para ser el nuevo Zorro, pero su único propósito es desenmascarar a los asesinos de su padre y llevarlos ante la justicia. A medida que asume el papel de Zorro, Diego no solo lucha por la justicia en Los Ángeles, sino que también descubre los desafíos de ser un héroe y cómo su papel afecta a California en el siglo XIX.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/w1fHdAwTOXYpgBRdlfLFqGLYuXa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/pWnuHnjseVStjwz69IFenolGkRK.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/f5ZF7H4y9k4bRLyg9obIUlMbDSs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El elegido",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1994A595AD1F4C29896769F045135728_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Herencia",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBC8CBCEE1D64F1A90AC0BAC9327B4CE_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La apuesta",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95CFC25757F14663AA9B13F7B3F70613_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La venganza",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E936FC550194E3B88F60A65BD2A5C53_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La ejecución",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B8F109510A29421C809AAF8D4A2EE4A8_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Juego de máscaras",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AB68B0BBA18C42B6A46491DDB0ED4F2F_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El mito",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/55CE1C02EA2644DB890ACBA86BFDF27E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La boda",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DF0695B1A33642ECA3068AA4B0596D10_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Desenmascarados",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/52C290A5F96143C8A624141CCAD2BCED_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Baile de máscaras para tres funerales",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F7633EE933C8449BA97861D1B46E016A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 228477,
+                    "total_seasons": 1
                 }
             ]
         },

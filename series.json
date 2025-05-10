@@ -4398,6 +4398,111 @@
                     ],
                     "tmdb_id": 226362,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El señor de los anillos: Los anillos de poder",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/bFb2je479dZpxYMFwxX44c0hliD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4pPzwFluOzZg9nOXvECZC4bSSlx.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Una sombra del pasado",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3536260780834C98942CDA0697A43CE6_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "A la deriva",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA04193E76C8495DACAE4C6E84B4B29F_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Adar",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/86EC7F5EA9634F949A794ACBDBEF95E6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La gran ola",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3E12CD441DF24C4BA850467FC6495FB4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Separaciones",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E7440016E8EC41A0820EE045F3DE84E6_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Udûn",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95FE17826E3B4019B500B58209C500AD_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El ojo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D22AE247A94C4EDFB4A4BBC074732FBC_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Aliados",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D4321248FF71499A82EC15D993511400_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los reyes elfos bajo el cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CF921C0F401C478DACE7ABC2A59224C3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Donde las estrellas son extrañas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/239CAA9B64B2435FB267F7E744730676_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El águila y el cetro",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F194C60A173E41B3AE3F53D5CCFBE0EF_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Antiguo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F1406FDB70144F28A54256B994C28571_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Palacios de piedra",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9EF762F0FB664540AA6C04ADFCA42224_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¿Dónde está él?",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA45DA0E6F6D416483BE8118555FB454_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Condenados a morir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CE7C8AB81CC94F8280D8AE6B67E6A5A1_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Sombra y llama",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2F7B988C99FB4B039BE8BD46803C227C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 84773,
+                    "total_seasons": 2
                 }
             ]
         },

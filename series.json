@@ -5547,6 +5547,45 @@
             "nombre": "⭐️⭐️Documentales⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Kun por Agüero",
+                    "genero": "Documental",
+                    "descripcion": "Presenta imágenes inéditas y entrevistas exclusivas con Messi, Guardiola, Otamendi e Ibai Llanos, siguiendo el viaje de Kun Agüero desde sus primeros días hasta el estrellato del fútbol mundial, su vínculo con su padre y el retiro relacionado con el corazón.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/y27fxExVvXM0Lz9BHNNipWfqjDI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/obelg5o4E2Rn9xtwnFLkAKNYkV9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9C076BB253B4287BA150E47D149AF22_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/24D95EDE56624D4D9700DDA7DE614416_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/699E503FD53742AC8051E5C097B6C218_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42EF174E3FA145FE9A6598F4081125B2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 289163,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Selección Argentina, la serie - Camino a Qatar",
                     "genero": "Documental",
                     "descripcion": "La Selección Argentina de Fútbol se prepara para el Mundial y abre la puerta al detrás de cámaras. Las eliminatorias, la Copa América, la Finalissima y la preparación del partido para Qatar como nunca antes visto.",
@@ -5593,45 +5632,6 @@
                         }
                     ],
                     "tmdb_id": 206085,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Kun por Agüero",
-                    "genero": "Documental",
-                    "descripcion": "Presenta imágenes inéditas y entrevistas exclusivas con Messi, Guardiola, Otamendi e Ibai Llanos, siguiendo el viaje de Kun Agüero desde sus primeros días hasta el estrellato del fútbol mundial, su vínculo con su padre y el retiro relacionado con el corazón.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/y27fxExVvXM0Lz9BHNNipWfqjDI.png",
-                    "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/obelg5o4E2Rn9xtwnFLkAKNYkV9.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D9C076BB253B4287BA150E47D149AF22_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/24D95EDE56624D4D9700DDA7DE614416_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/699E503FD53742AC8051E5C097B6C218_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/42EF174E3FA145FE9A6598F4081125B2_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 289163,
                     "total_seasons": 1
                 }
             ]

@@ -1146,7 +1146,7 @@
                 "name": "DAZN 1 RIZE",
                 "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/640px-Dazn-logo.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8bcec6b31cc9edcb6768ab26548e22c3&key=e3c5b07328894c33734a4de6ae55a87f",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

@@ -1171,6 +1171,12 @@
                 "url": "http://moontools.me:8080/Samuel503/8TEr4iCcwsxLNJ/1990710",
                 "type": "HLS",
                 "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png"
+            },
+            {
+                "name": "MLS PASS",
+                "url": "http://wplatino.online:8080/live/MEGATV45TV/56545654987/269983.ts",
+                "type": "HLS",
+                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png"
             }
         ]
     },

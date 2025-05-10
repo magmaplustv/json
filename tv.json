@@ -1143,11 +1143,10 @@
                 "icono": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1vjki8lnf5bz51okfjt4mibssf_image-header_pRow_1690455045000"
             },
             {
-                "name": "DAZN F1",
-                "url": "https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa"
+                "name": "DAZN 1",
+                "url": "https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

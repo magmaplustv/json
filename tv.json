@@ -2227,7 +2227,7 @@
             {
                 "name": "CINE FANTASÍA",
                 "url": "https://magmaplayer.com/stream/m3u8/BQR2KmR2A18lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/167.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
+                "icono": "https://cinedegenerolatinoamericano.com/wp-content/uploads/2021/01/Branco-no-Preto.jpg",
                 "headers": {
                     "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
                     "X-Did": "704b97090ad1fb5e",
@@ -2235,7 +2235,8 @@
                     "User-Agent": "Magma Player/8",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
                 "name": "CINE INFANTIL",

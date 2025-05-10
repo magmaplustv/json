@@ -2211,9 +2211,9 @@
                 "type": "HLS"
             },
             {
-                "name": "CINE ACCIÓN SAGAS",
+                "name": "CINE SAGAS",
                 "url": "https://magmaplayer.com/stream/m3u8/ZwV2KmR2ZS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/160.m3u8",
-                "icono": "https://x.playerlatino.live/cine247.png",
+                "icono": "https://media.licdn.com/dms/image/v2/C4D0BAQGQ2LP8ohWXHg/company-logo_200_200/company-logo_200_200/0/1631374014137/saga_films_logo?e=2147483647&v=beta&t=PpsSQhA0lGENg7hBGGsMzidD0oxYlwhUSUhador2rOE",
                 "headers": {
                     "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
                     "X-Did": "704b97090ad1fb5e",
@@ -2221,7 +2221,8 @@
                     "User-Agent": "Magma Player/8",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
                 "name": "CINE FANTASÍA",

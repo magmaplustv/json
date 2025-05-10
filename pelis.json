@@ -731,6 +731,12 @@
         "name": "⭐️⭐️Peliculas Argentinas⭐️⭐️",
         "samples": [
             {
+                "name": "Sola en el paraíso",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6FB938050CD34A47996914209BF54E14_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sWWcXX69oa1Q7EWdyw8kInhgmrs.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "School Privada Alfonsina Storni",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/263CABBDE03245CA9F1A0B0DD71E70E1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5tZO0fLMWijv3V4ApP8F9my6phW.jpg",
@@ -1112,12 +1118,6 @@
                 "name": "Re loca",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4F267C81BD394A4CB4E2828847046A10_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Sola en el paraíso",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6FB938050CD34A47996914209BF54E14_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sWWcXX69oa1Q7EWdyw8kInhgmrs.jpg",
                 "type": "PELICULA"
             }
         ]

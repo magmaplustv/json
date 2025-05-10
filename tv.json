@@ -1144,9 +1144,10 @@
             },
             {
                 "name": "DAZN F1",
-                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMjBTY1MTMxczMxATLzYzYh1yNwUGNtQ2YkZTLyEmZ4cDZ3kzL.m3u8",
-                "type": "HLS",
-                "icono": ""
+                "url": "https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa"
             }
         ]
     },

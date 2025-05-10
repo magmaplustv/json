@@ -1167,10 +1167,10 @@
                 }
             },
             {
-                "name": "PREMIER Y LA LIGA",
+                "name": "PREMIER Y LA LIGA 1",
                 "url": "https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://1000marcas.net/wp-content/uploads/2020/03/logo-Premier-League.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=850c1a430396ce4255f3902bf1f4e897&key=295b1db977f94dfbba012073901a019b",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

@@ -128,12 +128,6 @@
         "name": "⭐️⭐️Estrenos 2025⭐️⭐️",
         "samples": [
             {
-                "name": "Thunderbolts*",
-                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/502971.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La Evaluación",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD74587245304F8C8115F26190633E0E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
@@ -442,6 +436,12 @@
                 "name": "Mickey 17",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Thunderbolts*",
+                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/502971.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg",
                 "type": "PELICULA"
             }
         ]

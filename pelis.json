@@ -128,12 +128,6 @@
         "name": "⭐️⭐️Estrenos 2025⭐️⭐️",
         "samples": [
             {
-                "name": "La Evaluación",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD74587245304F8C8115F26190633E0E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Gravedad cero",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
@@ -442,6 +436,12 @@
                 "name": "Thunderbolts*",
                 "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/502971.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La Evaluación",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD74587245304F8C8115F26190633E0E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
                 "type": "PELICULA"
             }
         ]

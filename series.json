@@ -6660,6 +6660,40 @@
                     ],
                     "tmdb_id": 85077,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "La hija de Dios: Dalma Maradona",
+                    "genero": "Documental",
+                    "descripcion": "Los principales escenarios de la vida de Diego Maradona a través del relato de su hija, Dalma, y los allegados de su padre, gracias a lo cual se mostrarán revelaciones, detalles y anécdotas hasta el momento desconocidas.",
+                    "anio": "2023",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/A93YlOwzCMK6h6sSFlPbdleCAzj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1FMqX7ujJl31ML8MDzSCkGnOT5e.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0830AB5E4ABC43E1B9FCBC36E30EF2A1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/189FC0D545614BE5A6F73F0C7BB73EB5_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E484BF37947B4DF68245C7A48FDD46B0_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 237727,
+                    "total_seasons": 1
                 }
             ]
         },

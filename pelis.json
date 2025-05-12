@@ -1747,6 +1747,12 @@
         "name": "⭐️⭐️Hbo/Max⭐️⭐️",
         "samples": [
             {
+                "name": "Malos Hombres",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425981.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nS7k0fwfkrBNQgZZ1zipaIXgYvS.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Escapada de espanto",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
@@ -1798,12 +1804,6 @@
                 "name": "Ganamos al Dream Team",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/298C183CD742492AA5435980433F4999_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6EcJkjNtYW7BoTVNoiRMFp7yDsa.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Bad Hombres",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425981.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/nS7k0fwfkrBNQgZZ1zipaIXgYvS.jpg",
                 "type": "PELICULA"
             }
         ]

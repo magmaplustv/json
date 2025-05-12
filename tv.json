@@ -1170,7 +1170,7 @@
                 "name": "DAZN F1",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcPfVcn8kqIBtOz9YqbUbiCH9jQHurDb3rA&s",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

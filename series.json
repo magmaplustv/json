@@ -6603,6 +6603,45 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Sospechoso: El asesinato de Jean Charles de Menezes",
+                    "genero": "Drama",
+                    "descripcion": "En Londres, en julio de 2005, la policía busca una célula terrorista. Una inusual serie de acontecimientos durante una operación de vigilancia llevó a la errónea identificación, como sospechoso, de un joven brasileño inocente que, debido a ello, es abatido a tiros. Mientras sus familiares luchan contra la desinformación, encuentran el apoyo de una fuente inesperada, y la Policía Metropolitana se sume en una crisis, viéndose obligada a lidiar con la cruda realidad sobre el tiroteo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mymanmAugjiSor5D93sJfQIBh2h.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5G19mfImFZTln0mYYSGczrDIxfR.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/u41RabPPKrUPb3xEZryShF4Ts45.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F3F87F1C83EF441EA0FAC1D53BF46F4A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0E70291E6E47476BBA930FD12D65F0DD_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/385DC06B6F1144EF88B9E9FDE4416831_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C7B1508A87AE40DC974575A3DAC00C9D_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 229236,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "La Realeza",
                     "genero": "Drama, Comedia",
                     "descripcion": "",
@@ -8351,45 +8390,6 @@
                         }
                     ],
                     "tmdb_id": 90669,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Sospechoso: El asesinato de Jean Charles de Menezes",
-                    "genero": "Drama",
-                    "descripcion": "En Londres, en julio de 2005, la policía busca una célula terrorista. Una inusual serie de acontecimientos durante una operación de vigilancia llevó a la errónea identificación, como sospechoso, de un joven brasileño inocente que, debido a ello, es abatido a tiros. Mientras sus familiares luchan contra la desinformación, encuentran el apoyo de una fuente inesperada, y la Policía Metropolitana se sume en una crisis, viéndose obligada a lidiar con la cruda realidad sobre el tiroteo.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/mymanmAugjiSor5D93sJfQIBh2h.png",
-                    "icono": "https://image.tmdb.org/t/p/original/5G19mfImFZTln0mYYSGczrDIxfR.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/u41RabPPKrUPb3xEZryShF4Ts45.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F3F87F1C83EF441EA0FAC1D53BF46F4A_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0E70291E6E47476BBA930FD12D65F0DD_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/385DC06B6F1144EF88B9E9FDE4416831_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C7B1508A87AE40DC974575A3DAC00C9D_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 229236,
                     "total_seasons": 1
                 }
             ]

@@ -1167,12 +1167,6 @@
                 }
             },
             {
-                "name": "MLS PASS",
-                "url": "http://moontools.me:8080/Samuel503/8TEr4iCcwsxLNJ/1990710",
-                "type": "HLS",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png"
-            },
-            {
                 "name": "DAZN F1",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "type": "CLEARKEY",

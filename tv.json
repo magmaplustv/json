@@ -1177,6 +1177,13 @@
                 "url": "http://wplatino.online:8080/live/MEGATV45TV/56545654987/269906.ts",
                 "type": "HLS",
                 "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png"
+            },
+            {
+                "name": "DAZN F1",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8"
             }
         ]
     },

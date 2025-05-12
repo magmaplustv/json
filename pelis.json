@@ -313,6 +313,12 @@
         "name": "⭐️⭐️Estrenos CAM 2025⭐️⭐️",
         "samples": [
             {
+                "name": "Conjuring Tapes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Karate Kid: Legends",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425538.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
@@ -448,12 +454,6 @@
                 "name": "La Evaluación",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD74587245304F8C8115F26190633E0E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Conjuring Tapes",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
                 "type": "PELICULA"
             }
         ]

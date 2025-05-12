@@ -1173,12 +1173,6 @@
                 "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png"
             },
             {
-                "name": "MLS PASS",
-                "url": "http://wplatino.online:8080/live/MEGATV45TV/56545654987/269906.ts",
-                "type": "HLS",
-                "icono": "https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png"
-            },
-            {
                 "name": "DAZN F1",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "type": "CLEARKEY",

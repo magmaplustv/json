@@ -2802,6 +2802,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Celebración Macabra",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Superpapá",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/94BB540603394423BE2E65414CFA6B55_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hJ1WXZgANL8RSfOumvK8udUSC3H.jpg",
@@ -3099,12 +3105,6 @@
                 "name": "La máscara 2 (El hijo de la máscara)",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1ED2E160445E40F888E7F0F89F1D8AA9_media.mp4\"",
                 "icono": "https://image.tmdb.org/t/p/original/pLR2dgaNuHVJcS5mgIHfpRzgYAB.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Celebración Macabra",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
                 "type": "PELICULA"
             }
         ]

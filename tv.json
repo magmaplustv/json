@@ -654,6 +654,18 @@
                 "url": "https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png"
+            },
+            {
+                "name": "Somos Norte Salta",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

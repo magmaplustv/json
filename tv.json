@@ -689,6 +689,13 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "TYC SPORTS 2",
+                "url": "https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/ZJMgxxp/tyc-sports2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ae7b0708be4edf3453c1ab9d6976974&key=8b31a9788f6dc12640ba69560fcb4b39"
             }
         ]
     },

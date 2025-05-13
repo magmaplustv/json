@@ -660,6 +660,12 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "TEVE OCHO CHEPES LA RIOJA",
+                "url": "https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png"
             }
         ]
     },

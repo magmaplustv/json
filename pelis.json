@@ -140,12 +140,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Blancanieves",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Crypto: La apuesta final",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B7CD27000B314F70B28BDE24E2E0A7B6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lrp8ipvEPYdm5a2D2Om2dNoguYX.jpg",
@@ -2055,6 +2049,12 @@
                 "name": "Daphne & Velma",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A9EC6D7CE5CB461EB67EF689E8981952_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Blancanieves",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
                 "type": "PELICULA"
             }
         ]

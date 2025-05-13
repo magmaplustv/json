@@ -1896,6 +1896,30 @@
             "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
             "series": [
                 {
+                    "nombre": "el sabor de lo nuestro",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gnEjTt2ZjWwf6JWE1VziPEhYK8Q.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cfFeEJgvjeOMYZvAOxIMv8iI98B.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2B059B7E9D5147448BCDC2E7F6C468A2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 281006,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Carême, chef de reyes",
                     "genero": "Drama",
                     "descripcion": "Un joven y ambicioso chef utiliza su encanto seductor para trabajar como espía y así salvar a su padre y forjarse una reputación.",
@@ -2118,30 +2142,6 @@
                         }
                     ],
                     "tmdb_id": 241609,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "el sabor de lo nuestro",
-                    "genero": "Comedia, Drama",
-                    "descripcion": "",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/gnEjTt2ZjWwf6JWE1VziPEhYK8Q.png",
-                    "icono": "https://image.tmdb.org/t/p/original/cfFeEJgvjeOMYZvAOxIMv8iI98B.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xMgfvjhKwuFTyoXNpa8UVV74rek.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2B059B7E9D5147448BCDC2E7F6C468A2_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 281006,
                     "total_seasons": 1
                 }
             ]

@@ -632,12 +632,6 @@
                 }
             },
             {
-                "name": "Canal 9 La Rioja",
-                "url": "https://inliveserver.com:1936/12014/12014/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Canal-9-La-Rioja-en-vivo-Online-.png"
-            },
-            {
                 "name": "Canal 13 La Rioja",
                 "url": "https://stream.arcast.host:8443/mp/mp/playlist.m3u8",
                 "type": "HLS",

@@ -3298,6 +3298,12 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "Parásito",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FB5AB2E1D1374E7CB4EE6BD4F6A9E01B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hmfVO0q2LCsu2sTOe4KjH1aU5tG.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Stream",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88FF763306154C3B8A87B4A03663A868_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/az0k8pzdeqrrEO9iu8vL081bjA0.jpg",
@@ -3505,12 +3511,6 @@
                 "name": "Y al séptimo día",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Dark Parasite",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FB5AB2E1D1374E7CB4EE6BD4F6A9E01B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hmfVO0q2LCsu2sTOe4KjH1aU5tG.jpg",
                 "type": "PELICULA"
             }
         ]

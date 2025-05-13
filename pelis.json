@@ -2529,6 +2529,12 @@
         "name": "⭐️⭐️Aventura⭐️⭐️",
         "samples": [
             {
+                "name": "Bambi, una vida en el bosque",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D4D4FCAD12AA400C9FE45360A815DA9A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fvtIXQH4JcifptPe0J9GfLDIOAQ.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Lampo, el perro viajero",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/777D9B0008E94F07A21699F915189EA6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gQpGDVYNCSTYf1ogw6hM55VBeLF.jpg",
@@ -2622,12 +2628,6 @@
                 "name": "El Oso Yogui",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CECA4805A5B94DD2803CCD37346CE451_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Bambi, una vida en el bosque",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D4D4FCAD12AA400C9FE45360A815DA9A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fvtIXQH4JcifptPe0J9GfLDIOAQ.jpg",
                 "type": "PELICULA"
             }
         ]

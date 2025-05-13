@@ -312,6 +312,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CAFB07B718F84A59BBD701D7470771BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Blancanieves",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
+                "type": "PELICULA"
             }
         ]
     },

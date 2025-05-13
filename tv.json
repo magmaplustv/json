@@ -903,9 +903,10 @@
                 "type": "HLS"
             },
             {
-                "name": "TYC SPORT (PLAY 2)",
+                "name": "TyC Sports Play (PLAY 2)",
                 "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp",
+                "type": "HLS"
             },
             {
                 "name": "TYC SPORT (PLAY 3)",

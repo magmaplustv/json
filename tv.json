@@ -928,6 +928,12 @@
                 "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
             },
             {
+                "name": "TYC SPORT (PLAY 7)",
+                "url": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+            },
+            {
                 "name": "TNT SPORT PREMIUM HD",
                 "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
                 "type": "CLEARKEY",
@@ -938,12 +944,6 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "TYC SPORT (PLAY 7)",
-                "url": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
             }
         ]
     },

@@ -3528,6 +3528,12 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
             },
             {
+                "name": "Premiere 1",
+                "url": "http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8",
+                "type": "HLS",
+                "icono": "https://logo.iptveditor.com/premiere2.png"
+            },
+            {
                 "name": "PREMIERE 2",
                 "url": "https://new.m3u8.one/pre2/index.m3u8",
                 "type": "CLEARKEY",
@@ -3586,12 +3592,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "name": "Premiere 1",
-                "url": "http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8",
-                "type": "HLS",
-                "icono": "https://logo.iptveditor.com/premiere2.png"
             }
         ]
     }

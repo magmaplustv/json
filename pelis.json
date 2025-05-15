@@ -1496,6 +1496,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Vidas Paralelas",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6452416206504C9085A125ED3AC26796_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Fight or flight (sicarios en el aire)",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/011781CFF011497591EE8746514613B7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
@@ -1769,12 +1775,6 @@
                 "name": "Resident Evil: Degeneración",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Ingress",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6452416206504C9085A125ED3AC26796_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
                 "type": "PELICULA"
             }
         ]

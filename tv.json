@@ -3598,6 +3598,19 @@
     },
     {
         "name": "EVENTOS FLOW HD 🎶⚽",
-        "samples": []
+        "samples": [
+            {
+                "name": "EVENTOS HD 1",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar",
+                    "Referer": "https://web.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            }
+        ]
     }
 ]

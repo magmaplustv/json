@@ -2085,6 +2085,35 @@
             "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Impostura",
+                    "genero": "Comedia",
+                    "descripcion": "Una comedia de universitarios sobre el caótico viaje de Benny, que todavía está en el armario, que enseguida se hace amigo de Carmen, una marginada que quiere encajar a toda costa. Muy divertida e íntima, la serie explora la forma en que todos forzamos nuestro comportamiento en el camino de descubrir quiénes somos en realidad.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gQcQ04niq3YIlkeboiEdeo8HS9I.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rjHCjs3UEEmC8FKVCNlUT4iiztq.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0AA56687B2324E3989DEFFCA35D9D783_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/768C921D20504C1FAFF1275ED8DCBBF8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247619,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "el sabor de lo nuestro",
                     "genero": "Comedia, Drama",
                     "descripcion": "",
@@ -2331,35 +2360,6 @@
                         }
                     ],
                     "tmdb_id": 241609,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Impostura",
-                    "genero": "Comedia",
-                    "descripcion": "Una comedia de universitarios sobre el caótico viaje de Benny, que todavía está en el armario, que enseguida se hace amigo de Carmen, una marginada que quiere encajar a toda costa. Muy divertida e íntima, la serie explora la forma en que todos forzamos nuestro comportamiento en el camino de descubrir quiénes somos en realidad.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/gQcQ04niq3YIlkeboiEdeo8HS9I.png",
-                    "icono": "https://image.tmdb.org/t/p/original/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rjHCjs3UEEmC8FKVCNlUT4iiztq.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0AA56687B2324E3989DEFFCA35D9D783_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/768C921D20504C1FAFF1275ED8DCBBF8_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 247619,
                     "total_seasons": 1
                 }
             ]

@@ -3592,6 +3592,13 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "Premier 2",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/vXtSjSM/2024-12-16-13-53-46.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330"
             }
         ]
     }

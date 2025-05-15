@@ -5091,6 +5091,35 @@
             "nombre": "⭐️⭐️Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Apuesta",
+                    "genero": "Drama, Misterio, Crimen",
+                    "descripcion": "En un instituto privado donde el estatus social depende del juego, una nueva alumna brillante de pasado misterioso lo pone todo patas arriba… y apuesta por la venganza.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2lq5Vv5sxwFXVm1Y0GQsdDdWTPC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6r0PeNrf8YtkAtCnIt58CEhELE8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vx4UhH0RKQOG5etc2qVikStLFqG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BBB6169C91604F5DACFB914B75F58706_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/768C921D20504C1FAFF1275ED8DCBBF8_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255779,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "La Narcosatánica",
                     "genero": "Documental, Crimen, Drama",
                     "descripcion": "Documental sobre el caso de los narcosatánicos y sus crímenes en la década de los 80 desde el punto de vista de Sara Aldrete, la narcosatánica, que relata su participación en el grupo criminal desde la cárcel.",
@@ -5602,35 +5631,6 @@
                         }
                     ],
                     "tmdb_id": 288913,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Apuesta",
-                    "genero": "Drama, Misterio, Crimen",
-                    "descripcion": "En un instituto privado donde el estatus social depende del juego, una nueva alumna brillante de pasado misterioso lo pone todo patas arriba… y apuesta por la venganza.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/2lq5Vv5sxwFXVm1Y0GQsdDdWTPC.png",
-                    "icono": "https://image.tmdb.org/t/p/original/6r0PeNrf8YtkAtCnIt58CEhELE8.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vx4UhH0RKQOG5etc2qVikStLFqG.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BBB6169C91604F5DACFB914B75F58706_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/768C921D20504C1FAFF1275ED8DCBBF8_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 255779,
                     "total_seasons": 1
                 }
             ]

@@ -3561,6 +3561,12 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "SPORTV 1",
+                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CO2UmYihzM1UGO0EWL2EmN50iMkBDNtEmZ0ITL4IjZldjNhlzL.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
             }
         ]
     }

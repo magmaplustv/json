@@ -8949,6 +8949,55 @@
                     ],
                     "tmdb_id": 90669,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Franklin",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Un padre soltero que se dedica a las falsificaciones debe trabajar con su ex amante para crear el billete de 100 dólares perfecto y salvar a su hija de la muerte.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/mJmszRloNOe0WkWE47cDFXsoTN9.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1Y2ysxFuHytAYP9iWpk4beqmdUc.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vobYFcBcuaHPa3Rtd4L6cydyLDo.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/11711F5F6F244FE2AA247903DF96B828_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E78459AFE7114022BB8A980AD647FD94_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5AC366CF42414B52AC7ADC939116E0D8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1A6A9AD714924815ADDD1D28EF6EBE72_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D938B187147A4A86B2228F50AE75BE2E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2DCC20F9C26E4AC798B3109C8FA44106_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 288913,
+                    "total_seasons": 1
                 }
             ]
         },

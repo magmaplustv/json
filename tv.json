@@ -3583,15 +3583,9 @@
             },
             {
                 "name": "SPORTV 2",
-                "url": "https://stcdn.store/sportv2/index.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "headers": {
-                    "Origin": "https://embedstream.org",
-                    "Referer": "https://embedstream.org/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195687",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
             },
             {
                 "name": "SPORTV 3",

@@ -1340,6 +1340,12 @@
                 }
             },
             {
+                "name": "DAZN F1 opc 2",
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/212212.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+            {
                 "name": "PREMIER Y LA LIGA - DAZN 1",
                 "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
                 "type": "CLEARKEY",
@@ -1350,12 +1356,6 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
-            },
-            {
-                "name": "DAZN F1 opc 2",
-                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/212212.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
             },
             {
                 "name": "DAZN F1 opc 3",

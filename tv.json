@@ -707,6 +707,12 @@
                 "url": "https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg"
+            },
+            {
+                "name": "TVCO GENERAL PICO",
+                "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://www.corpico.com.ar/static/img/tvco-vivo.png"
             }
         ]
     },

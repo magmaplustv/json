@@ -695,6 +695,12 @@
                     "Referer": "https://web.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "TV PUBLICA PAMPEANA",
+                "url": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png"
             }
         ]
     },

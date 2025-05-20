@@ -701,6 +701,12 @@
                 "url": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png"
+            },
+            {
+                "name": "CPE TV LA PAMPA",
+                "url": "https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg"
             }
         ]
     },

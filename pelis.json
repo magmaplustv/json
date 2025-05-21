@@ -772,6 +772,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Megalópolis",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2FAB9CB8224F4F7D862EDEB42BBD99A2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6jW627n4kOQnAZCa24bbOd1S0CF.jpg",
+                "type": "PELICULA"
             }
         ]
     },

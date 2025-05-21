@@ -486,6 +486,12 @@
         "name": "⭐️⭐️Estrenos 2024⭐️⭐️",
         "samples": [
             {
+                "name": "Beetlejuice 2",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/81EC519E035A4D2D808087E91C61AEA7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Homestead",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/424462.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fKts7WTTP7KWvI6N7WYIuEhmgXP.jpg",
@@ -759,12 +765,6 @@
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Bitelchús Bitelchús",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/81EC519E035A4D2D808087E91C61AEA7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
                 "type": "PELICULA"
             }
         ]

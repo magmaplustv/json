@@ -348,6 +348,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CAFB07B718F84A59BBD701D7470771BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La Confesión",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
+                "type": "PELICULA"
             }
         ]
     },

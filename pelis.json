@@ -766,6 +766,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Gladiator II",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3DD0346467D04D6F994CFEF9A9E977B1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg",
+                "type": "PELICULA"
             }
         ]
     },

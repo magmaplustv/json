@@ -3504,16 +3504,9 @@
             },
             {
                 "name": "GOL PERÚ",
-                "url": "http://magmaplayer.com/stream/m3u8/AwDmKmD5ZS8kAwthZwDmYwR4AP4kAmMsZGp0ZmNm/hls/490.m3u8",
+                "url": "http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/4828.ts",
                 "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
                 "name": "LIGA 1 MAX",

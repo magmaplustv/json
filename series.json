@@ -2176,6 +2176,65 @@
                     ],
                     "tmdb_id": 119051,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Machos de verdad",
+                    "genero": "Comedia",
+                    "descripcion": "En la Roma actual, cuatro hombres tienen que lidiar con un mundo cambiante en cuanto a las dinámicas de género.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9sOrXZVG4BjJ2FXjqaDf2AE0kZ1.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lYH4sK2M1H7waVSTcsxCpEiSNjO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/y70oo98ILJfDP5SStaaByel7qnc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E84E9898C80245AFA3AA5AC686E6CB8D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A252D279AF2B476AB4188C441B97E740_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CA11C4D120534789ADC5D7130F848079_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45EB698A49374780A6A9B7AC9B8831D6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6653CB0E6C744F1593FDAD1CE1C7EA04_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6B2725B5776D40C49ED0B9F245916FCC_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/10F445EB136549CA921D74234D406F03_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C5C1E28CF99F489C828971CC82ED5EC7_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255650,
+                    "total_seasons": 1
                 }
             ]
         },

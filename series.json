@@ -5160,6 +5160,55 @@
             "nombre": "⭐️⭐️Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Las nueve piezas del puzle",
+                    "genero": "Crimen, Misterio, Drama",
+                    "descripcion": "Una sospechosa y un inspector cooperan para acabar con unos asesinatos relacionados con un puzle.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vBf8mecBMroVY5rSi0KNz8nYWxm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/aOAV1HEdojiIycNnLMhJRmeorPG.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tJSAxxjCtbtZYMBQkfxvdgqXsz5.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0FF354623E934F9691BCFB56536077D4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95FB4DEE19734668A57763025EE3ED18_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DCC91F3672B649AB84E115B67ACBDF18_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/963C1C33F6C44C8C9CA70ADDE171DC06_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/19DF4584A4BD467ABB5CE963D943185B_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/188FBC0E70094DA49166CD57246574E2_media.mp4http://vddgcoud02.gd34fdldh.xyz/vod/188FBC0E70094DA49166CD57246574E2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 227191,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Los secretos que ocultamos",
                     "genero": "Crimen, Drama",
                     "descripcion": "Cuando la ‘au pair’ de su vecina desaparece en un barrio acomodado, Cecilie busca respuestas y descubre secretos que destrozan su mundo perfecto.",
@@ -5724,55 +5773,6 @@
                         }
                     ],
                     "tmdb_id": 288913,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Las nueve piezas del puzle",
-                    "genero": "Crimen, Misterio, Drama",
-                    "descripcion": "Una sospechosa y un inspector cooperan para acabar con unos asesinatos relacionados con un puzle.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/vBf8mecBMroVY5rSi0KNz8nYWxm.png",
-                    "icono": "https://image.tmdb.org/t/p/original/aOAV1HEdojiIycNnLMhJRmeorPG.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tJSAxxjCtbtZYMBQkfxvdgqXsz5.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0FF354623E934F9691BCFB56536077D4_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95FB4DEE19734668A57763025EE3ED18_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DCC91F3672B649AB84E115B67ACBDF18_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/963C1C33F6C44C8C9CA70ADDE171DC06_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/19DF4584A4BD467ABB5CE963D943185B_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/188FBC0E70094DA49166CD57246574E2_media.mp4http://vddgcoud02.gd34fdldh.xyz/vod/188FBC0E70094DA49166CD57246574E2_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 227191,
                     "total_seasons": 1
                 }
             ]

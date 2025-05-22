@@ -2154,6 +2154,35 @@
             "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Matabot",
+                    "genero": "Comedia, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "En un futuro tecnológico, un robot de seguridad rebelde consigue en secreto voluntad propia. Para no llamar la atención, se une a regañadientes a una nueva misión. Debe proteger a unos científicos en un planeta peligroso... aunque solo quiere ver culebrones.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ipus65KpISGNjoFSxABr50dgphi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/zwu7yXEGHvJv9va0SmkFEJGn2L7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "LibreComercio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/54CD6EB8F0854284A326DAF106C793F5_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Contacto Visual",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45D7E93C19704D4AA04E70CEB0A19927_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241554,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Impostura",
                     "genero": "Comedia",
                     "descripcion": "Una comedia de universitarios sobre el caótico viaje de Benny, que todavía está en el armario, que enseguida se hace amigo de Carmen, una marginada que quiere encajar a toda costa. Muy divertida e íntima, la serie explora la forma en que todos forzamos nuestro comportamiento en el camino de descubrir quiénes somos en realidad.",
@@ -2424,35 +2453,6 @@
                         }
                     ],
                     "tmdb_id": 241609,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Matabot",
-                    "genero": "Comedia, Drama, Sci-Fi & Fantasy",
-                    "descripcion": "En un futuro tecnológico, un robot de seguridad rebelde consigue en secreto voluntad propia. Para no llamar la atención, se une a regañadientes a una nueva misión. Debe proteger a unos científicos en un planeta peligroso... aunque solo quiere ver culebrones.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/ipus65KpISGNjoFSxABr50dgphi.png",
-                    "icono": "https://image.tmdb.org/t/p/original/zwu7yXEGHvJv9va0SmkFEJGn2L7.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "LibreComercio",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/54CD6EB8F0854284A326DAF106C793F5_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Contacto Visual",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45D7E93C19704D4AA04E70CEB0A19927_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 241554,
                     "total_seasons": 1
                 }
             ]

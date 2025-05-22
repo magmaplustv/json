@@ -6991,6 +6991,30 @@
                     ],
                     "tmdb_id": 247619,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "She the People",
+                    "genero": "Comedia, War & Politics",
+                    "descripcion": "Mientras intenta brillar en la política, la primera vicegobernadora negra de Misisipi debe controlar a su alocada familia y ganarse a un jefe que está anclado en el pasado.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nMz9oMHSnx7yjuzFRsW7IS7iz7s.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3tvMLq9CJU1OH3Q2ueIsdxTe8zx.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5t6D3ZSq0tARcJwYN5nFGLvllCi.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F55106B467AB43A4A1793272F6177667_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 283368,
+                    "total_seasons": 1
                 }
             ]
         },

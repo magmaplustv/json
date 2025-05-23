@@ -3466,6 +3466,12 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "Jugaremos en el bosque",
+                "url": "http://vedo.wvdbozpfc.com/vod/D3C14C82CBF542E3A39C5015D7089EA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eBSl9nGymidAyEBdJGADnnm7JKt.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Parásito",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/FB5AB2E1D1374E7CB4EE6BD4F6A9E01B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hmfVO0q2LCsu2sTOe4KjH1aU5tG.jpg",
@@ -3679,12 +3685,6 @@
                 "name": "Y al séptimo día",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Jugaremos en el bosque",
-                "url": "http://vedo.wvdbozpfc.com/vod/D3C14C82CBF542E3A39C5015D7089EA9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eBSl9nGymidAyEBdJGADnnm7JKt.jpg",
                 "type": "PELICULA"
             }
         ]

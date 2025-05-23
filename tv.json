@@ -6,7 +6,7 @@
                 "name": "EVENTOS HD 1",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://web.telegram.org/872048d0-39e0-4a3d-8b5a-9bde22bf44af",
+                "icono": "https://scontent.feze9-1.fna.fbcdn.net/v/t39.30808-6/497517193_122098203326876109_6565926037633421413_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFR8cRtnfTGXuOhE4mzm_G9J68S5nb6wN8nrxLmdvrA35YB7c961d6GKc0DiEhLTRy8FY4jzjm5VQp19suNDyaq&_nc_ohc=GPEwlexIc3QQ7kNvwHghDGe&_nc_oc=Adlb64DO-2zx7TJL89rhjj8OOA99Thk1YsdVY-C6lEBTK2N2Wr7JyyCEf7oUX7yUt6Ts7vhyt7h0mOyuugdlRzsm&_nc_zt=23&_nc_ht=scontent.feze9-1.fna&_nc_gid=2gJ9Qhs4PHbFxFLkl1sxNA&oh=00_AfJBhzPrrTv1sTcI2xVlpGUwe2O07KhLnRkJj4qRqqP_Sw&oe=6836C208",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

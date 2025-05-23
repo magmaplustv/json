@@ -134,6 +134,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Destino final: Lazos de sangre",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La Leyenda de Ochi",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
@@ -353,12 +359,6 @@
                 "name": "Isla de perros",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CAFB07B718F84A59BBD701D7470771BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Destino final: Lazos de sangre",
-                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/503797.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
                 "type": "PELICULA"
             }
         ]

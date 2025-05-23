@@ -3668,13 +3668,6 @@
         "name": "🇪🇸DEPORTES LALIGA⚽",
         "samples": [
             {
-                "name": "LaLiga HyperMotion 1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d08b265a6639e32da7c880d5491e3d2&key=0c92556ca14b95f367993710e7cfbc94"
-            },
-            {
                 "name": "SKY SPORTS LA LIGA",
                 "url": "http://magmaplayer.com/stream/m3u8/ZwH0KmRjAmysZGxjYwR4Av44AP4kAmEsZGp0ZmR5/hls/1079.m3u8",
                 "type": "HLS",

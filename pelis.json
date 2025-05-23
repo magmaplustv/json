@@ -127,6 +127,12 @@
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EA4201F5ADF0476F9C86061A856EDFE6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bohemian Rhapsody",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
+                "type": "PELICULA"
             }
         ]
     },

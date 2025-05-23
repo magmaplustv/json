@@ -128,15 +128,15 @@
         "name": "⭐️⭐️Estrenos 2025⭐️⭐️",
         "samples": [
             {
-                "name": "La Confesión",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Destino final: Lazos de sangre",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La Confesión",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
                 "type": "PELICULA"
             },
             {

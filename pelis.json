@@ -361,6 +361,12 @@
         "name": "⭐️⭐️Estrenos CAM 2025⭐️⭐️",
         "samples": [
             {
+                "name": "Lilo y Stitch",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430550.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Misión: Imposible - Sentencia final",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430178.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
@@ -496,12 +502,6 @@
                 "name": "La Evaluación",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD74587245304F8C8115F26190633E0E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Lilo y Stitch",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430550.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg",
                 "type": "PELICULA"
             }
         ]

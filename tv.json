@@ -3637,7 +3637,7 @@
                 "name": "Ve Plus",
                 "url": "https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8236bef638490a63aacdc424df908658&key=6229f752364cd5e71cd31a9ef9757bf1",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",

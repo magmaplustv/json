@@ -1091,92 +1091,6 @@
         ]
     },
     {
-        "name": "🇧🇷FUTBOL DE BRASIL⚽",
-        "samples": [
-            {
-                "name": "CAZÉTV EVENTOS",
-                "url": "https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/M5j7ZvBN/cf3b35181888595-Y3-Jvc-Cw5-OTIs-Nzc2-LDE1-NCwy-Mg.png",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "name": "Premiere Clubes",
-                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195731.ts",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            },
-            {
-                "name": "Premiere 1",
-                "url": "http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8",
-                "type": "HLS",
-                "icono": "https://logo.iptveditor.com/premiere2.png"
-            },
-            {
-                "name": "Premiere 2",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logo.iptveditor.com/premiere2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330"
-            },
-            {
-                "name": "Premiere 3",
-                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logo.iptveditor.com/premiere2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848"
-            },
-            {
-                "name": "Premiere 4",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logo.iptveditor.com/premiere2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98"
-            },
-            {
-                "name": "Premiere 5",
-                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logo.iptveditor.com/premiere2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd"
-            },
-            {
-                "name": "Premiere 6",
-                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logo.iptveditor.com/premiere2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd"
-            },
-            {
-                "name": "Premiere 7",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logo.iptveditor.com/premiere2.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95"
-            },
-            {
-                "name": "SPORTV 1",
-                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195686",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
-            },
-            {
-                "name": "SPORTV 2",
-                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195687",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
-            },
-            {
-                "name": "SPORTV 3",
-                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195689",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
-            }
-        ]
-    },
-    {
         "name": "⚽ DEPORTES INTERNACIONALES✈️",
         "samples": [
             {
@@ -1392,6 +1306,92 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            }
+        ]
+    },
+    {
+        "name": "🇧🇷FUTBOL DE BRASIL⚽",
+        "samples": [
+            {
+                "name": "CAZÉTV EVENTOS",
+                "url": "https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/M5j7ZvBN/cf3b35181888595-Y3-Jvc-Cw5-OTIs-Nzc2-LDE1-NCwy-Mg.png",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "Premiere Clubes",
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195731.ts",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+            },
+            {
+                "name": "Premiere 1",
+                "url": "http://45.134.141.162:3366/stream/premierefc/premiere1/master540.m3u8",
+                "type": "HLS",
+                "icono": "https://logo.iptveditor.com/premiere2.png"
+            },
+            {
+                "name": "Premiere 2",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logo.iptveditor.com/premiere2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330"
+            },
+            {
+                "name": "Premiere 3",
+                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logo.iptveditor.com/premiere2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848"
+            },
+            {
+                "name": "Premiere 4",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logo.iptveditor.com/premiere2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98"
+            },
+            {
+                "name": "Premiere 5",
+                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logo.iptveditor.com/premiere2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd"
+            },
+            {
+                "name": "Premiere 6",
+                "url": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logo.iptveditor.com/premiere2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd"
+            },
+            {
+                "name": "Premiere 7",
+                "url": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logo.iptveditor.com/premiere2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95"
+            },
+            {
+                "name": "SPORTV 1",
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195686",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
+            },
+            {
+                "name": "SPORTV 2",
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195687",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
+            },
+            {
+                "name": "SPORTV 3",
+                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/195689",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
             }
         ]
     },

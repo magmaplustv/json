@@ -7775,6 +7775,18 @@
                 "genero": "Documental, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3XIDkxyEaQON5jCHfrE4XViUG5n.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qIKSANlQkqRVoNGkXlsC8wVgL55.png"
+            },
+            {
+                "name": "Ellas en la ciudad",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0268A6BE83BC446382B9A404ED3C999F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2eLpNCDlF6D5dQ8WvA8entac1JV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/liRkTNLa5JYtwxA8ca7M9kSeg6s.jpg",
+                "iconpng": "",
+                "descripcion": "Documental centrado en una generación de mujeres, las primeras pobladoras de los barrios de la periferia. A través de las historias sobre sus vidas cotidianas en cinco barrios de Sevilla, descubrimos cómo ellas son el sostén de una ciudad que les da la espalda.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "70 min",
+                "type": "PELICULA"
             }
         ]
     }

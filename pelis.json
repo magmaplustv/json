@@ -1072,6 +1072,18 @@
                 "genero": "Acción, Ciencia ficción, Aventura, Misterio",
                 "duracion": "126 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Polizón",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39BEB62D235E444DA178DEC541EC12EF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5wEKcx7g3YRocecq18MwZd4dTyd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cBGQMVohebbWfmEGdezjyOdW7MO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eCCl5CzhzWTzIdqhPMsPLFyhkJ1.svg",
+                "descripcion": "La tripulación de una nave espacial que se dirige a Marte descubre inesperadamente la presencia de un polizón a bordo que provoca accidentalmente daños graves en los sistemas de soporte vital de la nave. Sin combustible para regresar a la Tierra y sin medios suficientes para sobrevivir mucho tiempo a la deriva, los tripulantes deciden \"acabar\" con la presencia del intruso a cualquier precio. Sólo una investigadora médica (Kendrick) que viaja con ellos se opone a una decisión que traerá consecuencias funestas para sus tripulantes.",
+                "anio": "2021",
+                "genero": "Ciencia ficción, Drama, Suspense, Aventura",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },

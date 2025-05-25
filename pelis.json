@@ -1096,6 +1096,18 @@
                 "genero": "Drama",
                 "duracion": "117 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El novato del año",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7E7BD9ED2C1B4C5891A64EB281C86BCD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fzRxNqxyzarEcZv4k8Qd4JpbVU1.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rirnObmuDWKVsTOfriilECwvLlC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/e6qbLFGDuAKKq2CNLBrIwARc4gQ.png",
+                "descripcion": "Henry Rowegartner es un chico de doce años que sueña con jugar al béisbol en los Chicago Cubs. Un día, de manera fortuita, Henry se rompe un brazo y al quitarle la escayola, meses más tarde, el médico comprueba que sus ligamentos se han soldado de manera extraña y le han conferido a su brazo una fuerza descomunal.",
+                "anio": "1993",
+                "genero": "Familia, Comedia",
+                "duracion": "103 min",
+                "type": "PELICULA"
             }
         ]
     },

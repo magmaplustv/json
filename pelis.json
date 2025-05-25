@@ -1048,6 +1048,18 @@
                 "genero": "Acción, Suspense, Aventura",
                 "duracion": "132 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El patriota",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/946B2F26BE7A41B089114334D2BBEF5A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cizgIaq65fpq2Ft08dPmZtUxDYv.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kWYHKVCl2aD3kRco4eRUr4h6LsD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/176kFL7kFqFL2okoVXkeI4Oikxf.png",
+                "descripcion": "Año 1776, Guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas de Jorge III (1760-1820). En Carolina del Sur, el viudo Benjamin Martin (Mel Gibson), heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos. Pero la pacífica vida de la familia Martin se ve alterada cuando Gabriel (Heath Ledger), el hijo mayor, se alista en el ejército; mientras tanto su padre se esfuerza por sacar adelante a la prole. Sin embargo, los británicos, al mando del cruel coronel Tavington (Jason Isaacs), llegarán hasta las puertas de su casa poniendo en peligro a toda la familia...",
+                "anio": "2000",
+                "genero": "Drama, Historia, Bélica, Acción",
+                "duracion": "165 min",
+                "type": "PELICULA"
             }
         ]
     },

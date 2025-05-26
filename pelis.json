@@ -7936,6 +7936,18 @@
                 "genero": "Documental, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3XIDkxyEaQON5jCHfrE4XViUG5n.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qIKSANlQkqRVoNGkXlsC8wVgL55.png"
+            },
+            {
+                "name": "Yo soy Bruce Lee",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1351391C67C3462ABB243AEDEDD1D771_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qdkbMj0LBF3zhjLtpA49VpYzrYX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fy7mHu4vNxfaX6sFlw76UYPwxOD.png",
+                "descripcion": "Documental que recoge la vida de Bruce Lee, una de las mayores leyendas de las artes marciales. El especial cuenta con la participación de familiares, amigos y personalidades del cine y el deporte como Mickey Rourke o Kobe Bryant.",
+                "anio": "2012",
+                "genero": "Documental",
+                "duracion": "94 min",
+                "type": "PELICULA"
             }
         ]
     },

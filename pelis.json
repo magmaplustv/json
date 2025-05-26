@@ -8049,6 +8049,18 @@
                 "genero": "Acción, Historia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tWLDajjO4XDlDJN0gs7nRLLJTPU.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7heBHRxXCVazpniQoYN4Zybt2D1.png"
+            },
+            {
+                "name": "Ip Man 3",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2A5F8D451EF040BEB6C2BCA3EF947888_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1wBnEGU0OXtgtDvTtgvYEODwcwi.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/19Shb0Xn0PeLXA4CkT2TIIvxaR6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1DYQklaWSXk5MFgwPLvvs7Z5NyY.png",
+                "descripcion": "Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.",
+                "anio": "2015",
+                "genero": "Acción, Drama, Historia",
+                "duracion": "105 min",
+                "type": "PELICULA"
             }
         ]
     }

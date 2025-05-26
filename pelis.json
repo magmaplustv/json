@@ -7965,6 +7965,18 @@
                 "genero": "Acción",
                 "duracion": "88 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Duelo de dragones",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B261A683AD8546DDBC6C20B62C0EF949_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dp61vcE5nQ7vvBH5OnqRcbSIn9a.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7uJmhgeKWYEGp4UydW9NhsOEhYP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pbqLMIgDlZ6TbWZBPumoWbxIAcN.png",
+                "descripcion": "La rivalidad entre las tríadas y la policía de Hong Kong no conoce límites. Después de que casi toda su familia sea asesinada por orden del temible jefe mafioso Po, el detective Chan busca venganza aunque para ello tenga que utilizar métodos no muy ortodoxos. La llegada de su sustituto, un joven policía experto en artes marciales, acentuará todavía más la lucha por el control de una ciudad sin ley...",
+                "anio": "2005",
+                "genero": "Acción, Crimen, Drama, Suspense",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     }

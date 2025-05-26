@@ -8061,6 +8061,18 @@
                 "genero": "Acción, Drama, Historia",
                 "duracion": "105 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ip Man 4: El final",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8F736A4700454A538A303B633CA23246_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jZDudPPIV4lSxEVgzfK9Z6nHdhi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xgvGY9L8dVFWOqWsVwWTuadAjWm.png",
+                "descripcion": "El maestro de Wing chun viaja a los Estados Unidos, donde uno de sus estudiantes ha molestado a la comunidad de artes marciales al abrir una escuela de Wing Chun.",
+                "anio": "2019",
+                "genero": "Acción, Historia, Drama",
+                "duracion": "105 min",
+                "type": "PELICULA"
             }
         ]
     }

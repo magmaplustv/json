@@ -725,6 +725,12 @@
                 "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://www.corpico.com.ar/static/img/tvco-vivo.png"
+            },
+            {
+                "name": "SAN LUIS +",
+                "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+                "type": "HLS",
+                "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s176-c-k-c0x00ffffff-no-rj"
             }
         ]
     },

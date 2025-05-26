@@ -7938,5 +7938,22 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/qIKSANlQkqRVoNGkXlsC8wVgL55.png"
             }
         ]
+    },
+    {
+        "name": "⭐️Kunf Fu⭐️",
+        "samples": [
+            {
+                "name": "Ninja 2: La sombra de la muerte",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5284A727F6A64B508DB96CB1054FCC02_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/w1nQyDLm1onDbTSnPnalbDIcGnx.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pPaCOAdVQMuiGXefJRKZLaw9qxw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ppYlDBHIgnIZ0RRIXnYeUN9n57p.png",
+                "descripcion": "El maestro de ninjutsu Casey está de vuelta y en busca de venganza, luego de que asesinaron a su esposa embarazada.",
+                "anio": "2013",
+                "genero": "Acción, Crimen, Suspense",
+                "duracion": "95 min",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

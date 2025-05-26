@@ -7924,6 +7924,18 @@
                 "genero": "Documental, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3XIDkxyEaQON5jCHfrE4XViUG5n.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qIKSANlQkqRVoNGkXlsC8wVgL55.png"
+            },
+            {
+                "name": "Chaplin",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9539ED12C31D41688C8BAC4ADF70461C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4UPshVj0pE3CdjHiYzhTKAfvNuh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zRgfeALO52NyzVwKBnBaAjr2pw5.png",
+                "descripcion": "Biografía de Charles Chaplin. Chaplin pertenecía a una familia numerosa que se ganaba la vida en los teatros de mala muerte de Londres. Cuando su padre murió alcoholizado, su madre, enferma, tuvo que trabajar duramente para sacar adelante a la familia hasta que fue ingresada en un psiquiátrico. Chaplin entró entonces a trabajar en una compañía musical que hizo una gira por los Estados Unidos. Allí conoció al productor de cine Mack Sennett con el que firmó un contrato que le permitió demostrar su gran habilidad como cómico. Además de actuar, empezó a dirigir los filmes que protagonizaba y su personaje de entrañable vagabundo dio la vuelta al mundo.",
+                "anio": "1992",
+                "genero": "Drama",
+                "duracion": "145 min",
+                "type": "PELICULA"
             }
         ]
     }

@@ -8001,6 +8001,18 @@
                 "genero": "Acción, Crimen, Drama",
                 "duracion": "107 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hero",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0C1877AFE4124118820BA999775E0AA7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2v2q8W7L5FoAYeY10vNkQnx9UCV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jThhynyxMTt4CqpCnTJwFszaq7R.png",
+                "descripcion": "Hace dos mil años, China estaba dividida en siete reinos. Cada uno de ellos combatía contra los otros para obtener la supremacía, mientras que la población soportaba el sufrimiento y la muerte. De estos siete reinos, Qin era el más violento. El rey de Qin estaba obsesionado con la conquista de China y el deseo de convertirse en su primer Emperador. Los demás reinos enviaron a sus más temibles asesinos para eliminarlo. Solo el nombre de tres de estos asesinos era suficiente para sembrar el terror: Espada Rota, Nieve y Cielo. El rey de Qin prometió poder y fortuna para aquel que lograra matar a estos tres asesinos. Durante diez años, nadie lo consiguió. Cuando el misterioso Sin Nombre se presenta en palacio, portando las armas de los asesinos abatidos, el rey se muestra ansioso por escuchar su historia. Sentado a diez pasos del monarca, Sin Nombre comienza su relato.",
+                "anio": "2002",
+                "genero": "Drama, Aventura, Acción, Historia",
+                "duracion": "98 min",
+                "type": "PELICULA"
             }
         ]
     }

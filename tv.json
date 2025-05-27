@@ -3723,6 +3723,17 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Canal E",
+                "url": "http://cdn.sensa.com.ar/bpk-tv/CanalE/default/index_fk.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1894229072ccac2d0f6a101d618d039d&key=9a7ea848df202bf22ac51bda4482a4c2 #",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "Token": "1.0"
+                }
             }
         ]
     }

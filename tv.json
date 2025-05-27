@@ -408,11 +408,11 @@
                 }
             },
             {
-                "name": "France24",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd",
+                "name": "France24 Español",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
                 "type": "CLEARKEY",
                 "icono": "http://78.47.174.211/logos/france24.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72187f2651724db18505cdcad435841d&key=6f41e05476e34edf7bb9dc51f08f95df",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar/",
                     "Referer": "https://web.app.flow.com.ar/",

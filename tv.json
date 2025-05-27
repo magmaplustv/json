@@ -442,6 +442,18 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "RAI Italia",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar/",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

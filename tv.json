@@ -32,12 +32,6 @@
         "name": "🇦🇷TV ARGENTINA 📺",
         "samples": [
             {
-                "name": "Gran Hermano 4",
-                "url": "http://totalplay.site:80/live/SVCable8264819i4@/@hfPYw@YqgRHB/615508",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/tq4M9Pk/granhermano.png"
-            },
-            {
                 "name": "A24",
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
                 "type": "CLEARKEY",

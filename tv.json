@@ -3728,7 +3728,7 @@
                 "name": "Canal E",
                 "url": "http://cdn.sensa.com.ar/bpk-tv/CanalE/default/index_fk.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://www.perfil.com/img/minisitios/econocanal/logo.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1894229072ccac2d0f6a101d618d039d&key=9a7ea848df202bf22ac51bda4482a4c2 #",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",

@@ -399,7 +399,7 @@
                 "name": "CNN En Español",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj",
+                "icono": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-c003ec15-111102125227-cnnee-logo-story-top.jpg?c=16x9&q=h_833,w_1480,c_fill",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar/",

@@ -169,12 +169,6 @@
                 }
             },
             {
-                "name": "IP Noticias",
-                "url": "http://181.78.27.128:8000/play/a055/index.m3u8",
-                "icono": "https://i.ibb.co/m5G70dXc/OIP.jpg",
-                "type": "HLS"
-            },
-            {
                 "name": "LN+ La Nacion",
                 "url": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd",
                 "type": "CLEARKEY",

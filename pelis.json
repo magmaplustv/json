@@ -7022,6 +7022,18 @@
                 "genero": "Terror, Crimen",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Saw VIII",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AB7046E430A54DE2A03DB03649C6FDB0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ytKpFaLMpFWnuSXStz1GHrtTt6R.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fDohndfUupgsKTi5Gknck2ORhV1.png",
+                "descripcion": "Están apareciendo cuerpos por la ciudad, cada uno con signos de un espantoso final. Conforme avanza la investigación, la evidencia apunta a un sospechoso: John Kramer, el hombre conocido como Jigsaw, que fue dado por muerto durante diez años.",
+                "anio": "2017",
+                "genero": "Terror, Misterio, Suspense",
+                "duracion": "100 min",
+                "type": "PELICULA"
             }
         ]
     },

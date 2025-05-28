@@ -7058,6 +7058,18 @@
                 "genero": "Terror, Misterio",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hacksaw",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2C8616E7429B464FA548B2EB30AEBAE0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wAdtyIswPTwmVp0b5MOEKi94Qxg.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpfDOzPPhjj3EdCqocpYr6uSrsB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6k4Jt6YXWI2rtsNKuLxno4iTFvF.png",
+                "descripcion": "Una joven pareja en un viaje por carretera toma un desvío hacia el lugar donde un conocido asesino, Ed \"Hacksaw\" Crowe, se convirtió en una leyenda urbana el día en que fue asesinado muchos años antes, pero rápidamente descubren que la leyenda puede no estar tan muerta. como estaban contando.",
+                "anio": "2020",
+                "genero": "Terror",
+                "duracion": "70 min",
+                "type": "PELICULA"
             }
         ]
     },

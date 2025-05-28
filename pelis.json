@@ -7010,6 +7010,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Saw VII",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EE9EFFA422384E3682A7EBA32E9EAE87_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bXECndnt2fetBsopdQvsI3Cv970.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4jWLnjBjgUynIkDOIOLAtL3mgbS.png",
+                "descripcion": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
+                "anio": "2010",
+                "genero": "Terror, Crimen",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -8097,6 +8097,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El defensor",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/03EE7F213B4A44CFBC3522B52F676B29_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8kQqTtPEkYhlNjLgxByrr8H28ly.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Al5HELQITDc393MZDMrMemvDvsS.jpg",
+                "iconpng": "",
+                "descripcion": "Un hombre de negocios corrupto comete un asesinato y el único testigo es la novia de otro hombre de negocios con conexiones cercanas con el gobierno chino, por lo que se envía un guardaespaldas de Beijing para ayudar a dos policías de Hong Kong a proteger al testigo.",
+                "anio": "1994",
+                "genero": "Drama, Acción, Suspense",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     }

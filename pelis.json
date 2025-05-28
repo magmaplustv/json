@@ -8241,6 +8241,18 @@
                 "genero": "Drama, Acción, Suspense",
                 "duracion": "92 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ip Man: Kung Fu Master",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0D3F68A944FE4744B17D912C3F17DB5E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kHZN7zZGsWik9Sg3APaHGeTK5Jm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LoM4ATbgEFh6zyx4UytRTFdSlD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vhMd7nCS6HebBXKByDh3zUDXyLF.png",
+                "descripcion": "La prometedora carrera de Ip Man como policía se arruina después de que lo acusan de asesinato y lo atacan la hija de un jefe de la mafia.",
+                "anio": "2019",
+                "genero": "Acción, Drama",
+                "duracion": "82 min",
+                "type": "PELICULA"
             }
         ]
     }

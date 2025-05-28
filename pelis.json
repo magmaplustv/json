@@ -8073,6 +8073,18 @@
                 "genero": "Acción, Historia, Drama",
                 "duracion": "105 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tai-Chi Master",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F8A0930AA2B7452F970F3FEE8921F73B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/63X0cfaQ3xe3ab4L0LHUJzpIyQa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpUND9IBZoS1lht89GisYit8JvY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mqyaxDNAZWBlUMZb8phj0nfC0J9.png",
+                "descripcion": "Dos jóvenes discípulos del templo de Shaolin que siempre están juntos a lo largo de su vida y no pierden ocasión de hacer travesuras, se ven obligados abandonar el templo por diferencias con uno de los maestros. Una vez fuera del templo sus caminos se separan cuando la ambicion de uno de los jovenes le lleva a unirse al imperio y posteriormente convertirse en un sanguinario general. Mientras, el otro joven se une a la resistencia.",
+                "anio": "1993",
+                "genero": "Acción, Comedia, Drama, Suspense",
+                "duracion": "96 min",
+                "type": "PELICULA"
             }
         ]
     }

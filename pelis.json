@@ -7513,6 +7513,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yXVRwVGeMeKndfN9KIJUZpOPe1N.png"
+            },
+            {
+                "name": "Poseída",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5B45B8F0B06D4693910ECB645FE8A9D3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nHNwBOccmQ7rK9yQI1HUSnHm1Ny.jpg",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Misterio",
+                "duracion": "88 min",
+                "type": "PELICULA"
             }
         ]
     },

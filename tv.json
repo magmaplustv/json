@@ -680,7 +680,7 @@
                 "name": "Telefé Santa fé",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYruO2YgL4wTpt4M7lZq1nnZGtvGxw-tzNfQ&s",
+                "icono": "https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png?v=20190205101807000",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ef9057114f44a480b62e36a6b1374f&key=74ef97bc54df5655c3a1d4f80b16e8d7",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar/",

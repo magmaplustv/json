@@ -849,6 +849,12 @@
                 "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
                 "type": "HLS",
                 "icono": "https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096"
+            },
+            {
+                "name": "PALOMAR TV",
+                "url": "https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj"
             }
         ]
     },

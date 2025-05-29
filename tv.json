@@ -855,6 +855,17 @@
                 "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/17497.ts",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png"
+            },
+            {
+                "name": "EL DESTAPE",
+                "url": "http://m.mtd.llc:2082/eldestape/index_fkr.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6",
+                "headers": {
+                    "Origin": "https://www.telecentroplay.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

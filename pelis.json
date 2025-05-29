@@ -762,6 +762,18 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
+            },
+            {
+                "name": "Los pecadores",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425983.ts",
+                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+                "anio": "2025",
+                "duracion": "138 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             }
         ]
     },
@@ -815,18 +827,6 @@
                 "genero": "Acción, Aventura, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tGjo4L15aELqZGqQH3ThZQGMKmL.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/6BEBpypi6kT0HZchQIVR23l537p.png"
-            },
-            {
-                "name": "Los pecadores",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425983.ts",
-                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
-                "anio": "2025",
-                "duracion": "138 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
                 "name": "El Contador 2",

@@ -1659,6 +1659,12 @@
                 "url": "https://streaming2.mundoradio.com.ar/8512/stream",
                 "type": "HLS",
                 "icono": "https://web.whatsapp.com/076404d1-ee06-4770-83da-a75cf80255e8"
+            },
+            {
+                "name": "RADIO 10 (🇦🇷)",
+                "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     },

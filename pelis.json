@@ -3253,6 +3253,18 @@
         "name": "⭐️⭐️Prime Video⭐️⭐️",
         "samples": [
             {
+                "name": "La Venganza No es un Juego",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D7D63EC3238F4296BF0E637E8978B48B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/d9ptadrfOsvH2OdHMzjCZbRDcNm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mMm9EvMfBYvHlszI95932Pwy9NL.jpg",
+                "iconpng": "",
+                "descripcion": "Una madre afligida utiliza un juego de realidad virtual para vengarse de sus antiguos amigos.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Comedia, Suspense",
+                "duracion": "85 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Ataque a la Cabaña",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E1A92184866149A0A31B804C311F47DB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6kjkptZc3HGnsLzJvP6sZSBa7DX.jpg",
@@ -3851,18 +3863,6 @@
                 "genero": "Animación, Terror, Acción, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gtWBYWukuCg8IqZuFZmlSS2jP6T.png"
-            },
-            {
-                "name": "ClearMind",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D7D63EC3238F4296BF0E637E8978B48B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/d9ptadrfOsvH2OdHMzjCZbRDcNm.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mMm9EvMfBYvHlszI95932Pwy9NL.jpg",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2024",
-                "genero": "Ciencia ficción, Comedia, Suspense",
-                "duracion": "85 min",
-                "type": "PELICULA"
             }
         ]
     },

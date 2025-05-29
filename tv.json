@@ -656,7 +656,7 @@
                 "name": "Telefé Córdoba",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://git.io/JOTOu",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCju5rg0ZA5QLXIXk231TFMWYIlyReHkqSM4pCNz6LOJAPu7nUdLFg9_k4jBuEwyWVxE&usqp=CAU",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f",
                 "headers": {
                     "Origin": "https://web.app.flow.com.ar",

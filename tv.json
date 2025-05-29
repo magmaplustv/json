@@ -855,6 +855,12 @@
                 "url": "https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "name": "SOMOS AMBA",
+                "url": "http://45.5.151.151:8000/play/a0lk/index.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png"
             }
         ]
     },

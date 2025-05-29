@@ -819,6 +819,18 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "Telefé Santa fé",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Xk2ZFyC/telefe-internacional.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ef9057114f44a480b62e36a6b1374f&key=74ef97bc54df5655c3a1d4f80b16e8d7",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.ar/",
+                    "Referer": "https://web.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

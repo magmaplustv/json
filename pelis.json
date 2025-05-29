@@ -7765,6 +7765,18 @@
         "name": "⭐️Drama⭐️",
         "samples": [
             {
+                "name": "La mitad de Ana",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DF19DEBFDC874EDDB7BEA2E333F616B2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z9MU1BtnhHooojObwlg3DD6vo2A.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gnAYmVmWjSJenWUUAASTx9krdK2.jpg",
+                "iconpng": "",
+                "descripcion": "Trata el tema de lo trans en la infancia a través de una madre y un hijo en el proceso de cambio.",
+                "anio": "2025",
+                "genero": "Drama",
+                "duracion": "89 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Prófugo por accidente",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96150B3DFFE542ACBD7C85171C33764D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/r7QB75hlCqB8iKBfeO5TnpajQGn.jpg",
@@ -7961,18 +7973,6 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/gJduZE3cAmLVQknEfiR5t0vT4Ie.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eULzPpc8gXz0YZMK36vpmbViwsj.png"
-            },
-            {
-                "name": "La mitad de Ana",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DF19DEBFDC874EDDB7BEA2E333F616B2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z9MU1BtnhHooojObwlg3DD6vo2A.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gnAYmVmWjSJenWUUAASTx9krdK2.jpg",
-                "iconpng": "",
-                "descripcion": "Trata el tema de lo trans en la infancia a través de una madre y un hijo en el proceso de cambio.",
-                "anio": "2025",
-                "genero": "Drama",
-                "duracion": "89 min",
-                "type": "PELICULA"
             }
         ]
     },

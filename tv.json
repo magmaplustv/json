@@ -1665,6 +1665,12 @@
                 "url": "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "EL DESTAPE (🇦🇷) RADIO",
+                "url": "https://ipanel.instream.audio/8004/stream",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             }
         ]
     },

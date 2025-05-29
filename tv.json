@@ -1403,10 +1403,9 @@
             },
             {
                 "name": "DAZN F1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa"
+                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMjBTY1MTMxczMxATLzYzYh1yNwUGNtQ2YkZTLyEmZ4cDZ3kzL.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
             },
             {
                 "name": "DAZN F1 opc 2",

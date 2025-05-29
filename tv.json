@@ -843,6 +843,12 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "CANAL 12 TUCUMAN",
+                "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096"
             }
         ]
     },

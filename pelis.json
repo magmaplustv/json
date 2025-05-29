@@ -2576,6 +2576,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bxH51PxAA7IrHisOEiUXl1WA4Tu.png"
+            },
+            {
+                "name": "Granizo",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7A5F8EE1B60D4ACD86D4F8B6ED8B3768_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1yetepKgJ0HZvrjDzd0nQWFQCWR.jpg",
+                "iconpng": "",
+                "descripcion": "Después de que le llueven críticas por fallar en el pronóstico de una tormenta, un meteorólogo se refugia en la casa de su hija e inicia un viaje de autodescubrimiento.",
+                "anio": "2022",
+                "genero": "Comedia, Drama",
+                "duracion": "118 min",
+                "type": "PELICULA"
             }
         ]
     },

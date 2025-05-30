@@ -1192,16 +1192,9 @@
         "samples": [
             {
                 "name": "DIRECTV SPORTS",
-                "url": "http://magmaplayer.com/stream/m3u8/AwRkKmZlAS8kAmxhAwNhZwZ5YwVmKmR3AQDlAN/hls/324.m3u8",
+                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/131.ts",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
                 "name": "DIRECTV SPORTS 2",

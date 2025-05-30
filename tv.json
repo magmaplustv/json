@@ -2731,6 +2731,12 @@
                 "url": "http://skytvpluzz.xyz:80/live/rodotv/ChhSVdWKm7/22750.ts",
                 "type": "HLS",
                 "icono": "https://images.justwatch.com/backdrop/322430019/s640/harry-potter-y-la-piedra-filosofal"
+            },
+            {
+                "name": "24/7 Volver al futuro",
+                "url": "http://goldfull.pro:8880/live/Playtvpremium@938/jewcewTpsA7Z/308474.m3u8",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

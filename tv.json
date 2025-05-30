@@ -2725,6 +2725,12 @@
                 "url": "https://pstv.lat:443/live/Onlinetv/DgTHuWS7JK/19876.m3u8",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "Harry Potter",
+                "url": "http://skytvpluzz.xyz:80/live/rodotv/ChhSVdWKm7/22750.ts",
+                "type": "HLS",
+                "icono": "https://images.justwatch.com/backdrop/322430019/s640/harry-potter-y-la-piedra-filosofal"
             }
         ]
     },

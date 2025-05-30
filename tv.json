@@ -2731,6 +2731,12 @@
                 "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/302521",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "24/7 Kung Fu Panda",
+                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/294689",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

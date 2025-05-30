@@ -2671,7 +2671,7 @@
                 "type": "HLS"
             },
             {
-                "name": "CHESPIRITO",
+                "name": "24/7 CHESPIRITO",
                 "url": "http://magmaplayer.com/stream/m3u8/AGZjKmR1Z18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/153.m3u8",
                 "icono": "https://www.telegratishd.com/imge/chespirito.png",
                 "headers": {
@@ -2681,7 +2681,8 @@
                     "User-Agent": "Magma Player/8",
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
-                }
+                },
+                "type": "HLS"
             },
             {
                 "name": "FULL HOUSE",

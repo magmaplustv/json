@@ -2719,6 +2719,12 @@
                 "url": "http://goldfull.pro:8880/live/Playtvpremium@938/jewcewTpsA7Z/308474.m3u8",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "24/7 - Los SuperCampeones",
+                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/173219",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

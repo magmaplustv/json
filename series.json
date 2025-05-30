@@ -11438,6 +11438,65 @@
                     ],
                     "tmdb_id": 229513,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La mejor hermana",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Chloe se mueve en los círculos más elitistas de Nueva York con su marido abogado Adam y su hijo adolescente Ethan a su lado, mientras su hermana Nicky, distanciada de ella, intenta llegar a fin de mes y mantenerse limpia de drogas. Cuando Adam es brutalmente asesinado, la investigación sacude a toda la familia y saca a la luz secretos que llevaban mucho tiempo enterrados.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oCtjq1OW7nUrQY8Pyq8sbl9Mm6n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cwVT6a6eUzhZdkQB4vPDGdmpacw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/25EBuAv16ZCsnxqJoDx0GwwQoSG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Es mi hermana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5C1C5867E1CF4B93A5961CCD103017A9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuánto cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/61FA9A4294934C549D475359AF7EBEA2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Viene la viuda",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1903ED347F184553805ED7735DB203D6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Gazpacho",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/213441F5DBD6437A9ADEBFCD4002227E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tú pregunta",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88A28E6562AF470F80C77C4E6DA17713_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un apoyo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE650CBD8BCE45D1A34DA8397D758159_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Recuperación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0CE1E4756A7745AAA6B5A0A7F3F0F397_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Ellos en su mundo",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7BEE5EAFFAB847F3914CBCE22E8467D4_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253321,
+                    "total_seasons": 1
                 }
             ]
         }

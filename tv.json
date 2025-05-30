@@ -1221,19 +1221,6 @@
         "name": "⚽ DEPORTES INTERNACIONALES✈️",
         "samples": [
             {
-                "name": "BEIN SPORTS Ñ",
-                "url": "http://magmaplayer.com/stream/m3u8/BQxlKmxkKmRmZv4kBGRhZl40Ay8kAmDmZQp/hls/91.m3u8",
-                "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
-            },
-            {
                 "name": "BEIN SPORTS EXTRA Ñ",
                 "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
                 "type": "CLEARKEY",

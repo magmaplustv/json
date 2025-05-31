@@ -388,6 +388,12 @@
                     "Referer": "https://web.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "A24 IPTV",
+                "url": "http://mundocorp.pro:8080/live/contenido23f834/72cjDfjfUr7/167910.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png"
             }
         ]
     },

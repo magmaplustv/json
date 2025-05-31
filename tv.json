@@ -25,6 +25,12 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "F!",
+                "url": "http://magmaplayer.com/stream/secure/AGt5KmDIA18kBQRhAQLhAGphZGRIKmR3AQt3ZN.m3u8",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

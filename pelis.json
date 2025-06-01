@@ -111,18 +111,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
             },
             {
-                "name": "WrestleMania IX: Becoming a Spectacle",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BC8FEFEFF694494B8BFF954BDEC25AF1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lpmVwzvoCrZqTWlLMqdKOGBrLcZ.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "109 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7X18PAWqnW60QRBuJejEiilqmwB.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4VCBLF3s7u8UDxiLCgZcFOfWcmp.png"
-            },
-            {
                 "name": "Titanic: La resurrección digital",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
@@ -133,6 +121,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gkuUF7GgYpEQiHGbBTfmB30yim6.png"
+            },
+            {
+                "name": "WrestleMania IX: Becoming a Spectacle",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BC8FEFEFF694494B8BFF954BDEC25AF1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lpmVwzvoCrZqTWlLMqdKOGBrLcZ.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "109 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7X18PAWqnW60QRBuJejEiilqmwB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4VCBLF3s7u8UDxiLCgZcFOfWcmp.png"
             },
             {
                 "name": "Drop: Amenaza Anonima",

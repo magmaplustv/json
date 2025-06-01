@@ -87,18 +87,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
             },
             {
-                "name": "Titanic: La resurrección digital",
-                "url": "http://vedo.wvdbozpfc.com/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
-                "type": "PELICULA",
-                "descripcion": "Utilizando tecnología de escaneado de vanguardia y CGI de última generación, un equipo de expertos produce el primer gemelo digital en 3D de alta resolución de los restos del Titanic. A través de una investigación inmersiva sin precedentes, el equipo revela los fatídicos momentos finales del barco, la heroicidad y la cobardía de los que iban a bordo, y la verdad sobre cómo se hundió el barco \"insumergible\".",
-                "anio": "2025",
-                "duracion": "90 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gkuUF7GgYpEQiHGbBTfmB30yim6.png"
-            },
-            {
                 "name": "sneaks: un par con suerte",
                 "url": "http://vedo.wvdbozpfc.com/vod/D61EFC402FC44040B287C35A0B3C0C69_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/52DmaVSxjmb13qePsHtZElmHdXB.jpg",
@@ -109,6 +97,18 @@
                 "genero": "Animación, Comedia, Familia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
+            },
+            {
+                "name": "Titanic: La resurrección digital",
+                "url": "http://vedo.wvdbozpfc.com/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+                "type": "PELICULA",
+                "descripcion": "Utilizando tecnología de escaneado de vanguardia y CGI de última generación, un equipo de expertos produce el primer gemelo digital en 3D de alta resolución de los restos del Titanic. A través de una investigación inmersiva sin precedentes, el equipo revela los fatídicos momentos finales del barco, la heroicidad y la cobardía de los que iban a bordo, y la verdad sobre cómo se hundió el barco \"insumergible\".",
+                "anio": "2025",
+                "duracion": "90 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gkuUF7GgYpEQiHGbBTfmB30yim6.png"
             },
             {
                 "name": "Corazon Valiente",

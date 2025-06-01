@@ -243,18 +243,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
             },
             {
-                "name": "Corina",
-                "url": "http://vedo.wvdbozpfc.com/vod/3FB14895F7D4490A943D0454D0F7B0CA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
-                "type": "PELICULA",
-                "descripcion": "Corina tiene 20 años y no ha salido de su casa más que para trabajar en una editorial ubicada en el barrio donde vive. Tras cometer un grave error con el final de la saga de libros más famosa de la compañía, Corina deberá superar sus miedos con la ayuda de Carlos y embarcarse en un viaje en busca de un misterioso escritor para salvar su trabajo y a toda la empresa.",
-                "anio": "2025",
-                "duracion": "96 min",
-                "genero": "Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kRtr3sNFjrPWCRajEWnOf3n11dw.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Y2K",
                 "url": "http://vedo.wvdbozpfc.com/vod/054B97552DF448F4830FD7A722EF3878_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
@@ -265,6 +253,18 @@
                 "genero": "Comedia, Terror, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aoqJHtjzpbgoujhDO9R88gL3Kmf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eSNpjX0VqwyAPiSBI0FEfsG6CQy.png"
+            },
+            {
+                "name": "Corina",
+                "url": "http://vedo.wvdbozpfc.com/vod/3FB14895F7D4490A943D0454D0F7B0CA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
+                "type": "PELICULA",
+                "descripcion": "Corina tiene 20 años y no ha salido de su casa más que para trabajar en una editorial ubicada en el barrio donde vive. Tras cometer un grave error con el final de la saga de libros más famosa de la compañía, Corina deberá superar sus miedos con la ayuda de Carlos y embarcarse en un viaje en busca de un misterioso escritor para salvar su trabajo y a toda la empresa.",
+                "anio": "2025",
+                "duracion": "96 min",
+                "genero": "Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kRtr3sNFjrPWCRajEWnOf3n11dw.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Plankton, la película",

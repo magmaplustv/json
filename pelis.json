@@ -111,18 +111,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Nuestro Papa",
-                "url": "http://vedo.wvdbozpfc.com/vod/79A50F8450F541C28FC41AB3263B3370_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kBCtNvOwyN1GzruK0qm9co2dN3l.jpg",
-                "type": "PELICULA",
-                "descripcion": "Para preparar el papel del hombre que se convertiría en el Papa Francisco, un actor viaja de Génova a Roma siguiendo los orígenes del líder religioso.",
-                "anio": "2019",
-                "duracion": "",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5cIJw8OYJqK1vdP31vaWMDHti9b.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Titanic: La resurrección digital",
                 "url": "http://vedo.wvdbozpfc.com/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
@@ -133,6 +121,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gkuUF7GgYpEQiHGbBTfmB30yim6.png"
+            },
+            {
+                "name": "Nuestro Papa",
+                "url": "http://vedo.wvdbozpfc.com/vod/79A50F8450F541C28FC41AB3263B3370_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kBCtNvOwyN1GzruK0qm9co2dN3l.jpg",
+                "type": "PELICULA",
+                "descripcion": "Para preparar el papel del hombre que se convertiría en el Papa Francisco, un actor viaja de Génova a Roma siguiendo los orígenes del líder religioso.",
+                "anio": "2019",
+                "duracion": "",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5cIJw8OYJqK1vdP31vaWMDHti9b.jpg",
+                "iconpng": ""
             },
             {
                 "name": "WrestleMania IX: Becoming a Spectacle",

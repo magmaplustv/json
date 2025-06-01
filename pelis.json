@@ -183,18 +183,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
-                "name": "Freaky Tales",
-                "url": "http://vedo.wvdbozpfc.com/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "107 min",
-                "genero": "Acción, Comedia, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
-            },
-            {
                 "name": "Saint Catherine",
                 "url": "http://vedo.wvdbozpfc.com/vod/77C37C47A2364EACA42014CDEADCD3DB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sVYPZ6mq0EuRqVwaK8tqJSXj8s1.jpg",
@@ -205,6 +193,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/svLj9iyRmmeNVRsMreANn7DPPZE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nbodyqpOjo1F0jJqBIdUAwGIR87.png"
+            },
+            {
+                "name": "Freaky Tales",
+                "url": "http://vedo.wvdbozpfc.com/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "107 min",
+                "genero": "Acción, Comedia, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
             },
             {
                 "name": "El hilo rojo",

@@ -159,18 +159,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/zBVYdBVEENSXea58yyXpj7A0BcC.png"
             },
             {
-                "name": "Enfrentando la Oscuridad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
-            },
-            {
                 "name": "El Mono",
                 "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
@@ -181,6 +169,18 @@
                 "genero": "Terror, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
+            },
+            {
+                "name": "Enfrentando la Oscuridad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
                 "name": "Freaky Tales",

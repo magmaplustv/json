@@ -87,18 +87,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
             },
             {
-                "name": "sneaks: un par con suerte",
-                "url": "http://vedo.wvdbozpfc.com/vod/D61EFC402FC44040B287C35A0B3C0C69_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/52DmaVSxjmb13qePsHtZElmHdXB.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sneaks es la aventura conmovedora y cómica de un par de tenis únicos llamadas Ty y Maxine. Mientras que Ty no quiere experimentar la vida fuera de la comodidad de su zapato forrado de terciopelo, Maxine anhela la oportunidad de ver el mundo y vivir la vida en los pies de alguien en lugar de una existencia en un pedestal.",
-                "anio": "2025",
-                "duracion": "93 min",
-                "genero": "Animación, Comedia, Familia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
-            },
-            {
                 "name": "Corazon Valiente",
                 "url": "http://vedo.wvdbozpfc.com/vod/44B021E29F914D84BA566CBFA0AB4103_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
@@ -109,6 +97,18 @@
                 "genero": "Drama, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3pJ2BuyO8HpKFdVshE3rNkBlf4f.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "sneaks: un par con suerte",
+                "url": "http://vedo.wvdbozpfc.com/vod/D61EFC402FC44040B287C35A0B3C0C69_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/52DmaVSxjmb13qePsHtZElmHdXB.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sneaks es la aventura conmovedora y cómica de un par de tenis únicos llamadas Ty y Maxine. Mientras que Ty no quiere experimentar la vida fuera de la comodidad de su zapato forrado de terciopelo, Maxine anhela la oportunidad de ver el mundo y vivir la vida en los pies de alguien en lugar de una existencia en un pedestal.",
+                "anio": "2025",
+                "duracion": "93 min",
+                "genero": "Animación, Comedia, Familia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
             },
             {
                 "name": "Titanic: La resurrección digital",

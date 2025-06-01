@@ -524,18 +524,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/p4boVMYV5qWQmMz4datK8Q0otVl.png"
             },
             {
-                "name": "Troya",
-                "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2019",
-                "duracion": "8 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Bohemian Rhapsody: la historia de Freddie Mercury",
                 "url": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
@@ -546,6 +534,18 @@
                 "genero": "Música, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
+            },
+            {
+                "name": "Troya",
+                "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "8 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "El Irlandés",

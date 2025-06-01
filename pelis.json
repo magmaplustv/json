@@ -296,18 +296,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
-                "name": "El Rey de Reyes",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gN0eu6s2qIzsHgznnsgMIfbPw3u.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/rVcEghXsxQBTXM3LOcYeh9e5V7T.png",
-                "descripcion": "Un padre le cuenta a su hijo la mejor historia jamás contada, y lo que comienza como un cuento antes de dormir se convierte en un viaje que cambia la vida. A través de una vívida imaginación, el niño camina junto a Jesús, presenciando sus milagros, enfrentándose a sus pruebas y comprendiendo su sacrificio final. El Rey de Reyes nos invita a redescubrir el poder perdurable de la esperanza, el amor y la redención a través de los ojos de un niño.",
-                "anio": "2025",
-                "genero": "Familia, Fantasía, Drama, Animación",
-                "duracion": "101 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Destino final: Lazos de sangre",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
@@ -318,6 +306,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
+            },
+            {
+                "name": "El Rey de Reyes",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gN0eu6s2qIzsHgznnsgMIfbPw3u.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rVcEghXsxQBTXM3LOcYeh9e5V7T.png",
+                "descripcion": "Un padre le cuenta a su hijo la mejor historia jamás contada, y lo que comienza como un cuento antes de dormir se convierte en un viaje que cambia la vida. A través de una vívida imaginación, el niño camina junto a Jesús, presenciando sus milagros, enfrentándose a sus pruebas y comprendiendo su sacrificio final. El Rey de Reyes nos invita a redescubrir el poder perdurable de la esperanza, el amor y la redención a través de los ojos de un niño.",
+                "anio": "2025",
+                "genero": "Familia, Fantasía, Drama, Animación",
+                "duracion": "101 min",
+                "type": "PELICULA"
             },
             {
                 "name": "La Confesión",

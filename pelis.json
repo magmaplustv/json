@@ -404,18 +404,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
             },
             {
-                "name": "Blancanieves",
-                "url": "http://vedo.wvdbozpfc.com/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
-                "anio": "2025",
-                "duracion": "99 min",
-                "genero": "Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lN9xTlEZhDuuu4WprTO4v2Ue3e0.png"
-            },
-            {
                 "name": "Gravedad cero",
                 "url": "http://vedo.wvdbozpfc.com/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
@@ -426,6 +414,18 @@
                 "genero": "Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXxriYfAWtMJNHGHVYr09c37L07.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zBVYdBVEENSXea58yyXpj7A0BcC.png"
+            },
+            {
+                "name": "Blancanieves",
+                "url": "http://vedo.wvdbozpfc.com/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
+                "anio": "2025",
+                "duracion": "99 min",
+                "genero": "Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lN9xTlEZhDuuu4WprTO4v2Ue3e0.png"
             },
             {
                 "name": "Crypto: La apuesta final",

@@ -320,18 +320,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
             },
             {
-                "name": "La Confesión",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "",
-                "genero": "Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eoxofLWghYnReeAuERdlNNkXG13.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La Leyenda de Ochi",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
@@ -342,6 +330,18 @@
                 "genero": "Fantasía, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
+            },
+            {
+                "name": "La Confesión",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "",
+                "genero": "Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eoxofLWghYnReeAuERdlNNkXG13.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Nahual",

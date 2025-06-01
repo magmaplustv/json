@@ -416,18 +416,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
             },
             {
-                "name": "Gravedad cero",
-                "url": "http://vedo.wvdbozpfc.com/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
-                "type": "PELICULA",
-                "descripcion": "En el futuro próximo, la humanidad explora con éxito el espacio: ahora una enorme estación Delta se encuentra en la órbita terrestre. Maksim Bortnikov es uno de los miembros del equipo de reparación de la estación. Una inesperada catástrofe causada por una tormenta de protones lo separa del resto, y se queda solo en el espacio exterior.",
-                "anio": "2025",
-                "duracion": "120 min",
-                "genero": "Ciencia ficción, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXxriYfAWtMJNHGHVYr09c37L07.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zBVYdBVEENSXea58yyXpj7A0BcC.png"
-            },
-            {
                 "name": "Crypto: La apuesta final",
                 "url": "http://vedo.wvdbozpfc.com/vod/B7CD27000B314F70B28BDE24E2E0A7B6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lrp8ipvEPYdm5a2D2Om2dNoguYX.jpg",
@@ -438,6 +426,18 @@
                 "genero": "Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/p0NppFDSjJZ9hqSLMnlrFTLwOK7.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/38oxDIWolaw5a2h7GwfOFfPHyjK.png"
+            },
+            {
+                "name": "Gravedad cero",
+                "url": "http://vedo.wvdbozpfc.com/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
+                "type": "PELICULA",
+                "descripcion": "En el futuro próximo, la humanidad explora con éxito el espacio: ahora una enorme estación Delta se encuentra en la órbita terrestre. Maksim Bortnikov es uno de los miembros del equipo de reparación de la estación. Una inesperada catástrofe causada por una tormenta de protones lo separa del resto, y se queda solo en el espacio exterior.",
+                "anio": "2025",
+                "duracion": "120 min",
+                "genero": "Ciencia ficción, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXxriYfAWtMJNHGHVYr09c37L07.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zBVYdBVEENSXea58yyXpj7A0BcC.png"
             },
             {
                 "name": "El Mono",

@@ -279,18 +279,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/33g8BPIyp1aF9DcXUmWqtwlXwYA.png"
             },
             {
-                "name": "El Maravilloso Mago de Oz",
-                "url": "http://vedo.wvdbozpfc.com/vod/79491A9EB6D24D2089D6530730C826BF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
-                "type": "PELICULA",
-                "descripcion": "Ellie vive en una ciudad lejana. Un día, la malvada bruja Gingema conjuró un huracán que llevó a Ellie y su perro Toto al país de los Munchkins. Para regresar a casa, Ellie y sus amigos el Espantapájaros, el Leñador de Hojalata y el León Cobarde emprenderán el camino de amarillos hacia la Ciudad Esmeralda en busca del Mago que les concederá sus preciados deseos.",
-                "anio": "2025",
-                "duracion": "104 min",
-                "genero": "Drama, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7YY2Frx7Fl0pHybebct510Hx1qL.png"
-            },
-            {
                 "name": "Holland",
                 "url": "http://vedo.wvdbozpfc.com/vod/4275E8AE1DB849EF9ABF17F973C1681B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
@@ -301,6 +289,18 @@
                 "genero": "Suspense, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/68WMl6vWiY6oPIXXQadhrRpWFdg.png"
+            },
+            {
+                "name": "El Maravilloso Mago de Oz",
+                "url": "http://vedo.wvdbozpfc.com/vod/79491A9EB6D24D2089D6530730C826BF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
+                "type": "PELICULA",
+                "descripcion": "Ellie vive en una ciudad lejana. Un día, la malvada bruja Gingema conjuró un huracán que llevó a Ellie y su perro Toto al país de los Munchkins. Para regresar a casa, Ellie y sus amigos el Espantapájaros, el Leñador de Hojalata y el León Cobarde emprenderán el camino de amarillos hacia la Ciudad Esmeralda en busca del Mago que les concederá sus preciados deseos.",
+                "anio": "2025",
+                "duracion": "104 min",
+                "genero": "Drama, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7YY2Frx7Fl0pHybebct510Hx1qL.png"
             },
             {
                 "name": "Vidas de Matrimonio",

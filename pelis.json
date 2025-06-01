@@ -159,18 +159,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Meet the Khumalos",
-                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "92 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
-            },
-            {
                 "name": "Terrifier 3",
                 "url": "http://vedo.wvdbozpfc.com/vod/E195F76CE062437F99AD707937A023A7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
@@ -181,6 +169,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
+            },
+            {
+                "name": "Meet the Khumalos",
+                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "92 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
             },
             {
                 "name": "Cónclave",

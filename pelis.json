@@ -171,18 +171,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
-                "name": "El Mono",
-                "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
-                "anio": "2025",
-                "duracion": "97 min",
-                "genero": "Terror, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
-            },
-            {
                 "name": "Saint Catherine",
                 "url": "http://vedo.wvdbozpfc.com/vod/77C37C47A2364EACA42014CDEADCD3DB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sVYPZ6mq0EuRqVwaK8tqJSXj8s1.jpg",
@@ -193,6 +181,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/svLj9iyRmmeNVRsMreANn7DPPZE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nbodyqpOjo1F0jJqBIdUAwGIR87.png"
+            },
+            {
+                "name": "El Mono",
+                "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
             },
             {
                 "name": "El hilo rojo",

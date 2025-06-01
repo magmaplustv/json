@@ -159,18 +159,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Terrifier 3",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E195F76CE062437F99AD707937A023A7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
-                "type": "PELICULA",
-                "descripcion": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas destrozadas. A medida que se acercan las fiestas de Navidad, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, el payaso Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente mientras el payaso Art desata su retorcido terror marca de la casa, demostrando que ninguna festividad es segura.",
-                "anio": "2024",
-                "duracion": "125 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
-            },
-            {
                 "name": "Cónclave",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A7A3541D6B83462B8BD6D6C712ACA436_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jkOgeASTlWwyKLBNblHVwWmAKhD.jpg",
@@ -181,6 +169,18 @@
                 "genero": "Drama, Suspense, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vqTH4hlT04ZNmGBQ3hLMT8OjFEd.png"
+            },
+            {
+                "name": "Terrifier 3",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E195F76CE062437F99AD707937A023A7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+                "type": "PELICULA",
+                "descripcion": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas destrozadas. A medida que se acercan las fiestas de Navidad, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, el payaso Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente mientras el payaso Art desata su retorcido terror marca de la casa, demostrando que ninguna festividad es segura.",
+                "anio": "2024",
+                "duracion": "125 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
             },
             {
                 "name": "Meet the Khumalos",

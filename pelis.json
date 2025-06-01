@@ -243,18 +243,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/aecaoDpXGvDALdkebTfPMyXUQty.png"
             },
             {
-                "name": "Barbie",
-                "url": "http://vedo.wvdbozpfc.com/vod/B2D2D5EB5504454286DBA54A855146E3_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
-                "type": "PELICULA",
-                "descripcion": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
-                "anio": "2023",
-                "duracion": "114 min",
-                "genero": "Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
-            },
-            {
                 "name": "Orgullo y prejuicio",
                 "url": "http://vedo.wvdbozpfc.com/vod/D06EF6EA47364AE5ACC739E65D471B0C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
@@ -265,6 +253,18 @@
                 "genero": "Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+            },
+            {
+                "name": "Barbie",
+                "url": "http://vedo.wvdbozpfc.com/vod/B2D2D5EB5504454286DBA54A855146E3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+                "type": "PELICULA",
+                "descripcion": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+                "anio": "2023",
+                "duracion": "114 min",
+                "genero": "Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
             },
             {
                 "name": "El lobo de Wall Street",

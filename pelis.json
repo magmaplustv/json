@@ -380,18 +380,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Una película de Minecraft",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45C5C595F01A4310B59E6FED84F9DE57_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Familia, Comedia, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
-            },
-            {
                 "name": "¡Qué Huevos, Sofía!",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
@@ -402,6 +390,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
+            },
+            {
+                "name": "Una película de Minecraft",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/45C5C595F01A4310B59E6FED84F9DE57_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Familia, Comedia, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
             },
             {
                 "name": "Blancanieves",

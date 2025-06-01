@@ -368,18 +368,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4PuBmnWzem630v43SNq8Mg42qum.png"
             },
             {
-                "name": "¡Qué Huevos, Sofía!",
-                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
-            },
-            {
                 "name": "La formula del agua",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425980.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2egvcQPqrXBgPHdK6hhznptaiiY.jpg",
@@ -390,6 +378,18 @@
                 "genero": "",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/y9euSDLD0lupRvrSWRXOxgBkkma.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "¡Qué Huevos, Sofía!",
+                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
             },
             {
                 "name": "Una película de Minecraft",

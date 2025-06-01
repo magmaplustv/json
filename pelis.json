@@ -243,18 +243,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Y2K",
-                "url": "http://vedo.wvdbozpfc.com/vod/054B97552DF448F4830FD7A722EF3878_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
-                "type": "PELICULA",
-                "descripcion": "Dos 'don nadie' del colegio toman la decisión de colarse en la última celebración antes del nuevo milenio en la Nochevieja de 1999. La noche se vuelve aún más loca de lo que jamás podrían haber soñado cuando el reloj marca la medianoche.",
-                "anio": "2024",
-                "duracion": "93 min",
-                "genero": "Comedia, Terror, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aoqJHtjzpbgoujhDO9R88gL3Kmf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eSNpjX0VqwyAPiSBI0FEfsG6CQy.png"
-            },
-            {
                 "name": "Corina",
                 "url": "http://vedo.wvdbozpfc.com/vod/3FB14895F7D4490A943D0454D0F7B0CA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
@@ -265,6 +253,18 @@
                 "genero": "Drama, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kRtr3sNFjrPWCRajEWnOf3n11dw.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Y2K",
+                "url": "http://vedo.wvdbozpfc.com/vod/054B97552DF448F4830FD7A722EF3878_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
+                "type": "PELICULA",
+                "descripcion": "Dos 'don nadie' del colegio toman la decisión de colarse en la última celebración antes del nuevo milenio en la Nochevieja de 1999. La noche se vuelve aún más loca de lo que jamás podrían haber soñado cuando el reloj marca la medianoche.",
+                "anio": "2024",
+                "duracion": "93 min",
+                "genero": "Comedia, Terror, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aoqJHtjzpbgoujhDO9R88gL3Kmf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eSNpjX0VqwyAPiSBI0FEfsG6CQy.png"
             },
             {
                 "name": "Plankton, la película",

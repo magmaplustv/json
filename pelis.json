@@ -15,18 +15,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
             },
             {
-                "name": "La Leyenda de Ochi",
-                "url": "http://vedo.wvdbozpfc.com/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una niña descubre los misterios de la comunicación animal.",
-                "anio": "2025",
-                "duracion": "95 min",
-                "genero": "Fantasía, Aventura, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
-            },
-            {
                 "name": "El Rey de Reyes",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
@@ -37,6 +25,18 @@
                 "genero": "Familia, Fantasía, Drama, Animación",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La Leyenda de Ochi",
+                "url": "http://vedo.wvdbozpfc.com/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una niña descubre los misterios de la comunicación animal.",
+                "anio": "2025",
+                "duracion": "95 min",
+                "genero": "Fantasía, Aventura, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
             },
             {
                 "name": "Los Pecadores",

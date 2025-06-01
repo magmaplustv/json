@@ -3,18 +3,6 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
-                "name": "Los Pecadores",
-                "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
-                "anio": "2025",
-                "duracion": "138 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
-            },
-            {
                 "name": "El Rey de Reyes",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
@@ -25,6 +13,18 @@
                 "genero": "Familia, Fantasía, Drama, Animación",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los Pecadores",
+                "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+                "anio": "2025",
+                "duracion": "138 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
                 "name": "Destino final: Lazos de sangre",

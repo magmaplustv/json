@@ -332,18 +332,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Los Pecadores",
-                "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
-                "anio": "2025",
-                "duracion": "138 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
-            },
-            {
                 "name": "Nahual",
                 "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
@@ -354,6 +342,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Los Pecadores",
+                "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+                "anio": "2025",
+                "duracion": "138 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
                 "name": "La formula del agua",

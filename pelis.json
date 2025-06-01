@@ -207,18 +207,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Sujo",
-                "url": "http://vedo.wvdbozpfc.com/vod/045CF3DC35A94D83972DF2028A2C8199_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4NAzOUkA3uTKTppcxyHYB4SKqKa.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con solo 4 años, Sujo es testigo del asesinato de su padre, un sicario del cartel. Él crece con la única compañía de su familia, pero, al llegar a la adolescencia, la violencia del narcotráfico irrumpe de nuevo en su vida.",
-                "anio": "2024",
-                "duracion": "127 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6J1dvjk2djAtkVWYjl4POyYtMwq.png"
-            },
-            {
                 "name": "La fiebre de los ricos",
                 "url": "http://vedo.wvdbozpfc.com/vod/CCFF94B268404EFC8D47C622E1091BE2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/plbr04r5LQhEWcF6oWk09TUu4xR.jpg",
@@ -229,6 +217,18 @@
                 "genero": "Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xFPtZRyFBU8oxeImTEh2rexzPXa.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yULFZA96COBNudNneMM5QKhoi3T.png"
+            },
+            {
+                "name": "Sujo",
+                "url": "http://vedo.wvdbozpfc.com/vod/045CF3DC35A94D83972DF2028A2C8199_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4NAzOUkA3uTKTppcxyHYB4SKqKa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con solo 4 años, Sujo es testigo del asesinato de su padre, un sicario del cartel. Él crece con la única compañía de su familia, pero, al llegar a la adolescencia, la violencia del narcotráfico irrumpe de nuevo en su vida.",
+                "anio": "2024",
+                "duracion": "127 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6J1dvjk2djAtkVWYjl4POyYtMwq.png"
             },
             {
                 "name": "Confidencial (Black Bag)",

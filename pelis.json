@@ -159,18 +159,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9dfVycyRBDKbziaavcJJl5nkHPt.png"
             },
             {
-                "name": "Meet the Khumalos",
-                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "92 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
-            },
-            {
                 "name": "Sin oxígeno",
                 "url": "http://vedo.wvdbozpfc.com/vod/92FD0301F283484FB56BB2C34011279A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
@@ -181,6 +169,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Meet the Khumalos",
+                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "92 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
             },
             {
                 "name": "Terrifier 3",

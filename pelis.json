@@ -500,18 +500,6 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
-                "name": "Elvis",
-                "url": "http://vedo.wvdbozpfc.com/vod/76973BBD069F4573BD23D3A8AD1CBBD8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z4miRBGEqhkIkUr0ausHLfUytgq.jpg",
-                "type": "PELICULA",
-                "descripcion": "La película explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker, su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de veinte años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley, una de las personas más importantes e influyentes en la vida de Elvis.",
-                "anio": "2022",
-                "duracion": "159 min",
-                "genero": "Drama, Música, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/9M9tEwZPDTxSNM3ptldnKNYatEI.png"
-            },
-            {
                 "name": "Bohemian Rhapsody: la historia de Freddie Mercury",
                 "url": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
@@ -522,6 +510,18 @@
                 "genero": "Música, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
+            },
+            {
+                "name": "Elvis",
+                "url": "http://vedo.wvdbozpfc.com/vod/76973BBD069F4573BD23D3A8AD1CBBD8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z4miRBGEqhkIkUr0ausHLfUytgq.jpg",
+                "type": "PELICULA",
+                "descripcion": "La película explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker, su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de veinte años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley, una de las personas más importantes e influyentes en la vida de Elvis.",
+                "anio": "2022",
+                "duracion": "159 min",
+                "genero": "Drama, Música, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9M9tEwZPDTxSNM3ptldnKNYatEI.png"
             },
             {
                 "name": "El Irlandés",

@@ -39,18 +39,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/bCAhNbPTDCj6g2ukijoySf7vNQL.png"
             },
             {
-                "name": "Troya",
-                "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2019",
-                "duracion": "8 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Better Man",
                 "url": "http://vedo.wvdbozpfc.com/vod/08B157C527B2466C92CE4866EA8E8E76_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
@@ -61,6 +49,18 @@
                 "genero": "Música, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
+            },
+            {
+                "name": "Troya",
+                "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "8 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Bohemian Rhapsody: la historia de Freddie Mercury",

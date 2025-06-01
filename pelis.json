@@ -87,18 +87,6 @@
                 "iconpng": ""
             },
             {
-                "name": "¡Qué Huevos, Sofía!",
-                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
-            },
-            {
                 "name": "Peter Pan: Pesadilla en Nunca Jamás",
                 "url": "http://vedo.wvdbozpfc.com/vod/A89597751934494CAB184720392A46FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xUCTmmXJFF08WjYVuwqyJsBnEgE.jpg",
@@ -109,6 +97,18 @@
                 "genero": "Terror, Suspense, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4PuBmnWzem630v43SNq8Mg42qum.png"
+            },
+            {
+                "name": "¡Qué Huevos, Sofía!",
+                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
             },
             {
                 "name": "Una película de Minecraft",

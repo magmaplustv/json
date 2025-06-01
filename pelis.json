@@ -332,18 +332,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Nahual",
-                "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Nahual como entidad audiovisual y saber ancestral es un centralizador rítmico que provee la danza, el trance y el ritual. Entidad iniciática e inicial que, como los saberes ancestrales, no es analizable ni deconstruible y, por ello, es inicial e iniciático, parte enhebrante de las imágenes y los sonidos, que precipita el ritual, las alianzas, la liturgia y la danza.",
-                "anio": "2024",
-                "duracion": "15 min",
-                "genero": "Documental",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Los Pecadores",
                 "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
@@ -354,6 +342,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
+            },
+            {
+                "name": "Nahual",
+                "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Nahual como entidad audiovisual y saber ancestral es un centralizador rítmico que provee la danza, el trance y el ritual. Entidad iniciática e inicial que, como los saberes ancestrales, no es analizable ni deconstruible y, por ello, es inicial e iniciático, parte enhebrante de las imágenes y los sonidos, que precipita el ritual, las alianzas, la liturgia y la danza.",
+                "anio": "2024",
+                "duracion": "15 min",
+                "genero": "Documental",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "La formula del agua",

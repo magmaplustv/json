@@ -356,18 +356,6 @@
                 "iconpng": ""
             },
             {
-                "name": "La formula del agua",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425980.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2egvcQPqrXBgPHdK6hhznptaiiY.jpg",
-                "type": "PELICULA",
-                "descripcion": "Dana va en busca de su padre, un científico que ha inventado una máquina que puede resolver un problema importante: la escasez de agua potable. Un auténtico circo ambulante la ayudará en su búsqueda.",
-                "anio": "2025",
-                "duracion": "",
-                "genero": "",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/y9euSDLD0lupRvrSWRXOxgBkkma.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Peter Pan: Pesadilla en Nunca Jamás",
                 "url": "http://vedo.wvdbozpfc.com/vod/A89597751934494CAB184720392A46FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xUCTmmXJFF08WjYVuwqyJsBnEgE.jpg",
@@ -378,6 +366,18 @@
                 "genero": "Terror, Suspense, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4PuBmnWzem630v43SNq8Mg42qum.png"
+            },
+            {
+                "name": "La formula del agua",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425980.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2egvcQPqrXBgPHdK6hhznptaiiY.jpg",
+                "type": "PELICULA",
+                "descripcion": "Dana va en busca de su padre, un científico que ha inventado una máquina que puede resolver un problema importante: la escasez de agua potable. Un auténtico circo ambulante la ayudará en su búsqueda.",
+                "anio": "2025",
+                "duracion": "",
+                "genero": "",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/y9euSDLD0lupRvrSWRXOxgBkkma.jpg",
+                "iconpng": ""
             },
             {
                 "name": "¡Qué Huevos, Sofía!",

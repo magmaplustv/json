@@ -231,18 +231,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Y2K",
-                "url": "http://vedo.wvdbozpfc.com/vod/054B97552DF448F4830FD7A722EF3878_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
-                "type": "PELICULA",
-                "descripcion": "Dos 'don nadie' del colegio toman la decisión de colarse en la última celebración antes del nuevo milenio en la Nochevieja de 1999. La noche se vuelve aún más loca de lo que jamás podrían haber soñado cuando el reloj marca la medianoche.",
-                "anio": "2024",
-                "duracion": "93 min",
-                "genero": "Comedia, Terror, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aoqJHtjzpbgoujhDO9R88gL3Kmf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eSNpjX0VqwyAPiSBI0FEfsG6CQy.png"
-            },
-            {
                 "name": "Hombre lobo",
                 "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
@@ -253,6 +241,18 @@
                 "genero": "Acción, Fantasía, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
+            },
+            {
+                "name": "Y2K",
+                "url": "http://vedo.wvdbozpfc.com/vod/054B97552DF448F4830FD7A722EF3878_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
+                "type": "PELICULA",
+                "descripcion": "Dos 'don nadie' del colegio toman la decisión de colarse en la última celebración antes del nuevo milenio en la Nochevieja de 1999. La noche se vuelve aún más loca de lo que jamás podrían haber soñado cuando el reloj marca la medianoche.",
+                "anio": "2024",
+                "duracion": "93 min",
+                "genero": "Comedia, Terror, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aoqJHtjzpbgoujhDO9R88gL3Kmf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eSNpjX0VqwyAPiSBI0FEfsG6CQy.png"
             },
             {
                 "name": "Corina",

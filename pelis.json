@@ -327,18 +327,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
             },
             {
-                "name": "Amor Explosivo",
-                "url": "http://vedo.wvdbozpfc.com/vod/479A24EDA441451C9746988B7B48FD2E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
-                "type": "PELICULA",
-                "descripcion": "Marvin Gable, un agente inmobiliario que trabaja en un barrio a las afueras de Milwaukee, recibe un sobre rojo de Rose, una antigua cómplice a la que daba por muerta y se verá de nuevo arrastrado a un mundo de francotiradores implacables plagado de traiciones y eventos inmobiliarios convertidos en trampas letales.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Acción, Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
-            },
-            {
                 "name": "Lady Sakura",
                 "url": "http://vedo.wvdbozpfc.com/vod/32760ED1A2464FA7B214527157EE1DCF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg",
@@ -349,6 +337,18 @@
                 "genero": "Comedia, Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kqu54Ln6Nx0ltP6oLba26pGvX55.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Amor Explosivo",
+                "url": "http://vedo.wvdbozpfc.com/vod/479A24EDA441451C9746988B7B48FD2E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
+                "type": "PELICULA",
+                "descripcion": "Marvin Gable, un agente inmobiliario que trabaja en un barrio a las afueras de Milwaukee, recibe un sobre rojo de Rose, una antigua cómplice a la que daba por muerta y se verá de nuevo arrastrado a un mundo de francotiradores implacables plagado de traiciones y eventos inmobiliarios convertidos en trampas letales.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Acción, Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
             },
             {
                 "name": "Capitán América: Un nuevo mundo",

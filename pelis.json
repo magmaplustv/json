@@ -99,18 +99,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
             },
             {
-                "name": "Better Man",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/08B157C527B2466C92CE4866EA8E8E76_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sigue el viaje de Robbie Williams desde la infancia, hasta convertirse en el miembro más joven de la boyband Take That, pasando por sus logros incomparables como artista solista que bate récords, mientras se enfrenta a los desafíos que pueden traer la fama y el éxito estratosféricos.",
-                "anio": "2024",
-                "duracion": "135 min",
-                "genero": "Música, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
-            },
-            {
                 "name": "Titanic: La resurrección digital",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F5B4500BEF1247C7BB1D452C6665CFF7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
@@ -121,6 +109,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gkuUF7GgYpEQiHGbBTfmB30yim6.png"
+            },
+            {
+                "name": "Better Man",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/08B157C527B2466C92CE4866EA8E8E76_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sigue el viaje de Robbie Williams desde la infancia, hasta convertirse en el miembro más joven de la boyband Take That, pasando por sus logros incomparables como artista solista que bate récords, mientras se enfrenta a los desafíos que pueden traer la fama y el éxito estratosféricos.",
+                "anio": "2024",
+                "duracion": "135 min",
+                "genero": "Música, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
             },
             {
                 "name": "WrestleMania IX: Becoming a Spectacle",

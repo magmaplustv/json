@@ -195,18 +195,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vqTH4hlT04ZNmGBQ3hLMT8OjFEd.png"
             },
             {
-                "name": "Sujo",
-                "url": "http://vedo.wvdbozpfc.com/vod/045CF3DC35A94D83972DF2028A2C8199_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4NAzOUkA3uTKTppcxyHYB4SKqKa.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con solo 4 años, Sujo es testigo del asesinato de su padre, un sicario del cartel. Él crece con la única compañía de su familia, pero, al llegar a la adolescencia, la violencia del narcotráfico irrumpe de nuevo en su vida.",
-                "anio": "2024",
-                "duracion": "127 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6J1dvjk2djAtkVWYjl4POyYtMwq.png"
-            },
-            {
                 "name": "Sin oxígeno",
                 "url": "http://vedo.wvdbozpfc.com/vod/92FD0301F283484FB56BB2C34011279A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
@@ -217,6 +205,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Sujo",
+                "url": "http://vedo.wvdbozpfc.com/vod/045CF3DC35A94D83972DF2028A2C8199_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4NAzOUkA3uTKTppcxyHYB4SKqKa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con solo 4 años, Sujo es testigo del asesinato de su padre, un sicario del cartel. Él crece con la única compañía de su familia, pero, al llegar a la adolescencia, la violencia del narcotráfico irrumpe de nuevo en su vida.",
+                "anio": "2024",
+                "duracion": "127 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6J1dvjk2djAtkVWYjl4POyYtMwq.png"
             },
             {
                 "name": "Confidencial (Black Bag)",

@@ -51,18 +51,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/bCAhNbPTDCj6g2ukijoySf7vNQL.png"
             },
             {
-                "name": "Troya",
-                "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2019",
-                "duracion": "8 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Corazon Valiente",
                 "url": "http://vedo.wvdbozpfc.com/vod/44B021E29F914D84BA566CBFA0AB4103_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
@@ -72,6 +60,18 @@
                 "duracion": "115 min",
                 "genero": "Drama, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3pJ2BuyO8HpKFdVshE3rNkBlf4f.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Troya",
+                "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "8 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
                 "iconpng": ""
             },
             {

@@ -51,18 +51,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
             },
             {
-                "name": "La Confesión",
-                "url": "http://vedo.wvdbozpfc.com/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "",
-                "genero": "Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eoxofLWghYnReeAuERdlNNkXG13.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Nahual",
                 "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
@@ -72,6 +60,18 @@
                 "duracion": "15 min",
                 "genero": "Documental",
                 "iconoHorizontal": "",
+                "iconpng": ""
+            },
+            {
+                "name": "La Confesión",
+                "url": "http://vedo.wvdbozpfc.com/vod/39F6BAAAAA5E4F2A9E15A0DBE29DDD52_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q4iphMsnfpxXvUtmwLkLITYBSsq.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "",
+                "genero": "Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eoxofLWghYnReeAuERdlNNkXG13.jpg",
                 "iconpng": ""
             },
             {

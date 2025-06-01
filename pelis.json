@@ -27,18 +27,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9M9tEwZPDTxSNM3ptldnKNYatEI.png"
             },
             {
-                "name": "María Magdalena",
-                "url": "http://vedo.wvdbozpfc.com/vod/5FF38E9C9B7B49AC8830434F3441A5FA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ec41AvRBFuWNOYjeBtdSn1aAzRx.jpg",
-                "type": "PELICULA",
-                "descripcion": "Película biográfica bíblica que cuenta la historia de María (Rooney Mara), una joven mujer en busca de una nueva forma de vida. Restringida por las jerarquías de la época; María desafía a su familia tradicional al unirse a un nuevo movimiento social dirigido por Jesús de Nazareth (Joaquin Phoenix). Pronto encuentra su lugar dentro del movimiento y en el corazón de un viaje que la conducirá a Jerusalén.",
-                "anio": "2018",
-                "duracion": "120 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hvdRLJSKy2a3Ulzrl1Wlnqq2pKZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/p4boVMYV5qWQmMz4datK8Q0otVl.png"
-            },
-            {
                 "name": "El Irlandés",
                 "url": "http://vedo.wvdbozpfc.com/vod/67A53CC7035747EBBB2459EB8B8E8AE2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
@@ -49,6 +37,18 @@
                 "genero": "Crimen, Drama, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bCAhNbPTDCj6g2ukijoySf7vNQL.png"
+            },
+            {
+                "name": "María Magdalena",
+                "url": "http://vedo.wvdbozpfc.com/vod/5FF38E9C9B7B49AC8830434F3441A5FA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ec41AvRBFuWNOYjeBtdSn1aAzRx.jpg",
+                "type": "PELICULA",
+                "descripcion": "Película biográfica bíblica que cuenta la historia de María (Rooney Mara), una joven mujer en busca de una nueva forma de vida. Restringida por las jerarquías de la época; María desafía a su familia tradicional al unirse a un nuevo movimiento social dirigido por Jesús de Nazareth (Joaquin Phoenix). Pronto encuentra su lugar dentro del movimiento y en el corazón de un viaje que la conducirá a Jerusalén.",
+                "anio": "2018",
+                "duracion": "120 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hvdRLJSKy2a3Ulzrl1Wlnqq2pKZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/p4boVMYV5qWQmMz4datK8Q0otVl.png"
             },
             {
                 "name": "Troya",

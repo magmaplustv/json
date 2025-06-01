@@ -363,18 +363,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png"
             },
             {
-                "name": "Bridget Jones: Loca por él",
-                "url": "http://vedo.wvdbozpfc.com/vod/6811D433F96F45A0918ACF490BB2B68D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
-                "type": "PELICULA",
-                "descripcion": "Bridget está sola después de enviudar hace cuatro años y se encuentra en una especie de limbo emocional mientras cuida a los niños con la ayuda de sus mejores amigos y de un antiguo amante, Daniel Cleaver. Presionada por su familia urbana, Bridget se siente obligada a interesarse por la vida y el amor.",
-                "anio": "2025",
-                "duracion": "124 min",
-                "genero": "Romance, Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
-            },
-            {
                 "name": "Z Zone",
                 "url": "http://vedo.wvdbozpfc.com/vod/98292940A73D4D40ADF31D11CE46F9D3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg",
@@ -385,6 +373,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/19pr5CzgsBYs67FAJvke8GQxN4g.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/98DBKpODK0NEOpIq0Ogkzon1vG6.png"
+            },
+            {
+                "name": "Bridget Jones: Loca por él",
+                "url": "http://vedo.wvdbozpfc.com/vod/6811D433F96F45A0918ACF490BB2B68D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
+                "type": "PELICULA",
+                "descripcion": "Bridget está sola después de enviudar hace cuatro años y se encuentra en una especie de limbo emocional mientras cuida a los niños con la ayuda de sus mejores amigos y de un antiguo amante, Daniel Cleaver. Presionada por su familia urbana, Bridget se siente obligada a interesarse por la vida y el amor.",
+                "anio": "2025",
+                "duracion": "124 min",
+                "genero": "Romance, Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
             },
             {
                 "name": "Rescate Implacable",

@@ -351,18 +351,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
             },
             {
-                "name": "Capitán América: Un nuevo mundo",
-                "url": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
-                "anio": "2025",
-                "duracion": "119 min",
-                "genero": "Acción, Suspense, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png"
-            },
-            {
                 "name": "Z Zone",
                 "url": "http://vedo.wvdbozpfc.com/vod/98292940A73D4D40ADF31D11CE46F9D3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg",
@@ -373,6 +361,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/19pr5CzgsBYs67FAJvke8GQxN4g.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/98DBKpODK0NEOpIq0Ogkzon1vG6.png"
+            },
+            {
+                "name": "Capitán América: Un nuevo mundo",
+                "url": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+                "anio": "2025",
+                "duracion": "119 min",
+                "genero": "Acción, Suspense, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png"
             },
             {
                 "name": "Bridget Jones: Loca por él",

@@ -183,18 +183,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Sujo",
-                "url": "http://vedo.wvdbozpfc.com/vod/045CF3DC35A94D83972DF2028A2C8199_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4NAzOUkA3uTKTppcxyHYB4SKqKa.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con solo 4 años, Sujo es testigo del asesinato de su padre, un sicario del cartel. Él crece con la única compañía de su familia, pero, al llegar a la adolescencia, la violencia del narcotráfico irrumpe de nuevo en su vida.",
-                "anio": "2024",
-                "duracion": "127 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6J1dvjk2djAtkVWYjl4POyYtMwq.png"
-            },
-            {
                 "name": "Terrifier 3",
                 "url": "http://vedo.wvdbozpfc.com/vod/E195F76CE062437F99AD707937A023A7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
@@ -205,6 +193,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
+            },
+            {
+                "name": "Sujo",
+                "url": "http://vedo.wvdbozpfc.com/vod/045CF3DC35A94D83972DF2028A2C8199_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4NAzOUkA3uTKTppcxyHYB4SKqKa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con solo 4 años, Sujo es testigo del asesinato de su padre, un sicario del cartel. Él crece con la única compañía de su familia, pero, al llegar a la adolescencia, la violencia del narcotráfico irrumpe de nuevo en su vida.",
+                "anio": "2024",
+                "duracion": "127 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6GIRELnBhvqj8AS8v8ao64OSrR8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6J1dvjk2djAtkVWYjl4POyYtMwq.png"
             },
             {
                 "name": "Cónclave",

@@ -63,18 +63,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Corazon Valiente",
-                "url": "http://vedo.wvdbozpfc.com/vod/44B021E29F914D84BA566CBFA0AB4103_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
-                "type": "PELICULA",
-                "descripcion": "Irena Sendler es una valiente empleada del Departamento de Bienestar Social de Varsovia que, durante la Segunda Guerra Mundial, trata de ayudar a los niños judíos del gueto de Varsovia a escapar de un trágico destino en los campos de exterminio nazis.",
-                "anio": "2009",
-                "duracion": "115 min",
-                "genero": "Drama, Bélica",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3pJ2BuyO8HpKFdVshE3rNkBlf4f.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La Partida de go",
                 "url": "http://vedo.wvdbozpfc.com/vod/FC72610395A542188A76F97BE13D9D5D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
@@ -85,6 +73,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
+            },
+            {
+                "name": "Corazon Valiente",
+                "url": "http://vedo.wvdbozpfc.com/vod/44B021E29F914D84BA566CBFA0AB4103_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
+                "type": "PELICULA",
+                "descripcion": "Irena Sendler es una valiente empleada del Departamento de Bienestar Social de Varsovia que, durante la Segunda Guerra Mundial, trata de ayudar a los niños judíos del gueto de Varsovia a escapar de un trágico destino en los campos de exterminio nazis.",
+                "anio": "2009",
+                "duracion": "115 min",
+                "genero": "Drama, Bélica",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3pJ2BuyO8HpKFdVshE3rNkBlf4f.jpg",
+                "iconpng": ""
             },
             {
                 "name": "sneaks: un par con suerte",

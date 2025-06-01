@@ -255,18 +255,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Plankton, la película",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
-                "type": "PELICULA",
-                "descripcion": "La complicada historia de amor de Plankton con su esposa computarizada Karen se complica cuando ella decide destruir el mundo sin él.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Animación, Aventura, Comedia, Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/33g8BPIyp1aF9DcXUmWqtwlXwYA.png"
-            },
-            {
                 "name": "Hombre lobo",
                 "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
@@ -277,6 +265,18 @@
                 "genero": "Acción, Fantasía, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
+            },
+            {
+                "name": "Plankton, la película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
+                "type": "PELICULA",
+                "descripcion": "La complicada historia de amor de Plankton con su esposa computarizada Karen se complica cuando ella decide destruir el mundo sin él.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Animación, Aventura, Comedia, Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/33g8BPIyp1aF9DcXUmWqtwlXwYA.png"
             },
             {
                 "name": "Holland",

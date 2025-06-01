@@ -171,18 +171,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
             },
             {
-                "name": "Enfrentando la Oscuridad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
-            },
-            {
                 "name": "Freaky Tales",
                 "url": "http://vedo.wvdbozpfc.com/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
@@ -193,6 +181,18 @@
                 "genero": "Acción, Comedia, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
+            },
+            {
+                "name": "Enfrentando la Oscuridad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
                 "name": "Saint Catherine",

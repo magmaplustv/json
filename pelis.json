@@ -171,18 +171,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
             },
             {
-                "name": "Meet the Khumalos",
-                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "92 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
-            },
-            {
                 "name": "Cónclave",
                 "url": "http://vedo.wvdbozpfc.com/vod/A7A3541D6B83462B8BD6D6C712ACA436_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jkOgeASTlWwyKLBNblHVwWmAKhD.jpg",
@@ -193,6 +181,18 @@
                 "genero": "Drama, Suspense, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vqTH4hlT04ZNmGBQ3hLMT8OjFEd.png"
+            },
+            {
+                "name": "Meet the Khumalos",
+                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "92 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
             },
             {
                 "name": "Sin oxígeno",

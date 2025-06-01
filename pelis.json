@@ -147,18 +147,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9dfVycyRBDKbziaavcJJl5nkHPt.png"
             },
             {
-                "name": "Nuestro Papa",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79A50F8450F541C28FC41AB3263B3370_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kBCtNvOwyN1GzruK0qm9co2dN3l.jpg",
-                "type": "PELICULA",
-                "descripcion": "Para preparar el papel del hombre que se convertiría en el Papa Francisco, un actor viaja de Génova a Roma siguiendo los orígenes del líder religioso.",
-                "anio": "2019",
-                "duracion": "",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5cIJw8OYJqK1vdP31vaWMDHti9b.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Terrifier 3",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E195F76CE062437F99AD707937A023A7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
@@ -169,6 +157,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
+            },
+            {
+                "name": "Nuestro Papa",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/79A50F8450F541C28FC41AB3263B3370_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kBCtNvOwyN1GzruK0qm9co2dN3l.jpg",
+                "type": "PELICULA",
+                "descripcion": "Para preparar el papel del hombre que se convertiría en el Papa Francisco, un actor viaja de Génova a Roma siguiendo los orígenes del líder religioso.",
+                "anio": "2019",
+                "duracion": "",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5cIJw8OYJqK1vdP31vaWMDHti9b.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Cónclave",

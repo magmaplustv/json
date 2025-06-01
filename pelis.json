@@ -51,18 +51,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/p4boVMYV5qWQmMz4datK8Q0otVl.png"
             },
             {
-                "name": "La Partida de go",
-                "url": "http://vedo.wvdbozpfc.com/vod/FC72610395A542188A76F97BE13D9D5D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Es la historia de dos legendarios jugadores de Go, Cho Hun-hyun y su protegido y futuro rival Lee Chang-ho.",
-                "anio": "2025",
-                "duracion": "115 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
-            },
-            {
                 "name": "Troya",
                 "url": "http://vedo.wvdbozpfc.com/vod/11023B4F4E0148CBA277A05D2A66490E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
@@ -73,6 +61,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "La Partida de go",
+                "url": "http://vedo.wvdbozpfc.com/vod/FC72610395A542188A76F97BE13D9D5D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Es la historia de dos legendarios jugadores de Go, Cho Hun-hyun y su protegido y futuro rival Lee Chang-ho.",
+                "anio": "2025",
+                "duracion": "115 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
             },
             {
                 "name": "Corazon Valiente",

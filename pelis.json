@@ -3,18 +3,6 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
-                "name": "Bohemian Rhapsody: la historia de Freddie Mercury",
-                "url": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Londres, 1970. El joven Farrokh (al que sus amigos llaman Freddie) vive en Londres, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Los otros miembros de Smile se llaman Brian May y Roger Taylor.",
-                "anio": "2018",
-                "duracion": "134 min",
-                "genero": "Música, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
-            },
-            {
                 "name": "Elvis",
                 "url": "http://vedo.wvdbozpfc.com/vod/76973BBD069F4573BD23D3A8AD1CBBD8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z4miRBGEqhkIkUr0ausHLfUytgq.jpg",
@@ -25,6 +13,18 @@
                 "genero": "Drama, Música, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9M9tEwZPDTxSNM3ptldnKNYatEI.png"
+            },
+            {
+                "name": "Bohemian Rhapsody: la historia de Freddie Mercury",
+                "url": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Londres, 1970. El joven Farrokh (al que sus amigos llaman Freddie) vive en Londres, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Los otros miembros de Smile se llaman Brian May y Roger Taylor.",
+                "anio": "2018",
+                "duracion": "134 min",
+                "genero": "Música, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
             },
             {
                 "name": "El Irlandés",

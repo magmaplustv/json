@@ -332,18 +332,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Nahual",
-                "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Nahual como entidad audiovisual y saber ancestral es un centralizador rítmico que provee la danza, el trance y el ritual. Entidad iniciática e inicial que, como los saberes ancestrales, no es analizable ni deconstruible y, por ello, es inicial e iniciático, parte enhebrante de las imágenes y los sonidos, que precipita el ritual, las alianzas, la liturgia y la danza.",
-                "anio": "2024",
-                "duracion": "15 min",
-                "genero": "Documental",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La Leyenda de Ochi",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
@@ -354,6 +342,18 @@
                 "genero": "Fantasía, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
+            },
+            {
+                "name": "Nahual",
+                "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Nahual como entidad audiovisual y saber ancestral es un centralizador rítmico que provee la danza, el trance y el ritual. Entidad iniciática e inicial que, como los saberes ancestrales, no es analizable ni deconstruible y, por ello, es inicial e iniciático, parte enhebrante de las imágenes y los sonidos, que precipita el ritual, las alianzas, la liturgia y la danza.",
+                "anio": "2024",
+                "duracion": "15 min",
+                "genero": "Documental",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Peter Pan: Pesadilla en Nunca Jamás",

@@ -99,18 +99,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
             },
             {
-                "name": "Blancanieves",
-                "url": "http://vedo.wvdbozpfc.com/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
-                "anio": "2025",
-                "duracion": "99 min",
-                "genero": "Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lN9xTlEZhDuuu4WprTO4v2Ue3e0.png"
-            },
-            {
                 "name": "Peter Pan: Pesadilla en Nunca Jamás",
                 "url": "http://vedo.wvdbozpfc.com/vod/A89597751934494CAB184720392A46FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xUCTmmXJFF08WjYVuwqyJsBnEgE.jpg",
@@ -121,6 +109,18 @@
                 "genero": "Terror, Suspense, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4PuBmnWzem630v43SNq8Mg42qum.png"
+            },
+            {
+                "name": "Blancanieves",
+                "url": "http://vedo.wvdbozpfc.com/vod/32950875C05746B383D5F9EE7E2BC8BD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
+                "anio": "2025",
+                "duracion": "99 min",
+                "genero": "Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lN9xTlEZhDuuu4WprTO4v2Ue3e0.png"
             },
             {
                 "name": "Una película de Minecraft",

@@ -15,18 +15,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Los Pecadores",
-                "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
-                "anio": "2025",
-                "duracion": "138 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
-            },
-            {
                 "name": "Destino final: Lazos de sangre",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
@@ -37,6 +25,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
+            },
+            {
+                "name": "Los Pecadores",
+                "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+                "anio": "2025",
+                "duracion": "138 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
                 "name": "La Confesión",

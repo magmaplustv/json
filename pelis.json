@@ -387,18 +387,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
             },
             {
-                "name": "Revelación",
-                "url": "http://vedo.wvdbozpfc.com/vod/2161BA4D508F43A2997E3095398D4AD8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un pastor que cree en las revelaciones divinas y un detective atormentado por las visiones investigan el caso de una persona desaparecida, que saca a la luz sus propios demonios.",
-                "anio": "2025",
-                "duracion": "122 min",
-                "genero": "Suspense, Crimen, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
-            },
-            {
                 "name": "Rescate Implacable",
                 "url": "http://vedo.wvdbozpfc.com/vod/26A4DD2F5EF54F1980600CBA1A279F75_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
@@ -409,6 +397,18 @@
                 "genero": "Acción, Crimen, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
+            },
+            {
+                "name": "Revelación",
+                "url": "http://vedo.wvdbozpfc.com/vod/2161BA4D508F43A2997E3095398D4AD8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un pastor que cree en las revelaciones divinas y un detective atormentado por las visiones investigan el caso de una persona desaparecida, que saca a la luz sus propios demonios.",
+                "anio": "2025",
+                "duracion": "122 min",
+                "genero": "Suspense, Crimen, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
             },
             {
                 "name": "Giro final",

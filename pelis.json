@@ -315,18 +315,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dj6tid46szdkoChXrkaanqDb63k.png"
             },
             {
-                "name": "La acompañante",
-                "url": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
-                "type": "PELICULA",
-                "descripcion": "La muerte de un multimillonario desencadena una serie de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su finca junto al lago.",
-                "anio": "2025",
-                "duracion": "97 min",
-                "genero": "Terror, Ciencia ficción, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
-            },
-            {
                 "name": "Lady Sakura",
                 "url": "http://vedo.wvdbozpfc.com/vod/32760ED1A2464FA7B214527157EE1DCF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg",
@@ -337,6 +325,18 @@
                 "genero": "Comedia, Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kqu54Ln6Nx0ltP6oLba26pGvX55.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "La acompañante",
+                "url": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
+                "type": "PELICULA",
+                "descripcion": "La muerte de un multimillonario desencadena una serie de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su finca junto al lago.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Terror, Ciencia ficción, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
             },
             {
                 "name": "Amor Explosivo",

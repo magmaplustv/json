@@ -27,18 +27,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "La Leyenda de Ochi",
-                "url": "http://vedo.wvdbozpfc.com/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una niña descubre los misterios de la comunicación animal.",
-                "anio": "2025",
-                "duracion": "95 min",
-                "genero": "Fantasía, Aventura, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
-            },
-            {
                 "name": "Los Pecadores",
                 "url": "http://vedo.wvdbozpfc.com/vod/B966C2B7C9574F8598F930A60C012E0F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
@@ -49,6 +37,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
+            },
+            {
+                "name": "La Leyenda de Ochi",
+                "url": "http://vedo.wvdbozpfc.com/vod/64352D98012B471299B3BAD7AE7DAD2F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una niña descubre los misterios de la comunicación animal.",
+                "anio": "2025",
+                "duracion": "95 min",
+                "genero": "Fantasía, Aventura, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
             },
             {
                 "name": "La Confesión",

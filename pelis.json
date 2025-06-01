@@ -219,18 +219,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
             },
             {
-                "name": "Presencia",
-                "url": "http://vedo.wvdbozpfc.com/vod/B32D8FC096254ED182D9D0FEB020783B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wBqQbPhJmxQUFFQPxTlRYRtHgzQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Bruno sueña con reencontrarse con Alma, o con lo que queda de ella.",
-                "anio": "2024",
-                "duracion": "3 min",
-                "genero": "Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eK2I8OuLpLe8WuJfl4yHQmXbCwC.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Y2K",
                 "url": "http://vedo.wvdbozpfc.com/vod/054B97552DF448F4830FD7A722EF3878_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
@@ -241,6 +229,18 @@
                 "genero": "Comedia, Terror, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aoqJHtjzpbgoujhDO9R88gL3Kmf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eSNpjX0VqwyAPiSBI0FEfsG6CQy.png"
+            },
+            {
+                "name": "Presencia",
+                "url": "http://vedo.wvdbozpfc.com/vod/B32D8FC096254ED182D9D0FEB020783B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wBqQbPhJmxQUFFQPxTlRYRtHgzQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Bruno sueña con reencontrarse con Alma, o con lo que queda de ella.",
+                "anio": "2024",
+                "duracion": "3 min",
+                "genero": "Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eK2I8OuLpLe8WuJfl4yHQmXbCwC.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Corina",

@@ -219,18 +219,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Hombre lobo",
-                "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.",
-                "anio": "2022",
-                "duracion": "55 min",
-                "genero": "Acción, Fantasía, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
-            },
-            {
                 "name": "Presencia",
                 "url": "http://vedo.wvdbozpfc.com/vod/B32D8FC096254ED182D9D0FEB020783B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wBqQbPhJmxQUFFQPxTlRYRtHgzQ.jpg",
@@ -241,6 +229,18 @@
                 "genero": "Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eK2I8OuLpLe8WuJfl4yHQmXbCwC.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Hombre lobo",
+                "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.",
+                "anio": "2022",
+                "duracion": "55 min",
+                "genero": "Acción, Fantasía, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
             },
             {
                 "name": "Y2K",

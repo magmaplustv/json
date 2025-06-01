@@ -63,18 +63,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
             },
             {
-                "name": "Better Man",
-                "url": "http://vedo.wvdbozpfc.com/vod/08B157C527B2466C92CE4866EA8E8E76_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sigue el viaje de Robbie Williams desde la infancia, hasta convertirse en el miembro más joven de la boyband Take That, pasando por sus logros incomparables como artista solista que bate récords, mientras se enfrenta a los desafíos que pueden traer la fama y el éxito estratosféricos.",
-                "anio": "2024",
-                "duracion": "135 min",
-                "genero": "Música, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
-            },
-            {
                 "name": "La Partida de go",
                 "url": "http://vedo.wvdbozpfc.com/vod/FC72610395A542188A76F97BE13D9D5D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
@@ -85,6 +73,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
+            },
+            {
+                "name": "Better Man",
+                "url": "http://vedo.wvdbozpfc.com/vod/08B157C527B2466C92CE4866EA8E8E76_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sigue el viaje de Robbie Williams desde la infancia, hasta convertirse en el miembro más joven de la boyband Take That, pasando por sus logros incomparables como artista solista que bate récords, mientras se enfrenta a los desafíos que pueden traer la fama y el éxito estratosféricos.",
+                "anio": "2024",
+                "duracion": "135 min",
+                "genero": "Música, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
             },
             {
                 "name": "sneaks: un par con suerte",

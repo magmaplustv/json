@@ -291,18 +291,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/68WMl6vWiY6oPIXXQadhrRpWFdg.png"
             },
             {
-                "name": "Vidas de Matrimonio",
-                "url": "http://vedo.wvdbozpfc.com/vod/F056C0211FF2476DB79CE8C8CEE01543_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basada en la novela \"Le Malheur Fou\" de Lucie Faure en torno a las relaciones adúlteras en la clase alta francesa.",
-                "anio": "1976",
-                "duracion": "107 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/20p8BNMxiqgkIFfl6vYc005cPSx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dj6tid46szdkoChXrkaanqDb63k.png"
-            },
-            {
                 "name": "El Maravilloso Mago de Oz",
                 "url": "http://vedo.wvdbozpfc.com/vod/79491A9EB6D24D2089D6530730C826BF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
@@ -313,6 +301,18 @@
                 "genero": "Drama, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7YY2Frx7Fl0pHybebct510Hx1qL.png"
+            },
+            {
+                "name": "Vidas de Matrimonio",
+                "url": "http://vedo.wvdbozpfc.com/vod/F056C0211FF2476DB79CE8C8CEE01543_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basada en la novela \"Le Malheur Fou\" de Lucie Faure en torno a las relaciones adúlteras en la clase alta francesa.",
+                "anio": "1976",
+                "duracion": "107 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/20p8BNMxiqgkIFfl6vYc005cPSx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dj6tid46szdkoChXrkaanqDb63k.png"
             },
             {
                 "name": "La acompañante",

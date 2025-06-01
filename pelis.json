@@ -183,18 +183,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vqTH4hlT04ZNmGBQ3hLMT8OjFEd.png"
             },
             {
-                "name": "Sin oxígeno",
-                "url": "http://vedo.wvdbozpfc.com/vod/92FD0301F283484FB56BB2C34011279A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
-                "type": "PELICULA",
-                "descripcion": "Más de 5.000 escaladores han subido al pico del Monte Everest, pero solo 200 lo han hecho sin oxígeno artificial y muchos de ellos han fallecido en el intento. Rasmus sueña con ser el primer danés en llegar al límite más alto del planeta sin una botella de oxígeno en su espalda. En su primer intento, una violenta tormenta le sorprende y está a punto de costarle la vida. Lo que empezó como un simple reto se acaba convirtiendo en una obsesión que le pondrá a prueba tanto a él como a todos los que le rodean.",
-                "anio": "2021",
-                "duracion": "81 min",
-                "genero": "Documental",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Meet the Khumalos",
                 "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
@@ -205,6 +193,18 @@
                 "genero": "Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
+            },
+            {
+                "name": "Sin oxígeno",
+                "url": "http://vedo.wvdbozpfc.com/vod/92FD0301F283484FB56BB2C34011279A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg",
+                "type": "PELICULA",
+                "descripcion": "Más de 5.000 escaladores han subido al pico del Monte Everest, pero solo 200 lo han hecho sin oxígeno artificial y muchos de ellos han fallecido en el intento. Rasmus sueña con ser el primer danés en llegar al límite más alto del planeta sin una botella de oxígeno en su espalda. En su primer intento, una violenta tormenta le sorprende y está a punto de costarle la vida. Lo que empezó como un simple reto se acaba convirtiendo en una obsesión que le pondrá a prueba tanto a él como a todos los que le rodean.",
+                "anio": "2021",
+                "duracion": "81 min",
+                "genero": "Documental",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Sujo",

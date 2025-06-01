@@ -303,18 +303,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/7YY2Frx7Fl0pHybebct510Hx1qL.png"
             },
             {
-                "name": "Vidas de Matrimonio",
-                "url": "http://vedo.wvdbozpfc.com/vod/F056C0211FF2476DB79CE8C8CEE01543_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basada en la novela \"Le Malheur Fou\" de Lucie Faure en torno a las relaciones adúlteras en la clase alta francesa.",
-                "anio": "1976",
-                "duracion": "107 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/20p8BNMxiqgkIFfl6vYc005cPSx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dj6tid46szdkoChXrkaanqDb63k.png"
-            },
-            {
                 "name": "La acompañante",
                 "url": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
@@ -325,6 +313,18 @@
                 "genero": "Terror, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
+            },
+            {
+                "name": "Vidas de Matrimonio",
+                "url": "http://vedo.wvdbozpfc.com/vod/F056C0211FF2476DB79CE8C8CEE01543_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basada en la novela \"Le Malheur Fou\" de Lucie Faure en torno a las relaciones adúlteras en la clase alta francesa.",
+                "anio": "1976",
+                "duracion": "107 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/20p8BNMxiqgkIFfl6vYc005cPSx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dj6tid46szdkoChXrkaanqDb63k.png"
             },
             {
                 "name": "Lady Sakura",

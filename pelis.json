@@ -1146,18 +1146,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eia1F1rlsJrmJJ2D6VQirDVAn0Z.png"
             },
             {
-                "name": "Biónica",
-                "url": "http://vedo.wvdbozpfc.com/vod/C93DE0DF9C0941C3917653D008E0D074_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/byQJb7SyIaLsoMUCdBbnANAPLfI.jpg",
-                "type": "PELICULA",
-                "descripcion": "Emma, una joven cuadripléjica, contrata los servicios de la Clínica Biónica, institución presidida por el Dr. Wuntz que por primera vez está autorizada por el estado para realizar un tratamiento que consiste en matar a Emma, separar la cabeza y llevarla a un cuarto de reposo donde la cabeza tomará consciencia mientras dure el tratamiento, y llevar el cuerpo a un quirófano donde a través de implantes se procederá a la recuperación total del mismo y a la instalación de talentos especiales que Emma compró. Pero el Dr. Wuntz quiere ir un paso más lejos y arriesga todo el proceso.",
-                "anio": "2025",
-                "duracion": "82 min",
-                "genero": "Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f5pjam70aNueL1GILXJqy2Zp9BX.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Un crimen argentino",
                 "url": "http://vedo.wvdbozpfc.com/vod/B89482EAABD94D28BF877F8D4DF660EC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
@@ -1168,6 +1156,18 @@
                 "genero": "Suspense, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aMBCjbwCw51ino91kmS7VbmxbAl.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5gmeXeZ9LcM90cnzUBka7D9DYVn.png"
+            },
+            {
+                "name": "Biónica",
+                "url": "http://vedo.wvdbozpfc.com/vod/C93DE0DF9C0941C3917653D008E0D074_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/byQJb7SyIaLsoMUCdBbnANAPLfI.jpg",
+                "type": "PELICULA",
+                "descripcion": "Emma, una joven cuadripléjica, contrata los servicios de la Clínica Biónica, institución presidida por el Dr. Wuntz que por primera vez está autorizada por el estado para realizar un tratamiento que consiste en matar a Emma, separar la cabeza y llevarla a un cuarto de reposo donde la cabeza tomará consciencia mientras dure el tratamiento, y llevar el cuerpo a un quirófano donde a través de implantes se procederá a la recuperación total del mismo y a la instalación de talentos especiales que Emma compró. Pero el Dr. Wuntz quiere ir un paso más lejos y arriesga todo el proceso.",
+                "anio": "2025",
+                "duracion": "82 min",
+                "genero": "Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f5pjam70aNueL1GILXJqy2Zp9BX.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Buenas noches",

@@ -8075,18 +8075,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Paranormal Movie",
-                "url": "http://vedo.wvdbozpfc.com/vod/ACC126D059574AD8B9B7C54B4F41E934_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una joven pareja, Malcolm (Marlon Wayans) y Kisha (Essence Atkins), se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio.  Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
-                "anio": "2013",
-                "duracion": "95 min",
-                "genero": "Comedia, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/CZiD27RwiE3urSTWT522bC8IY0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/meA3pQutrBiqWXuAovbArl1dgar.png"
-            },
-            {
                 "name": "Cassino in Ischia",
                 "url": "http://vedo.wvdbozpfc.com/vod/9BDE940E62EA49609991B296871E7A6A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3HNFnLe9DcDt3ZcytxOXzeToEvQ.jpg",
@@ -8097,6 +8085,18 @@
                 "genero": "Comedia, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rnsEwhRCJpWtEM1m5akd29Z9pvf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rtbXoNRpkqgzzAnZV0c1YbsQkmG.png"
+            },
+            {
+                "name": "Paranormal Movie",
+                "url": "http://vedo.wvdbozpfc.com/vod/ACC126D059574AD8B9B7C54B4F41E934_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una joven pareja, Malcolm (Marlon Wayans) y Kisha (Essence Atkins), se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio.  Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
+                "anio": "2013",
+                "duracion": "95 min",
+                "genero": "Comedia, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/CZiD27RwiE3urSTWT522bC8IY0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/meA3pQutrBiqWXuAovbArl1dgar.png"
             },
             {
                 "name": "Espías",

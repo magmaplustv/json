@@ -2446,18 +2446,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dYvdW8Wfy52iADXKXFiY941V2fJ.png"
             },
             {
-                "name": "Kraven the Hunter",
-                "url": "http://vedo.wvdbozpfc.com/vod/F5FC730263094D58A2F3AAD03664E908_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
-                "anio": "2024",
-                "duracion": "126 min",
-                "genero": "Acción, Aventura, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png"
-            },
-            {
                 "name": "Mi amigo el pingüino",
                 "url": "http://vedo.wvdbozpfc.com/vod/1381378981154215826C673D5BFDA73C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",
@@ -2468,6 +2456,18 @@
                 "genero": "Familia, Aventura, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jMH6VkqkUdBPPIiTmOv2VpmrH2L.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/e825QNuaemRJYjM4kFYRWNduBYU.png"
+            },
+            {
+                "name": "Kraven the Hunter",
+                "url": "http://vedo.wvdbozpfc.com/vod/F5FC730263094D58A2F3AAD03664E908_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ytmJ11n9gm34D1v56myjTxMaEDJ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Kraven, un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff, le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
+                "anio": "2024",
+                "duracion": "126 min",
+                "genero": "Acción, Aventura, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png"
             },
             {
                 "name": "No entres",

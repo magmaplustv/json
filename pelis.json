@@ -4511,18 +4511,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hB1HYQXWy0JFOFXAVOIJMu1W6wc.png"
             },
             {
-                "name": "Batman vs Superman: El amanecer de la justicia",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164646.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
-                "type": "PELICULA",
-                "descripcion": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
-                "anio": "2016",
-                "duracion": "153 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
-            },
-            {
                 "name": "Los mercenarios",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164717.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
@@ -4533,6 +4521,18 @@
                 "genero": "",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Batman vs Superman: El amanecer de la justicia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164646.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+                "type": "PELICULA",
+                "descripcion": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
+                "anio": "2016",
+                "duracion": "153 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
             },
             {
                 "name": "Malos Hombres",

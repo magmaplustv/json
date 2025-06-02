@@ -2314,18 +2314,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/r9SsXx4ZQC7n0uWHiFinNTbp5jB.svg"
             },
             {
-                "name": "Nos vemos la próxima Navidad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
-                "anio": "2024",
-                "duracion": "105 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
-            },
-            {
                 "name": "La Trampa",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3F13A5256A148B2AFE453FB6E571EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
@@ -2336,6 +2324,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Ldp4JHqZ2zjCKCKkofsZXX30tQ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
+                "anio": "2024",
+                "duracion": "105 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
             },
             {
                 "name": "GTMAX",

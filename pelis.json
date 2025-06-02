@@ -6329,18 +6329,6 @@
         "name": "⭐️⭐️Romance⭐️⭐️",
         "samples": [
             {
-                "name": "Las Cuatro Estaciones",
-                "url": "http://vedo.wvdbozpfc.com/vod/187D2D7B9A7344FBB313C733139AA101_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tres matrimonios llevan años disfrutando juntos los fines de semana y las vacaciones. Cuando uno de los hombres abandona a su esposa por una chica joven y atractiva, la incorpora al grupo y salen a la luz las tensiones entre las tres parejas. (FILMAFFINITY)",
-                "anio": "1981",
-                "duracion": "107 min",
-                "genero": "Comedia, Drama, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zHT9SYhezDVOXHsRftdqq7PjrTh.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Almas marcadas: Rule + Shaw",
                 "url": "http://vedo.wvdbozpfc.com/vod/E9763FD648DF4AF386133FF4F9222401_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4ysqouX8YOb6aHIeTWTuCARB5mS.jpg",
@@ -6351,6 +6339,18 @@
                 "genero": "Romance, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2GcS0tYWvN7R0ON33RfRTDYVmVT.png"
+            },
+            {
+                "name": "Las Cuatro Estaciones",
+                "url": "http://vedo.wvdbozpfc.com/vod/187D2D7B9A7344FBB313C733139AA101_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tres matrimonios llevan años disfrutando juntos los fines de semana y las vacaciones. Cuando uno de los hombres abandona a su esposa por una chica joven y atractiva, la incorpora al grupo y salen a la luz las tensiones entre las tres parejas. (FILMAFFINITY)",
+                "anio": "1981",
+                "duracion": "107 min",
+                "genero": "Comedia, Drama, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zHT9SYhezDVOXHsRftdqq7PjrTh.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Umjolo: Sin cura alguna",

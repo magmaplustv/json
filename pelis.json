@@ -9237,6 +9237,18 @@
                 "genero": "Comedia, Romance",
                 "duracion": "110 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Demasiado mayor para cuentos de hadas 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405762.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ndTzO9h8WoRTzwl4gu3isEJtONZ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aXvPIT3m1kyfRr1rvY02bWEyDHl.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8RG82jFNiH7RNnNEsEBHNFUFHPX.png",
+                "descripcion": "Tu trío de jugadores favorito ha vuelto. Pasarán un verano lleno de aventuras en los montes Tatra. Durante el viaje, Waldek descubre que su padre, la persona que abandonó a su familia hace mucho tiempo, vive cerca.",
+                "anio": "2024",
+                "genero": "Familia, Comedia",
+                "duracion": "97 min",
+                "type": "PELICULA"
             }
         ]
     }

@@ -1638,18 +1638,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/k8ZRKvVjVfOnhAddEddH7QTzvpn.png"
             },
             {
-                "name": "El patrón, radiografía de un crimen",
-                "url": "http://vedo.wvdbozpfc.com/vod/08A8F82E345A49BFB233434F8141CA1B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/tqM5b356wYON9VcIKUTOONRUL7P.jpg",
-                "type": "PELICULA",
-                "descripcion": "El patrón, radiografía de un crimen, se enfoca en un hecho criminal real sobre un hombre rural que llega a Buenos Aires en busca de trabajo y termina explotado por un siniestro patrón que lo obliga a vender carne podrida y que lo somete a una verdadera esclavitud, en el corazón de la Ciudad de Buenos Aires y en el siglo XXI.",
-                "anio": "2014",
-                "duracion": "99 min",
-                "genero": "Drama, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ptISaxb6sZ5Jvt2r7An9hBbejQk.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Familia rodante",
                 "url": "http://vedo.wvdbozpfc.com/vod/517FC5DD0DE74C75857CF129D08D0F14_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/p6vTD1Ctbz79TKkUwk8RSBzZk8A.jpg",
@@ -1659,6 +1647,18 @@
                 "duracion": "98 min",
                 "genero": "Drama, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/poEwy5vjsbBHvUTWtwgYfUy5YCY.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "El patrón, radiografía de un crimen",
+                "url": "http://vedo.wvdbozpfc.com/vod/08A8F82E345A49BFB233434F8141CA1B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tqM5b356wYON9VcIKUTOONRUL7P.jpg",
+                "type": "PELICULA",
+                "descripcion": "El patrón, radiografía de un crimen, se enfoca en un hecho criminal real sobre un hombre rural que llega a Buenos Aires en busca de trabajo y termina explotado por un siniestro patrón que lo obliga a vender carne podrida y que lo somete a una verdadera esclavitud, en el corazón de la Ciudad de Buenos Aires y en el siglo XXI.",
+                "anio": "2014",
+                "duracion": "99 min",
+                "genero": "Drama, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ptISaxb6sZ5Jvt2r7An9hBbejQk.jpg",
                 "iconpng": ""
             },
             {

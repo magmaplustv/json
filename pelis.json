@@ -4762,18 +4762,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Agencia Secreta de Control Mágico",
-                "url": "http://vedo.wvdbozpfc.com/vod/F330556050534827953C47A6D1DDEF4C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg",
-                "type": "PELICULA",
-                "descripcion": "La Agencia del Control de Magia envía a sus dos mejores agentes, Hansel y Gretel, a luchar contra la bruja de la Casa del Pan de Jengibre.",
-                "anio": "2021",
-                "duracion": "104 min",
-                "genero": "Animación, Comedia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png"
-            },
-            {
                 "name": "Ben 10: La destrucción de los aliens",
                 "url": "http://vedo.wvdbozpfc.com/vod/B39DE01DC135441196E8E345D7998D4C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
@@ -4784,6 +4772,18 @@
                 "genero": "Animación, Ciencia ficción, Familia, Acción, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cSMMrcFXHsnieG78TXOZwUx5GFa.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5IzTK9v4udlCjfpSVoi7D3UXGzB.png"
+            },
+            {
+                "name": "Agencia Secreta de Control Mágico",
+                "url": "http://vedo.wvdbozpfc.com/vod/F330556050534827953C47A6D1DDEF4C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg",
+                "type": "PELICULA",
+                "descripcion": "La Agencia del Control de Magia envía a sus dos mejores agentes, Hansel y Gretel, a luchar contra la bruja de la Casa del Pan de Jengibre.",
+                "anio": "2021",
+                "duracion": "104 min",
+                "genero": "Animación, Comedia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png"
             },
             {
                 "name": "Batman: El regreso de los cruzados enmascarados",

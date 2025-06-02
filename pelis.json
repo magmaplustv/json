@@ -7590,18 +7590,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Ellas en la ciudad",
-                "url": "",
-                "icono": "https://image.tmdb.org/t/p/original/2eLpNCDlF6D5dQ8WvA8entac1JV.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/liRkTNLa5JYtwxA8ca7M9kSeg6s.jpg",
-                "iconpng": "",
-                "descripcion": "Documental centrado en una generación de mujeres, las primeras pobladoras de los barrios de la periferia. A través de las historias sobre sus vidas cotidianas en cinco barrios de Sevilla, descubrimos cómo ellas son el sostén de una ciudad que les da la espalda.",
-                "anio": "2025",
-                "genero": "Documental",
-                "duracion": "70 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Queen: Live at Wembley Stadium",
                 "url": "http://vedo.wvdbozpfc.com/vod/4E9AE26169A74A65B1405080B77164C0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/he2VSGKspGL4iSFe0ggGMcvYlQh.jpg",
@@ -7612,6 +7600,18 @@
                 "genero": "Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJDayBMfh3EnM4EARGceGnS0ppv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/i3ZCQjH3bUzQPkwo8DQHhlGRxL8.png"
+            },
+            {
+                "name": "Ellas en la ciudad",
+                "url": "",
+                "icono": "https://image.tmdb.org/t/p/original/2eLpNCDlF6D5dQ8WvA8entac1JV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/liRkTNLa5JYtwxA8ca7M9kSeg6s.jpg",
+                "iconpng": "",
+                "descripcion": "Documental centrado en una generación de mujeres, las primeras pobladoras de los barrios de la periferia. A través de las historias sobre sus vidas cotidianas en cinco barrios de Sevilla, descubrimos cómo ellas son el sostén de una ciudad que les da la espalda.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "70 min",
+                "type": "PELICULA"
             },
             {
                 "name": "The Quilters",

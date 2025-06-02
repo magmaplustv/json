@@ -6108,18 +6108,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dEs00O093iopwlATaubuCAidkzu.png"
             },
             {
-                "name": "Alone",
-                "url": "http://vedo.wvdbozpfc.com/vod/7A42FC5B2A7347538D9689AABEA1EC82_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lkXD1W3pC64KXfZjHhHydd7DvNy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando ocurre un brote, Aidan se atrinchera dentro de su apartamento y comienza a racionar la comida. Su complejo está invadido por Screamers infectados, y con el mundo cayendo a pedazos en el caos, se queda completamente solo luchando por su vida.",
-                "anio": "2020",
-                "duracion": "92 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/E4LyJkTj66ourla5lD3Oal9imh.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/S883mlhutIjUanxRiC8NC9lVj6.png"
-            },
-            {
                 "name": "Así en la Tierra como en el Infierno",
                 "url": "http://vedo.wvdbozpfc.com/vod/5B4A865DB86548B39AC51155A322DF3A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg",
@@ -6130,6 +6118,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/xCjkQS9cDc9X1wN3K6k2C04Evsu.png"
+            },
+            {
+                "name": "Alone",
+                "url": "http://vedo.wvdbozpfc.com/vod/7A42FC5B2A7347538D9689AABEA1EC82_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lkXD1W3pC64KXfZjHhHydd7DvNy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando ocurre un brote, Aidan se atrinchera dentro de su apartamento y comienza a racionar la comida. Su complejo está invadido por Screamers infectados, y con el mundo cayendo a pedazos en el caos, se queda completamente solo luchando por su vida.",
+                "anio": "2020",
+                "duracion": "92 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/E4LyJkTj66ourla5lD3Oal9imh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/S883mlhutIjUanxRiC8NC9lVj6.png"
             },
             {
                 "name": "El ritual",

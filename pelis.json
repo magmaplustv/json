@@ -4175,18 +4175,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/e4dOUF9wnKgRGglTsozEPOee9U4.png"
             },
             {
-                "name": "Altered Carbon: Reenfundados",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164225.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fMeFA5Jy8NvuuvnYmYywRsM62ca.jpg",
-                "type": "PELICULA",
-                "descripcion": "El spin-off, ambientado en el universo de Altered Carbon, en el que gracias a unas baterías implantadas en la nuca, se pueden archivar la memoria y la personalidad, haciendo posible el cambiar a nuevos cuerpos, conocidos como fundas. Esta vez, nos traslada al planeta Latimer. Takeshi Kovacs tiene una nueva misión como parte de los comandos: proteger a una tatuadora de los miembros de la yakuza. Al mismo tiempo, trata de investigar la misteriosa muerte de uno de los jefes de la organización criminal japonesa. Para acompañarle en su misión, tiene a su lado como compañera a una Comando bastante pragmática.",
-                "anio": "2020",
-                "duracion": "74 min",
-                "genero": "Animación, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mluxnTYUSTRh7GtpZmkGAh9L6zQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/m8Cp9iqsJQyy1WAALU4waOkSXxs.png"
-            },
-            {
                 "name": "Desierto rojo",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164249.avi",
                 "icono": "https://image.tmdb.org/t/p/original/l5uz9zk9LEW8ddcHPUIj6BZlmlh.jpg",
@@ -4197,6 +4185,18 @@
                 "genero": "Acción, Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/y55f32u1Ow8SA6ipvc90qJtAbti.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Altered Carbon: Reenfundados",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164225.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fMeFA5Jy8NvuuvnYmYywRsM62ca.jpg",
+                "type": "PELICULA",
+                "descripcion": "El spin-off, ambientado en el universo de Altered Carbon, en el que gracias a unas baterías implantadas en la nuca, se pueden archivar la memoria y la personalidad, haciendo posible el cambiar a nuevos cuerpos, conocidos como fundas. Esta vez, nos traslada al planeta Latimer. Takeshi Kovacs tiene una nueva misión como parte de los comandos: proteger a una tatuadora de los miembros de la yakuza. Al mismo tiempo, trata de investigar la misteriosa muerte de uno de los jefes de la organización criminal japonesa. Para acompañarle en su misión, tiene a su lado como compañera a una Comando bastante pragmática.",
+                "anio": "2020",
+                "duracion": "74 min",
+                "genero": "Animación, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mluxnTYUSTRh7GtpZmkGAh9L6zQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/m8Cp9iqsJQyy1WAALU4waOkSXxs.png"
             },
             {
                 "name": "El rey Mono 2",

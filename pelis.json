@@ -1278,18 +1278,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/72SsTpq6Ud35N6fR2P4MtnzE86f.png"
             },
             {
-                "name": "Pizza, birra, faso",
-                "url": "http://vedo.wvdbozpfc.com/vod/499DB343B3C64F75864C22172A629AF0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gJEpEp0oE7osryIExZgCtyiUtJb.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuatro amigos. Una ciudad. Una única salida... El Cordobés vive con sus tres amigos y su mujer embarazada, Sandra, en la misma casa. Los cuatro forman una banda de adolescentes marginales, que pulula por las calles de Buenos Aires, y vive del robo, pero no actúan por cuenta propia, siempre cumplen órdenes de alguien que les quita la mayor parte del botín. La filosofía de vida del Cordobés y los suyos consiste en que mientras no les falte cerveza, pizza y cigarrillos, todo es soportable.",
-                "anio": "1998",
-                "duracion": "92 min",
-                "genero": "Drama, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iiSC8rVjkHJw0UmpEMq70xPVQ8H.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Al acecho",
                 "url": "http://vedo.wvdbozpfc.com/vod/196D22CB3C9740F39B29BE0EBD340717_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/q8wmyxwvDIGjpJMAfuIikuT0B4R.jpg",
@@ -1299,6 +1287,18 @@
                 "duracion": "88 min",
                 "genero": "Crimen",
                 "iconoHorizontal": "",
+                "iconpng": ""
+            },
+            {
+                "name": "Pizza, birra, faso",
+                "url": "http://vedo.wvdbozpfc.com/vod/499DB343B3C64F75864C22172A629AF0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gJEpEp0oE7osryIExZgCtyiUtJb.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuatro amigos. Una ciudad. Una única salida... El Cordobés vive con sus tres amigos y su mujer embarazada, Sandra, en la misma casa. Los cuatro forman una banda de adolescentes marginales, que pulula por las calles de Buenos Aires, y vive del robo, pero no actúan por cuenta propia, siempre cumplen órdenes de alguien que les quita la mayor parte del botín. La filosofía de vida del Cordobés y los suyos consiste en que mientras no les falte cerveza, pizza y cigarrillos, todo es soportable.",
+                "anio": "1998",
+                "duracion": "92 min",
+                "genero": "Drama, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iiSC8rVjkHJw0UmpEMq70xPVQ8H.jpg",
                 "iconpng": ""
             },
             {

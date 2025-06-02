@@ -344,18 +344,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Enfrentando la Oscuridad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
-            },
-            {
                 "name": "El Rey de Reyes",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
@@ -366,6 +354,18 @@
                 "genero": "Familia, Fantasía, Drama, Animación",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Enfrentando la Oscuridad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
                 "name": "El Mono",

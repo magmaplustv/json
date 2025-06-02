@@ -6144,18 +6144,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xCjkQS9cDc9X1wN3K6k2C04Evsu.png"
             },
             {
-                "name": "El ritual",
-                "url": "http://vedo.wvdbozpfc.com/vod/A34005DE90DB4A619B8C129635ED4171_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2023",
-                "duracion": "4 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Saw",
                 "url": "http://vedo.wvdbozpfc.com/vod/9D92C55867284B5CBB9A63E0421F256B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg",
@@ -6166,6 +6154,18 @@
                 "genero": "Terror, Misterio, Crimen",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El ritual",
+                "url": "http://vedo.wvdbozpfc.com/vod/A34005DE90DB4A619B8C129635ED4171_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2023",
+                "duracion": "4 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "El proyecto de la bruja de Blair",

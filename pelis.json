@@ -3128,18 +3128,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8z9AengHCrn6K53xuw8dkZT9PKX.png"
             },
             {
-                "name": "Chico Bento e a Goiabeira Maraviosa",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Familia, Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Lee Miller",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168698.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kc6vCBHH81zlmYZ4h14U0cx4sux.jpg",
@@ -3150,6 +3138,18 @@
                 "genero": "Historia, Drama, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9SvSJJSgufM76vn9ddB0YMF6lzs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2Gfd9h2SWyDtvwUuZ5WgkCTnico.png"
+            },
+            {
+                "name": "Chico Bento e a Goiabeira Maraviosa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Familia, Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El retorno",

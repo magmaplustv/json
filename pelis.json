@@ -8219,18 +8219,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jeKTbHQ5Ij09f5rArUm4H9KIjSj.png"
             },
             {
-                "name": "Vera y el placer de los otros",
-                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
-                "anio": "2024",
-                "duracion": "104 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Historia y Geografía",
                 "url": "http://vedo.wvdbozpfc.com/vod/EF0C7F3A0E1544868DBF87D658648D4D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nxMV22es0QBIlQPoRfvU1zw1NLB.jpg",
@@ -8241,6 +8229,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/e2czX1KqSI0aelvyCJ9Mv5uKON6.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lvvx4lYnM9h5pCp3qQrU31C5eGH.png"
+            },
+            {
+                "name": "Vera y el placer de los otros",
+                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
+                "anio": "2024",
+                "duracion": "104 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Padre no hay más que uno",

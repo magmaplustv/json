@@ -7124,18 +7124,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vpdawmqaLJhoT3E6ofhK7LmUcsw.png"
             },
             {
-                "name": "Nunca apagues la luz",
-                "url": "http://vedo.wvdbozpfc.com/vod/66B14BE465AB46C88FF5BB3509A302C8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
-                "type": "PELICULA",
-                "descripcion": "Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad. El espíritu de Diana está relacionado con la madre de Rebecca. Ahora que se está convirtiendo en adulta, Diana va a por su hermano pequeño, Martín.",
-                "anio": "2016",
-                "duracion": "90 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tFciXMK1OroUYWscZOmTKMOoCUH.png"
-            },
-            {
                 "name": "Oddity",
                 "url": "http://vedo.wvdbozpfc.com/vod/00AF90199EDA4FE9BA38ED651D6011EC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zGrw785ezgPS43yNxZcD3Xhi8oy.jpg",
@@ -7146,6 +7134,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tzwUife8ExSuHMPC94bqAAcxjEt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2PARZzQ1QKqWTDnfyk4XtvSLG1I.png"
+            },
+            {
+                "name": "Nunca apagues la luz",
+                "url": "http://vedo.wvdbozpfc.com/vod/66B14BE465AB46C88FF5BB3509A302C8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad. El espíritu de Diana está relacionado con la madre de Rebecca. Ahora que se está convirtiendo en adulta, Diana va a por su hermano pequeño, Martín.",
+                "anio": "2016",
+                "duracion": "90 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tFciXMK1OroUYWscZOmTKMOoCUH.png"
             },
             {
                 "name": "El llanto",

@@ -87,18 +87,6 @@
                 "iconpng": ""
             },
             {
-                "name": "¡Qué Huevos, Sofía!",
-                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
-            },
-            {
                 "name": "Enfrentando la Oscuridad",
                 "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
@@ -109,6 +97,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
+            },
+            {
+                "name": "¡Qué Huevos, Sofía!",
+                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
             },
             {
                 "name": "El Mono",

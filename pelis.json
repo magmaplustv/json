@@ -3308,18 +3308,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/gtWBYWukuCg8IqZuFZmlSS2jP6T.png"
             },
             {
-                "name": "O Auto da Compadecida 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "114 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "A Complete Unknown",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/staVor97Wqd8omvgEEXbc7sXJR.jpg",
@@ -3330,6 +3318,18 @@
                 "genero": "Drama, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/azGIR7ORaTZ0jOxNUTdvVqfaawt.png"
+            },
+            {
+                "name": "O Auto da Compadecida 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "114 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
+                "iconpng": ""
             }
         ]
     },

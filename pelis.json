@@ -5175,6 +5175,18 @@
                 "genero": "Acción, Aventura, Animación, Fantasía",
                 "duracion": "135 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Largo Winch: El precio del dinero",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405778.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2inYwcffx6vEZjfWZPqEumt65Xt.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sQbFupSWM9wUdPj96NZNUOFSP5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vi7utKB8SRIZ2SbY166P6LaHK1m.png",
+                "descripcion": "Largo Winch está desolado por el secuestro de su hijo. Se da cuenta de que si encuentra a los responsables de su quiebra, quizá vuelva a ver a su hijo.",
+                "anio": "2024",
+                "genero": "Acción, Aventura, Suspense",
+                "duracion": "100 min",
+                "type": "PELICULA"
             }
         ]
     },

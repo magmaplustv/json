@@ -7208,18 +7208,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ay26YEhdzOG3iEMGQw0xhlGnPAI.png"
             },
             {
-                "name": "Susurros Mortales 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "112 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
-            },
-            {
                 "name": "Cementerio de animales: Los orígenes",
                 "url": "http://vedo.wvdbozpfc.com/vod/4ECD3B57BB324FFB854D222C40056A6F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uBlxtCQa3sFQir0nvEFOMB1ZhoA.jpg",
@@ -7230,6 +7218,18 @@
                 "genero": "Terror, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vsrYscw6M5g1OEPxll9QTy6C9IK.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5KhdkdUtBTD1NP9YezXbpl1BnTY.png"
+            },
+            {
+                "name": "Susurros Mortales 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "112 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
             },
             {
                 "name": "Terrifier",

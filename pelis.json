@@ -3750,18 +3750,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/j7thvBCy6bPQl4gNIt3sMITVurr.png"
             },
             {
-                "name": "Bastion 36",
-                "url": "http://vedo.wvdbozpfc.com/vod/DEC695813EE94112A6D2345B328277C1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando lo expulsan de su unidad, un agente conflictivo investiga, por su cuenta y de forma clandestina, quién es el responsable del misterioso asesinato de sus excompañeros.",
-                "anio": "2025",
-                "duracion": "124 min",
-                "genero": "Acción, Crimen, Drama, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8qXc6OLHoLHBxOFIjsfbZwWDFYH.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/A1q2Rc1YJWsS5w3fO40g1PCs9p2.png"
-            },
-            {
                 "name": "Rebel Ridge",
                 "url": "http://vedo.wvdbozpfc.com/vod/3AC473D003784BDE9CEEFF3A6DFE502B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/pS5ch16PlJe8lhRx1o2U4EaM5Eg.jpg",
@@ -3772,6 +3760,18 @@
                 "genero": "Crimen, Acción, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hkaOa76w0S5zsgjPiomUWzwjyYC.png"
+            },
+            {
+                "name": "Bastion 36",
+                "url": "http://vedo.wvdbozpfc.com/vod/DEC695813EE94112A6D2345B328277C1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando lo expulsan de su unidad, un agente conflictivo investiga, por su cuenta y de forma clandestina, quién es el responsable del misterioso asesinato de sus excompañeros.",
+                "anio": "2025",
+                "duracion": "124 min",
+                "genero": "Acción, Crimen, Drama, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8qXc6OLHoLHBxOFIjsfbZwWDFYH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/A1q2Rc1YJWsS5w3fO40g1PCs9p2.png"
             },
             {
                 "name": "Entre la vida y la muerte",

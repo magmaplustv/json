@@ -2720,6 +2720,12 @@
         "name": "⭐️⭐️Prime Video⭐️⭐️",
         "samples": [
             {
+                "name": "Como una ola en el mar",
+                "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Ataque a la Cabaña",
                 "url": "http://vedo.wvdbozpfc.com/vod/E1A92184866149A0A31B804C311F47DB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6kjkptZc3HGnsLzJvP6sZSBa7DX.jpg",
@@ -2729,12 +2735,6 @@
                 "anio": "2021",
                 "genero": "Acción, Drama, Suspense, Ciencia ficción",
                 "duracion": "100 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Como una ola en el mar",
-                "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
                 "type": "PELICULA"
             },
             {

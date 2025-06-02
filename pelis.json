@@ -3480,12 +3480,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/72SiqX4eemC0dBqSbt6KLAR8gAR.png"
             },
             {
-                "name": "Un matrimonio mortal en Carolina del Norte (2025)",
-                "url": "http://vedo.wvdbozpfc.com/vod/B043756853A14B26BDCF46754A38BD3E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1vclDcrv2kpfh5JudhN3AQJQfbj.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Mala influencia",
                 "url": "http://vedo.wvdbozpfc.com/vod/F7A971261E9444C9B64469C3FB813321_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg",
@@ -3496,6 +3490,12 @@
                 "genero": "Suspense, Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zXUxcXnBPHF1cD0IHi4KUpsNvF4.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9pLluhKIZECy3HUmGh2vH7mRsdK.png"
+            },
+            {
+                "name": "Un matrimonio mortal en Carolina del Norte (2025)",
+                "url": "http://vedo.wvdbozpfc.com/vod/B043756853A14B26BDCF46754A38BD3E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1vclDcrv2kpfh5JudhN3AQJQfbj.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Karol G: Mañana fue muy bonito",

@@ -6449,18 +6449,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8f3NdDxIu8MMdSlczJYgkL7i63P.png"
             },
             {
-                "name": "Una historia de amor en Copenhague",
-                "url": "http://vedo.wvdbozpfc.com/vod/CB869113DC3040DA96C125693204C905_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg",
-                "type": "PELICULA",
-                "descripcion": "Después de hallar el amor en Emil, un padre soltero, Mia, escritora de profesión, se enfrenta junto a él a los desafíos de los tratamientos de fertilidad para tener hijos juntos.",
-                "anio": "2025",
-                "duracion": "105 min",
-                "genero": "Romance, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nmyWvnSgAjoKWupWypT2DI5b5dG.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/A2oAa5vgA68FPloQkV001ssTkhD.png"
-            },
-            {
                 "name": "Rivales",
                 "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
@@ -6471,6 +6459,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Una historia de amor en Copenhague",
+                "url": "http://vedo.wvdbozpfc.com/vod/CB869113DC3040DA96C125693204C905_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg",
+                "type": "PELICULA",
+                "descripcion": "Después de hallar el amor en Emil, un padre soltero, Mia, escritora de profesión, se enfrenta junto a él a los desafíos de los tratamientos de fertilidad para tener hijos juntos.",
+                "anio": "2025",
+                "duracion": "105 min",
+                "genero": "Romance, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nmyWvnSgAjoKWupWypT2DI5b5dG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/A2oAa5vgA68FPloQkV001ssTkhD.png"
             },
             {
                 "name": "La madre del novio",

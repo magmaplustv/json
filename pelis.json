@@ -8027,18 +8027,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/bG7sUPwrASsbATYpcZ77ZO37pzF.png"
             },
             {
-                "name": "Solo en casa",
-                "url": "http://vedo.wvdbozpfc.com/vod/0B338A3B8F15497A9DFFDB79A9A84044_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
-                "type": "PELICULA",
-                "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
-                "anio": "1992",
-                "duracion": "120 min",
-                "genero": "Comedia, Familia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kjby7cr8JnIPkfqMGKutOFrM2at.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ohoC5TdWmkUedRGElebBpYUiuyI.png"
-            },
-            {
                 "name": "El peque se va de marcha",
                 "url": "http://vedo.wvdbozpfc.com/vod/58D9FF1201524647A75282D5535B3AA1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bxGoMGwxXyixPq9nBM5R6WRYElM.jpg",
@@ -8049,6 +8037,18 @@
                 "genero": "Comedia, Aventura, Familia, Crimen, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hq8dZfJEem1SIBCElMAuaJIfl6Q.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2vU7gGhKpTyeuwXc0qHDidERv6s.png"
+            },
+            {
+                "name": "Solo en casa",
+                "url": "http://vedo.wvdbozpfc.com/vod/0B338A3B8F15497A9DFFDB79A9A84044_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
+                "type": "PELICULA",
+                "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
+                "anio": "1992",
+                "duracion": "120 min",
+                "genero": "Comedia, Familia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kjby7cr8JnIPkfqMGKutOFrM2at.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ohoC5TdWmkUedRGElebBpYUiuyI.png"
             },
             {
                 "name": "Un movimiento extraño",

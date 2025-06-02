@@ -4834,18 +4834,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jLJlDUl1yHisrCdwWW7RkYqlLQC.png"
             },
             {
-                "name": "Angry Birds: La película",
-                "url": "http://vedo.wvdbozpfc.com/vod/BF8482E737F9428F8795092C8A96FDC4_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basada en la saga de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.",
-                "anio": "2016",
-                "duracion": "97 min",
-                "genero": "Animación, Aventura, Comedia, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l9jEItb8GRyhZfny92QeqpCeOu.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sJt2yOemHkDP3Gz8Emv8wxh4ejw.png"
-            },
-            {
                 "name": "Astérix y los Vikingos",
                 "url": "http://vedo.wvdbozpfc.com/vod/69208731B23E4D479F4B8B4A4FC3B557_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tuBDjGCBeDq4ypT58yfDMGaPOIb.jpg",
@@ -4856,6 +4844,18 @@
                 "genero": "Familia, Animación, Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ohcDvA5DfIuOrID3ZqsGQNv3AsI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bHHvQTBrXcXkQoIH3Nd2gHtvQtG.png"
+            },
+            {
+                "name": "Angry Birds: La película",
+                "url": "http://vedo.wvdbozpfc.com/vod/BF8482E737F9428F8795092C8A96FDC4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basada en la saga de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.",
+                "anio": "2016",
+                "duracion": "97 min",
+                "genero": "Animación, Aventura, Comedia, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l9jEItb8GRyhZfny92QeqpCeOu.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sJt2yOemHkDP3Gz8Emv8wxh4ejw.png"
             },
             {
                 "name": "Barbie en El campamento de princesas",

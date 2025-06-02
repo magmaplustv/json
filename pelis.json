@@ -2595,18 +2595,6 @@
         "name": "⭐️⭐️Hbo/Max⭐️⭐️",
         "samples": [
             {
-                "name": "Tenet",
-                "url": "http://vedo.wvdbozpfc.com/vod/075A6DDED702407A8CC14DB0BCF9D691_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
-                "anio": "2020",
-                "duracion": "155 min",
-                "genero": "Acción, Suspense, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
-            },
-            {
                 "name": "Supervillanos: la investigación",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
@@ -2617,6 +2605,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
+            },
+            {
+                "name": "Tenet",
+                "url": "http://vedo.wvdbozpfc.com/vod/075A6DDED702407A8CC14DB0BCF9D691_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
+                "anio": "2020",
+                "duracion": "155 min",
+                "genero": "Acción, Suspense, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
             },
             {
                 "name": "Parásitos",

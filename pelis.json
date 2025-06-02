@@ -6377,18 +6377,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xVdAIoMsR1OOcfOCXUYVgLGq5o.png"
             },
             {
-                "name": "Ricos, sin duda",
-                "url": "http://vedo.wvdbozpfc.com/vod/F42348E5FAB0458A9C00DDBED298745F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras ser víctimas de una estafa que les deja una deuda millonaria, dos aspirantes a ingresar en la clase alta crean identidades falsas para timar a gente adinerada.",
-                "anio": "2025",
-                "duracion": "102 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jHbSVuahqx0FVbAhgtf6SUnJ1Vf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iePVUTB8TiPVXqHmJPgkAB2OyLl.png"
-            },
-            {
                 "name": "Corazones rotos",
                 "url": "http://vedo.wvdbozpfc.com/vod/2B49DF47B392410DBBB53162E581445C_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/kRNQstlmMKUetwiSvBXFuppW1i9.jpg",
@@ -6399,6 +6387,18 @@
                 "genero": "Drama, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/44IiC7r6iyN6iTZTw6XDUnTNTro.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Ricos, sin duda",
+                "url": "http://vedo.wvdbozpfc.com/vod/F42348E5FAB0458A9C00DDBED298745F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras ser víctimas de una estafa que les deja una deuda millonaria, dos aspirantes a ingresar en la clase alta crean identidades falsas para timar a gente adinerada.",
+                "anio": "2025",
+                "duracion": "102 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jHbSVuahqx0FVbAhgtf6SUnJ1Vf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iePVUTB8TiPVXqHmJPgkAB2OyLl.png"
             },
             {
                 "name": "A un minuto de ti",

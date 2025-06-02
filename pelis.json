@@ -7771,6 +7771,18 @@
                 "genero": "Ciencia ficción, Drama, Aventura",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los destellos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405758.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7B5S5NoyHDAoXt18SE9MOoCwyO8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/a8p4Vf822xcQ0hmcBbysu1M81nB.jpg",
+                "iconpng": "",
+                "descripcion": "La vida de Isabel da un vuelco el día en que su hija Madalen le pide que visite regularmente a su exmarido Ramón enfermo.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "101 min",
+                "type": "PELICULA"
             }
         ]
     },

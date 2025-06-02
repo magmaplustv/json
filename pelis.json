@@ -6843,12 +6843,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/s6p1ZTAz868l7PgRYfKieCVn4Mb.png"
             },
             {
-                "name": "One Chicago Crossover Event",
-                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Déjame estar contigo",
                 "url": "http://vedo.wvdbozpfc.com/vod/F59CEF965D2D4EC38E11B1C9EBA07B69_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zccT9ZXooAGbaZh6zZVPZbqcVFJ.jpg",
@@ -6859,6 +6853,12 @@
                 "genero": "Romance, Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qab3t7IsPygLnqQbdtjAyLmbNy6.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "One Chicago Crossover Event",
+                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "L'edat imminent",

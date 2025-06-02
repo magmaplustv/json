@@ -3308,18 +3308,6 @@
                 "iconpng": ""
             },
             {
-                "name": "A Complete Unknown",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168008.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/staVor97Wqd8omvgEEXbc7sXJR.jpg",
-                "type": "PELICULA",
-                "descripcion": "Bob Dylan se hizo un nombre en el mundo del folk a muy temprana edad con sus versiones acústicas. Así que cuando en 1965, en el Newport Folk Festival, decidió conectar una guitarra eléctrica y usarla en su concierto, fue un duro golpe para los puristas del folk que veían el futuro del género en el joven. Desde ese momento, la vida de Dylan cambió profundamente. Siendo atacado por un gran grupo de seguidores del folk que lo tachaban de traidor, haciendo que su carrera no volviera a ser la misma. Ese concierto fue clave, se declaró como un músico independiente y fue el comienzo de la voz de una generación.",
-                "anio": "2024",
-                "duracion": "140 min",
-                "genero": "Drama, Música",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/azGIR7ORaTZ0jOxNUTdvVqfaawt.png"
-            },
-            {
                 "name": "Resident Evil: Degeneración",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg",
@@ -3330,6 +3318,18 @@
                 "genero": "Animación, Terror, Acción, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gtWBYWukuCg8IqZuFZmlSS2jP6T.png"
+            },
+            {
+                "name": "A Complete Unknown",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168008.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/staVor97Wqd8omvgEEXbc7sXJR.jpg",
+                "type": "PELICULA",
+                "descripcion": "Bob Dylan se hizo un nombre en el mundo del folk a muy temprana edad con sus versiones acústicas. Así que cuando en 1965, en el Newport Folk Festival, decidió conectar una guitarra eléctrica y usarla en su concierto, fue un duro golpe para los puristas del folk que veían el futuro del género en el joven. Desde ese momento, la vida de Dylan cambió profundamente. Siendo atacado por un gran grupo de seguidores del folk que lo tachaban de traidor, haciendo que su carrera no volviera a ser la misma. Ese concierto fue clave, se declaró como un músico independiente y fue el comienzo de la voz de una generación.",
+                "anio": "2024",
+                "duracion": "140 min",
+                "genero": "Drama, Música",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kcCy5tKTe6WepVQ6SQaSewpmoCj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/azGIR7ORaTZ0jOxNUTdvVqfaawt.png"
             }
         ]
     },

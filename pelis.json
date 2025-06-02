@@ -2482,18 +2482,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png"
             },
             {
-                "name": "Hellboy: El Hombre Retorcido",
-                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Fantasía, Terror, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
-            },
-            {
                 "name": "Cacería Sangrienta",
                 "url": "http://vedo.wvdbozpfc.com/vod/93458CD9E32040F88F01D79EA754D17D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
@@ -2504,6 +2492,18 @@
                 "genero": "Terror, Suspense, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jsNakCUCwDjpklhNghsuqvlK7PM.png"
+            },
+            {
+                "name": "Hellboy: El Hombre Retorcido",
+                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Fantasía, Terror, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
             },
             {
                 "name": "Anora",

@@ -2338,18 +2338,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1yWwSZwnAI72MtubqoF09HFjymM.png"
             },
             {
-                "name": "Nos vemos la próxima Navidad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
-                "anio": "2024",
-                "duracion": "105 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
-            },
-            {
                 "name": "Moana 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
@@ -2360,6 +2348,18 @@
                 "genero": "Animación, Aventura, Familia, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png"
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
+                "anio": "2024",
+                "duracion": "105 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
             },
             {
                 "name": "Culpa tuya",

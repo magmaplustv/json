@@ -9261,6 +9261,18 @@
                 "genero": "Familia, Comedia",
                 "duracion": "97 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Perro y gata",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405760.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wASttItE7cVqjZGmrnRREay1p2g.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rUONctvx2KhEKSPz1ybzkwu0rP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fm683DMTymX6ATmRq4ORmIdWTkL.png",
+                "descripcion": "Un gato y un perro escapan de sus jaulas en el aeropuerto, sus dueños deben trabajar juntos para recuperar a sus preciadas mascotas.",
+                "anio": "2024",
+                "genero": "Aventura, Comedia",
+                "duracion": "86 min",
+                "type": "PELICULA"
             }
         ]
     }

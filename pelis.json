@@ -75,18 +75,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
             },
             {
-                "name": "Bohemian Rhapsody: la historia de Freddie Mercury",
-                "url": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Londres, 1970. El joven Farrokh (al que sus amigos llaman Freddie) vive en Londres, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Los otros miembros de Smile se llaman Brian May y Roger Taylor.",
-                "anio": "2018",
-                "duracion": "134 min",
-                "genero": "Música, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
-            },
-            {
                 "name": "sneaks: un par con suerte",
                 "url": "http://vedo.wvdbozpfc.com/vod/D61EFC402FC44040B287C35A0B3C0C69_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/52DmaVSxjmb13qePsHtZElmHdXB.jpg",
@@ -97,6 +85,18 @@
                 "genero": "Animación, Comedia, Familia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
+            },
+            {
+                "name": "Bohemian Rhapsody: la historia de Freddie Mercury",
+                "url": "http://vedo.wvdbozpfc.com/vod/B708BE4DB6F84C37B041BAFF65A51302_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Londres, 1970. El joven Farrokh (al que sus amigos llaman Freddie) vive en Londres, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Los otros miembros de Smile se llaman Brian May y Roger Taylor.",
+                "anio": "2018",
+                "duracion": "134 min",
+                "genero": "Música, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
             },
             {
                 "name": "Corazon Valiente",

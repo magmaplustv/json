@@ -5050,18 +5050,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ntGUPRdDKZYznDy4baPiag3JedG.png"
             },
             {
-                "name": "LEGO DC: ¡Shazam! Magia y monstruos",
-                "url": "http://vedo.wvdbozpfc.com/vod/FB9415BBDBFA441985B49729987D86FF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
-                "type": "PELICULA",
-                "descripcion": "¡Ya es hora de que la Liga de la Justicia tome nota de Shazam! (Sean Astin), pero unirse al mejor equipo de superhéroes del mundo es mucho más difícil cuando todos se han convertido en niños. LEGO DC: ¡Shazam! Magic and Monsters le enseñará a Billy Batson las virtudes de la confianza mientras el héroe lucha contra Mr. Mind y Black Adam.",
-                "anio": "2020",
-                "duracion": "81 min",
-                "genero": "Familia, Aventura, Animación, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mwJqenycCK0jCLgIz8dHTidd7Xw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dWhcjYTug9ciq1lajWkbUNQ15db.png"
-            },
-            {
                 "name": "Pixeles",
                 "url": "http://vedo.wvdbozpfc.com/vod/F0858C39B6054B7CBB00EA6D677DAEB3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
@@ -5072,6 +5060,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oOW0NTxRXKXYfbV83m8OAhF7fUm.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "LEGO DC: ¡Shazam! Magia y monstruos",
+                "url": "http://vedo.wvdbozpfc.com/vod/FB9415BBDBFA441985B49729987D86FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
+                "type": "PELICULA",
+                "descripcion": "¡Ya es hora de que la Liga de la Justicia tome nota de Shazam! (Sean Astin), pero unirse al mejor equipo de superhéroes del mundo es mucho más difícil cuando todos se han convertido en niños. LEGO DC: ¡Shazam! Magic and Monsters le enseñará a Billy Batson las virtudes de la confianza mientras el héroe lucha contra Mr. Mind y Black Adam.",
+                "anio": "2020",
+                "duracion": "81 min",
+                "genero": "Familia, Aventura, Animación, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mwJqenycCK0jCLgIz8dHTidd7Xw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dWhcjYTug9ciq1lajWkbUNQ15db.png"
             }
         ]
     },

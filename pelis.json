@@ -6012,18 +6012,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/2KhqWCOZZxnvjh5qaQsbGxWsClL.png"
             },
             {
-                "name": "[REC]",
-                "url": "http://vedo.wvdbozpfc.com/vod/52755CC828EF45119515A2EDED3914D4_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores. Los bomberos derriban la puerta y, seguidos por Ángela y el cámara, encuentran a la anciana semiinconsciente, rodeada por decenas de gatos. De pronto, la mujer se lanza sobre un bombero y le muerde salvajemente. Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único.",
-                "anio": "2007",
-                "duracion": "85 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8MTHVfhHBgXrqTNHs83rQiSfBYh.png"
-            },
-            {
                 "name": "Jessabelle",
                 "url": "http://vedo.wvdbozpfc.com/vod/1CB8949903D847798F8E5BCB1E62EF43_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oyszsO25OfSxkxhKCCnk9ZrAjkp.jpg",
@@ -6034,6 +6022,18 @@
                 "genero": "Suspense, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tSXPSzYMqR2pU09irsJ2pJBpfFd.png"
+            },
+            {
+                "name": "[REC]",
+                "url": "http://vedo.wvdbozpfc.com/vod/52755CC828EF45119515A2EDED3914D4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hJx9gqUJgWXRkFpIbCcNYrkqAQX.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores. Los bomberos derriban la puerta y, seguidos por Ángela y el cámara, encuentran a la anciana semiinconsciente, rodeada por decenas de gatos. De pronto, la mujer se lanza sobre un bombero y le muerde salvajemente. Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único.",
+                "anio": "2007",
+                "duracion": "85 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8MTHVfhHBgXrqTNHs83rQiSfBYh.png"
             },
             {
                 "name": "El hechizo",

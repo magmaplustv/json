@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "A Nonsense Christmas with Sabrina Carpenter",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405853.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eSVPkEP4XtwdQhaaisGISD132Oz.png",
+                "descripcion": "El icono del pop Sabrina Carpenter lo da todo en su primer especial de música repleto de éxitos navideños, duetos sorprendentes y cameos cómicos.",
+                "anio": "2024",
+                "genero": "Música",
+                "duracion": "50 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Nuestro secretito",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405854.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg",
@@ -2779,18 +2791,6 @@
                 "anio": "2024",
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "A Nonsense Christmas with Sabrina Carpenter",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405853.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eSVPkEP4XtwdQhaaisGISD132Oz.png",
-                "descripcion": "El icono del pop Sabrina Carpenter lo da todo en su primer especial de música repleto de éxitos navideños, duetos sorprendentes y cameos cómicos.",
-                "anio": "2024",
-                "genero": "Música",
-                "duracion": "50 min",
                 "type": "PELICULA"
             }
         ]

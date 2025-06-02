@@ -2936,18 +2936,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
             },
             {
-                "name": "Un día de esos",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169704.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/7FCcl763dbG6ieiqdKbYBkDzohS.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando Dreux y Alyssa, mejores amigos y compañeros de habitación, descubren que el novio de Alyssa se ha gastado el dinero del alquiler, se ven obligados a hacer todo lo posible para evitar el desalojo y mantener intacta su amistad.",
-                "anio": "2025",
-                "duracion": "97 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4IagwbAfL2HnTd3d7Ahi1w7izws.png"
-            },
-            {
                 "name": "Love Me",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169703.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
@@ -2958,6 +2946,18 @@
                 "genero": "Drama, Música, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/l19ruhwCLotkG5wTcelrqVvmPX8.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oJUoccvSAXFF01DmAwJLfkqlwj2.png"
+            },
+            {
+                "name": "Un día de esos",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169704.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7FCcl763dbG6ieiqdKbYBkDzohS.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando Dreux y Alyssa, mejores amigos y compañeros de habitación, descubren que el novio de Alyssa se ha gastado el dinero del alquiler, se ven obligados a hacer todo lo posible para evitar el desalojo y mantener intacta su amistad.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4IagwbAfL2HnTd3d7Ahi1w7izws.png"
             },
             {
                 "name": "Don Jediondo Recargado",

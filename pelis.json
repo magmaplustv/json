@@ -5139,18 +5139,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
             },
             {
-                "name": "Corazones de acero",
-                "url": "http://vedo.wvdbozpfc.com/vod/9E06B48AA06C4BA186541FA7A31D3349_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
-                "type": "PELICULA",
-                "descripcion": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
-                "anio": "2014",
-                "duracion": "134 min",
-                "genero": "Bélica, Drama, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sNBXNQONchRWJKA7Q3FfMgxfxgG.png"
-            },
-            {
                 "name": "La delgada línea roja",
                 "url": "http://vedo.wvdbozpfc.com/vod/C7078173648940A3AB0C49BEE3CE6C85_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/234oXaXKIcyXpWMMFISsZ94tas9.jpg",
@@ -5161,6 +5149,18 @@
                 "genero": "Drama, Historia, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hu6NS5mDlnoRMLU99uUn9Nye6t1.png"
+            },
+            {
+                "name": "Corazones de acero",
+                "url": "http://vedo.wvdbozpfc.com/vod/9E06B48AA06C4BA186541FA7A31D3349_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+                "type": "PELICULA",
+                "descripcion": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+                "anio": "2014",
+                "duracion": "134 min",
+                "genero": "Bélica, Drama, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sNBXNQONchRWJKA7Q3FfMgxfxgG.png"
             },
             {
                 "name": "1944",

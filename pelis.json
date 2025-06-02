@@ -4540,6 +4540,18 @@
                 "genero": "Romance, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6neVLKBU4DaWAwpWFhfCpV6yuqN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/p2I26TGdD6YsKj8Qmd12YfeqZvF.png"
+            },
+            {
+                "name": "Desaparecidos en la noche",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405799.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/uyEFqfRezkNrxh9Lg8fj8IcbkHx.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c8KlUfYC5442nkG1Zyaygfui5Q9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cyEd35YZJ3KJpZNcynL0u7u2I1d.png",
+                "descripcion": "Un padre inmerso en un divorcio problemático emprende una peligrosa misión cuando sus hijos desaparecen sin dejar rastro de su aislada casa de campo.",
+                "anio": "2024",
+                "genero": "Suspense, Misterio, Drama",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     },

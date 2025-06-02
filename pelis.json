@@ -1698,18 +1698,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dIAWvlbcISNVCOXsuNMOC8a4ZmF.png"
             },
             {
-                "name": "Aterrados",
-                "url": "http://vedo.wvdbozpfc.com/vod/ED5E87CFF9C04E6C9B3D11D2D5F7EB95_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Algo muy extraño está pasando en un barrio del conurbano bonaerense. Objetos que se mueven, apariciones extrañas y cañerías que hablan son los primeros indicios de que lo Paranormal –así, en mayúsculas– vino para quedarse. Azorado, el Comisario Funes convoca a Mario Jano para que lo ayude a desentrañar el misterio. Se les unirán la doctora Albrec y el norteamericano Rosentok, formando un grupo de investigación que vivirá una verdadera escalada a la locura.",
-                "anio": "2018",
-                "duracion": "85 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tNDXIbgB7kImBmIGYk7ufDFpAqL.png"
-            },
-            {
                 "name": "El rey del Once",
                 "url": "http://vedo.wvdbozpfc.com/vod/705BF82DFF31412B9102660B0D6CF9AB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hpGHSU4UJfMexrhblHoVJToVlL3.jpg",
@@ -1720,6 +1708,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/e7QeZBq3FKQG6GVn3lgDqfLcgFs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2blBPFfZKc3sF9GIxMeZNttZ4Qc.png"
+            },
+            {
+                "name": "Aterrados",
+                "url": "http://vedo.wvdbozpfc.com/vod/ED5E87CFF9C04E6C9B3D11D2D5F7EB95_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Algo muy extraño está pasando en un barrio del conurbano bonaerense. Objetos que se mueven, apariciones extrañas y cañerías que hablan son los primeros indicios de que lo Paranormal –así, en mayúsculas– vino para quedarse. Azorado, el Comisario Funes convoca a Mario Jano para que lo ayude a desentrañar el misterio. Se les unirán la doctora Albrec y el norteamericano Rosentok, formando un grupo de investigación que vivirá una verdadera escalada a la locura.",
+                "anio": "2018",
+                "duracion": "85 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tNDXIbgB7kImBmIGYk7ufDFpAqL.png"
             },
             {
                 "name": "Acusada",

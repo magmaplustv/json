@@ -6658,18 +6658,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Hijos del éxtasis",
-                "url": "http://vedo.wvdbozpfc.com/vod/BC9FC3199B4D48BCBEE998C8986DEB47_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un financiero británico y un retoño de la mafia compiten por el negocio del éxtasis en los años 90.",
-                "anio": "2025",
-                "duracion": "91 min",
-                "genero": "Documental, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/PYfUXeQjiDD7hBXQjRcaipvkQx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
-            },
-            {
                 "name": "Caos: Los crímenes de Manson",
                 "url": "http://vedo.wvdbozpfc.com/vod/F4855C669DCA4CCF84DC33E9CC9B5242_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9EhRCPYmmTcWVMIwHL1UpKgb0O5.jpg",
@@ -6680,6 +6668,18 @@
                 "genero": "Documental, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/s6jEjHXlCyUJEFnV2fAodwhIRi1.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yQPjDlBZzPTWCZm48xTA46B7jgz.png"
+            },
+            {
+                "name": "Hijos del éxtasis",
+                "url": "http://vedo.wvdbozpfc.com/vod/BC9FC3199B4D48BCBEE998C8986DEB47_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un financiero británico y un retoño de la mafia compiten por el negocio del éxtasis en los años 90.",
+                "anio": "2025",
+                "duracion": "91 min",
+                "genero": "Documental, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/PYfUXeQjiDD7hBXQjRcaipvkQx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
             }
         ]
     },

@@ -6980,18 +6980,6 @@
                 "iconpng": ""
             },
             {
-                "name": "La mujer de las sombras",
-                "url": "http://vedo.wvdbozpfc.com/vod/1EF978CA1DAD47E1A995A43E1BB40A76_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar.",
-                "anio": "2025",
-                "duracion": "87 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8CDlOMtRpA9sDyqirilCdfPWieb.png"
-            },
-            {
                 "name": "El vigilante nocturno. Demonios heredados",
                 "url": "http://vedo.wvdbozpfc.com/vod/133F04E7660042918CFD3B6A461DAE79_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6oRJkenJ1vhng041xm46j7U98pW.jpg",
@@ -7002,6 +6990,18 @@
                 "genero": "Terror, Suspense, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/185xUAOX9ejrVURIrtVba198Qeu.png"
+            },
+            {
+                "name": "La mujer de las sombras",
+                "url": "http://vedo.wvdbozpfc.com/vod/1EF978CA1DAD47E1A995A43E1BB40A76_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar.",
+                "anio": "2025",
+                "duracion": "87 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8CDlOMtRpA9sDyqirilCdfPWieb.png"
             },
             {
                 "name": "Stream",

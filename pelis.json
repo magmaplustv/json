@@ -7256,18 +7256,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5GxU9WVcTodN9XIMBaWnoaEJ6KB.png"
             },
             {
-                "name": "Regresión",
-                "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
-                "type": "PELICULA",
-                "descripcion": "La historia comienza con una mujer que viaja en un tren, desorientada y con amnesia. A la vez que la protagonista, iremos descubriendo el infierno que ha vivido en los últimos meses.",
-                "anio": "2013",
-                "duracion": "",
-                "genero": "",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Juega Conmigo",
                 "url": "http://vedo.wvdbozpfc.com/vod/23E6A1D54D474A6A8E74B99691640332_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
@@ -7278,6 +7266,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jST0q4EMty2kYyggxxwvsjpHPOs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
+            },
+            {
+                "name": "Regresión",
+                "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
+                "type": "PELICULA",
+                "descripcion": "La historia comienza con una mujer que viaja en un tren, desorientada y con amnesia. A la vez que la protagonista, iremos descubriendo el infierno que ha vivido en los últimos meses.",
+                "anio": "2013",
+                "duracion": "",
+                "genero": "",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Ghost Game",

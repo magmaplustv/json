@@ -2852,6 +2852,18 @@
                 "genero": "Drama",
                 "duracion": "107 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Franco Escamilla: Ladies' man",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405843.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7nECkrgbCbWoFa230KbCZFVTT3L.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fJitRwELibGT9trQ7xotDwFRjOD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/s1tvV434zHgufwqzjVI20VGBsv.png",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Comedia",
+                "duracion": "73 min",
+                "type": "PELICULA"
             }
         ]
     },

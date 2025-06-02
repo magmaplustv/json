@@ -3092,18 +3092,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mlYc1sOsc96F7EV6fLnAE2Og4pa.png"
             },
             {
-                "name": "Chico Bento e a Goiabeira Maraviosa",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Familia, Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Barbie y Teresa: La receta de la amistad",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168734.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
@@ -3114,6 +3102,18 @@
                 "genero": "Animación, Familia, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rbMUbtT7WHUEzrxJgSIEVEz5ACE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/v5mY0J8DfIB7KdrCYOBHpwXkBho.png"
+            },
+            {
+                "name": "Chico Bento e a Goiabeira Maraviosa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Familia, Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El Jardinero",

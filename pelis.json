@@ -680,18 +680,6 @@
                 "iconpng": ""
             },
             {
-                "name": "The Chemists",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168590.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2LCxXzAVteNyAErJqKqLztpamaz.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "100 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bY90Kcw4avzuhW6x78nBBJ6Ksv.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Mickey 17",
                 "url": "http://vedo.wvdbozpfc.com/vod/EBE20378482440D789D390EBFD917690_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
@@ -702,6 +690,18 @@
                 "genero": "Ciencia ficción, Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ffJVoywEy5F838YkqBljNm0yyit.png"
+            },
+            {
+                "name": "The Chemists",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168590.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2LCxXzAVteNyAErJqKqLztpamaz.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "100 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bY90Kcw4avzuhW6x78nBBJ6Ksv.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Novocaine",

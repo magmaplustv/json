@@ -4516,6 +4516,18 @@
                 "genero": "Romance, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6neVLKBU4DaWAwpWFhfCpV6yuqN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/p2I26TGdD6YsKj8Qmd12YfeqZvF.png"
+            },
+            {
+                "name": "Un deseo irlandés",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405807.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kYtxAK6zamj1tN9i2yUuPMiRa2M.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9C36ROJVHAO29hNoFhONusUPBtw.png",
+                "descripcion": "El hombre ideal de Maddie está a punto de casarse con su mejor amiga. Pero cuando pide hallar el amor verdadero a una antigua roca irlandesa, su destino cambia por arte de magia.",
+                "anio": "2024",
+                "genero": "Romance, Comedia, Fantasía",
+                "duracion": "94 min",
+                "type": "PELICULA"
             }
         ]
     },

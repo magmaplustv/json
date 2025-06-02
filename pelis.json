@@ -3212,18 +3212,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
             },
             {
-                "name": "Straight",
-                "url": "http://vedo.wvdbozpfc.com/vod/B0912AA789E14D8B97973CBA447E7278_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/34l0QGrhDv8DawQss6rDRkio4Ga.jpg",
-                "type": "PELICULA",
-                "descripcion": "Ro es un banquero de inversiones al que le gusta la cerveza, los deportes y su novia Elia… y también le gusta Cris.",
-                "anio": "2024",
-                "duracion": "93 min",
-                "genero": "Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bcVb0UyC15HQq8b6UV9DC0lBC5K.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tQ8W7kmeoqt71pXqIkoFOmdlEVn.png"
-            },
-            {
                 "name": "High Rollers",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168125.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hHowAaChDjwueySmwVbsjHmpWa.jpg",
@@ -3234,6 +3222,18 @@
                 "genero": "Acción, Crimen, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/me3SisKfnxwBP69aOVKAVMw9vDM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
+            },
+            {
+                "name": "Straight",
+                "url": "http://vedo.wvdbozpfc.com/vod/B0912AA789E14D8B97973CBA447E7278_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/34l0QGrhDv8DawQss6rDRkio4Ga.jpg",
+                "type": "PELICULA",
+                "descripcion": "Ro es un banquero de inversiones al que le gusta la cerveza, los deportes y su novia Elia… y también le gusta Cris.",
+                "anio": "2024",
+                "duracion": "93 min",
+                "genero": "Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bcVb0UyC15HQq8b6UV9DC0lBC5K.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tQ8W7kmeoqt71pXqIkoFOmdlEVn.png"
             },
             {
                 "name": "Vidas perfectas",

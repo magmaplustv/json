@@ -1302,18 +1302,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/wn13ptGiiL996MdwXgq7x4DyK7l.png"
             },
             {
-                "name": "Animal",
-                "url": "http://vedo.wvdbozpfc.com/vod/6F7021F5684643C29E619C39BFB47486_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dL44SbXxd4arcHeM7KiukuVmeIm.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2023",
-                "duracion": "201 min",
-                "genero": "Acción, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aM0QC0EmfPD84AtjGIv2UJ9yu6J.png"
-            },
-            {
                 "name": "Mi obra maestra",
                 "url": "http://vedo.wvdbozpfc.com/vod/F92820B000C54F5CBCD353E65BCA7528_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg",
@@ -1324,6 +1312,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vHJCRXpdNfYePNPm913zglMVlA4.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/e7BhyKYAxHkw99ruoucH9kHnTaF.png"
+            },
+            {
+                "name": "Animal",
+                "url": "http://vedo.wvdbozpfc.com/vod/6F7021F5684643C29E619C39BFB47486_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dL44SbXxd4arcHeM7KiukuVmeIm.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2023",
+                "duracion": "201 min",
+                "genero": "Acción, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aM0QC0EmfPD84AtjGIv2UJ9yu6J.png"
             },
             {
                 "name": "No soy tu mami",

@@ -8123,18 +8123,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/meA3pQutrBiqWXuAovbArl1dgar.png"
             },
             {
-                "name": "Paranormal Movie 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/4A3EC41FCD65478B990A89022B557857_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7xvLGlzqlMdJi7b2w1SKycsbpVI.jpg",
-                "type": "PELICULA",
-                "descripcion": "Después de haber exorcizado los demonios de su ex, Malcolm comienza de nuevo con su nueva novia y sus dos hijos. Después de mudarse a la casa de sus sueños, sin embargo, Malcolm está rodeado una vez más por extraños acontecimientos paranormales.",
-                "anio": "2014",
-                "duracion": "95 min",
-                "genero": "Comedia, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iSMUo3G248S8rwbTMkZXVKSPbY5.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hkYNSBv7ij4sATmEd6InKC5vRJO.png"
-            },
-            {
                 "name": "Espías",
                 "url": "http://vedo.wvdbozpfc.com/vod/0466BBA46B0D4A99873A40C266658116_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4DjDCZw0YPhXq2lr0uargYZc6b4.jpg",
@@ -8145,6 +8133,18 @@
                 "genero": "Comedia, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kCFV7cTAjB0dhNBe3HAdSwsaoSu.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Paranormal Movie 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/4A3EC41FCD65478B990A89022B557857_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7xvLGlzqlMdJi7b2w1SKycsbpVI.jpg",
+                "type": "PELICULA",
+                "descripcion": "Después de haber exorcizado los demonios de su ex, Malcolm comienza de nuevo con su nueva novia y sus dos hijos. Después de mudarse a la casa de sus sueños, sin embargo, Malcolm está rodeado una vez más por extraños acontecimientos paranormales.",
+                "anio": "2014",
+                "duracion": "95 min",
+                "genero": "Comedia, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iSMUo3G248S8rwbTMkZXVKSPbY5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hkYNSBv7ij4sATmEd6InKC5vRJO.png"
             },
             {
                 "name": "Cómo cortar a tu patán",

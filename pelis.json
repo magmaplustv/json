@@ -7304,18 +7304,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
             },
             {
-                "name": "El exorcismo de Dios",
-                "url": "http://vedo.wvdbozpfc.com/vod/B8D87D8731A64B77B3CC2E2F22F96411_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un sacerdote estadounidense que trabaja en México es considerado un santo por muchos feligreses locales. Sin embargo, debido a un exorcismo fallido, guarda un secreto que lo está comiendo vivo hasta que tenga la oportunidad de enfrentarse a su demonio por última vez.",
-                "anio": "2022",
-                "duracion": "98 min",
-                "genero": "Terror, Crimen, Drama, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b1L7qevxiVpkVFq4dmdQPGFPWH0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/h07jdSCelmpm6qVayJ8B5YqvvTy.png"
-            },
-            {
                 "name": "La monja",
                 "url": "http://vedo.wvdbozpfc.com/vod/D1620EA880284B799CD4A5206F508AF3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7fxjwtEvqI1BYkXEbGqJ3dQBgXD.jpg",
@@ -7326,6 +7314,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xh1Xjiu7Q0ORz3DbJjlwfC2KwVM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/i0kHxyjyjoBVZcbpMgegy7Jifbh.png"
+            },
+            {
+                "name": "El exorcismo de Dios",
+                "url": "http://vedo.wvdbozpfc.com/vod/B8D87D8731A64B77B3CC2E2F22F96411_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un sacerdote estadounidense que trabaja en México es considerado un santo por muchos feligreses locales. Sin embargo, debido a un exorcismo fallido, guarda un secreto que lo está comiendo vivo hasta que tenga la oportunidad de enfrentarse a su demonio por última vez.",
+                "anio": "2022",
+                "duracion": "98 min",
+                "genero": "Terror, Crimen, Drama, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b1L7qevxiVpkVFq4dmdQPGFPWH0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/h07jdSCelmpm6qVayJ8B5YqvvTy.png"
             },
             {
                 "name": "Y al séptimo día",

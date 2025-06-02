@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Nuestro secretito",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405854.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJkOBOdbzUc788VDGJp3nEAlC3I.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/g9v2BfB4ZOFFtAsyECLMNfE7atA.png",
+                "descripcion": "Dos ex resentidos se ven obligados a pasar la Navidad bajo el mismo techo tras descubrir que sus parejas actuales son hermanos.",
+                "anio": "2024",
+                "genero": "Romance, Comedia, Drama",
+                "duracion": "101 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Road House (De profesión: duro)",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405855.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
@@ -2767,18 +2779,6 @@
                 "anio": "2024",
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Nuestro secretito",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405854.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/nhcSZTzQ4euUYvuiFVvyINnhAV4.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJkOBOdbzUc788VDGJp3nEAlC3I.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/g9v2BfB4ZOFFtAsyECLMNfE7atA.png",
-                "descripcion": "Dos ex resentidos se ven obligados a pasar la Navidad bajo el mismo techo tras descubrir que sus parejas actuales son hermanos.",
-                "anio": "2024",
-                "genero": "Romance, Comedia, Drama",
-                "duracion": "101 min",
                 "type": "PELICULA"
             }
         ]

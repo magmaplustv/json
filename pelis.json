@@ -6132,18 +6132,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xCjkQS9cDc9X1wN3K6k2C04Evsu.png"
             },
             {
-                "name": "El ritual",
-                "url": "http://vedo.wvdbozpfc.com/vod/A34005DE90DB4A619B8C129635ED4171_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2023",
-                "duracion": "4 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La visita",
                 "url": "http://vedo.wvdbozpfc.com/vod/ACECA4F61C854072A7C8390DAE799A21_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bwZ9zpsWHYlwffMJg2E8N9RLL0M.jpg",
@@ -6153,6 +6141,18 @@
                 "duracion": "78 min",
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/s2kerlPQUQos4REFUZvdWqdQJW2.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "El ritual",
+                "url": "http://vedo.wvdbozpfc.com/vod/A34005DE90DB4A619B8C129635ED4171_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2023",
+                "duracion": "4 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
                 "iconpng": ""
             },
             {

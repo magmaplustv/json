@@ -3296,18 +3296,6 @@
                 "iconpng": ""
             },
             {
-                "name": "O Auto da Compadecida 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "114 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Resident Evil: Degeneración",
                 "url": "http://mymoontools.xyz:8080/movie/B.O.S.S_I.P/WycFeigyEn/42828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg",
@@ -3318,6 +3306,18 @@
                 "genero": "Animación, Terror, Acción, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3JgfNUCoN6pyXlO7wZOJ4PgQgW3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gtWBYWukuCg8IqZuFZmlSS2jP6T.png"
+            },
+            {
+                "name": "O Auto da Compadecida 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "114 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
+                "iconpng": ""
             },
             {
                 "name": "A Complete Unknown",

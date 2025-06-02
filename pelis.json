@@ -500,18 +500,6 @@
         "name": "⭐️Estrenos CAM 2025🎥",
         "samples": [
             {
-                "name": "Karate Kid: Legends",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425538.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Acción, Aventura, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tGjo4L15aELqZGqQH3ThZQGMKmL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6BEBpypi6kT0HZchQIVR23l537p.png"
-            },
-            {
                 "name": "Lilo y Stitch",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430550.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg",
@@ -522,6 +510,18 @@
                 "genero": "Familia, Comedia, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png"
+            },
+            {
+                "name": "Karate Kid: Legends",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425538.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Acción, Aventura, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tGjo4L15aELqZGqQH3ThZQGMKmL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6BEBpypi6kT0HZchQIVR23l537p.png"
             },
             {
                 "name": "Misión: Imposible - Sentencia final",

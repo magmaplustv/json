@@ -8183,18 +8183,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dKseEHqdluBHQprgYjxAccyGXcv.png"
             },
             {
-                "name": "Cómo cortar a tu patán",
-                "url": "http://vedo.wvdbozpfc.com/vod/C2F7E78B188A46F18A9D72C3CC1C4C82_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg",
-                "type": "PELICULA",
-                "descripcion": "Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.",
-                "anio": "2017",
-                "duracion": "100 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXrq2AME5M7f91jsJJbecFxqPod.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Historia y Geografía",
                 "url": "http://vedo.wvdbozpfc.com/vod/EF0C7F3A0E1544868DBF87D658648D4D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nxMV22es0QBIlQPoRfvU1zw1NLB.jpg",
@@ -8205,6 +8193,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/e2czX1KqSI0aelvyCJ9Mv5uKON6.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lvvx4lYnM9h5pCp3qQrU31C5eGH.png"
+            },
+            {
+                "name": "Cómo cortar a tu patán",
+                "url": "http://vedo.wvdbozpfc.com/vod/C2F7E78B188A46F18A9D72C3CC1C4C82_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg",
+                "type": "PELICULA",
+                "descripcion": "Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.",
+                "anio": "2017",
+                "duracion": "100 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXrq2AME5M7f91jsJJbecFxqPod.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Verano en diciembre",

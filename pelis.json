@@ -4307,18 +4307,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9mvdftiEdwplcpIq7sLhKsGmdPp.png"
             },
             {
-                "name": "Guardianes de la galaxia Vol. 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164470.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
-                "type": "PELICULA",
-                "descripcion": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose.",
-                "anio": "2017",
-                "duracion": "137 min",
-                "genero": "Ciencia ficción, Aventura, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/xinjGVN2WSzQQ7HAQ4VItmvRRoH.png"
-            },
-            {
                 "name": "Inside 'On Her Majesty's Secret Service'",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164515.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mvBBcLN4Cjei3I7RiY2bQLAOtHA.jpg",
@@ -4329,6 +4317,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Guardianes de la galaxia Vol. 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164470.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose.",
+                "anio": "2017",
+                "duracion": "137 min",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xinjGVN2WSzQQ7HAQ4VItmvRRoH.png"
             },
             {
                 "name": "Iron Man",

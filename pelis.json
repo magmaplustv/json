@@ -6365,18 +6365,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Ricos, sin duda",
-                "url": "http://vedo.wvdbozpfc.com/vod/F42348E5FAB0458A9C00DDBED298745F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras ser víctimas de una estafa que les deja una deuda millonaria, dos aspirantes a ingresar en la clase alta crean identidades falsas para timar a gente adinerada.",
-                "anio": "2025",
-                "duracion": "102 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jHbSVuahqx0FVbAhgtf6SUnJ1Vf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iePVUTB8TiPVXqHmJPgkAB2OyLl.png"
-            },
-            {
                 "name": "Umjolo: Sin cura alguna",
                 "url": "http://vedo.wvdbozpfc.com/vod/9C4ED8AF121C4DD7A9EE6D398D2D1486_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/ndCIqBuR71GrTRPz9JjKED6e0W9.jpg",
@@ -6387,6 +6375,18 @@
                 "genero": "Romance, Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eT1udCQQAXVuLkb26911aUwg76L.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cCjxsvKk6ktyYui5WsSVmf163qt.png"
+            },
+            {
+                "name": "Ricos, sin duda",
+                "url": "http://vedo.wvdbozpfc.com/vod/F42348E5FAB0458A9C00DDBED298745F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras ser víctimas de una estafa que les deja una deuda millonaria, dos aspirantes a ingresar en la clase alta crean identidades falsas para timar a gente adinerada.",
+                "anio": "2025",
+                "duracion": "102 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jHbSVuahqx0FVbAhgtf6SUnJ1Vf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iePVUTB8TiPVXqHmJPgkAB2OyLl.png"
             },
             {
                 "name": "Corazones rotos",

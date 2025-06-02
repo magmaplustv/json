@@ -428,18 +428,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/38oxDIWolaw5a2h7GwfOFfPHyjK.png"
             },
             {
-                "name": "Enfrentando la Oscuridad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
-            },
-            {
                 "name": "Gravedad cero",
                 "url": "http://vedo.wvdbozpfc.com/vod/DB7C67AC4D37411AA838A9B5300F4F03_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",
@@ -450,6 +438,18 @@
                 "genero": "Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXxriYfAWtMJNHGHVYr09c37L07.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zBVYdBVEENSXea58yyXpj7A0BcC.png"
+            },
+            {
+                "name": "Enfrentando la Oscuridad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
                 "name": "El Mono",

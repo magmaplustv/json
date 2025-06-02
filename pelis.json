@@ -8231,18 +8231,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/lvvx4lYnM9h5pCp3qQrU31C5eGH.png"
             },
             {
-                "name": "Vera y el placer de los otros",
-                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
-                "anio": "2024",
-                "duracion": "104 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Padre no hay más que uno",
                 "url": "http://vedo.wvdbozpfc.com/vod/2E851C65D48049ABAF71C236B667CAE5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eDLO2nr5xhjOfxDAj3gQao495kw.jpg",
@@ -8253,6 +8241,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kZhAFnyPDdQxHzlWZHzBZOgwFgk.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9iw0JNBpFic1aQJkeZMrLQPEwkb.png"
+            },
+            {
+                "name": "Vera y el placer de los otros",
+                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
+                "anio": "2024",
+                "duracion": "104 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Imbroda, el legado del maestro",

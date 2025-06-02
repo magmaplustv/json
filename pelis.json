@@ -2266,18 +2266,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/gbXTwpmjFNb5MzahSaOZqsFTnFK.png"
             },
             {
-                "name": "Robot salvaje",
-                "url": "http://vedo.wvdbozpfc.com/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
-                "type": "PELICULA",
-                "descripcion": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
-                "anio": "2024",
-                "duracion": "101 min",
-                "genero": "Animación, Ciencia ficción, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cBgbMZxdmcImD4Al8sq0pffOQ4T.png"
-            },
-            {
                 "name": "Wicked",
                 "url": "http://vedo.wvdbozpfc.com/vod/609E8F2815994C50868A390BC41290B9_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1ZSVA2pNpc89C07RDgsR6p0GMs7.jpg",
@@ -2288,6 +2276,18 @@
                 "genero": "Fantasía, Romance, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/irMy4NnEVR9nNB0wN17OMKo2Gnj.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Robot salvaje",
+                "url": "http://vedo.wvdbozpfc.com/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+                "type": "PELICULA",
+                "descripcion": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
+                "anio": "2024",
+                "duracion": "101 min",
+                "genero": "Animación, Ciencia ficción, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cBgbMZxdmcImD4Al8sq0pffOQ4T.png"
             },
             {
                 "name": "La Trampa",

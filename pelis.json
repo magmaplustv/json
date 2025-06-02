@@ -2810,18 +2810,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/v7GqDTIx5V3IkNzAEzPHtl7QRf6.png"
             },
             {
-                "name": "G20",
-                "url": "http://vedo.wvdbozpfc.com/vod/1118FE8E1BC846CAA01BF0FFF1511DF0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando la cumbre del G20 sufre un ataque, la presidenta de EE. UU. Danielle Sutton se convierte en el objetivo número uno. Tras evitar ser capturada por los atacantes, debe derrotar al enemigo para proteger a su familia, defender a su país y poner a salvo a los líderes del mundo en esta trepidante película cargada de acción.",
-                "anio": "2025",
-                "duracion": "108 min",
-                "genero": "Acción, Misterio, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iPITIm26Qpt5dFhaLIXxCg7z7zy.png"
-            },
-            {
                 "name": "Ash",
                 "url": "http://vedo.wvdbozpfc.com/vod/7B4C454970FE4EA091A5436ECC2E58EB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
@@ -2832,6 +2820,18 @@
                 "genero": "Ciencia ficción, Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eiArUmkEpN3cR9xIrO8gyrfFzxP.png"
+            },
+            {
+                "name": "G20",
+                "url": "http://vedo.wvdbozpfc.com/vod/1118FE8E1BC846CAA01BF0FFF1511DF0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando la cumbre del G20 sufre un ataque, la presidenta de EE. UU. Danielle Sutton se convierte en el objetivo número uno. Tras evitar ser capturada por los atacantes, debe derrotar al enemigo para proteger a su familia, defender a su país y poner a salvo a los líderes del mundo en esta trepidante película cargada de acción.",
+                "anio": "2025",
+                "duracion": "108 min",
+                "genero": "Acción, Misterio, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iPITIm26Qpt5dFhaLIXxCg7z7zy.png"
             },
             {
                 "name": "A Knight's War",

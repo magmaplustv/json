@@ -2954,6 +2954,12 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/j1cTG6Th3EY0ZkLqfkEGkTrdeVb.png"
             },
             {
+                "name": "Francotirador: La batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Don Jediondo Recargado",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169701.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mhzjbQBu7P5KANUde2WlMqql5gd.jpg",
@@ -2964,12 +2970,6 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2fAwfVDjyPCrKC041pznXCfrRFN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/xPLWsCrcle7SNHd1IQlKAYJ59tA.png"
-            },
-            {
-                "name": "Francotirador: La batalla final",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
-                "type": "PELICULA"
             },
             {
                 "name": "Desconectados 2: Reconectados",

@@ -2278,18 +2278,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Robot salvaje",
-                "url": "http://vedo.wvdbozpfc.com/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
-                "type": "PELICULA",
-                "descripcion": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
-                "anio": "2024",
-                "duracion": "101 min",
-                "genero": "Animación, Ciencia ficción, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cBgbMZxdmcImD4Al8sq0pffOQ4T.png"
-            },
-            {
                 "name": "La Trampa",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3F13A5256A148B2AFE453FB6E571EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
@@ -2300,6 +2288,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Ldp4JHqZ2zjCKCKkofsZXX30tQ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Robot salvaje",
+                "url": "http://vedo.wvdbozpfc.com/vod/B3BF641A1B28489B92A1471142C0414B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+                "type": "PELICULA",
+                "descripcion": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
+                "anio": "2024",
+                "duracion": "101 min",
+                "genero": "Animación, Ciencia ficción, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cBgbMZxdmcImD4Al8sq0pffOQ4T.png"
             },
             {
                 "name": "Seis Triple Ocho",

@@ -3260,18 +3260,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/tQ8W7kmeoqt71pXqIkoFOmdlEVn.png"
             },
             {
-                "name": "O Auto da Compadecida 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "114 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "The Fire Inside",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167444.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg",
@@ -3282,6 +3270,18 @@
                 "genero": "Historia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/GtWV2PAAFZYYHAy788RI6xOMJ8.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/paFPbADZ8kqxt7tTTroca2v2Nxq.png"
+            },
+            {
+                "name": "O Auto da Compadecida 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167445.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vR0L5fwtGOtOqzdRXywMGVzPpne.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "114 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Vidas perfectas",

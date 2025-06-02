@@ -6300,18 +6300,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Spiral: Saw",
-                "url": "http://vedo.wvdbozpfc.com/vod/531576A897F5465B95AA9D4749971853_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/97WyFdS8pQerysSSGezafXHW5ZH.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/w3UoEj8prAKXKpfW8LazpIx6P5A.png",
-                "descripcion": "El detective descarado Ezekiel \"Zeke\" Banks, y su compañero novato, se hacen cargo de una espeluznante investigación sobre varios asesinatos espantosos. Zeke, involuntariamente, se vera atrapado en el  morboso juego del asesino.",
-                "anio": "2021",
-                "genero": "Terror, Misterio",
-                "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Hacksaw",
                 "url": "http://vedo.wvdbozpfc.com/vod/2C8616E7429B464FA548B2EB30AEBAE0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wAdtyIswPTwmVp0b5MOEKi94Qxg.jpg",
@@ -6321,6 +6309,18 @@
                 "anio": "2020",
                 "genero": "Terror",
                 "duracion": "70 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Spiral: Saw",
+                "url": "http://vedo.wvdbozpfc.com/vod/531576A897F5465B95AA9D4749971853_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/97WyFdS8pQerysSSGezafXHW5ZH.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/w3UoEj8prAKXKpfW8LazpIx6P5A.png",
+                "descripcion": "El detective descarado Ezekiel \"Zeke\" Banks, y su compañero novato, se hacen cargo de una espeluznante investigación sobre varios asesinatos espantosos. Zeke, involuntariamente, se vera atrapado en el  morboso juego del asesino.",
+                "anio": "2021",
+                "genero": "Terror, Misterio",
+                "duracion": "93 min",
                 "type": "PELICULA"
             }
         ]

@@ -8099,18 +8099,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/waaTMZeOMJg3seX3jAw5qrkAYvK.png"
             },
             {
-                "name": "Un Hombre Diferente",
-                "url": "http://vedo.wvdbozpfc.com/vod/585283185FCE4CAD8A1D734894EF9B3F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x8nynAOohBR0fWp8TEVtdr34jzo.jpg",
-                "type": "PELICULA",
-                "descripcion": "El ambicioso actor neoyorquino Edward se somete a una intervención quirúrgica radical para transformar drásticamente su aspecto. Como resultado, muchas cosas cambian en su vida y, sin embargo, todo sigue perturbadoramente igual. Aunque haya cambiado exteriormente y pueda empezar una nueva vida, sigue siendo quien es y no quien quiere ser. Entonces se pierde el papel de su vida y su nuevo rostro de ensueño se convierte en una pesadilla.",
-                "anio": "2024",
-                "duracion": "112 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xSqaVqkbeSaPmeEyurWBaTSkgL9.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4HrGdxV3scuPE0Jv4gE9Foaki7k.png"
-            },
-            {
                 "name": "Paranormal Movie",
                 "url": "http://vedo.wvdbozpfc.com/vod/ACC126D059574AD8B9B7C54B4F41E934_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
@@ -8121,6 +8109,18 @@
                 "genero": "Comedia, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/CZiD27RwiE3urSTWT522bC8IY0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/meA3pQutrBiqWXuAovbArl1dgar.png"
+            },
+            {
+                "name": "Un Hombre Diferente",
+                "url": "http://vedo.wvdbozpfc.com/vod/585283185FCE4CAD8A1D734894EF9B3F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x8nynAOohBR0fWp8TEVtdr34jzo.jpg",
+                "type": "PELICULA",
+                "descripcion": "El ambicioso actor neoyorquino Edward se somete a una intervención quirúrgica radical para transformar drásticamente su aspecto. Como resultado, muchas cosas cambian en su vida y, sin embargo, todo sigue perturbadoramente igual. Aunque haya cambiado exteriormente y pueda empezar una nueva vida, sigue siendo quien es y no quien quiere ser. Entonces se pierde el papel de su vida y su nuevo rostro de ensueño se convierte en una pesadilla.",
+                "anio": "2024",
+                "duracion": "112 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xSqaVqkbeSaPmeEyurWBaTSkgL9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4HrGdxV3scuPE0Jv4gE9Foaki7k.png"
             },
             {
                 "name": "Espías",

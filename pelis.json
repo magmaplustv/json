@@ -3930,18 +3930,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eIERZn2jRAbPRjZMEer9i7Pu617.png"
             },
             {
-                "name": "Una muerte antes de una boda",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169702.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/bOVmksfmax1kA7FF0pmCq89TrF4.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando Maja trae a su prometido a casa, sus tradicionales padres deben superar sus prejuicios culturales en medio de una crisis en su fábrica de lácteos. ¿Ganará el amor?",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vgLIWB6i15FOdhOCirPZ6Qw5Wvh.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eXdV1QI8btQcVisNoCALqUvr4F2.png"
-            },
-            {
                 "name": "De vuelta a la acción",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/150828.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",
@@ -3952,6 +3940,18 @@
                 "genero": "Acción, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uAI8VFHkcNJnApaznde5lVbtfVH.png"
+            },
+            {
+                "name": "Una muerte antes de una boda",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169702.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bOVmksfmax1kA7FF0pmCq89TrF4.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando Maja trae a su prometido a casa, sus tradicionales padres deben superar sus prejuicios culturales en medio de una crisis en su fábrica de lácteos. ¿Ganará el amor?",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vgLIWB6i15FOdhOCirPZ6Qw5Wvh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eXdV1QI8btQcVisNoCALqUvr4F2.png"
             },
             {
                 "name": "Dhoom Dhaam",

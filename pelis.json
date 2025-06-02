@@ -7394,18 +7394,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6xuZoCQtnr4YL0tq04UbXVKra2f.png"
             },
             {
-                "name": "Atrapado en el tiempo",
-                "url": "http://vedo.wvdbozpfc.com/vod/FDE0118189324AEE941DDEF3049F586D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/j8ZRAOctUiw7YzrQGuyCRIAJPIW.jpg",
-                "type": "PELICULA",
-                "descripcion": "Phil, hombre del tiempo de una cadena de televisión, es enviado un año más a Punxstawnwey, a cubrir la información del festival de El día de la marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que les obliga a regresar a la pequeña ciudad. A la mañana siguiente, al levantarse, Phil escucha en el radiodespertador el mismo programa que la mañana anterior.",
-                "anio": "1993",
-                "duracion": "101 min",
-                "genero": "Romance, Fantasía, Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1LzsIiQ53Ilk5tgMxZnsna2kXXR.png"
-            },
-            {
                 "name": "Shaolin Soccer",
                 "url": "http://vedo.wvdbozpfc.com/vod/08875DA073E94269BFCCEA53259E03B0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gMqHA1CoURwncG1iKBukFtTCSrG.jpg",
@@ -7416,6 +7404,18 @@
                 "genero": "Acción, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/a9uOwyV8Dq6VSEPfeIyFVVWSJCJ.png"
+            },
+            {
+                "name": "Atrapado en el tiempo",
+                "url": "http://vedo.wvdbozpfc.com/vod/FDE0118189324AEE941DDEF3049F586D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/j8ZRAOctUiw7YzrQGuyCRIAJPIW.jpg",
+                "type": "PELICULA",
+                "descripcion": "Phil, hombre del tiempo de una cadena de televisión, es enviado un año más a Punxstawnwey, a cubrir la información del festival de El día de la marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que les obliga a regresar a la pequeña ciudad. A la mañana siguiente, al levantarse, Phil escucha en el radiodespertador el mismo programa que la mañana anterior.",
+                "anio": "1993",
+                "duracion": "101 min",
+                "genero": "Romance, Fantasía, Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1LzsIiQ53Ilk5tgMxZnsna2kXXR.png"
             },
             {
                 "name": "Kung Fu Sion",

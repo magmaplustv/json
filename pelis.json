@@ -8087,18 +8087,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/rtbXoNRpkqgzzAnZV0c1YbsQkmG.png"
             },
             {
-                "name": "Paranormal Movie",
-                "url": "http://vedo.wvdbozpfc.com/vod/ACC126D059574AD8B9B7C54B4F41E934_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una joven pareja, Malcolm (Marlon Wayans) y Kisha (Essence Atkins), se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio.  Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
-                "anio": "2013",
-                "duracion": "95 min",
-                "genero": "Comedia, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/CZiD27RwiE3urSTWT522bC8IY0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/meA3pQutrBiqWXuAovbArl1dgar.png"
-            },
-            {
                 "name": "Espías",
                 "url": "http://vedo.wvdbozpfc.com/vod/0466BBA46B0D4A99873A40C266658116_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4DjDCZw0YPhXq2lr0uargYZc6b4.jpg",
@@ -8109,6 +8097,18 @@
                 "genero": "Comedia, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kCFV7cTAjB0dhNBe3HAdSwsaoSu.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Paranormal Movie",
+                "url": "http://vedo.wvdbozpfc.com/vod/ACC126D059574AD8B9B7C54B4F41E934_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una joven pareja, Malcolm (Marlon Wayans) y Kisha (Essence Atkins), se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio.  Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
+                "anio": "2013",
+                "duracion": "95 min",
+                "genero": "Comedia, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/CZiD27RwiE3urSTWT522bC8IY0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/meA3pQutrBiqWXuAovbArl1dgar.png"
             },
             {
                 "name": "La Cocina",

@@ -5641,18 +5641,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Paddington: Aventura en la selva",
-                "url": "http://vedo.wvdbozpfc.com/vod/54294BCCE2D543C1BFB24730D83F16F8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dIZX0YWtFd1WFbUzojlc8y5yAkC.jpg",
-                "type": "PELICULA",
-                "descripcion": "Paddington y la familia Brown visitan a la tía Lucy en Perú, pero un misterio los envía a la selva amazónica y a las montañas peruanas",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Familia, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4QvRm83vtKpXefsA5IiViTUtnO8.png"
-            },
-            {
                 "name": "Jurassic World: Dominion",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
@@ -5663,6 +5651,18 @@
                 "genero": "Aventura, Acción, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/va5NU8qdUhy0tgwiqubC7jopEdU.png"
+            },
+            {
+                "name": "Paddington: Aventura en la selva",
+                "url": "http://vedo.wvdbozpfc.com/vod/54294BCCE2D543C1BFB24730D83F16F8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dIZX0YWtFd1WFbUzojlc8y5yAkC.jpg",
+                "type": "PELICULA",
+                "descripcion": "Paddington y la familia Brown visitan a la tía Lucy en Perú, pero un misterio los envía a la selva amazónica y a las montañas peruanas",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Familia, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4QvRm83vtKpXefsA5IiViTUtnO8.png"
             },
             {
                 "name": "Super Mario Bros: La película",

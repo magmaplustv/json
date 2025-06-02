@@ -7889,18 +7889,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1lSQU8laj4fOUBt4vUj96zH17sD.png"
             },
             {
-                "name": "Scary Movie",
-                "url": "http://vedo.wvdbozpfc.com/vod/71200BD0188A41188F03F699C8AC73C7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
-                "type": "PELICULA",
-                "descripcion": "Los felizmente casados Dan y Jody empiezan a observar algunos fenómenos extraños en su casa tras volver del hospital con su bebé, Aiden. Pero cuando el caos se apodera del trabajo de Jody como bailarina de ballet y de la carrera de Dan como investigador de monos, la pareja descubre que está siendo acosada por una presencia demoníaca. Juntos, con la ayuda de expertos cualificados y de numerosas cámaras, intentarán deshacerse del maléfico ser antes de que sea demasiado tarde.",
-                "anio": "2013",
-                "duracion": "88 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7t4ze1cWi3Cb7OdnuDcooDme6qo.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pj4mI0h6NF8cyQDICeNpiE1OLNg.png"
-            },
-            {
                 "name": "Shaolin Soccer",
                 "url": "http://vedo.wvdbozpfc.com/vod/08875DA073E94269BFCCEA53259E03B0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gMqHA1CoURwncG1iKBukFtTCSrG.jpg",
@@ -7911,6 +7899,18 @@
                 "genero": "Acción, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/a9uOwyV8Dq6VSEPfeIyFVVWSJCJ.png"
+            },
+            {
+                "name": "Scary Movie",
+                "url": "http://vedo.wvdbozpfc.com/vod/71200BD0188A41188F03F699C8AC73C7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Los felizmente casados Dan y Jody empiezan a observar algunos fenómenos extraños en su casa tras volver del hospital con su bebé, Aiden. Pero cuando el caos se apodera del trabajo de Jody como bailarina de ballet y de la carrera de Dan como investigador de monos, la pareja descubre que está siendo acosada por una presencia demoníaca. Juntos, con la ayuda de expertos cualificados y de numerosas cámaras, intentarán deshacerse del maléfico ser antes de que sea demasiado tarde.",
+                "anio": "2013",
+                "duracion": "88 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7t4ze1cWi3Cb7OdnuDcooDme6qo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pj4mI0h6NF8cyQDICeNpiE1OLNg.png"
             },
             {
                 "name": "A Real Pain",

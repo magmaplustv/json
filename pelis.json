@@ -1578,18 +1578,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/e945SAPodiaL9hsggpAPG1taUbB.png"
             },
             {
-                "name": "Dos más dos",
-                "url": "http://vedo.wvdbozpfc.com/vod/18D4FDAD714441479A1642BA8523153A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2zg6WE5maWgH6rJH9BjVIesuOkP.jpg",
-                "type": "PELICULA",
-                "descripcion": "Diego, Emilia, Richard y Betina son dos parejas amigas de toda la vida. A los 40 años son exitosos profesionales. Diego y Emilia tienen un hijo de 14 años y una vida familiar organizada mientras que Richard y Betina, que no tienen hijos, llevan una vida más mundana.  Una noche de celebración Richard y Betina les confiesan a sus amigos que practican el intercambio de parejas… y que les encantaría compartir esa práctica con ellos. Esta confesión despierta las fantasías dormidas de Emilia quien le insiste a Diego para que acepten la invitación.",
-                "anio": "2012",
-                "duracion": "107 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9IcqA79TMkcHu6IQs6kkkIAO0YY.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Crímenes de familia",
                 "url": "http://vedo.wvdbozpfc.com/vod/E244273DDC8D4BAA92AB09447DE19244_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6Kex0ys4MzI6FCOlFBccrWZL0Kc.jpg",
@@ -1600,6 +1588,18 @@
                 "genero": "Suspense, Crimen, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cVdYaAQmd5DZNdo0KFJruz7JpUs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gwDjEdZDjFtpUoF1pbxOjgfcZ1d.png"
+            },
+            {
+                "name": "Dos más dos",
+                "url": "http://vedo.wvdbozpfc.com/vod/18D4FDAD714441479A1642BA8523153A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2zg6WE5maWgH6rJH9BjVIesuOkP.jpg",
+                "type": "PELICULA",
+                "descripcion": "Diego, Emilia, Richard y Betina son dos parejas amigas de toda la vida. A los 40 años son exitosos profesionales. Diego y Emilia tienen un hijo de 14 años y una vida familiar organizada mientras que Richard y Betina, que no tienen hijos, llevan una vida más mundana.  Una noche de celebración Richard y Betina les confiesan a sus amigos que practican el intercambio de parejas… y que les encantaría compartir esa práctica con ellos. Esta confesión despierta las fantasías dormidas de Emilia quien le insiste a Diego para que acepten la invitación.",
+                "anio": "2012",
+                "duracion": "107 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9IcqA79TMkcHu6IQs6kkkIAO0YY.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Inseparables",

@@ -3068,18 +3068,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dkEfjsaQ5kfVshUAIkTLuDDIk9n.png"
             },
             {
-                "name": "Popeye the Slayer Man",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168852.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/nVwu3mN7hr1yF467pGct3yQFM41.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "88 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xkjWiRQtrenqGRWO2Enry2JIl4d.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/jXaNeL88evMJIJDThLOO69TF3Nb.png"
-            },
-            {
                 "name": "Lazareth",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168856.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6J69iDonqx7sLURtwD9iOjYmr1d.jpg",
@@ -3090,6 +3078,18 @@
                 "genero": "Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/5yZIKAPCjqm8t2r19vlzuasxbOP.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/mlYc1sOsc96F7EV6fLnAE2Og4pa.png"
+            },
+            {
+                "name": "Popeye the Slayer Man",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168852.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nVwu3mN7hr1yF467pGct3yQFM41.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "88 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xkjWiRQtrenqGRWO2Enry2JIl4d.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jXaNeL88evMJIJDThLOO69TF3Nb.png"
             },
             {
                 "name": "Barbie y Teresa: La receta de la amistad",

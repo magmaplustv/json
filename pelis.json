@@ -5653,18 +5653,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/va5NU8qdUhy0tgwiqubC7jopEdU.png"
             },
             {
-                "name": "Paddington: Aventura en la selva",
-                "url": "http://vedo.wvdbozpfc.com/vod/54294BCCE2D543C1BFB24730D83F16F8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dIZX0YWtFd1WFbUzojlc8y5yAkC.jpg",
-                "type": "PELICULA",
-                "descripcion": "Paddington y la familia Brown visitan a la tía Lucy en Perú, pero un misterio los envía a la selva amazónica y a las montañas peruanas",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Familia, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4QvRm83vtKpXefsA5IiViTUtnO8.png"
-            },
-            {
                 "name": "Perdido en la montaña",
                 "url": "http://vedo.wvdbozpfc.com/vod/92FFC1C1A84D4320A650F52E473E7A87_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5RkYlk2R6oqgeFxiMtsXvo5nGri.jpg",
@@ -5675,6 +5663,18 @@
                 "genero": "Aventura, Drama, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/q8blBwffuaexW9QMNC2Pa3wqgqM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hUxDDM2VjZqlKETWq4k5g6mM5lw.png"
+            },
+            {
+                "name": "Paddington: Aventura en la selva",
+                "url": "http://vedo.wvdbozpfc.com/vod/54294BCCE2D543C1BFB24730D83F16F8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dIZX0YWtFd1WFbUzojlc8y5yAkC.jpg",
+                "type": "PELICULA",
+                "descripcion": "Paddington y la familia Brown visitan a la tía Lucy en Perú, pero un misterio los envía a la selva amazónica y a las montañas peruanas",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Familia, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4QvRm83vtKpXefsA5IiViTUtnO8.png"
             },
             {
                 "name": "Cazatesoros",

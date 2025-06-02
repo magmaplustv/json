@@ -5103,18 +5103,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/G3yN5lqWmEShs1xpCZ3rtIF26f.png"
             },
             {
-                "name": "1917",
-                "url": "http://vedo.wvdbozpfc.com/vod/E7075F88F87045A0972D8060906378BE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg",
-                "type": "PELICULA",
-                "descripcion": "1917. La Gran Guerra amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda.",
-                "anio": "2019",
-                "duracion": "119 min",
-                "genero": "Bélica, Historia, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/wwSU87KF5cqBLI4ani5vOnYIErh.png"
-            },
-            {
                 "name": "Sin novedad en el frente",
                 "url": "http://vedo.wvdbozpfc.com/vod/E165ABCF51B349A280E75BE534329B64_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vTfqiOZ4bZZZpIJp8sXT1UB6QS5.jpg",
@@ -5125,6 +5113,18 @@
                 "genero": "Bélica, Historia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/y49rcN29AFhGhPEyybGdYpYbOqm.png"
+            },
+            {
+                "name": "1917",
+                "url": "http://vedo.wvdbozpfc.com/vod/E7075F88F87045A0972D8060906378BE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg",
+                "type": "PELICULA",
+                "descripcion": "1917. La Gran Guerra amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda.",
+                "anio": "2019",
+                "duracion": "119 min",
+                "genero": "Bélica, Historia, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wwSU87KF5cqBLI4ani5vOnYIErh.png"
             },
             {
                 "name": "Corazones de acero",

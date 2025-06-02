@@ -6699,18 +6699,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "El profesor de esgrima",
-                "url": "http://vedo.wvdbozpfc.com/vod/16E422C0CB324C059E155E32DF545453_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zjM9ig1myJepw3zNlW75YKLVTBh.jpg",
-                "type": "PELICULA",
-                "descripcion": "París, 1887. En una sociedad en rápida evolución, el duelo es el último lugar donde uno puede defender su honor. Clément Lacaze, carismático maestro de esgrima, se encuentra atrapado en una espiral de violencia destructiva. Conoce a Marie-Rose Astié, una feminista adelantada a su tiempo, y decide enseñarle el complejo arte del duelo. Enfrentarán provocaciones y se unirán para defender su respectivo honor.",
-                "anio": "2023",
-                "duracion": "100 min",
-                "genero": "Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j8ndWRvcIGhmTyDeBNeCakH4Xdr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/3iPTgKK1SjfiXYsdACxGzzlYUgZ.png"
-            },
-            {
                 "name": "La mitad de Ana",
                 "url": "http://vedo.wvdbozpfc.com/vod/DF19DEBFDC874EDDB7BEA2E333F616B2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z9MU1BtnhHooojObwlg3DD6vo2A.jpg",
@@ -6721,6 +6709,18 @@
                 "genero": "Drama",
                 "duracion": "89 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El profesor de esgrima",
+                "url": "http://vedo.wvdbozpfc.com/vod/16E422C0CB324C059E155E32DF545453_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zjM9ig1myJepw3zNlW75YKLVTBh.jpg",
+                "type": "PELICULA",
+                "descripcion": "París, 1887. En una sociedad en rápida evolución, el duelo es el último lugar donde uno puede defender su honor. Clément Lacaze, carismático maestro de esgrima, se encuentra atrapado en una espiral de violencia destructiva. Conoce a Marie-Rose Astié, una feminista adelantada a su tiempo, y decide enseñarle el complejo arte del duelo. Enfrentarán provocaciones y se unirán para defender su respectivo honor.",
+                "anio": "2023",
+                "duracion": "100 min",
+                "genero": "Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j8ndWRvcIGhmTyDeBNeCakH4Xdr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3iPTgKK1SjfiXYsdACxGzzlYUgZ.png"
             },
             {
                 "name": "Daria",

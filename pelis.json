@@ -3642,18 +3642,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jWq69FzSABwWg3A1nHGAylNwCWw.png"
             },
             {
-                "name": "Chicos de hielo en el trópico",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171075.ts",
-                "icono": "https://image.tmdb.org/t/p/original/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg",
-                "type": "PELICULA",
-                "descripcion": "Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón.",
-                "anio": "2025",
-                "duracion": "118 min",
-                "genero": "Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fUAIZBOvE01SDJnftmOm4UT2wAU.png"
-            },
-            {
                 "name": "Lo mejor del mundo",
                 "url": "http://vedo.wvdbozpfc.com/vod/D2A90FDF322D4525A74AC3973EF1C072_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
@@ -3664,6 +3652,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Chicos de hielo en el trópico",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171075.ts",
+                "icono": "https://image.tmdb.org/t/p/original/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg",
+                "type": "PELICULA",
+                "descripcion": "Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón.",
+                "anio": "2025",
+                "duracion": "118 min",
+                "genero": "Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fUAIZBOvE01SDJnftmOm4UT2wAU.png"
             },
             {
                 "name": "A prueba",

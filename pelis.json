@@ -762,6 +762,18 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
+            },
+            {
+                "name": "Into the Deep",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405176.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tHkFVhZji6o9UyHXezAeFma8IOW.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/804DmpPKcL9sTz2DQRY1HYBGKJk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/a80lrPLA5CzXrz9RS3A3AoKmIlw.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Acción, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

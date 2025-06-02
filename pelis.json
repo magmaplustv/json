@@ -2631,18 +2631,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
             },
             {
-                "name": "Supervillanos: la investigación",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una exploración en profundidad de los supervillanos a lo largo de la historia de los cómics, este documental francés se enfoca en las complejas motivaciones, orígenes y moral detrás de estos personajes siniestros pero fascinantes.",
-                "anio": "2023",
-                "duracion": "63 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
-            },
-            {
                 "name": "La estafa (Bad Education)",
                 "url": "http://vedo.wvdbozpfc.com/vod/59535D5B7EBA43D6AE711493E1490DDD_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5dDudXVz3WbzOM1QfclGMvluOZ9.jpg",
@@ -2653,6 +2641,18 @@
                 "genero": "Drama, Crimen, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/fqMVYlO02NDa4EbCxbpsp3ZSA4a.png"
+            },
+            {
+                "name": "Supervillanos: la investigación",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una exploración en profundidad de los supervillanos a lo largo de la historia de los cómics, este documental francés se enfoca en las complejas motivaciones, orígenes y moral detrás de estos personajes siniestros pero fascinantes.",
+                "anio": "2023",
+                "duracion": "63 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
             },
             {
                 "name": "Pie Pequeño",

@@ -2607,18 +2607,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
             },
             {
-                "name": "Parásitos",
-                "url": "http://vedo.wvdbozpfc.com/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-                "anio": "2019",
-                "duracion": "132 min",
-                "genero": "Comedia, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-            },
-            {
                 "name": "Supervillanos: la investigación",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
@@ -2629,6 +2617,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
+            },
+            {
+                "name": "Parásitos",
+                "url": "http://vedo.wvdbozpfc.com/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+                "anio": "2019",
+                "duracion": "132 min",
+                "genero": "Comedia, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
             },
             {
                 "name": "Escapada de espanto",

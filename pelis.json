@@ -6675,6 +6675,18 @@
         "name": "⭐️Drama⭐️",
         "samples": [
             {
+                "name": "HIERVE (UMAMI)",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405196.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/h40GMBkxXmU0aar8IAv9MmM3ZDB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mnrqxJaBMLGmqJKlq2UfFZFDdSr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/88C99IbpgPiWjt8hg51eZBluPQX.png",
+                "descripcion": "El chef y propietario Sina Bora lidia con desafíos personales y profesionales en una de las noches más concurridas de su restaurante. La operación urgente de su padre, ingredientes perdidos, tensiones entre el personal y la pretensión de control de su mentor Renzo obligan a Sina a tomar decisiones difíciles.",
+                "anio": "2025",
+                "genero": "Drama",
+                "duracion": "120 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Marie Curie",
                 "url": "http://vedo.wvdbozpfc.com/vod/A7E7E67DF2ED4CEE9F75C064AF39DF91_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/deQF63CxP3NtahOZ9fEjdyCZK3t.jpg",
@@ -6894,18 +6906,6 @@
                 "name": "One Chicago Crossover Event",
                 "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "HIERVE (UMAMI)",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405196.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/h40GMBkxXmU0aar8IAv9MmM3ZDB.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mnrqxJaBMLGmqJKlq2UfFZFDdSr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/88C99IbpgPiWjt8hg51eZBluPQX.png",
-                "descripcion": "El chef y propietario Sina Bora lidia con desafíos personales y profesionales en una de las noches más concurridas de su restaurante. La operación urgente de su padre, ingredientes perdidos, tensiones entre el personal y la pretensión de control de su mentor Renzo obligan a Sina a tomar decisiones difíciles.",
-                "anio": "2025",
-                "genero": "Drama",
-                "duracion": "120 min",
                 "type": "PELICULA"
             }
         ]

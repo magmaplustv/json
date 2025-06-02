@@ -2290,18 +2290,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Seis Triple Ocho",
-                "url": "http://vedo.wvdbozpfc.com/vod/F87CAC4C8FBA4C5D9E56A301FED8257B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
-                "type": "PELICULA",
-                "descripcion": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de diecisiete millones de piezas de correo.",
-                "anio": "2024",
-                "duracion": "130 min",
-                "genero": "Drama, Bélica, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6FFu2e5qECWHADmOjSmsAFvCkD1.png"
-            },
-            {
                 "name": "La Trampa",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3F13A5256A148B2AFE453FB6E571EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
@@ -2312,6 +2300,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Ldp4JHqZ2zjCKCKkofsZXX30tQ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Seis Triple Ocho",
+                "url": "http://vedo.wvdbozpfc.com/vod/F87CAC4C8FBA4C5D9E56A301FED8257B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
+                "type": "PELICULA",
+                "descripcion": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de diecisiete millones de piezas de correo.",
+                "anio": "2024",
+                "duracion": "130 min",
+                "genero": "Drama, Bélica, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6FFu2e5qECWHADmOjSmsAFvCkD1.png"
             },
             {
                 "name": "Smile 2",

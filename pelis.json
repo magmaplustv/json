@@ -253,18 +253,6 @@
                 "genero": "Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xFPtZRyFBU8oxeImTEh2rexzPXa.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yULFZA96COBNudNneMM5QKhoi3T.png"
-            },
-            {
-                "name": "सहेला रे",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405187.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mSSRVmeehxXtYEoVvQH7kARwxBf.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sQztbOpWFqlgb1yo7N0O9O2CrN7.jpg",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2022",
-                "genero": "Drama",
-                "duracion": "117 min",
-                "type": "PELICULA"
             }
         ]
     },

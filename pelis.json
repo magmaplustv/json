@@ -6574,18 +6574,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jCj8k0ycjRobNHFhZm1Qmxbd2gj.png"
             },
             {
-                "name": "Leal",
-                "url": "http://vedo.wvdbozpfc.com/vod/B10F8FADAB0E4C7F9F3D12F171E96705_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un ministro recién designado y un par de hombres de su  confianza reclutan a los mejores comandos para conformar un grupo de  Operaciones Especiales con el fin de desbaratar una organización criminal. Con  reportes de Inteligencia, el cuerpo antidrogas emprende una serie de operaciones  de precisión, golpeando sorpresivamente a los narcos.",
-                "anio": "2018",
-                "duracion": "107 min",
-                "genero": "Acción, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iMtRC0Fo9SWR1quSHGrJKJltzfG.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Calendario mortal",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DBD08D6A825401C86B628BBD8EF42CA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg",
@@ -6596,6 +6584,18 @@
                 "genero": "Crimen, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/m9c9H2puKOWSPfuUAnIIKXPMe9j.png"
+            },
+            {
+                "name": "Leal",
+                "url": "http://vedo.wvdbozpfc.com/vod/B10F8FADAB0E4C7F9F3D12F171E96705_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un ministro recién designado y un par de hombres de su  confianza reclutan a los mejores comandos para conformar un grupo de  Operaciones Especiales con el fin de desbaratar una organización criminal. Con  reportes de Inteligencia, el cuerpo antidrogas emprende una serie de operaciones  de precisión, golpeando sorpresivamente a los narcos.",
+                "anio": "2018",
+                "duracion": "107 min",
+                "genero": "Acción, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iMtRC0Fo9SWR1quSHGrJKJltzfG.jpg",
+                "iconpng": ""
             },
             {
                 "name": "La semilla de la higuera sagrada",

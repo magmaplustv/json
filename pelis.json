@@ -2362,18 +2362,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8ZRWGE33oRlcbRFsx3gvd5vELhG.png"
             },
             {
-                "name": "Nos vemos la próxima Navidad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
-                "anio": "2024",
-                "duracion": "105 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
-            },
-            {
                 "name": "María",
                 "url": "http://vedo.wvdbozpfc.com/vod/AB03365D177248DCB1BA3740EEEEF7E6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg",
@@ -2384,6 +2372,18 @@
                 "genero": "Acción, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4mCzkDzNvIJYIQscGFTeqZHNDra.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
+                "anio": "2024",
+                "duracion": "105 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
             },
             {
                 "name": "Culpa tuya",

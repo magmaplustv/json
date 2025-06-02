@@ -7190,6 +7190,18 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
+                "name": "The Moor",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405845.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5l3MJjjCWl8GXXNWC7rCMmaB71g.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5czIa6TUyMrtldHGXVZNEjnjbjC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iKX94SgolpMD5LqYurCFRWdhrGO.png",
+                "descripcion": "El padre de un amigo de la infancia asesinado pide ayuda a Claire para investigar el páramo encantado donde cree que descansa su hijo.",
+                "anio": "2024",
+                "genero": "Terror, Misterio, Drama",
+                "duracion": "120 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Diabólica",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405847.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg",
@@ -7650,18 +7662,6 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aX3Od8NVLgM7pMYgRpTPkwSrbSC.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iiss10zFigU9UrIG5tLoZL0fEbH.png"
-            },
-            {
-                "name": "The Moor",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405845.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/5l3MJjjCWl8GXXNWC7rCMmaB71g.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5czIa6TUyMrtldHGXVZNEjnjbjC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iKX94SgolpMD5LqYurCFRWdhrGO.png",
-                "descripcion": "El padre de un amigo de la infancia asesinado pide ayuda a Claire para investigar el páramo encantado donde cree que descansa su hijo.",
-                "anio": "2024",
-                "genero": "Terror, Misterio, Drama",
-                "duracion": "120 min",
-                "type": "PELICULA"
             }
         ]
     },

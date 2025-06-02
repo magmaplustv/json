@@ -1907,6 +1907,18 @@
         "name": "⚡️⭐️Pedidos 2025⭐️",
         "samples": [
             {
+                "name": "Perdido",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406208.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jbF5D8Tx18HwIj25Ibr3HUKzuxq.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bqVasUkrNnrflslWd4aYcfHXloc.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2021",
+                "genero": "Drama, Animación",
+                "duracion": "",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Yo soy la venganza",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430864.ts",
                 "icono": "https://image.tmdb.org/t/p/original/3KawNznHOhYKQLLeZdbRhKJbfXp.jpg",
@@ -2048,18 +2060,6 @@
                 "anio": "1995",
                 "genero": "Animación, Acción, Ciencia ficción",
                 "duracion": "50 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Perdido",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406208.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/jbF5D8Tx18HwIj25Ibr3HUKzuxq.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bqVasUkrNnrflslWd4aYcfHXloc.jpg",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2021",
-                "genero": "Drama, Animación",
-                "duracion": "",
                 "type": "PELICULA"
             }
         ]

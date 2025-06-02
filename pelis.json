@@ -253,6 +253,18 @@
                 "genero": "Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
+            },
+            {
+                "name": "El hombre del saco",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406159.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mpdSrcuGctWLdHsuil27x58VAWI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gmYpUbSGOwmZnevCr0iwLEYdpVB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v1l7vCVOaft4kF6Bmbgbk7YSgNs.png",
+                "descripcion": "Durante siglos, los padres han advertido a sus hijos sobre el temible Hombre del Saco, un ser maligno que rapta a niños inocentes y los aparta para siempre de sus familias. Patrick (Sam Claflin) escapó de sus garras por los pelos en su infancia, pero el trauma que le generó aquel encuentro le ha perseguido desde entonces. Tras mudarse a su antigua casa familiar con su esposa e hijo, Patrick descubrirá que la tenebrosa criatura continúa allí, acechando sus pesadillas y amenazando con arrebatarle aquello que más quiere en el mundo.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

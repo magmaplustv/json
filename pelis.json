@@ -1458,18 +1458,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/wT7IijtrtWg8Hc2oDjXGWaOXMak.png"
             },
             {
-                "name": "Puan",
-                "url": "http://vedo.wvdbozpfc.com/vod/731F62DBA1B44099BD8E932A53015AB5_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vtCU7HDpZtpyMOvPeZWBz45hQ8f.jpg",
-                "type": "PELICULA",
-                "descripcion": "Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UBA de la calle Puan. Tras la muerte de su mentor, el venerable profesor Caselli, se ha abierto una brutal e inesperada rivalidad por la cátedra con Rafael Sujarchuk, un antiguo discípulo de Caselli que vuelve de Alemania.",
-                "anio": "2023",
-                "duracion": "107 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1TJgdDUWfeeyHqagLY77A88Y3Cq.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Elefante blanco",
                 "url": "http://vedo.wvdbozpfc.com/vod/92B3C0DEDDC54FBA991457931C7A38DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aAUQfrFww2C2qdCEB8YtOqgNiil.jpg",
@@ -1479,6 +1467,18 @@
                 "duracion": "180 min",
                 "genero": "Aventura",
                 "iconoHorizontal": "",
+                "iconpng": ""
+            },
+            {
+                "name": "Puan",
+                "url": "http://vedo.wvdbozpfc.com/vod/731F62DBA1B44099BD8E932A53015AB5_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vtCU7HDpZtpyMOvPeZWBz45hQ8f.jpg",
+                "type": "PELICULA",
+                "descripcion": "Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UBA de la calle Puan. Tras la muerte de su mentor, el venerable profesor Caselli, se ha abierto una brutal e inesperada rivalidad por la cátedra con Rafael Sujarchuk, un antiguo discípulo de Caselli que vuelve de Alemania.",
+                "anio": "2023",
+                "duracion": "107 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1TJgdDUWfeeyHqagLY77A88Y3Cq.jpg",
                 "iconpng": ""
             },
             {

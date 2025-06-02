@@ -6879,12 +6879,6 @@
                 "iconpng": ""
             },
             {
-                "name": "One Chicago Crossover Event",
-                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "El más allá",
                 "url": "http://vedo.wvdbozpfc.com/vod/A8495F9634E949629D3D88FB45DD9A60_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uLbFoMTwi3vDzUfNpg1Va19F7HC.jpg",
@@ -6895,6 +6889,12 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/gJduZE3cAmLVQknEfiR5t0vT4Ie.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eULzPpc8gXz0YZMK36vpmbViwsj.png"
+            },
+            {
+                "name": "One Chicago Crossover Event",
+                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Oh, Canada",

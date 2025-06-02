@@ -4115,18 +4115,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xFMF0TlvUkwyPF2b5H4pO1MyN7f.png"
             },
             {
-                "name": "Independence Day: Contraataque",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164222.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/f56cB64d5tuRa07hnHbMvON35H5.jpg",
-                "type": "PELICULA",
-                "descripcion": "Utilizando la tecnología que los extraterrestres tenían 20 años antes, las naciones de la Tierra, que temen el regreso de los invasores, han colaborado en la elaboración de un gigantesco programa de defensa para proteger el planeta. Pero no es seguro que ese programa sirva para hacer frente a los avanzados e inauditos recursos de los atacantes. Quizá sólo la inventiva de unos pocos valientes pueda evitar la destrucción del mundo, que se encuentra de nuevo al borde de la extinción. Secuela del gran éxito de 1996 \"Independence Day\".",
-                "anio": "2016",
-                "duracion": "120 min",
-                "genero": "Acción, Aventura, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pgJUufiR3lNlgZmxsTqRk929ucH.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8ihFkFuSLspJphDs7knGhgdPbg1.png"
-            },
-            {
                 "name": "Deepwater Horizon: In Their Own Words",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
@@ -4137,6 +4125,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8xOjlWW9qj83b9ESkhhqZODzPeZ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Independence Day: Contraataque",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164222.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/f56cB64d5tuRa07hnHbMvON35H5.jpg",
+                "type": "PELICULA",
+                "descripcion": "Utilizando la tecnología que los extraterrestres tenían 20 años antes, las naciones de la Tierra, que temen el regreso de los invasores, han colaborado en la elaboración de un gigantesco programa de defensa para proteger el planeta. Pero no es seguro que ese programa sirva para hacer frente a los avanzados e inauditos recursos de los atacantes. Quizá sólo la inventiva de unos pocos valientes pueda evitar la destrucción del mundo, que se encuentra de nuevo al borde de la extinción. Secuela del gran éxito de 1996 \"Independence Day\".",
+                "anio": "2016",
+                "duracion": "120 min",
+                "genero": "Acción, Aventura, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pgJUufiR3lNlgZmxsTqRk929ucH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8ihFkFuSLspJphDs7knGhgdPbg1.png"
             },
             {
                 "name": "Dioses de Egipto",

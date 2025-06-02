@@ -7100,18 +7100,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hIpUuEYgmTXJqGXfcZfDmoJGq93.png"
             },
             {
-                "name": "Anatema",
-                "url": "http://vedo.wvdbozpfc.com/vod/66D69980E6CB486A8426463123940310_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4akd1zxzCUdow2gXX1ovbRE3ZoO.jpg",
-                "type": "PELICULA",
-                "descripcion": "Juana es una monja de fuerte carácter marcada por una experiencia paranormal. Un misterioso encargo del Arzobispado la llevará hasta una antigua iglesia del viejo Madrid, construida sobre un entramado de pasadizos de origen desconocido. Allí Juana descubrirá que en las entrañas del edificio hay algo anterior a las leyendas que se explican sobre aquel lugar. Y el Mal que allí habita ha empezado a infectar el exterior.",
-                "anio": "2024",
-                "duracion": "91 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fd9UQXNTGKN72ORe5BkUmnUQRf2.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hK6m36CnZ5AfiaB0LwM4vWnSqOC.png"
-            },
-            {
                 "name": "Nunca apagues la luz",
                 "url": "http://vedo.wvdbozpfc.com/vod/66B14BE465AB46C88FF5BB3509A302C8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
@@ -7122,6 +7110,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tFciXMK1OroUYWscZOmTKMOoCUH.png"
+            },
+            {
+                "name": "Anatema",
+                "url": "http://vedo.wvdbozpfc.com/vod/66D69980E6CB486A8426463123940310_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4akd1zxzCUdow2gXX1ovbRE3ZoO.jpg",
+                "type": "PELICULA",
+                "descripcion": "Juana es una monja de fuerte carácter marcada por una experiencia paranormal. Un misterioso encargo del Arzobispado la llevará hasta una antigua iglesia del viejo Madrid, construida sobre un entramado de pasadizos de origen desconocido. Allí Juana descubrirá que en las entrañas del edificio hay algo anterior a las leyendas que se explican sobre aquel lugar. Y el Mal que allí habita ha empezado a infectar el exterior.",
+                "anio": "2024",
+                "duracion": "91 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fd9UQXNTGKN72ORe5BkUmnUQRf2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hK6m36CnZ5AfiaB0LwM4vWnSqOC.png"
             },
             {
                 "name": "Oddity",

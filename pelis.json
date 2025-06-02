@@ -3020,6 +3020,18 @@
                 "genero": "Animación, Acción, Aventura, Ciencia ficción",
                 "duracion": "110 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tu madre o la mía: Guerra de suegras",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405820.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cPeFaSGkPGfq8Mcs6ebWWzZDYiK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bfd2UcK9iSL2JzVEuY8mNzCceHP.jpg",
+                "iconpng": "",
+                "descripcion": "Paco y Regina van a casarse, pero no saben que eso desatará una lucha entre sus madres por ver quién decide hasta el mínimo detalle de la boda. Carmen, la madre de Paco, es una experta en el chantaje sentimental para conseguir lo que quiere. Mientras que Catalina, la madre de Regina, es una experta en usar sus contactos para presionar y extorsionar a la gente hasta que se cumpla su más mínimo capricho. La lucha de ambas desata una batalla de proporciones épicas, donde no quedará nada en pie.",
+                "anio": "2024",
+                "genero": "Comedia",
+                "duracion": "84 min",
+                "type": "PELICULA"
             }
         ]
     },

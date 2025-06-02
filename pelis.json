@@ -2218,18 +2218,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png"
             },
             {
-                "name": "El juego del asesino",
-                "url": "http://vedo.wvdbozpfc.com/vod/71E1A12DB2CE4C6C97A869DDDC8499AD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg",
-                "type": "PELICULA",
-                "descripcion": "Joe Flood, un sicario con enfermedad terminal, contrata a un asesino para acabar con su vida. Tras descubrir que su diagnóstico era erróneo, debe enfrentarse a antiguos colegas que intentan matarlo.",
-                "anio": "2024",
-                "duracion": "104 min",
-                "genero": "Acción, Comedia, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zGLQmrmIB56kMZPnzqReIOBay1B.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gGaahwQTlCgGwOlPcFX3hqKztg7.png"
-            },
-            {
                 "name": "Romper el círculo",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3996E888F864D1197BF6F6122B0ECC7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
@@ -2240,6 +2228,18 @@
                 "genero": "Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/48AUIelLTC7UpjyKreojMBD23dx.png"
+            },
+            {
+                "name": "El juego del asesino",
+                "url": "http://vedo.wvdbozpfc.com/vod/71E1A12DB2CE4C6C97A869DDDC8499AD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg",
+                "type": "PELICULA",
+                "descripcion": "Joe Flood, un sicario con enfermedad terminal, contrata a un asesino para acabar con su vida. Tras descubrir que su diagnóstico era erróneo, debe enfrentarse a antiguos colegas que intentan matarlo.",
+                "anio": "2024",
+                "duracion": "104 min",
+                "genero": "Acción, Comedia, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zGLQmrmIB56kMZPnzqReIOBay1B.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gGaahwQTlCgGwOlPcFX3hqKztg7.png"
             },
             {
                 "name": "Una Navidad patas arriba",

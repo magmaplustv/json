@@ -3954,18 +3954,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eXdV1QI8btQcVisNoCALqUvr4F2.png"
             },
             {
-                "name": "Dhoom Dhaam",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169697.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
-                "type": "PELICULA",
-                "descripcion": "Durante su noche de bodas, una pareja muy peculiar trata de esquivar a matones y policías tras verse envuelta en la frenética búsqueda del misterioso «Charlie».",
-                "anio": "2025",
-                "duracion": "109 min",
-                "genero": "Comedia, Romance, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nLgrzPEBAOBPOW9sDZzZJXoCimo.png"
-            },
-            {
                 "name": "Inheritance",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169700.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
@@ -3976,6 +3964,18 @@
                 "genero": "Drama, Misterio, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/b8EeJnKkjatM3b0dvWpQOKNf0vN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/etrtzy17JJ4gfBApci0odllbsBO.png"
+            },
+            {
+                "name": "Dhoom Dhaam",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169697.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+                "type": "PELICULA",
+                "descripcion": "Durante su noche de bodas, una pareja muy peculiar trata de esquivar a matones y policías tras verse envuelta en la frenética búsqueda del misterioso «Charlie».",
+                "anio": "2025",
+                "duracion": "109 min",
+                "genero": "Comedia, Romance, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nLgrzPEBAOBPOW9sDZzZJXoCimo.png"
             },
             {
                 "name": "No te muevas",

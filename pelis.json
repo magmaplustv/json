@@ -4786,18 +4786,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png"
             },
             {
-                "name": "Alvin y las ardillas",
-                "url": "http://vedo.wvdbozpfc.com/vod/CC52751D9B7E4A568285426710853838_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xpInKihOnJZ9QePD5letvwDV9W8.jpg",
-                "type": "PELICULA",
-                "descripcion": "Las ardillas más famosas y divertidas del cine regresan a la gran pantalla para protagonizar una nueva aventura. En ella, Alvin y sus compañeros deben enfrentarse a la presión de la escuela, a los problemas de la celebridad y a un grupo de chicas ardilla que les está haciendo la competencia",
-                "anio": "2009",
-                "duracion": "88 min",
-                "genero": "Comedia, Familia, Animación, Fantasía, Música",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vjbi4V0cGAHGlBYapsLtSxV0cMf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1oaLcOs2GGT6SjWZy1eMwvRNRdF.png"
-            },
-            {
                 "name": "Batman: El regreso de los cruzados enmascarados",
                 "url": "http://vedo.wvdbozpfc.com/vod/06C6C486770347F496FDFF137EA13E23_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/juHiAq7lvRoaEiBYXn2B8XAANs2.jpg",
@@ -4808,6 +4796,18 @@
                 "genero": "Acción, Animación, Aventura, Crimen, Ciencia ficción, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oBwzYKdcbT7K8CEkKDbTspPAJkG.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/3nNeUetZlelxekXYgRcfBc9Awv5.png"
+            },
+            {
+                "name": "Alvin y las ardillas",
+                "url": "http://vedo.wvdbozpfc.com/vod/CC52751D9B7E4A568285426710853838_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xpInKihOnJZ9QePD5letvwDV9W8.jpg",
+                "type": "PELICULA",
+                "descripcion": "Las ardillas más famosas y divertidas del cine regresan a la gran pantalla para protagonizar una nueva aventura. En ella, Alvin y sus compañeros deben enfrentarse a la presión de la escuela, a los problemas de la celebridad y a un grupo de chicas ardilla que les está haciendo la competencia",
+                "anio": "2009",
+                "duracion": "88 min",
+                "genero": "Comedia, Familia, Animación, Fantasía, Música",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vjbi4V0cGAHGlBYapsLtSxV0cMf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1oaLcOs2GGT6SjWZy1eMwvRNRdF.png"
             },
             {
                 "name": "Antz (Hormigaz)",

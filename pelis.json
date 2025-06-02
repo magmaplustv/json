@@ -339,18 +339,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dj6tid46szdkoChXrkaanqDb63k.png"
             },
             {
-                "name": "Bridget Jones: Loca por él",
-                "url": "http://vedo.wvdbozpfc.com/vod/6811D433F96F45A0918ACF490BB2B68D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
-                "type": "PELICULA",
-                "descripcion": "Bridget está sola después de enviudar hace cuatro años y se encuentra en una especie de limbo emocional mientras cuida a los niños con la ayuda de sus mejores amigos y de un antiguo amante, Daniel Cleaver. Presionada por su familia urbana, Bridget se siente obligada a interesarse por la vida y el amor.",
-                "anio": "2025",
-                "duracion": "124 min",
-                "genero": "Romance, Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
-            },
-            {
                 "name": "La acompañante",
                 "url": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
@@ -361,6 +349,18 @@
                 "genero": "Terror, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
+            },
+            {
+                "name": "Bridget Jones: Loca por él",
+                "url": "http://vedo.wvdbozpfc.com/vod/6811D433F96F45A0918ACF490BB2B68D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
+                "type": "PELICULA",
+                "descripcion": "Bridget está sola después de enviudar hace cuatro años y se encuentra en una especie de limbo emocional mientras cuida a los niños con la ayuda de sus mejores amigos y de un antiguo amante, Daniel Cleaver. Presionada por su familia urbana, Bridget se siente obligada a interesarse por la vida y el amor.",
+                "anio": "2025",
+                "duracion": "124 min",
+                "genero": "Romance, Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
             },
             {
                 "name": "Revelación",

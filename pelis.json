@@ -2750,6 +2750,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Sobre la ley del Crimen",
+                "url": "http://vedo.wvdbozpfc.com/vod/4E7F2FD774E745D5AC0EE3D2EB008464_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5NPSFsKbv6zB3tgC5mm6kNmxlFK.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Until Dawn: Noche de terror",
                 "url": "http://vedo.wvdbozpfc.com/vod/1ABEEA13C8C345488A373E42572849DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/myNjx5DRj6UvROSlV6t4FuvcTLm.jpg",
@@ -2760,12 +2766,6 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/opSyE1w2QzskFAko0JHtiSrBY6e.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/seWw0gCtRd2CvukwM4QcaRsouMI.png"
-            },
-            {
-                "name": "Sobre la ley del Crimen",
-                "url": "http://vedo.wvdbozpfc.com/vod/4E7F2FD774E745D5AC0EE3D2EB008464_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5NPSFsKbv6zB3tgC5mm6kNmxlFK.jpg",
-                "type": "PELICULA"
             },
             {
                 "name": "Vidas Paralelas",

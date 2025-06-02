@@ -2876,6 +2876,18 @@
                 "genero": "Ciencia ficción, Drama",
                 "duracion": "91 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La bestia oculta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405841.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/93UF8VTfs2l7YbfD2ameXykWSPy.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qulnQ3Q4TcQuOqKbIlfqkJ4vh9g.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yMQ4ZFjnVIr7S6Rd2HpKRMlMLdN.png",
+                "descripcion": "Tras una serie de extraños sucesos que la llevan a cuestionarse la vida aislada de su familia en un recinto fortificado en lo profundo de la selva inglesa, Willow, de 10 años, sigue a sus padres en una de sus excursiones secretas nocturnas al corazón del antiguo bosque. Pero al ver a su padre sufrir una terrible transformación, ella también se ve atrapada por el oscuro secreto ancestral que han intentado ocultar tan desesperadamente.",
+                "anio": "2024",
+                "genero": "Terror, Drama, Suspense",
+                "duracion": "97 min",
+                "type": "PELICULA"
             }
         ]
     },

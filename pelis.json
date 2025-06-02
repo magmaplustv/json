@@ -3666,18 +3666,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Chicos de hielo en el trópico",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171075.ts",
-                "icono": "https://image.tmdb.org/t/p/original/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg",
-                "type": "PELICULA",
-                "descripcion": "Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón.",
-                "anio": "2025",
-                "duracion": "118 min",
-                "genero": "Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fUAIZBOvE01SDJnftmOm4UT2wAU.png"
-            },
-            {
                 "name": "La madre de las estafas",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169909.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tTmm4roxrc4TlU3cxGSC6e7ueaP.jpg",
@@ -3688,6 +3676,18 @@
                 "genero": "Documental, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/uLiSmZ9fgPUXervqksgrwvrrjfM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lOBqP3KQGS3dYd0vussTF7JeEPn.png"
+            },
+            {
+                "name": "Chicos de hielo en el trópico",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171075.ts",
+                "icono": "https://image.tmdb.org/t/p/original/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg",
+                "type": "PELICULA",
+                "descripcion": "Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón.",
+                "anio": "2025",
+                "duracion": "118 min",
+                "genero": "Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fUAIZBOvE01SDJnftmOm4UT2wAU.png"
             },
             {
                 "name": "La pena máxima 2",

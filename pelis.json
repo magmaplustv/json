@@ -3906,18 +3906,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hNNkbUDmAc9rf2ksWFhHBlqsReN.png"
             },
             {
-                "name": "Delicia",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169709.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg",
-                "type": "PELICULA",
-                "descripcion": "Felisa llega para ocupar una vacante de enfermera. El director del hospital le conseguirá un lugar donde vivir. A cambio, le pedirá una colaboración en las tareas de su casa. Dos almas solitarias que se encuentran para torcer sus destinos, en un pueblo donde nunca pasaba nada, hasta ese momento.",
-                "anio": "2017",
-                "duracion": "101 min",
-                "genero": "Romance, Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La culpa no es mía",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169706.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",
@@ -3928,6 +3916,18 @@
                 "genero": "Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rFKbPDXBzgn4eYBdJXaAPEYIcyA.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eIERZn2jRAbPRjZMEer9i7Pu617.png"
+            },
+            {
+                "name": "Delicia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169709.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg",
+                "type": "PELICULA",
+                "descripcion": "Felisa llega para ocupar una vacante de enfermera. El director del hospital le conseguirá un lugar donde vivir. A cambio, le pedirá una colaboración en las tareas de su casa. Dos almas solitarias que se encuentran para torcer sus destinos, en un pueblo donde nunca pasaba nada, hasta ese momento.",
+                "anio": "2017",
+                "duracion": "101 min",
+                "genero": "Romance, Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "De vuelta a la acción",

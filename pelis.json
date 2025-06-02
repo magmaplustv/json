@@ -6914,18 +6914,6 @@
         "name": "⭐️⭐️Terror⭐️⭐️",
         "samples": [
             {
-                "name": "Jugaremos en el bosque",
-                "url": "http://vedo.wvdbozpfc.com/vod/D3C14C82CBF542E3A39C5015D7089EA9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eBSl9nGymidAyEBdJGADnnm7JKt.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ik0BMq1s9qGDKEQW1jh7C6Aycbk.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Poseída",
                 "url": "http://vedo.wvdbozpfc.com/vod/5B45B8F0B06D4693910ECB645FE8A9D3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nHNwBOccmQ7rK9yQI1HUSnHm1Ny.jpg",
@@ -6936,6 +6924,18 @@
                 "genero": "Terror, Misterio",
                 "duracion": "88 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jugaremos en el bosque",
+                "url": "http://vedo.wvdbozpfc.com/vod/D3C14C82CBF542E3A39C5015D7089EA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eBSl9nGymidAyEBdJGADnnm7JKt.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ik0BMq1s9qGDKEQW1jh7C6Aycbk.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Parásito",

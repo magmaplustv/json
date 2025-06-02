@@ -4211,18 +4211,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Deadpool 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164229.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
-                "type": "PELICULA",
-                "descripcion": "Wade Wilson, mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso y en esta ocasión su misión será salvar a un chico llamado Russell de las manos de un poderoso rival llamado Cable. En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force. Secuela de la exitosa película Deadpool (2016), parodia de los superhéroes mutantes.",
-                "anio": "2018",
-                "duracion": "123 min",
-                "genero": "Acción, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png"
-            },
-            {
                 "name": "Doctor Extraño: El hechicero supremo",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164267.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
@@ -4233,6 +4221,18 @@
                 "genero": "Acción, Animación, Fantasía, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tvHf8vBxy68NHPxWADPh40qK181.png"
+            },
+            {
+                "name": "Deadpool 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164229.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
+                "type": "PELICULA",
+                "descripcion": "Wade Wilson, mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso y en esta ocasión su misión será salvar a un chico llamado Russell de las manos de un poderoso rival llamado Cable. En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force. Secuela de la exitosa película Deadpool (2016), parodia de los superhéroes mutantes.",
+                "anio": "2018",
+                "duracion": "123 min",
+                "genero": "Acción, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png"
             },
             {
                 "name": "El rey Mono 2",

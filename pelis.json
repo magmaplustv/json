@@ -351,18 +351,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
             },
             {
-                "name": "Z Zone",
-                "url": "http://vedo.wvdbozpfc.com/vod/98292940A73D4D40ADF31D11CE46F9D3_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg",
-                "type": "PELICULA",
-                "descripcion": "En un rincón remoto del mundo, un grupo de jóvenes con problemas se encuentra llevado a una misteriosa base militar después de una serie de mal comportamiento. Esperando poco más que una severa reprimenda, en su lugar se les lleva a un mundo de secretos y sombras. En una intención desesperada por la libertad, deben desentrañar los misterios de la base y confrontar a las siniestras fuerzas que acechan en las sombras. Pero con el tiempo agotado y el peligro que acecha en cada esquina, las probabilidades de supervivencia se vuelven más delgadas por minuto. Coraje, fuerza y ​​sacrificio, ¿finalmente escaparían de las garras de la base y salen de la oscuridad a la luz?",
-                "anio": "2024",
-                "duracion": "83 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/19pr5CzgsBYs67FAJvke8GQxN4g.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/98DBKpODK0NEOpIq0Ogkzon1vG6.png"
-            },
-            {
                 "name": "Capitán América: Un nuevo mundo",
                 "url": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
@@ -373,6 +361,18 @@
                 "genero": "Acción, Suspense, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png"
+            },
+            {
+                "name": "Z Zone",
+                "url": "http://vedo.wvdbozpfc.com/vod/98292940A73D4D40ADF31D11CE46F9D3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg",
+                "type": "PELICULA",
+                "descripcion": "En un rincón remoto del mundo, un grupo de jóvenes con problemas se encuentra llevado a una misteriosa base militar después de una serie de mal comportamiento. Esperando poco más que una severa reprimenda, en su lugar se les lleva a un mundo de secretos y sombras. En una intención desesperada por la libertad, deben desentrañar los misterios de la base y confrontar a las siniestras fuerzas que acechan en las sombras. Pero con el tiempo agotado y el peligro que acecha en cada esquina, las probabilidades de supervivencia se vuelven más delgadas por minuto. Coraje, fuerza y ​​sacrificio, ¿finalmente escaparían de las garras de la base y salen de la oscuridad a la luz?",
+                "anio": "2024",
+                "duracion": "83 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/19pr5CzgsBYs67FAJvke8GQxN4g.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/98DBKpODK0NEOpIq0Ogkzon1vG6.png"
             },
             {
                 "name": "Bridget Jones: Loca por él",

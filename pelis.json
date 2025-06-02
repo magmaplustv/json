@@ -7196,18 +7196,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Susurros Mortales 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "112 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
-            },
-            {
                 "name": "Cementerio de animales",
                 "url": "http://vedo.wvdbozpfc.com/vod/256AC25395F64BBD887A056AA9B72E4E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vnw6g9c7qzNdzvpQhwWGRzBxwM0.jpg",
@@ -7218,6 +7206,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8iZjnNSIH4teZERl0VjUeHHVrec.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ay26YEhdzOG3iEMGQw0xhlGnPAI.png"
+            },
+            {
+                "name": "Susurros Mortales 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "112 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
             },
             {
                 "name": "Cementerio de animales: Los orígenes",

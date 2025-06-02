@@ -6509,18 +6509,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/oIYq9s8FDubMXh0PZC29x8Kk7nK.png"
             },
             {
-                "name": "The Christmas Doctor",
-                "url": "http://vedo.wvdbozpfc.com/vod/6297DB3AD6724F99B3147CFFE2734987_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ccKVfjFudH4SM16Svyab5fwBYcS.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una semana antes de Navidad, a la Dra. Alicia Wright se le ofrece una tarea fuera de casa. Un hombre misterioso de sus viajes pasados la busca antes de Navidad y trae consigo una revelación que podría cambiar la vida de Alicia para siempre.",
-                "anio": "2020",
-                "duracion": "90 min",
-                "genero": "Película de TV, Drama, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8Vuj1BCn91aVuDVpOiLVB3GE44N.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/KU22DFfcguQUhlCASgnUbbJVHH.png"
-            },
-            {
                 "name": "Los puentes de Madison",
                 "url": "http://vedo.wvdbozpfc.com/vod/4E3BEA2CD17B4D2683DA74248560859A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xjGrjvD94HvANtEurCXDxGkc0Gj.jpg",
@@ -6531,6 +6519,18 @@
                 "genero": "Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bexDCBOW8PiN5StVw0M2MWas0BZ.png"
+            },
+            {
+                "name": "The Christmas Doctor",
+                "url": "http://vedo.wvdbozpfc.com/vod/6297DB3AD6724F99B3147CFFE2734987_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ccKVfjFudH4SM16Svyab5fwBYcS.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una semana antes de Navidad, a la Dra. Alicia Wright se le ofrece una tarea fuera de casa. Un hombre misterioso de sus viajes pasados la busca antes de Navidad y trae consigo una revelación que podría cambiar la vida de Alicia para siempre.",
+                "anio": "2020",
+                "duracion": "90 min",
+                "genero": "Película de TV, Drama, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8Vuj1BCn91aVuDVpOiLVB3GE44N.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/KU22DFfcguQUhlCASgnUbbJVHH.png"
             }
         ]
     },

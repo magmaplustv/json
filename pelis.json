@@ -8147,18 +8147,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Píxeles",
-                "url": "http://vedo.wvdbozpfc.com/vod/F0858C39B6054B7CBB00EA6D677DAEB3_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7V9qLT4O8gE5rn6InUshrXelqui.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2015",
-                "duracion": "12 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oOW0NTxRXKXYfbV83m8OAhF7fUm.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Espías",
                 "url": "http://vedo.wvdbozpfc.com/vod/0466BBA46B0D4A99873A40C266658116_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4DjDCZw0YPhXq2lr0uargYZc6b4.jpg",
@@ -8168,6 +8156,18 @@
                 "duracion": "62 min",
                 "genero": "Comedia, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kCFV7cTAjB0dhNBe3HAdSwsaoSu.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Píxeles",
+                "url": "http://vedo.wvdbozpfc.com/vod/F0858C39B6054B7CBB00EA6D677DAEB3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7V9qLT4O8gE5rn6InUshrXelqui.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2015",
+                "duracion": "12 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oOW0NTxRXKXYfbV83m8OAhF7fUm.jpg",
                 "iconpng": ""
             },
             {

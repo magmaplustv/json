@@ -5300,18 +5300,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
             },
             {
-                "name": "Shrek tercero",
-                "url": "http://vedo.wvdbozpfc.com/vod/600782DFCA4D400D934DBC13941BE337_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
-                "type": "PELICULA",
-                "descripcion": "Shrek se casó con Fiona, pero lo que no tuvo en cuenta es que al casarse con una princesa... tarde o temprano uno termina siendo rey. Cuando su suegro, el Rey Harold, cae enfermo, Shrek se encuentra en riesgo de tener que abandonar su amado pantano por el trono. A menos claro que encuentre un heredero. Junto con Asno y el Gato con Botas, Shrek viaja para en busca del primo de Fiona, Arturo. Mientras, en Muy Muy Lejano, el Principe Encantador recluta un ejército de villanos de cuento para tomar el trono por la fuerza. Pero no cuentan con que Fiona y la Reina Lillian también han reunido su grupo de heroínas de cuento para hacerles frente...",
-                "anio": "2007",
-                "duracion": "92 min",
-                "genero": "Fantasía, Aventura, Animación, Comedia, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
-            },
-            {
                 "name": "Toy Story 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/BD7039B065BD40A8B68DC55CE19E33F3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8OTDKkJv2jXg5ZHKazFxBAttKkR.jpg",
@@ -5322,6 +5310,18 @@
                 "genero": "Animación, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2HDKKUCf98rRpzJq2KuThyGZ9hr.png"
+            },
+            {
+                "name": "Shrek tercero",
+                "url": "http://vedo.wvdbozpfc.com/vod/600782DFCA4D400D934DBC13941BE337_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+                "type": "PELICULA",
+                "descripcion": "Shrek se casó con Fiona, pero lo que no tuvo en cuenta es que al casarse con una princesa... tarde o temprano uno termina siendo rey. Cuando su suegro, el Rey Harold, cae enfermo, Shrek se encuentra en riesgo de tener que abandonar su amado pantano por el trono. A menos claro que encuentre un heredero. Junto con Asno y el Gato con Botas, Shrek viaja para en busca del primo de Fiona, Arturo. Mientras, en Muy Muy Lejano, el Principe Encantador recluta un ejército de villanos de cuento para tomar el trono por la fuerza. Pero no cuentan con que Fiona y la Reina Lillian también han reunido su grupo de heroínas de cuento para hacerles frente...",
+                "anio": "2007",
+                "duracion": "92 min",
+                "genero": "Fantasía, Aventura, Animación, Comedia, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
             },
             {
                 "name": "Shrek 2",

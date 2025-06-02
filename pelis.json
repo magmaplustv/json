@@ -2864,6 +2864,18 @@
                 "genero": "Comedia",
                 "duracion": "73 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Aire",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405842.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rRnfyLBZFC505OEfSVd36RzIrSO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4xhFSAy1skdlYIpAz4VvSuk9pcn.jpg",
+                "iconpng": "",
+                "descripcion": "Tania es una bióloga conservacionista que vive en un futuro distópico en el que la raza humana se está extinguiendo por la contaminación y las enfermedades. En un esfuerzo por evitar la extinción de su especie, intenta autoinseminarse con la ayuda de Vida, un sistema de inteligencia artificial.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Drama",
+                "duracion": "91 min",
+                "type": "PELICULA"
             }
         ]
     },

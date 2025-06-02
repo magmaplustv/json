@@ -2972,18 +2972,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xPLWsCrcle7SNHd1IQlKAYJ59tA.png"
             },
             {
-                "name": "Desconectados 2: Reconectados",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169007.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "103 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2Rz5hzBn5PZVpUnYXmJLUOR2XBt.png"
-            },
-            {
                 "name": "Algo Azul",
                 "url": "http://vedo.wvdbozpfc.com/vod/82331416A716453DA3D928ED6EA42E28_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg",
@@ -2994,6 +2982,18 @@
                 "genero": "Romance, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ym6yZnCzfFraQkzstBsfnvAx8Xq.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Desconectados 2: Reconectados",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169007.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "103 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2Rz5hzBn5PZVpUnYXmJLUOR2XBt.png"
             },
             {
                 "name": "Los últimos románticos",

@@ -2732,6 +2732,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Como una ola en el mar",
+                "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La Venganza No es un Juego",
                 "url": "http://vedo.wvdbozpfc.com/vod/D7D63EC3238F4296BF0E637E8978B48B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/d9ptadrfOsvH2OdHMzjCZbRDcNm.jpg",
@@ -2741,12 +2747,6 @@
                 "anio": "2024",
                 "genero": "Ciencia ficción, Comedia, Suspense",
                 "duracion": "85 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Como una ola en el mar",
-                "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
                 "type": "PELICULA"
             },
             {

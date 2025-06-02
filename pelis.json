@@ -3774,18 +3774,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/A1q2Rc1YJWsS5w3fO40g1PCs9p2.png"
             },
             {
-                "name": "Rüzgara Bırak",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167494.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "96 min",
-                "genero": "Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qAJqYEz0utqsaPsMQvgjbUatUwv.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Entre la vida y la muerte",
                 "url": "Entre la vida y la muerte",
                 "icono": "https://image.tmdb.org/t/p/original/7Zl8wBKWTAalJ2wubT9HofMrrSX.jpg",
@@ -3795,6 +3783,18 @@
                 "duracion": "99 min",
                 "genero": "Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/78csWH58gawkVPCCImyfI4PYXuI.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Rüzgara Bırak",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167494.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "96 min",
+                "genero": "Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qAJqYEz0utqsaPsMQvgjbUatUwv.jpg",
                 "iconpng": ""
             },
             {

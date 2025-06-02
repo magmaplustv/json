@@ -620,18 +620,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/pw0TRvEP4UYpo2edTHIazBGCH5e.png"
             },
             {
-                "name": "1938: Cuando el petróleo fue nuestro",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168812.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/hrB8YhpgbDPGk843Te29VLp4DOm.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "100 min",
-                "genero": "Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kk7R1QPcODcqkJh5k9XtbdoZn1B.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "What You Wish For",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168808.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/9T6ww265pozXkNPKl26hRhIpbxt.jpg",
@@ -641,6 +629,18 @@
                 "duracion": "91 min",
                 "genero": "Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kyx15eUlLQy7HHm8HRuvi9QagO8.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "1938: Cuando el petróleo fue nuestro",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168812.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hrB8YhpgbDPGk843Te29VLp4DOm.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "100 min",
+                "genero": "Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kk7R1QPcODcqkJh5k9XtbdoZn1B.jpg",
                 "iconpng": ""
             },
             {

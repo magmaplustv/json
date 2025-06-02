@@ -7793,18 +7793,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iTSPpwQrx0Ouy9sxICIuaBLexnI.png"
             },
             {
-                "name": "Conejos asesinos",
-                "url": "http://vedo.wvdbozpfc.com/vod/1EE7A739EAA84CF4A7314D4956C46B28_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "103 min",
-                "genero": "Terror, Comedia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lljZTHeXJ3mNt3IC5Kh7MPXVKeZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pwLEaoRT7SHiqwhhK3wNXFK8Avm.png"
-            },
-            {
                 "name": "DJ encubierto",
                 "url": "http://vedo.wvdbozpfc.com/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
@@ -7815,6 +7803,18 @@
                 "genero": "Comedia, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zmLAlyYfyJcbHEaMpJVG9EWdouA.png"
+            },
+            {
+                "name": "Conejos asesinos",
+                "url": "http://vedo.wvdbozpfc.com/vod/1EE7A739EAA84CF4A7314D4956C46B28_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "103 min",
+                "genero": "Terror, Comedia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lljZTHeXJ3mNt3IC5Kh7MPXVKeZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pwLEaoRT7SHiqwhhK3wNXFK8Avm.png"
             },
             {
                 "name": "Fuera de la ley",

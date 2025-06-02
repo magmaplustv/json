@@ -3152,18 +3152,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8z9AengHCrn6K53xuw8dkZT9PKX.png"
             },
             {
-                "name": "Detained",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168602.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
-                "type": "PELICULA",
-                "descripcion": "En la oscuridad de la noche, Rebecca se despierta en una comisaría decrépita, acusada de atropello y fuga. Pero una refriega mortal revela un siniestro complot. Sin ningún lugar a donde acudir, debe descubrir la verdad antes de que la consuma. Pero Rebecca esconde secretos más oscuros de lo que creen.",
-                "anio": "2024",
-                "duracion": "97 min",
-                "genero": "Suspense, Misterio, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sYRkCdD87Pj2QWmevUknqrHP4LI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5b9ltHYiChJ2xgpuqlxKCHXAUqG.png"
-            },
-            {
                 "name": "Duplicidad, de Tyler Perry",
                 "url": "http://vedo.wvdbozpfc.com/vod/AE9988F4CF1C4CED99D3F5630EA323AF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
@@ -3174,6 +3162,18 @@
                 "genero": "Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nT0tpSovSldMoKQywsf46R9dXbe.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cXgEr4feMim1O5uhT09RgiFuWPX.png"
+            },
+            {
+                "name": "Detained",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168602.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la oscuridad de la noche, Rebecca se despierta en una comisaría decrépita, acusada de atropello y fuga. Pero una refriega mortal revela un siniestro complot. Sin ningún lugar a donde acudir, debe descubrir la verdad antes de que la consuma. Pero Rebecca esconde secretos más oscuros de lo que creen.",
+                "anio": "2024",
+                "duracion": "97 min",
+                "genero": "Suspense, Misterio, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sYRkCdD87Pj2QWmevUknqrHP4LI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5b9ltHYiChJ2xgpuqlxKCHXAUqG.png"
             },
             {
                 "name": "Doble espionaje",

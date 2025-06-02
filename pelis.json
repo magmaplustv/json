@@ -27,6 +27,18 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Alien: Rubicon",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405803.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2RzjwyWB0YlH8PpQEQOh9rl4cdx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/va6L47GYKcAC4oGuXxlwqMIC5i2.png",
+                "descripcion": "Una serie de esferas alienígenas aterrizan en el planeta Tierra destruyendo todo a su paso con facilidad. Depende de un científico y del presidente de los Estados Unidos encontrar una manera de detener la invasión alienígena.",
+                "anio": "2024",
+                "genero": "Terror, Acción, Ciencia ficción",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Joker: Folie à Deux",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406164.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
@@ -300,18 +312,6 @@
                 "anio": "2024",
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Alien: Rubicon",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405803.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2RzjwyWB0YlH8PpQEQOh9rl4cdx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/va6L47GYKcAC4oGuXxlwqMIC5i2.png",
-                "descripcion": "Una serie de esferas alienígenas aterrizan en el planeta Tierra destruyendo todo a su paso con facilidad. Depende de un científico y del presidente de los Estados Unidos encontrar una manera de detener la invasión alienígena.",
-                "anio": "2024",
-                "genero": "Terror, Acción, Ciencia ficción",
-                "duracion": "90 min",
                 "type": "PELICULA"
             }
         ]

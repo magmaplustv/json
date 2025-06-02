@@ -2948,6 +2948,18 @@
                 "genero": "Acción, Animación, Fantasía, Suspense",
                 "duracion": "103 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Furiosa: De la saga Mad Max",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405833.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hstQNWXBkZUVMH7VB3VqDDhX6cX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nhtoeOdgCKXPcHLtKQF7OREQOJu.png",
+                "descripcion": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).",
+                "anio": "2024",
+                "genero": "Acción, Ciencia ficción, Aventura",
+                "duracion": "148 min",
+                "type": "PELICULA"
             }
         ]
     },

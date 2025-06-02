@@ -4594,18 +4594,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Los Perez-osos",
-                "url": "http://vedo.wvdbozpfc.com/vod/9988D7207C474EC09C5C565F0D7BAA48_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "90 min",
-                "genero": "Animación, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lNQD8NdJ37winY0xEwjp9hUFqLX.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ndRalEQpDjXsfZDK1JfKjGiiUrh.png"
-            },
-            {
                 "name": "Monster High: La película",
                 "url": "http://vedo.wvdbozpfc.com/vod/3EFB98D72F6B4F5CBACA1A51F2BAA6A1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/khACVj5C1lPlfyyzd1nWW2lrk7Y.jpg",
@@ -4616,6 +4604,18 @@
                 "genero": "Familia, Fantasía, Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/99wklPc31J1jVsPUUxpAQRQHx5I.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7BM9Kz1T7lGDorVnB6RMwYAki4U.png"
+            },
+            {
+                "name": "Los Perez-osos",
+                "url": "http://vedo.wvdbozpfc.com/vod/9988D7207C474EC09C5C565F0D7BAA48_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mOf90KGE6erw6pcxT5TszuHzHNt.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "90 min",
+                "genero": "Animación, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lNQD8NdJ37winY0xEwjp9hUFqLX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ndRalEQpDjXsfZDK1JfKjGiiUrh.png"
             },
             {
                 "name": "El ángel en el reloj",

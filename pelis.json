@@ -5940,18 +5940,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6lu8n0OPGVxiZmGFAM4PoWgsAG5.png"
             },
             {
-                "name": "Paranormal Activity 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/09F77C50C3FE4716A52D09B7CBEEA36D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lWpl5SH15Bk9movTlexugxTXDd0.jpg",
-                "type": "PELICULA",
-                "descripcion": "Después de sufrir lo que ellos creen una serie de robos, una familia coloca cámaras de seguridad en toda la casa, descubriendo para su sorpresa un lado mucho más siniestro que los propios sucesos inquietantes que están viviendo... Secuela del gran e inesperado éxito del cine independiente \"Paranormal Activity\"",
-                "anio": "2010",
-                "duracion": "91 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHSfsJBiQUkaMukRaOopdVBkrnX.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/af2hnOdluUzTepMsXHW7QT56XqW.png"
-            },
-            {
                 "name": "Paranormal Activity 3",
                 "url": "http://vedo.wvdbozpfc.com/vod/89A3BC1045D3412FAB49829101610B5C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/2mgtnguCilTT7OtSURCWWE65iWr.jpg",
@@ -5962,6 +5950,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dXhOCL2Sl6qeXrv1nebzJKCj4jC.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lEzhcaKfbc2UqloGQIbpxTTDaNe.png"
+            },
+            {
+                "name": "Paranormal Activity 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/09F77C50C3FE4716A52D09B7CBEEA36D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lWpl5SH15Bk9movTlexugxTXDd0.jpg",
+                "type": "PELICULA",
+                "descripcion": "Después de sufrir lo que ellos creen una serie de robos, una familia coloca cámaras de seguridad en toda la casa, descubriendo para su sorpresa un lado mucho más siniestro que los propios sucesos inquietantes que están viviendo... Secuela del gran e inesperado éxito del cine independiente \"Paranormal Activity\"",
+                "anio": "2010",
+                "duracion": "91 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHSfsJBiQUkaMukRaOopdVBkrnX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/af2hnOdluUzTepMsXHW7QT56XqW.png"
             },
             {
                 "name": "Paranormal Activity 4",

@@ -6874,6 +6874,18 @@
                 "genero": "Acción, Terror, Suspense",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Las desapariciones",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405802.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1fYIvYIwAWID27ZsmpOzAcEDOCv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/p461gfAf4ScOt20BEZoHSbQyzGt.png",
+                "descripcion": "En un pequeño pueblo de montaña resurge un antiguo mito sobre una bestia monstruosa a raíz de la desaparición de unos jóvenes de la localidad y de una serie de muertes horribles y brutales.",
+                "anio": "2024",
+                "genero": "Suspense, Terror, Crimen, Misterio",
+                "duracion": "111 min",
+                "type": "PELICULA"
             }
         ]
     },

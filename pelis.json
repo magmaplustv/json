@@ -1854,18 +1854,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Re loca",
-                "url": "http://vedo.wvdbozpfc.com/vod/4F267C81BD394A4CB4E2828847046A10_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Taxistas, vecinos molestos, jefes dictatoriales, familiares egoístas, suegras, ex parejas, maridos vagos… Toda esa gente que día a día te enloquece. ¿Y si pudieras mandarlos al carajo? Un suceso inexplicable va a lograr que Pilar finalmente pueda hacer eso que todos soñamos pero no nos animamos a llevar adelante. Claro que liberarse de todas esas cosas que nos molestan no va a ser tan sencillo. Versión argentina de la exitosa película chilena 'Sin filtro' de Nicolás López.",
-                "anio": "2018",
-                "duracion": "94 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qk3cGYKrHqjNmUyaQpenbE6LR7o.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Muchachos, la película de la gente",
                 "url": "http://vedo.wvdbozpfc.com/vod/D90C0ECBDC9F43B0A58A3F62BB6DB024_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
@@ -1876,6 +1864,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bxH51PxAA7IrHisOEiUXl1WA4Tu.png"
+            },
+            {
+                "name": "Re loca",
+                "url": "http://vedo.wvdbozpfc.com/vod/4F267C81BD394A4CB4E2828847046A10_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xKT9Mv1SB7pW9TLOcmhcm9BH4Pc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Taxistas, vecinos molestos, jefes dictatoriales, familiares egoístas, suegras, ex parejas, maridos vagos… Toda esa gente que día a día te enloquece. ¿Y si pudieras mandarlos al carajo? Un suceso inexplicable va a lograr que Pilar finalmente pueda hacer eso que todos soñamos pero no nos animamos a llevar adelante. Claro que liberarse de todas esas cosas que nos molestan no va a ser tan sencillo. Versión argentina de la exitosa película chilena 'Sin filtro' de Nicolás López.",
+                "anio": "2018",
+                "duracion": "94 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qk3cGYKrHqjNmUyaQpenbE6LR7o.jpg",
+                "iconpng": ""
             }
         ]
     },

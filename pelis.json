@@ -7525,18 +7525,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Ip Man: Kung Fu Master",
-                "url": "http://vedo.wvdbozpfc.com/vod/0D3F68A944FE4744B17D912C3F17DB5E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kHZN7zZGsWik9Sg3APaHGeTK5Jm.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LoM4ATbgEFh6zyx4UytRTFdSlD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vhMd7nCS6HebBXKByDh3zUDXyLF.png",
-                "descripcion": "La prometedora carrera de Ip Man como policía se arruina después de que lo acusan de asesinato y lo atacan la hija de un jefe de la mafia.",
-                "anio": "2019",
-                "genero": "Acción, Drama",
-                "duracion": "82 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Érase una vez en China II",
                 "url": "http://vedo.wvdbozpfc.com/vod/2F91D0C0C43B431FAC8EFA28981BEB52_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vx8yYEchEUancS4gJmJ3QKcd82r.jpg",
@@ -7546,6 +7534,18 @@
                 "anio": "1992",
                 "genero": "Acción, Comedia",
                 "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Ip Man: Kung Fu Master",
+                "url": "http://vedo.wvdbozpfc.com/vod/0D3F68A944FE4744B17D912C3F17DB5E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kHZN7zZGsWik9Sg3APaHGeTK5Jm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LoM4ATbgEFh6zyx4UytRTFdSlD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vhMd7nCS6HebBXKByDh3zUDXyLF.png",
+                "descripcion": "La prometedora carrera de Ip Man como policía se arruina después de que lo acusan de asesinato y lo atacan la hija de un jefe de la mafia.",
+                "anio": "2019",
+                "genero": "Acción, Drama",
+                "duracion": "82 min",
                 "type": "PELICULA"
             }
         ]

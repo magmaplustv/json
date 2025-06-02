@@ -1967,18 +1967,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Después del silencio",
-                "url": "http://vedo.wvdbozpfc.com/vod/7CADDAAACB0F4A6F934FA470A8DF54CE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lHhguge5ak4lKIK8gbS6ogFhsgE.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2uYCDnfJea5N2g2r0j5NHsASqOq.jpg",
-                "iconpng": "",
-                "descripcion": "La vida de Laura, una joven sordomuda de 20 años maltratada por su padre desde que era pequeña, da un giro radical el día en el que escapa de casa y es adoptada por una trabajadora social. Herida y atemorizada, comienza entonces a descubrir un nuevo mundo muy diferente al que había conocido.",
-                "anio": "1996",
-                "genero": "Drama, Película de TV",
-                "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Espíritus en el Bosque",
                 "url": "http://vedo.wvdbozpfc.com/vod/D3A21E35413B44FA83DEDFE17DA59D12_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fkohwexP83W1WSY0oomIYMGldfy.jpg",
@@ -1988,6 +1976,18 @@
                 "anio": "2018",
                 "genero": "Terror",
                 "duracion": "92 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Después del silencio",
+                "url": "http://vedo.wvdbozpfc.com/vod/7CADDAAACB0F4A6F934FA470A8DF54CE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lHhguge5ak4lKIK8gbS6ogFhsgE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2uYCDnfJea5N2g2r0j5NHsASqOq.jpg",
+                "iconpng": "",
+                "descripcion": "La vida de Laura, una joven sordomuda de 20 años maltratada por su padre desde que era pequeña, da un giro radical el día en el que escapa de casa y es adoptada por una trabajadora social. Herida y atemorizada, comienza entonces a descubrir un nuevo mundo muy diferente al que había conocido.",
+                "anio": "1996",
+                "genero": "Drama, Película de TV",
+                "duracion": "93 min",
                 "type": "PELICULA"
             },
             {

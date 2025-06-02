@@ -6992,18 +6992,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kJzk60m6wPaIAxrSue7SXs2a1gz.png"
             },
             {
-                "name": "Tu Sangre",
-                "url": "http://vedo.wvdbozpfc.com/vod/FF99F13989394458A12675399C1171CA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wfcQRWmO23ND6zCQIxZ2TIOoDYy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Me llamo Sofía, tengo 14 años y estoy perdida. Mi madre desapareció en el internado donde trabaja y mi padre acaba de intentar suicidarse en extrañas circunstancias. Junto a él, una tabla Ouija. La utilicé durante una sesión espiritista aterradora y el fantasma de mi madre me dijo que la buscara. Ahora lo veo todo claro. Me llamo Sofía, tengo 14 años y voy a inscribirme en el internado para encontrar el cuerpo de mi madre.",
-                "anio": "2024",
-                "duracion": "80 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/QNo0appKGKLAsBXVkU64fXwOtj.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/b2ePT8DnjnGE2RfsxoyIOxgg6r.png"
-            },
-            {
                 "name": "La mujer de las sombras",
                 "url": "http://vedo.wvdbozpfc.com/vod/1EF978CA1DAD47E1A995A43E1BB40A76_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",
@@ -7014,6 +7002,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8CDlOMtRpA9sDyqirilCdfPWieb.png"
+            },
+            {
+                "name": "Tu Sangre",
+                "url": "http://vedo.wvdbozpfc.com/vod/FF99F13989394458A12675399C1171CA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wfcQRWmO23ND6zCQIxZ2TIOoDYy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Me llamo Sofía, tengo 14 años y estoy perdida. Mi madre desapareció en el internado donde trabaja y mi padre acaba de intentar suicidarse en extrañas circunstancias. Junto a él, una tabla Ouija. La utilicé durante una sesión espiritista aterradora y el fantasma de mi madre me dijo que la buscara. Ahora lo veo todo claro. Me llamo Sofía, tengo 14 años y voy a inscribirme en el internado para encontrar el cuerpo de mi madre.",
+                "anio": "2024",
+                "duracion": "80 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/QNo0appKGKLAsBXVkU64fXwOtj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/b2ePT8DnjnGE2RfsxoyIOxgg6r.png"
             },
             {
                 "name": "La primera profecía",

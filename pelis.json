@@ -5199,18 +5199,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ykrOjR8kwwQ03QPfHSHkfetw8vu.png"
             },
             {
-                "name": "Cuando éramos soldados",
-                "url": "http://vedo.wvdbozpfc.com/vod/56805BEE1EA64AFDBC8EF984269B4F2D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zg4aTLVKj3gKM2IEEmBo17W3ObY.jpg",
-                "type": "PELICULA",
-                "descripcion": "En plena guerra del Vietnam, el coronel Hal Moore y sus soldados (unos 400 hombres) aterrizaron en noviembre de 1965 en una región conocida como \"El valle de la muerte\". Allí fueron recibidos por más de 2.000 soldados del Vietcong, desencadenándose una de las batallas más feroces de la guerra.",
-                "anio": "2002",
-                "duracion": "139 min",
-                "genero": "Acción, Historia, Bélica",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kWRTA0WRpO4DWA8PIIFCwAkuW7I.png"
-            },
-            {
                 "name": "Napoleón",
                 "url": "http://vedo.wvdbozpfc.com/vod/982BB10A9E5D4E64ACA68A64DFBF2185_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nGQYZ0TEUoGOlBzTCLFUCTRkZuQ.jpg",
@@ -5221,6 +5209,18 @@
                 "genero": "Historia, Bélica, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ye63eA7UvKDgUPcTbfQZezIA7cF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cDPvAwiRLT5FyzfTksSkgLnzzNu.png"
+            },
+            {
+                "name": "Cuando éramos soldados",
+                "url": "http://vedo.wvdbozpfc.com/vod/56805BEE1EA64AFDBC8EF984269B4F2D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zg4aTLVKj3gKM2IEEmBo17W3ObY.jpg",
+                "type": "PELICULA",
+                "descripcion": "En plena guerra del Vietnam, el coronel Hal Moore y sus soldados (unos 400 hombres) aterrizaron en noviembre de 1965 en una región conocida como \"El valle de la muerte\". Allí fueron recibidos por más de 2.000 soldados del Vietcong, desencadenándose una de las batallas más feroces de la guerra.",
+                "anio": "2002",
+                "duracion": "139 min",
+                "genero": "Acción, Historia, Bélica",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kWRTA0WRpO4DWA8PIIFCwAkuW7I.png"
             },
             {
                 "name": "Iluminados por el fuego",

@@ -7335,6 +7335,18 @@
                 "genero": "Ciencia ficción, Romance, Comedia",
                 "duracion": "141 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La madre de la novia",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405759.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5LUy0JxMlCynStB2pCxTInwtjVx.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/m0XCtFisSD0O6P55G1pUHdFccuL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sz1RwaBkyZISMHHNqfRshepQXhV.png",
+                "descripcion": "Emma, la hija de Lana, regresa de Londres y anuncia que se casará el próximo mes. Las cosas se complican cuando Lana se entera de que el hombre que le robó el corazón a Emma es el hijo del hombre que le rompió el suyo hace años.",
+                "anio": "2024",
+                "genero": "Romance, Comedia",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

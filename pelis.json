@@ -4271,18 +4271,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8U1FIIWUiKNTg5dtvI4oL1DI9Ae.png"
             },
             {
-                "name": "El rey escorpión",
-                "url": "http://vedo.wvdbozpfc.com/vod/F58963B150364886818F6DEB896C0F05_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg",
-                "type": "PELICULA",
-                "descripcion": "El guerrero y rey depuesto Mathayus, se embarca en la misión más peligrosa que jamás haya librado para intentar la paz de su tierra frente a un terrible y formidable adversario…",
-                "anio": "2015",
-                "duracion": "105 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iqLKXqPJe1yys3im8WWWu30G89p.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7xvdTM82FFfBN7xp0ujkpXZ7bMG.png"
-            },
-            {
                 "name": "Plan de Escape 3",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164432.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/gNj1p2rItPNlUXck8yLFIC39T1u.jpg",
@@ -4293,6 +4281,18 @@
                 "genero": "Acción, Suspense, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rTuaw3R12CUevLahLPsWMRsPNsX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tgGxC6M7vH6SKSq7eOTychM4ZJV.png"
+            },
+            {
+                "name": "El rey escorpión",
+                "url": "http://vedo.wvdbozpfc.com/vod/F58963B150364886818F6DEB896C0F05_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg",
+                "type": "PELICULA",
+                "descripcion": "El guerrero y rey depuesto Mathayus, se embarca en la misión más peligrosa que jamás haya librado para intentar la paz de su tierra frente a un terrible y formidable adversario…",
+                "anio": "2015",
+                "duracion": "105 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iqLKXqPJe1yys3im8WWWu30G89p.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7xvdTM82FFfBN7xp0ujkpXZ7bMG.png"
             },
             {
                 "name": "El rey escorpión 4: La búsqueda del poder",

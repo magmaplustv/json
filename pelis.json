@@ -3582,18 +3582,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mf5VdjXXg4SdBpeSD7F1BVw4oQY.png"
             },
             {
-                "name": "Pánico en el tren bala",
-                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
-                "type": "PELICULA",
-                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
-                "anio": "2025",
-                "duracion": "134 min",
-                "genero": "Acción, Suspense, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
-            },
-            {
                 "name": "Pangolín: El viaje de Kulu",
                 "url": "http://vedo.wvdbozpfc.com/vod/087A8F48ADD344D29404A7EAD1E3B3C0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg",
@@ -3604,6 +3592,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/l7ALkJVMmUJStRAn2Jm4HgPyjGm.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/mTQdC7zH5vlWLxXDG9AKDpwPXHi.png"
+            },
+            {
+                "name": "Pánico en el tren bala",
+                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
+                "type": "PELICULA",
+                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
+                "anio": "2025",
+                "duracion": "134 min",
+                "genero": "Acción, Suspense, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
             },
             {
                 "name": "Equipaje de mano",

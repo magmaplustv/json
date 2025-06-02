@@ -7733,18 +7733,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Celebración Macabra",
-                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
-                "type": "PELICULA",
-                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Terror, Suspense, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
-            },
-            {
                 "name": "Superpapá",
                 "url": "http://vedo.wvdbozpfc.com/vod/94BB540603394423BE2E65414CFA6B55_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hJ1WXZgANL8RSfOumvK8udUSC3H.jpg",
@@ -7755,6 +7743,18 @@
                 "genero": "Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/5tR7ERtILQLnwdKOqnk0aC2Bcbx.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Celebración Macabra",
+                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
+                "type": "PELICULA",
+                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Terror, Suspense, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
             },
             {
                 "name": "Un lío de millones",

@@ -4211,18 +4211,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/uPoUk5x4swhjNDLvKAtgfvHEedd.png"
             },
             {
-                "name": "Doctor Extraño: El hechicero supremo",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164267.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
-                "type": "PELICULA",
-                "descripcion": "La historia plantea un nuevo comienzo para Stephen Strange, el maestro de las artes místicas del Universo Marvel, pero contando con los personajes principales que han acompañado al antiguo cirujano a lo largo de toda su existencia. Su mentar es el Anciano, su sirviente fiel sigue siendo Wong, y su enemigo principal es Dormammu. Aquí la variante es que los discípulos del mentor tibetano aprenden artes marciales además de magia.",
-                "anio": "2007",
-                "duracion": "76 min",
-                "genero": "Acción, Animación, Fantasía, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tvHf8vBxy68NHPxWADPh40qK181.png"
-            },
-            {
                 "name": "El rey Mono 2",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164383.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8uRiv8c5jz7vkEC1ERQXe675DOi.jpg",
@@ -4233,6 +4221,18 @@
                 "genero": "Acción, Aventura, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jQHjvKOc3FG3ShoKTJfp1tXoKnQ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Doctor Extraño: El hechicero supremo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164267.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
+                "type": "PELICULA",
+                "descripcion": "La historia plantea un nuevo comienzo para Stephen Strange, el maestro de las artes místicas del Universo Marvel, pero contando con los personajes principales que han acompañado al antiguo cirujano a lo largo de toda su existencia. Su mentar es el Anciano, su sirviente fiel sigue siendo Wong, y su enemigo principal es Dormammu. Aquí la variante es que los discípulos del mentor tibetano aprenden artes marciales además de magia.",
+                "anio": "2007",
+                "duracion": "76 min",
+                "genero": "Acción, Animación, Fantasía, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tvHf8vBxy68NHPxWADPh40qK181.png"
             },
             {
                 "name": "El rey de los kickboxers",

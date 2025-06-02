@@ -4487,18 +4487,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
             },
             {
-                "name": "El origen del planeta de los simios",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164648.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6TqjIMQV11NkHMuriprN3xNoN6o.jpg",
-                "type": "PELICULA",
-                "descripcion": "Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista decide llevárselo a su casa para protegerlo. Le ayudará una bella primatóloga llamada Caroline.",
-                "anio": "2011",
-                "duracion": "105 min",
-                "genero": "Suspense, Acción, Drama, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hB1HYQXWy0JFOFXAVOIJMu1W6wc.png"
-            },
-            {
                 "name": "Ninja Turtles: Fuera de las sombras",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164678.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
@@ -4509,6 +4497,18 @@
                 "genero": "Acción, Aventura, Comedia, Familia, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/41objfan7PDTBG5MFXQl4ownQzJ.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eYYtFkx57D9NVrDPV7tDa4HU58J.png"
+            },
+            {
+                "name": "El origen del planeta de los simios",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164648.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6TqjIMQV11NkHMuriprN3xNoN6o.jpg",
+                "type": "PELICULA",
+                "descripcion": "Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista decide llevárselo a su casa para protegerlo. Le ayudará una bella primatóloga llamada Caroline.",
+                "anio": "2011",
+                "duracion": "105 min",
+                "genero": "Suspense, Acción, Drama, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hB1HYQXWy0JFOFXAVOIJMu1W6wc.png"
             },
             {
                 "name": "Batman vs Superman: El amanecer de la justicia",

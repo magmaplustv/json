@@ -5641,18 +5641,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/smobOZW90pposG0g1blMVDDrYD3.png"
             },
             {
-                "name": "Jurassic World: Dominion",
-                "url": "http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
-                "anio": "2022",
-                "duracion": "147 min",
-                "genero": "Aventura, Acción, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/va5NU8qdUhy0tgwiqubC7jopEdU.png"
-            },
-            {
                 "name": "Perdido en la montaña",
                 "url": "http://vedo.wvdbozpfc.com/vod/92FFC1C1A84D4320A650F52E473E7A87_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5RkYlk2R6oqgeFxiMtsXvo5nGri.jpg",
@@ -5663,6 +5651,18 @@
                 "genero": "Aventura, Drama, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/q8blBwffuaexW9QMNC2Pa3wqgqM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hUxDDM2VjZqlKETWq4k5g6mM5lw.png"
+            },
+            {
+                "name": "Jurassic World: Dominion",
+                "url": "http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
+                "anio": "2022",
+                "duracion": "147 min",
+                "genero": "Aventura, Acción, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/va5NU8qdUhy0tgwiqubC7jopEdU.png"
             },
             {
                 "name": "Paddington: Aventura en la selva",

@@ -1410,18 +1410,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El aura",
-                "url": "http://vedo.wvdbozpfc.com/vod/32E09018AD994B5B9440D4678BF7AEEE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wzJok3MeJk7Zi0BGBII3UxnLyHn.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un introvertido taxidermista tiene una extraña afición: planificar en su mente atracos perfectos, infalibles gracias a su inteligencia, que él considera superior. El azar hace que un día por fin tenga la oportunidad de llevar a cabo su fantasía, aunque el hecho de sufrir de epilepsia vaya a jugar en su contra.",
-                "anio": "2005",
-                "duracion": "138 min",
-                "genero": "Drama, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fvl1geY63c1xoa6r6iRPARGJdJY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ag6YGEGdJGT83vMDyMgasMgPEDx.png"
-            },
-            {
                 "name": "Elefante blanco",
                 "url": "http://vedo.wvdbozpfc.com/vod/92B3C0DEDDC54FBA991457931C7A38DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aAUQfrFww2C2qdCEB8YtOqgNiil.jpg",
@@ -1432,6 +1420,18 @@
                 "genero": "Aventura",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "El aura",
+                "url": "http://vedo.wvdbozpfc.com/vod/32E09018AD994B5B9440D4678BF7AEEE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wzJok3MeJk7Zi0BGBII3UxnLyHn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un introvertido taxidermista tiene una extraña afición: planificar en su mente atracos perfectos, infalibles gracias a su inteligencia, que él considera superior. El azar hace que un día por fin tenga la oportunidad de llevar a cabo su fantasía, aunque el hecho de sufrir de epilepsia vaya a jugar en su contra.",
+                "anio": "2005",
+                "duracion": "138 min",
+                "genero": "Drama, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fvl1geY63c1xoa6r6iRPARGJdJY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ag6YGEGdJGT83vMDyMgasMgPEDx.png"
             },
             {
                 "name": "El bonaerense",

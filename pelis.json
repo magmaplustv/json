@@ -1842,18 +1842,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/wvCGby4vuVUYH2vv8a3lAwQs5LP.png"
             },
             {
-                "name": "Ex casados",
-                "url": "http://vedo.wvdbozpfc.com/vod/56DB058C4B5446E79E9DC0CDC0004788_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/3tjKLVs5YRViiRieScxCTuhkYU8.jpg",
-                "type": "PELICULA",
-                "descripcion": "Las diferentes miradas que tiene el matrimonio entre Sonia y Roberto sobre estereotipos, machismo vs feminismo, y cómo quieren vivir sus vidas, los lleva a tomar la decisión de separarse. Luego de dos años se reencuentran para dividir sus bienes. Cada uno con una vida nueva. Sin embargo, un accidente hará que Sonia tenga que ocuparse de cuidar a Roberto, volviendo a convivir en el departamento en el que vivían y viajar juntos al viñedo de sus sueños que tenían en La Rioja.",
-                "anio": "2021",
-                "duracion": "98 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6ampldnK6xcTiN0wZGf1CQJ5frS.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Muchachos, la película de la gente",
                 "url": "http://vedo.wvdbozpfc.com/vod/D90C0ECBDC9F43B0A58A3F62BB6DB024_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
@@ -1864,6 +1852,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bxH51PxAA7IrHisOEiUXl1WA4Tu.png"
+            },
+            {
+                "name": "Ex casados",
+                "url": "http://vedo.wvdbozpfc.com/vod/56DB058C4B5446E79E9DC0CDC0004788_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3tjKLVs5YRViiRieScxCTuhkYU8.jpg",
+                "type": "PELICULA",
+                "descripcion": "Las diferentes miradas que tiene el matrimonio entre Sonia y Roberto sobre estereotipos, machismo vs feminismo, y cómo quieren vivir sus vidas, los lleva a tomar la decisión de separarse. Luego de dos años se reencuentran para dividir sus bienes. Cada uno con una vida nueva. Sin embargo, un accidente hará que Sonia tenga que ocuparse de cuidar a Roberto, volviendo a convivir en el departamento en el que vivían y viajar juntos al viñedo de sus sueños que tenían en La Rioja.",
+                "anio": "2021",
+                "duracion": "98 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6ampldnK6xcTiN0wZGf1CQJ5frS.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Re loca",

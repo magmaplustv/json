@@ -7184,18 +7184,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ivVq1yuSPmX75WzT52YnJBhLpg9.png"
             },
             {
-                "name": "Susurros Mortales 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "112 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
-            },
-            {
                 "name": "You're All Gonna Die",
                 "url": "http://vedo.wvdbozpfc.com/vod/4361676E8B8142328A86DB82E87623C0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mhMMoC15wdc8MtXw2OYGBj407iW.jpg",
@@ -7206,6 +7194,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4z1QfbOVwGwW36QY4zpoAVyoFvU.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Susurros Mortales 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "112 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
             },
             {
                 "name": "Cementerio de animales",

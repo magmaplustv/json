@@ -548,18 +548,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Conjuring Tapes",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "79 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Earthquake Underground",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170253.ts",
                 "icono": "https://image.tmdb.org/t/p/original/eL91oFnvXAdlW4KN6qXAXTG567u.jpg",
@@ -570,6 +558,18 @@
                 "genero": "Acción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9VDbhAmvGVZ6FbpMl0zW3zENhxK.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/v5iUT3Nlxk40pANrnJSDfulPz1b.png"
+            },
+            {
+                "name": "Conjuring Tapes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "79 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "El Contador 2",

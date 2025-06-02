@@ -3164,6 +3164,18 @@
                 "genero": "Animación, Comedia, Película de TV",
                 "duracion": "51 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El campeón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405774.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pw38upiqFVNUzSLw4AHQZz0J0AC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sRuoaYjWLLngZo2XYKPwyL9SYxY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/c2wD2rTvq6GS6PtUlehiDwG2pzT.png",
+                "descripcion": "Diego acaba de ser elegido mejor jugador joven europeo y a sus 20 años va camino de convertir a su equipo, el Atlético de Madrid, en campeón de Liga. Pero su carácter impulsivo y conflictivo hace que el Club, harto de sus excesos, contrate a Álex, un profesor de psicología retraído y solitario, para que mejore su conducta. Tanto a uno como al otro no les quedará más remedio que aprender a entenderse.",
+                "anio": "2024",
+                "genero": "Drama, Familia, Comedia",
+                "duracion": "106 min",
+                "type": "PELICULA"
             }
         ]
     },

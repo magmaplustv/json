@@ -1326,18 +1326,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/aM0QC0EmfPD84AtjGIv2UJ9yu6J.png"
             },
             {
-                "name": "No soy tu mami",
-                "url": "http://vedo.wvdbozpfc.com/vod/D9083688D0F4424E93D8F53DFF71EF34_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5yRBIxOAnEaQOqy0eYHX1rJWGQh.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una periodista sostiene en su columna semanal las razones por las cuales no quiere tener hijos, defendiendo su posición frente a la vida y la maternidad. Pero la misma comenzará a aflojarse cuando un nuevo vecino y su pequeña hija lleguen al edificio.",
-                "anio": "2019",
-                "duracion": "108 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f11MxwSWzkHRnSJBSHz6VjcTjMY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/r9c4hmMgbbmut31HZGJnCAFuLvj.png"
-            },
-            {
                 "name": "Kamchatka",
                 "url": "http://vedo.wvdbozpfc.com/vod/31DD630AED3142368E38C7B95905B8D2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/raielLvbmZw1SUTOWHVNciXcDHU.jpg",
@@ -1348,6 +1336,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/asUFlz7i668CzNhILo8YWFYKGmf.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "No soy tu mami",
+                "url": "http://vedo.wvdbozpfc.com/vod/D9083688D0F4424E93D8F53DFF71EF34_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5yRBIxOAnEaQOqy0eYHX1rJWGQh.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una periodista sostiene en su columna semanal las razones por las cuales no quiere tener hijos, defendiendo su posición frente a la vida y la maternidad. Pero la misma comenzará a aflojarse cuando un nuevo vecino y su pequeña hija lleguen al edificio.",
+                "anio": "2019",
+                "duracion": "108 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f11MxwSWzkHRnSJBSHz6VjcTjMY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/r9c4hmMgbbmut31HZGJnCAFuLvj.png"
             },
             {
                 "name": "Más respeto que soy tu madre",

@@ -2984,18 +2984,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xPLWsCrcle7SNHd1IQlKAYJ59tA.png"
             },
             {
-                "name": "Desconectados 2: Reconectados",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169007.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "103 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2Rz5hzBn5PZVpUnYXmJLUOR2XBt.png"
-            },
-            {
                 "name": "Mañana Antes Después",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168892.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/uQ8Drd3GbNDHQy9eqAxHVbkCRXn.jpg",
@@ -3006,6 +2994,18 @@
                 "genero": "Drama, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/40TMMp9uIywq2vEZWsU6RTDvDTH.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Desconectados 2: Reconectados",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169007.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "103 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2Rz5hzBn5PZVpUnYXmJLUOR2XBt.png"
             },
             {
                 "name": "Los últimos románticos",

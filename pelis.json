@@ -6222,6 +6222,18 @@
                 "genero": "Animación, Aventura, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/58KBZ6EhPacJPHzhVnhwijROOkk.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ijxeqoRMxAUZ2gASXRWbV8bkBbz.png"
+            },
+            {
+                "name": "Los Casagrande: La película",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405776.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mJdA4HiJa6oT8Uk4nD6UZtodBTE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gCPnTtKZiejM1aSyqs2PKNW449K.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fvoTM7IGg84zflb8Tffm6dFW9YZ.png",
+                "descripcion": "Durante un viaje a México para celebrar que cumple 12 años, Ronnie Anne libera sin querer a una semidiosa atrapada en una montaña… y recurre a su familia para arreglarlo.",
+                "anio": "2024",
+                "genero": "Animación, Comedia, Familia",
+                "duracion": "85 min",
+                "type": "PELICULA"
             }
         ]
     },

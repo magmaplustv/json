@@ -183,18 +183,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
             },
             {
-                "name": "Hombre lobo",
-                "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.",
-                "anio": "2022",
-                "duracion": "55 min",
-                "genero": "Acción, Fantasía, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
-            },
-            {
                 "name": "Freaky Tales",
                 "url": "http://vedo.wvdbozpfc.com/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
@@ -205,6 +193,18 @@
                 "genero": "Acción, Comedia, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
+            },
+            {
+                "name": "Hombre lobo",
+                "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.",
+                "anio": "2022",
+                "duracion": "55 min",
+                "genero": "Acción, Fantasía, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
             },
             {
                 "name": "Saint Catherine",

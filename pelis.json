@@ -4439,18 +4439,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/j2i6t1wI3Rl3iWzBFOTaVQr4TtY.png"
             },
             {
-                "name": "Mechanic: Resurrection",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164629.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando Arthur Bishop (Jason Statham) creía que ya había dejado atrás su pasado criminal, se encuentra de nuevo con él al ser secuestrada la mujer de su vida por uno de sus mayores enemigos. Se ve así obligado a viajar por el mundo para ejecutar tres asesinatos imposibles que deben parecer accidentes.",
-                "anio": "2016",
-                "duracion": "99 min",
-                "genero": "Acción, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4CCvDWKtmFms4tSTXeawA19sheU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/3RoSznVdTY5m1jcVlS7FlCEhnXS.png"
-            },
-            {
                 "name": "El justiciero",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164597.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg",
@@ -4461,6 +4449,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jjsepJy1gCMADgtnokmnFxYbGlC.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Mechanic: Resurrection",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164629.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando Arthur Bishop (Jason Statham) creía que ya había dejado atrás su pasado criminal, se encuentra de nuevo con él al ser secuestrada la mujer de su vida por uno de sus mayores enemigos. Se ve así obligado a viajar por el mundo para ejecutar tres asesinatos imposibles que deben parecer accidentes.",
+                "anio": "2016",
+                "duracion": "99 min",
+                "genero": "Acción, Crimen, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4CCvDWKtmFms4tSTXeawA19sheU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3RoSznVdTY5m1jcVlS7FlCEhnXS.png"
             },
             {
                 "name": "El origen del planeta de los simios",

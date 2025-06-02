@@ -6819,18 +6819,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El destino de Maya",
-                "url": "http://vedo.wvdbozpfc.com/vod/3C55E051BB0441C3BB9576084A52EB6A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ajdqc3vDVzH0e3zw1N9tIySA2Jn.jpg",
-                "type": "PELICULA",
-                "descripcion": "La joven Maya, de 17 años, se casa contra su voluntad con el pescador Janne. Su vida en la isla de Stormskerry está llena de retos y adversidades: como esposa de un pescador, tiene que hacer frente a las largas ausencias de su marido y cuidar sola de su familia. Sin embargo, Maya se ha convertido en una mujer de carácter fuerte e independiente.",
-                "anio": "2024",
-                "duracion": "164 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8zv3y1rkwyYVHLrVgvCE7wmuNvc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/isegaTqTMglJc4tFB4Uk8CBWznd.png"
-            },
-            {
                 "name": "La luz que imaginamos",
                 "url": "http://vedo.wvdbozpfc.com/vod/02DB29C0E4B14A32879D911B43C5F9F6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/m5Z8wBEPMWRjK6cOQsj2ixOlATS.jpg",
@@ -6841,6 +6829,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Dlm1hdwRNdb6KLImH9mKBR070N.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/s6p1ZTAz868l7PgRYfKieCVn4Mb.png"
+            },
+            {
+                "name": "El destino de Maya",
+                "url": "http://vedo.wvdbozpfc.com/vod/3C55E051BB0441C3BB9576084A52EB6A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ajdqc3vDVzH0e3zw1N9tIySA2Jn.jpg",
+                "type": "PELICULA",
+                "descripcion": "La joven Maya, de 17 años, se casa contra su voluntad con el pescador Janne. Su vida en la isla de Stormskerry está llena de retos y adversidades: como esposa de un pescador, tiene que hacer frente a las largas ausencias de su marido y cuidar sola de su familia. Sin embargo, Maya se ha convertido en una mujer de carácter fuerte e independiente.",
+                "anio": "2024",
+                "duracion": "164 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8zv3y1rkwyYVHLrVgvCE7wmuNvc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/isegaTqTMglJc4tFB4Uk8CBWznd.png"
             },
             {
                 "name": "Déjame estar contigo",

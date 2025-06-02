@@ -4535,18 +4535,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dNukfweDS4GizBlvRdqhrKxBrD4.png"
             },
             {
-                "name": "El reino prohibido",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164704.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un joven (Michael Angarano), que siente una gran pasión por el cine de Kung Fu, visita regularmente una casa de empeños en Chinatown buscando películas. En una de sus visitas descubre un bastón que ha visto en un sueño recientemente, y más tarde se ve envuelto en un atraco en la misma casa de empeños, tras el cual huye con el bastón. En medio de la huida cae desde una azotea y es milagrosamente transportado a la China medieval donde, con la ayuda del luchador borracho (Jackie Chan), el monje silencioso (Jet Li), y el Gorrion Dorado (Yifei Liu), deberá devolver este bastón al mismo Rey Mono, transformado en una estatua de piedra mucho tiempo atras.",
-                "anio": "2008",
-                "duracion": "104 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/Amq0AArdNvCMiIgwd99bvjDIu81.png"
-            },
-            {
                 "name": "Los mercenarios",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164717.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
@@ -4557,6 +4545,18 @@
                 "genero": "",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "El reino prohibido",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164704.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un joven (Michael Angarano), que siente una gran pasión por el cine de Kung Fu, visita regularmente una casa de empeños en Chinatown buscando películas. En una de sus visitas descubre un bastón que ha visto en un sueño recientemente, y más tarde se ve envuelto en un atraco en la misma casa de empeños, tras el cual huye con el bastón. En medio de la huida cae desde una azotea y es milagrosamente transportado a la China medieval donde, con la ayuda del luchador borracho (Jackie Chan), el monje silencioso (Jet Li), y el Gorrion Dorado (Yifei Liu), deberá devolver este bastón al mismo Rey Mono, transformado en una estatua de piedra mucho tiempo atras.",
+                "anio": "2008",
+                "duracion": "104 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/Amq0AArdNvCMiIgwd99bvjDIu81.png"
             },
             {
                 "name": "Los guardianes de la estepa",

@@ -6831,12 +6831,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/isegaTqTMglJc4tFB4Uk8CBWznd.png"
             },
             {
-                "name": "One Chicago Crossover Event",
-                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La luz que imaginamos",
                 "url": "http://vedo.wvdbozpfc.com/vod/02DB29C0E4B14A32879D911B43C5F9F6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/m5Z8wBEPMWRjK6cOQsj2ixOlATS.jpg",
@@ -6847,6 +6841,12 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Dlm1hdwRNdb6KLImH9mKBR070N.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/s6p1ZTAz868l7PgRYfKieCVn4Mb.png"
+            },
+            {
+                "name": "One Chicago Crossover Event",
+                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "L'edat imminent",

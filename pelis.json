@@ -4127,18 +4127,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Dioses de Egipto",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164221.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/j6RDEmmkkDwF8hoAWh9xiYybYC7.jpg",
-                "type": "PELICULA",
-                "descripcion": "La supervivencia de la humanidad pende de un hilo, pero Beck, un héroe mortal, está decidido a salvar el mundo y a rescatar a su verdadero amor. Para conseguirlo busca la ayuda del poderoso dios Horus, con el que establecerá una alianza contra Set, el despiadado dios de la oscuridad que ha usurpado el trono de Egipto, sumiendo al país en el caos. Para ganar la batalla contra Set y sus secuaces tendrán que someterse a terribles pruebas de valentía y sacrificio.",
-                "anio": "2016",
-                "duracion": "127 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bF9k4L3E93fHESs55zcyvxG5qZH.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/b2SDObqXB0J70ogJFdCfsL7wQqg.png"
-            },
-            {
                 "name": "Independence Day: Contraataque",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164222.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/f56cB64d5tuRa07hnHbMvON35H5.jpg",
@@ -4149,6 +4137,18 @@
                 "genero": "Acción, Aventura, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pgJUufiR3lNlgZmxsTqRk929ucH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8ihFkFuSLspJphDs7knGhgdPbg1.png"
+            },
+            {
+                "name": "Dioses de Egipto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164221.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/j6RDEmmkkDwF8hoAWh9xiYybYC7.jpg",
+                "type": "PELICULA",
+                "descripcion": "La supervivencia de la humanidad pende de un hilo, pero Beck, un héroe mortal, está decidido a salvar el mundo y a rescatar a su verdadero amor. Para conseguirlo busca la ayuda del poderoso dios Horus, con el que establecerá una alianza contra Set, el despiadado dios de la oscuridad que ha usurpado el trono de Egipto, sumiendo al país en el caos. Para ganar la batalla contra Set y sus secuaces tendrán que someterse a terribles pruebas de valentía y sacrificio.",
+                "anio": "2016",
+                "duracion": "127 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bF9k4L3E93fHESs55zcyvxG5qZH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/b2SDObqXB0J70ogJFdCfsL7wQqg.png"
             },
             {
                 "name": "Altered Carbon: Reenfundados",

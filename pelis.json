@@ -289,6 +289,18 @@
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "LEGO Marvel Avengers: Misión Demolición",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405810.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/akI6Am89tpdVeozYFq2DaBbP7I0.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Al127H6f1RXpESdg0MGNL2g8mzO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7hqTN8pYwYLSrMeHI3eyIJcNdSj.png",
+                "descripcion": "Un joven aspirante a héroe y fan de los superhéroes libera por accidente a un nuevo y poderoso villano decidido a borrar a los Vengadores de la faz de la Tierra.",
+                "anio": "2024",
+                "genero": "Animación, Comedia, Ciencia ficción",
+                "duracion": "44 min",
+                "type": "PELICULA"
             }
         ]
     },

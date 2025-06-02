@@ -3140,6 +3140,18 @@
                 "genero": "Fantasía, Terror, Misterio",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jurnal Risa by Risa Saraswati",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405788.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/58NnkMcdJxiQMV6BTwaq61arXz5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6C0PUdKVKe4NbOFZ7WzXSNiBneL.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Documental, Terror, Suspense",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

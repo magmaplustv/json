@@ -2518,18 +2518,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
             },
             {
-                "name": "Anora",
-                "url": "http://vedo.wvdbozpfc.com/vod/C51602D790604B198F3BF94E4EA30A82_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
-                "type": "PELICULA",
-                "descripcion": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
-                "anio": "2024",
-                "duracion": "138 min",
-                "genero": "Drama, Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
-            },
-            {
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://vedo.wvdbozpfc.com/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
@@ -2540,6 +2528,18 @@
                 "genero": "Drama, Acción, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dBOtMMLbTgjQw3FVv7nCCPinjiO.png"
+            },
+            {
+                "name": "Anora",
+                "url": "http://vedo.wvdbozpfc.com/vod/C51602D790604B198F3BF94E4EA30A82_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
+                "type": "PELICULA",
+                "descripcion": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+                "anio": "2024",
+                "duracion": "138 min",
+                "genero": "Drama, Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
             },
             {
                 "name": "Red One",

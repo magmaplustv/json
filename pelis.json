@@ -548,18 +548,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El Contador 2",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406219.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
-                "anio": "2025",
-                "duracion": "133 min",
-                "genero": "Crimen, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dNZAN3YNlOT23tIaWlB6EBHVYG7.png"
-            },
-            {
                 "name": "La huella del mal",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171071.ts",
                 "icono": "https://image.tmdb.org/t/p/original/o410zKXtZYy2vVBcQJPxzOc9KYc.jpg",
@@ -570,6 +558,18 @@
                 "genero": "Crimen, Misterio, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wnVxIPc14Af9ztf1h3YzelZuw6W.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "El Contador 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406219.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+                "anio": "2025",
+                "duracion": "133 min",
+                "genero": "Crimen, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dNZAN3YNlOT23tIaWlB6EBHVYG7.png"
             },
             {
                 "name": "Earthquake Underground",

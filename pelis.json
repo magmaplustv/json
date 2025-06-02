@@ -2792,6 +2792,18 @@
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tarot",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405852.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l6qZSvM5bjLy9DIGj1cflIVtMKe.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/a40yOa7bjKMX9Ybu9G9EWh8hPVu.png",
+                "descripcion": "Un grupo de amigos de la universidad comienzan a morir de maneras relacionadas con su fortuna después de que les lean los horóscopos.",
+                "anio": "2024",
+                "genero": "Terror",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

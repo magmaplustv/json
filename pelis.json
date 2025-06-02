@@ -7781,18 +7781,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/RLZHYRIcG2lL0yH1MA47p6Mthy.png"
             },
             {
-                "name": "El Asesino de los ojos de corazon",
-                "url": "http://vedo.wvdbozpfc.com/vod/62CA838DFAD34EE48902C39E69177ABC_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cQdfSHkmPnSS3AncCz13H0fCUoq.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando el \"asesino de los ojos del corazón\" ataca Seattle, un par de compañeros de trabajo que están haciendo horas extras el día de San Valentín son confundidos por una pareja por el escurridizo asesino cazador de parejas. Ahora, deben pasar la noche más romántica del año corriendo por sus vidas.",
-                "anio": "2025",
-                "duracion": "97 min",
-                "genero": "Terror, Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iTSPpwQrx0Ouy9sxICIuaBLexnI.png"
-            },
-            {
                 "name": "DJ encubierto",
                 "url": "http://vedo.wvdbozpfc.com/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
@@ -7803,6 +7791,18 @@
                 "genero": "Comedia, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zmLAlyYfyJcbHEaMpJVG9EWdouA.png"
+            },
+            {
+                "name": "El Asesino de los ojos de corazon",
+                "url": "http://vedo.wvdbozpfc.com/vod/62CA838DFAD34EE48902C39E69177ABC_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cQdfSHkmPnSS3AncCz13H0fCUoq.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando el \"asesino de los ojos del corazón\" ataca Seattle, un par de compañeros de trabajo que están haciendo horas extras el día de San Valentín son confundidos por una pareja por el escurridizo asesino cazador de parejas. Ahora, deben pasar la noche más romántica del año corriendo por sus vidas.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Terror, Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iTSPpwQrx0Ouy9sxICIuaBLexnI.png"
             },
             {
                 "name": "Conejos asesinos",

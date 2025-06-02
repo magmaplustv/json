@@ -2607,18 +2607,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
             },
             {
-                "name": "Escapada de espanto",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Terror, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
-            },
-            {
                 "name": "Parásitos",
                 "url": "http://vedo.wvdbozpfc.com/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
@@ -2629,6 +2617,18 @@
                 "genero": "Comedia, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+            },
+            {
+                "name": "Escapada de espanto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
             },
             {
                 "name": "Supervillanos: la investigación",

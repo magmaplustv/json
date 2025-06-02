@@ -5038,18 +5038,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ntGUPRdDKZYznDy4baPiag3JedG.png"
             },
             {
-                "name": "Daphne & Velma",
-                "url": "http://vedo.wvdbozpfc.com/vod/A9EC6D7CE5CB461EB67EF689E8981952_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA",
-                "descripcion": "Daphne y Velma son estudiantes de secundaria que se reúnen cuando sospechan que sus compañeros están siendo convertidos en zombis o drones sin mente.",
-                "anio": "2018",
-                "duracion": "75 min",
-                "genero": "Comedia, Terror, Acción, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gQP5eRO2h2PZCzDRiP7pQlQwwwU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/mX8cb74SusMa9luWUP6sJEEAcL5.png"
-            },
-            {
                 "name": "Pixeles",
                 "url": "http://vedo.wvdbozpfc.com/vod/F0858C39B6054B7CBB00EA6D677DAEB3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/d45faoiDeZsrdIdYpLy34vtYf3S.jpg",
@@ -5060,6 +5048,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oOW0NTxRXKXYfbV83m8OAhF7fUm.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Daphne & Velma",
+                "url": "http://vedo.wvdbozpfc.com/vod/A9EC6D7CE5CB461EB67EF689E8981952_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
+                "type": "PELICULA",
+                "descripcion": "Daphne y Velma son estudiantes de secundaria que se reúnen cuando sospechan que sus compañeros están siendo convertidos en zombis o drones sin mente.",
+                "anio": "2018",
+                "duracion": "75 min",
+                "genero": "Comedia, Terror, Acción, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gQP5eRO2h2PZCzDRiP7pQlQwwwU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mX8cb74SusMa9luWUP6sJEEAcL5.png"
             },
             {
                 "name": "LEGO DC: ¡Shazam! Magia y monstruos",

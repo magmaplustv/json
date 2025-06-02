@@ -5396,18 +5396,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6GP71TtX6ZRU6vnEG95t6E0BXzh.png"
             },
             {
-                "name": "Elli y el equipo de monstruos",
-                "url": "http://vedo.wvdbozpfc.com/vod/3517760DF5F24B4B807C807832F2F552_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ro5IJwJkRAvUxrwfoSdjWVkcJIq.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando una pequeña fantasma sin hogar llama a la puerta de los excéntricos residentes de un Tren Fantasma en busca de un lugar al que pertenecer, atrae accidentalmente la atención del \"mundo exterior\" y debe formar equipo con el variopinto grupo de monstruos en una loca búsqueda para salvar no sólo el futuro del Tren Fantasma, sino también su única oportunidad de tener por fin una familia.",
-                "anio": "2024",
-                "duracion": "82 min",
-                "genero": "Animación, Familia, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kaaTk3GVFIfImYs9lnsKg5c4T40.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La escalofriante historia del Capitán Calzoncillos Jale-o-ween",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DEED86266854E2898C8086B6DEEAB75_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qGuBwXcJhmFBQRu5F6EB2VoTCn2.jpg",
@@ -5418,6 +5406,18 @@
                 "genero": "Comedia, Animación, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zb85xjZQTXa1AKA6AenN5gfIH2b.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rTX1o2GDFD1CPk8BqqHhON5KbjE.png"
+            },
+            {
+                "name": "Elli y el equipo de monstruos",
+                "url": "http://vedo.wvdbozpfc.com/vod/3517760DF5F24B4B807C807832F2F552_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ro5IJwJkRAvUxrwfoSdjWVkcJIq.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando una pequeña fantasma sin hogar llama a la puerta de los excéntricos residentes de un Tren Fantasma en busca de un lugar al que pertenecer, atrae accidentalmente la atención del \"mundo exterior\" y debe formar equipo con el variopinto grupo de monstruos en una loca búsqueda para salvar no sólo el futuro del Tren Fantasma, sino también su única oportunidad de tener por fin una familia.",
+                "anio": "2024",
+                "duracion": "82 min",
+                "genero": "Animación, Familia, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kaaTk3GVFIfImYs9lnsKg5c4T40.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Flow, un mundo que salvar",

@@ -6473,18 +6473,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/y8UW7uDg7I6p87JVv3UiYNNzfT8.png"
             },
             {
-                "name": "Rivales",
-                "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil que se preparan para la gran final, que se juega en Sevilla. Todos han depositado una gran ilusión en este gran partido, quieren vencer a sus eternos rivales. Durante el viaje a Sevilla conoceremos no sólo las peculiares relaciones entre padres e hijos o entre la pareja, sino también sus relaciones sociales con los demás. Una comedia coral que retrata situaciones variopintas de la vida cotidiana, en un mundo donde los adultos muchas veces son peores que los niños.",
-                "anio": "2008",
-                "duracion": "100 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Maravilloso desastre",
                 "url": "http://vedo.wvdbozpfc.com/vod/7CA317A9C80B406A829194AF7828DE7C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
@@ -6495,6 +6483,18 @@
                 "genero": "Romance, Drama, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/b5mzCMHZJJ0I1vlzyglAnk8j2uL.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oIYq9s8FDubMXh0PZC29x8Kk7nK.png"
+            },
+            {
+                "name": "Rivales",
+                "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil que se preparan para la gran final, que se juega en Sevilla. Todos han depositado una gran ilusión en este gran partido, quieren vencer a sus eternos rivales. Durante el viaje a Sevilla conoceremos no sólo las peculiares relaciones entre padres e hijos o entre la pareja, sino también sus relaciones sociales con los demás. Una comedia coral que retrata situaciones variopintas de la vida cotidiana, en un mundo donde los adultos muchas veces son peores que los niños.",
+                "anio": "2008",
+                "duracion": "100 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "ยูเรนัส 2324",

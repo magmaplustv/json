@@ -5850,12 +5850,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/x9AySz3k2BkUWl0DWrlR2EUiCH5.png"
             },
             {
-                "name": "Secta Virtual",
-                "url": "http://vedo.wvdbozpfc.com/vod/C7CA56DAFBCA47D4A688893726F84ED1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vNlXo17MlEdkxgWYykfJXlZFdTD.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Paranormal Activity",
                 "url": "http://vedo.wvdbozpfc.com/vod/DE611E8AC3F94467ACC862CE45A0E8C6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/919Xf5NshBIKuj4HP2XkGIfNaCF.jpg",
@@ -5866,6 +5860,12 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xAnSELun945cE4kFUD9mI7W3puI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7NNFxFTy7XYg6hJKMbYrIBRHgWU.png"
+            },
+            {
+                "name": "Secta Virtual",
+                "url": "http://vedo.wvdbozpfc.com/vod/C7CA56DAFBCA47D4A688893726F84ED1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vNlXo17MlEdkxgWYykfJXlZFdTD.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Misterio en la Costa Norte",

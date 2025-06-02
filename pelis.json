@@ -2744,6 +2744,18 @@
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Arthur",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425541.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/miBTSrLQ0a9cyROXyOdY03smJMb.png",
+                "descripcion": "Basada en una historia real. Michael White (Mark Wahlberg) es el capitán de un equipo que participa en una carrera de 700 km durante 10 días por las selvas de la República Dominicana. Durante esta épica carrera de resistencia, un perro callejero se les une, recorriendo con ellos algunos de los terrenos más difíciles del planeta. A medida que el equipo se ve empujado al límite de su resistencia en la carrera, Arthur redefine lo que realmente significan la victoria, la lealtad y la amistad.",
+                "anio": "2024",
+                "genero": "Aventura, Drama",
+                "duracion": "107 min",
+                "type": "PELICULA"
             }
         ]
     },

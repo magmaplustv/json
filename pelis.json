@@ -5952,18 +5952,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/lEzhcaKfbc2UqloGQIbpxTTDaNe.png"
             },
             {
-                "name": "Paranormal Activity 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/09F77C50C3FE4716A52D09B7CBEEA36D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lWpl5SH15Bk9movTlexugxTXDd0.jpg",
-                "type": "PELICULA",
-                "descripcion": "Después de sufrir lo que ellos creen una serie de robos, una familia coloca cámaras de seguridad en toda la casa, descubriendo para su sorpresa un lado mucho más siniestro que los propios sucesos inquietantes que están viviendo... Secuela del gran e inesperado éxito del cine independiente \"Paranormal Activity\"",
-                "anio": "2010",
-                "duracion": "91 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHSfsJBiQUkaMukRaOopdVBkrnX.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/af2hnOdluUzTepMsXHW7QT56XqW.png"
-            },
-            {
                 "name": "Paranormal Activity 4",
                 "url": "http://vedo.wvdbozpfc.com/vod/D9C982127709489CA96B8BE08F327665_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg",
@@ -5974,6 +5962,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eq68gWGBtumauGYFV1FCJ20kXFU.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8wYmPlRxHeiGw1ta74KJH6GyuxF.png"
+            },
+            {
+                "name": "Paranormal Activity 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/09F77C50C3FE4716A52D09B7CBEEA36D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/lWpl5SH15Bk9movTlexugxTXDd0.jpg",
+                "type": "PELICULA",
+                "descripcion": "Después de sufrir lo que ellos creen una serie de robos, una familia coloca cámaras de seguridad en toda la casa, descubriendo para su sorpresa un lado mucho más siniestro que los propios sucesos inquietantes que están viviendo... Secuela del gran e inesperado éxito del cine independiente \"Paranormal Activity\"",
+                "anio": "2010",
+                "duracion": "91 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHSfsJBiQUkaMukRaOopdVBkrnX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/af2hnOdluUzTepMsXHW7QT56XqW.png"
             },
             {
                 "name": "The Boy: La maldición de Brahms",

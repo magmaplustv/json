@@ -2930,18 +2930,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/oJUoccvSAXFF01DmAwJLfkqlwj2.png"
             },
             {
-                "name": "Wish You Were Here",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169716.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/uX40XUTBJFIskKmpThelUnRXelq.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando la noche perfecta con un perfecto desconocido termina repentinamente a la mañana siguiente, Charlotte busca respuestas y sentido a su decepcionante vida. Hasta que descubre un secreto que lo cambia todo.",
-                "anio": "2025",
-                "duracion": "99 min",
-                "genero": "Romance, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fBvBufYLNLcDpEBs07Hv1arRY98.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/j1cTG6Th3EY0ZkLqfkEGkTrdeVb.png"
-            },
-            {
                 "name": "Un día de esos",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169704.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/7FCcl763dbG6ieiqdKbYBkDzohS.jpg",
@@ -2952,6 +2940,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4IagwbAfL2HnTd3d7Ahi1w7izws.png"
+            },
+            {
+                "name": "Wish You Were Here",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169716.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/uX40XUTBJFIskKmpThelUnRXelq.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando la noche perfecta con un perfecto desconocido termina repentinamente a la mañana siguiente, Charlotte busca respuestas y sentido a su decepcionante vida. Hasta que descubre un secreto que lo cambia todo.",
+                "anio": "2025",
+                "duracion": "99 min",
+                "genero": "Romance, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fBvBufYLNLcDpEBs07Hv1arRY98.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/j1cTG6Th3EY0ZkLqfkEGkTrdeVb.png"
             },
             {
                 "name": "Don Jediondo Recargado",

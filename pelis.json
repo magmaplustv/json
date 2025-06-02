@@ -2080,6 +2080,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Haikyu!! La batalla del basurero",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406182.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nqdzN2C7L2vVWAfFZLx8510AUGe.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cZmOrIOkJ2SNfVdiO85dUbOAYnL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6WAKShFgysxxlBk1UZRlSCjDRCu.png",
+                "descripcion": "El encuentro entre los equipos rivales de Karasuno y Nekoma hará que la tensión aumente, ya que ambos equipos están decididos a salir victoriosos en el campeonato nacional de voleibol. Primera película del proyecto en dos partes para el final de \"Haikyu!\".",
+                "anio": "2024",
+                "genero": "Animación, Comedia",
+                "duracion": "85 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "(Ho Ho Ho) Santa Homer",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406184.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
@@ -2684,18 +2696,6 @@
                 "genero": "Acción, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5ZcebxdEL5Q8gkgxGRRf22cVdBK.png"
-            },
-            {
-                "name": "Haikyu!! La batalla del basurero",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406182.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/nqdzN2C7L2vVWAfFZLx8510AUGe.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cZmOrIOkJ2SNfVdiO85dUbOAYnL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6WAKShFgysxxlBk1UZRlSCjDRCu.png",
-                "descripcion": "El encuentro entre los equipos rivales de Karasuno y Nekoma hará que la tensión aumente, ya que ambos equipos están decididos a salir victoriosos en el campeonato nacional de voleibol. Primera película del proyecto en dos partes para el final de \"Haikyu!\".",
-                "anio": "2024",
-                "genero": "Animación, Comedia",
-                "duracion": "85 min",
-                "type": "PELICULA"
             }
         ]
     },

@@ -572,18 +572,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/v5iUT3Nlxk40pANrnJSDfulPz1b.png"
             },
             {
-                "name": "Opus",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169911.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "104 min",
-                "genero": "Terror, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8A5kXfxBBaVbF4pkaZubGSzDRsJ.png"
-            },
-            {
                 "name": "El Contador 2",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406219.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/njqLGG2djaHCe4bAG0ZhN9Z4x4t.jpg",
@@ -594,6 +582,18 @@
                 "genero": "Crimen, Suspense, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dNZAN3YNlOT23tIaWlB6EBHVYG7.png"
+            },
+            {
+                "name": "Opus",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169911.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "104 min",
+                "genero": "Terror, Misterio, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8A5kXfxBBaVbF4pkaZubGSzDRsJ.png"
             },
             {
                 "name": "Tierra de nadie",

@@ -5276,18 +5276,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ps79664UJDYLnRvT5IeSdC98ICd.png"
             },
             {
-                "name": "Soul",
-                "url": "http://vedo.wvdbozpfc.com/vod/F936A05131F14077AA1460CEBE1CF0C4_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
-                "type": "PELICULA",
-                "descripcion": "¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Viaja desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
-                "anio": "2020",
-                "duracion": "107 min",
-                "genero": "Animación, Familia, Comedia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4JNggqfyJWREqb0enzpUMbvIniV.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/x0zdKfh6qqud6BZAITgP6zhmE1g.png"
-            },
-            {
                 "name": "Shrek",
                 "url": "http://vedo.wvdbozpfc.com/vod/2BE9F2DCB2024D07B1B98F7C0FAB09AA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
@@ -5298,6 +5286,18 @@
                 "genero": "Animación, Comedia, Fantasía, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+            },
+            {
+                "name": "Soul",
+                "url": "http://vedo.wvdbozpfc.com/vod/F936A05131F14077AA1460CEBE1CF0C4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+                "type": "PELICULA",
+                "descripcion": "¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Viaja desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
+                "anio": "2020",
+                "duracion": "107 min",
+                "genero": "Animación, Familia, Comedia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4JNggqfyJWREqb0enzpUMbvIniV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/x0zdKfh6qqud6BZAITgP6zhmE1g.png"
             },
             {
                 "name": "Toy Story 2",

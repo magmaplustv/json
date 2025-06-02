@@ -6449,18 +6449,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/A2oAa5vgA68FPloQkV001ssTkhD.png"
             },
             {
-                "name": "Rivales",
-                "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil que se preparan para la gran final, que se juega en Sevilla. Todos han depositado una gran ilusión en este gran partido, quieren vencer a sus eternos rivales. Durante el viaje a Sevilla conoceremos no sólo las peculiares relaciones entre padres e hijos o entre la pareja, sino también sus relaciones sociales con los demás. Una comedia coral que retrata situaciones variopintas de la vida cotidiana, en un mundo donde los adultos muchas veces son peores que los niños.",
-                "anio": "2008",
-                "duracion": "100 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La proposición",
                 "url": "http://vedo.wvdbozpfc.com/vod/F7ED4B49798247C48AE4D0C358B85140_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
@@ -6471,6 +6459,18 @@
                 "genero": "Comedia, Romance, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8f3NdDxIu8MMdSlczJYgkL7i63P.png"
+            },
+            {
+                "name": "Rivales",
+                "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil que se preparan para la gran final, que se juega en Sevilla. Todos han depositado una gran ilusión en este gran partido, quieren vencer a sus eternos rivales. Durante el viaje a Sevilla conoceremos no sólo las peculiares relaciones entre padres e hijos o entre la pareja, sino también sus relaciones sociales con los demás. Una comedia coral que retrata situaciones variopintas de la vida cotidiana, en un mundo donde los adultos muchas veces son peores que los niños.",
+                "anio": "2008",
+                "duracion": "100 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "La madre del novio",

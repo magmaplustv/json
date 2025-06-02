@@ -1482,18 +1482,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/wMlajeuy8OK7XmybdTDZHJVO50w.png"
             },
             {
-                "name": "Puan",
-                "url": "http://vedo.wvdbozpfc.com/vod/731F62DBA1B44099BD8E932A53015AB5_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vtCU7HDpZtpyMOvPeZWBz45hQ8f.jpg",
-                "type": "PELICULA",
-                "descripcion": "Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UBA de la calle Puan. Tras la muerte de su mentor, el venerable profesor Caselli, se ha abierto una brutal e inesperada rivalidad por la cátedra con Rafael Sujarchuk, un antiguo discípulo de Caselli que vuelve de Alemania.",
-                "anio": "2023",
-                "duracion": "107 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1TJgdDUWfeeyHqagLY77A88Y3Cq.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "El ciudadano ilustre",
                 "url": "http://vedo.wvdbozpfc.com/vod/EBDE60E2A7F9410CB11F7D6A67973AD1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/678fXn7RoCkQnPcFrAgRaTVGBT9.jpg",
@@ -1504,6 +1492,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wGMwHYp64UV0vxXdTIIiriDfXxl.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zV84tiaR6LzrkHty9rXCcatqEcq.png"
+            },
+            {
+                "name": "Puan",
+                "url": "http://vedo.wvdbozpfc.com/vod/731F62DBA1B44099BD8E932A53015AB5_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vtCU7HDpZtpyMOvPeZWBz45hQ8f.jpg",
+                "type": "PELICULA",
+                "descripcion": "Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UBA de la calle Puan. Tras la muerte de su mentor, el venerable profesor Caselli, se ha abierto una brutal e inesperada rivalidad por la cátedra con Rafael Sujarchuk, un antiguo discípulo de Caselli que vuelve de Alemania.",
+                "anio": "2023",
+                "duracion": "107 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1TJgdDUWfeeyHqagLY77A88Y3Cq.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El Potro: lo mejor del amor",

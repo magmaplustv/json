@@ -15,18 +15,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9M9tEwZPDTxSNM3ptldnKNYatEI.png"
             },
             {
-                "name": "Troya",
-                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/185210.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2019",
-                "duracion": "8 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "María Magdalena",
                 "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/30959.avi",
                 "icono": "https://image.tmdb.org/t/p/original/ec41AvRBFuWNOYjeBtdSn1aAzRx.jpg",
@@ -37,6 +25,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hvdRLJSKy2a3Ulzrl1Wlnqq2pKZ.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/p4boVMYV5qWQmMz4datK8Q0otVl.png"
+            },
+            {
+                "name": "Troya",
+                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/185210.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "8 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Bohemian Rhapsody: la historia de Freddie Mercury",

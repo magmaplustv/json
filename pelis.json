@@ -4367,18 +4367,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/fjIxz8laWR3WJsxMpsnXeFnq5Sb.png"
             },
             {
-                "name": "Juegos salvajes: Red de traiciones",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164550.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6MeSTWX5LRknrXkApFiQZJF2Nqj.jpg",
-                "type": "PELICULA",
-                "descripcion": "Ted Wheetly, un magnate hostelero, es muy duro con su hijo Carson (Ashley Parker Angel). Carson, un chico arrogante que no hace más que irse de juerga, cree que su padre, un hombre rico y mujeriego, es responsable de la muerte de su madre. Cuando Ted fallece en un accidente de lancha motora, el detective Frank Walker (John Schneider) se hace cargo de la investigación. Al indagar en la muerte de Ted, Walker desconfía cada vez más al hacer frente a las intrigas, la seducción, la avaricia y la traición. Pronto se dará cuenta que se encuentra ante un asesinato a sangre fría.",
-                "anio": "2010",
-                "duracion": "91 min",
-                "genero": "Crimen, Drama, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lUDlQ5DLzn4ZoP2epwU2DEyI20R.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kM8i4hhmkToL0G4xJjkpALi5HOr.png"
-            },
-            {
                 "name": "Ghost Rider: Espíritu de venganza",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164456.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg",
@@ -4389,6 +4377,18 @@
                 "genero": "Acción, Fantasía, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cPzyhThnrsmn0t0CxOggBeGrNwn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/aXqPf6hiRGhEwDnu6jWNMYX7oCN.png"
+            },
+            {
+                "name": "Juegos salvajes: Red de traiciones",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164550.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6MeSTWX5LRknrXkApFiQZJF2Nqj.jpg",
+                "type": "PELICULA",
+                "descripcion": "Ted Wheetly, un magnate hostelero, es muy duro con su hijo Carson (Ashley Parker Angel). Carson, un chico arrogante que no hace más que irse de juerga, cree que su padre, un hombre rico y mujeriego, es responsable de la muerte de su madre. Cuando Ted fallece en un accidente de lancha motora, el detective Frank Walker (John Schneider) se hace cargo de la investigación. Al indagar en la muerte de Ted, Walker desconfía cada vez más al hacer frente a las intrigas, la seducción, la avaricia y la traición. Pronto se dará cuenta que se encuentra ante un asesinato a sangre fría.",
+                "anio": "2010",
+                "duracion": "91 min",
+                "genero": "Crimen, Drama, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lUDlQ5DLzn4ZoP2epwU2DEyI20R.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kM8i4hhmkToL0G4xJjkpALi5HOr.png"
             },
             {
                 "name": "Jin-Roh: La brigada del lobo",

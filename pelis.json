@@ -6646,18 +6646,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/qqPURzGohu9qogbEy0eT53b8xBy.png"
             },
             {
-                "name": "Hijos del éxtasis",
-                "url": "http://vedo.wvdbozpfc.com/vod/BC9FC3199B4D48BCBEE998C8986DEB47_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un financiero británico y un retoño de la mafia compiten por el negocio del éxtasis en los años 90.",
-                "anio": "2025",
-                "duracion": "91 min",
-                "genero": "Documental, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/PYfUXeQjiDD7hBXQjRcaipvkQx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
-            },
-            {
                 "name": "Muerte en Granville",
                 "url": "http://vedo.wvdbozpfc.com/vod/C2A90BC01DB34D7C995D83B6390D697F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eaQKgZbYWqc2MrGtZHgfaqqOnVT.jpg",
@@ -6668,6 +6656,18 @@
                 "genero": "Película de TV, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/iGs8fWPB4KDmstyjzWOoSGn1HQu.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Hijos del éxtasis",
+                "url": "http://vedo.wvdbozpfc.com/vod/BC9FC3199B4D48BCBEE998C8986DEB47_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un financiero británico y un retoño de la mafia compiten por el negocio del éxtasis en los años 90.",
+                "anio": "2025",
+                "duracion": "91 min",
+                "genero": "Documental, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/PYfUXeQjiDD7hBXQjRcaipvkQx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
             },
             {
                 "name": "Caos: Los crímenes de Manson",

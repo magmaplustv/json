@@ -7757,18 +7757,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1v2nUBeYuDKiibNy27vBZ6taDeT.png"
             },
             {
-                "name": "DJ encubierto",
-                "url": "http://vedo.wvdbozpfc.com/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando la policía le contrata para desmantelar una peculiar banda de delincuentes vinculada a su rival, un DJ en horas bajas ve la ocasión de volver a lo más alto con un temazo.",
-                "anio": "2025",
-                "duracion": "90 min",
-                "genero": "Comedia, Música",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zmLAlyYfyJcbHEaMpJVG9EWdouA.png"
-            },
-            {
                 "name": "Vampira humanista busca suicida",
                 "url": "http://vedo.wvdbozpfc.com/vod/51AB874355834C0BA0354A4E8C43276A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vQNOB42MJNi2655nMaLsQa8XaiK.jpg",
@@ -7779,6 +7767,18 @@
                 "genero": "Romance, Comedia, Fantasía, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/RLZHYRIcG2lL0yH1MA47p6Mthy.png"
+            },
+            {
+                "name": "DJ encubierto",
+                "url": "http://vedo.wvdbozpfc.com/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando la policía le contrata para desmantelar una peculiar banda de delincuentes vinculada a su rival, un DJ en horas bajas ve la ocasión de volver a lo más alto con un temazo.",
+                "anio": "2025",
+                "duracion": "90 min",
+                "genero": "Comedia, Música",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zmLAlyYfyJcbHEaMpJVG9EWdouA.png"
             },
             {
                 "name": "El Asesino de los ojos de corazon",

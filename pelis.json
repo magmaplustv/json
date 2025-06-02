@@ -6850,6 +6850,18 @@
                 "genero": "Terror, Crimen",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El despertar de la bestia",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405806.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wHsQwrqiICdEkIXFcX968rVqB3s.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/abSLxmkkXb3W2TXk8E9KbR7KQRj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fB8EP1BPffBojz54vknqfy302Uh.png",
+                "descripcion": "Un año después de que la luz de una superluna activara un gen latente, transformando a los humanos en hombres lobo sedientos de sangre y causando casi mil millones de muertes, la pesadilla resurge con la llegada de la superluna. Dos científicos intentan detener la mutación, pero fracasan y ahora deben luchar para llegar a la casa de uno de sus familiares.",
+                "anio": "2024",
+                "genero": "Acción, Terror, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -291,18 +291,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/68WMl6vWiY6oPIXXQadhrRpWFdg.png"
             },
             {
-                "name": "Corina",
-                "url": "http://vedo.wvdbozpfc.com/vod/3FB14895F7D4490A943D0454D0F7B0CA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
-                "type": "PELICULA",
-                "descripcion": "Corina tiene 20 años y no ha salido de su casa más que para trabajar en una editorial ubicada en el barrio donde vive. Tras cometer un grave error con el final de la saga de libros más famosa de la compañía, Corina deberá superar sus miedos con la ayuda de Carlos y embarcarse en un viaje en busca de un misterioso escritor para salvar su trabajo y a toda la empresa.",
-                "anio": "2025",
-                "duracion": "96 min",
-                "genero": "Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kRtr3sNFjrPWCRajEWnOf3n11dw.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Lady Sakura",
                 "url": "http://vedo.wvdbozpfc.com/vod/32760ED1A2464FA7B214527157EE1DCF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg",
@@ -312,6 +300,18 @@
                 "duracion": "108 min",
                 "genero": "Comedia, Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kqu54Ln6Nx0ltP6oLba26pGvX55.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Corina",
+                "url": "http://vedo.wvdbozpfc.com/vod/3FB14895F7D4490A943D0454D0F7B0CA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg",
+                "type": "PELICULA",
+                "descripcion": "Corina tiene 20 años y no ha salido de su casa más que para trabajar en una editorial ubicada en el barrio donde vive. Tras cometer un grave error con el final de la saga de libros más famosa de la compañía, Corina deberá superar sus miedos con la ayuda de Carlos y embarcarse en un viaje en busca de un misterioso escritor para salvar su trabajo y a toda la empresa.",
+                "anio": "2025",
+                "duracion": "96 min",
+                "genero": "Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kRtr3sNFjrPWCRajEWnOf3n11dw.jpg",
                 "iconpng": ""
             },
             {

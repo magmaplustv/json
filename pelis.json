@@ -1470,18 +1470,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Gato negro",
-                "url": "http://vedo.wvdbozpfc.com/vod/50FD4C5F6C33487791DDF91AA6C121DF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wKscqZ58AH6UbAHb5LJyBJ1YxqM.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una mujer y su nuera son atacadas y violadas por un grupo de samurais, que las asesinan cuando prenden fuego a la cabaña en que ellas viven. Poco después 2 mujeres muy parecidas a las muertas entran en escena atrayendo a samurais solitarios hasta su casa con oscuras y vengativas intenciones.",
-                "anio": "1968",
-                "duracion": "99 min",
-                "genero": "Terror, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/wMlajeuy8OK7XmybdTDZHJVO50w.png"
-            },
-            {
                 "name": "Elefante blanco",
                 "url": "http://vedo.wvdbozpfc.com/vod/92B3C0DEDDC54FBA991457931C7A38DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aAUQfrFww2C2qdCEB8YtOqgNiil.jpg",
@@ -1492,6 +1480,18 @@
                 "genero": "Aventura",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Gato negro",
+                "url": "http://vedo.wvdbozpfc.com/vod/50FD4C5F6C33487791DDF91AA6C121DF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wKscqZ58AH6UbAHb5LJyBJ1YxqM.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una mujer y su nuera son atacadas y violadas por un grupo de samurais, que las asesinan cuando prenden fuego a la cabaña en que ellas viven. Poco después 2 mujeres muy parecidas a las muertas entran en escena atrayendo a samurais solitarios hasta su casa con oscuras y vengativas intenciones.",
+                "anio": "1968",
+                "duracion": "99 min",
+                "genero": "Terror, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wMlajeuy8OK7XmybdTDZHJVO50w.png"
             },
             {
                 "name": "El Potro: lo mejor del amor",

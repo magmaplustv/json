@@ -63,18 +63,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
             },
             {
-                "name": "El Irlandés",
-                "url": "http://vedo.wvdbozpfc.com/vod/67A53CC7035747EBBB2459EB8B8E8AE2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
-                "type": "PELICULA",
-                "descripcion": "Pennsylvania, 1956. Frank Sheeran, un veterano de guerra de origen irlandés que trabaja como camionero, conoce accidentalmente al mafioso Russell Bufalino. Una vez convertido en su hombre de confianza, Bufalino envía a Frank a Chicago con el encargo de ayudar a Jimmy Hoffa, un poderoso líder sindical relacionado con el crimen organizado, con quien Frank mantendrá una estrecha amistad durante casi veinte años.",
-                "anio": "2019",
-                "duracion": "209 min",
-                "genero": "Crimen, Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bCAhNbPTDCj6g2ukijoySf7vNQL.png"
-            },
-            {
                 "name": "Better Man",
                 "url": "http://vedo.wvdbozpfc.com/vod/08B157C527B2466C92CE4866EA8E8E76_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
@@ -85,6 +73,18 @@
                 "genero": "Música, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
+            },
+            {
+                "name": "El Irlandés",
+                "url": "http://vedo.wvdbozpfc.com/vod/67A53CC7035747EBBB2459EB8B8E8AE2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
+                "type": "PELICULA",
+                "descripcion": "Pennsylvania, 1956. Frank Sheeran, un veterano de guerra de origen irlandés que trabaja como camionero, conoce accidentalmente al mafioso Russell Bufalino. Una vez convertido en su hombre de confianza, Bufalino envía a Frank a Chicago con el encargo de ayudar a Jimmy Hoffa, un poderoso líder sindical relacionado con el crimen organizado, con quien Frank mantendrá una estrecha amistad durante casi veinte años.",
+                "anio": "2019",
+                "duracion": "209 min",
+                "genero": "Crimen, Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bCAhNbPTDCj6g2ukijoySf7vNQL.png"
             },
             {
                 "name": "Drop: Amenaza Anonima",

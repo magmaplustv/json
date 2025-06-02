@@ -2506,18 +2506,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jsNakCUCwDjpklhNghsuqvlK7PM.png"
             },
             {
-                "name": "Hellboy: El Hombre Retorcido",
-                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Fantasía, Terror, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
-            },
-            {
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://vedo.wvdbozpfc.com/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
@@ -2528,6 +2516,18 @@
                 "genero": "Drama, Acción, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dBOtMMLbTgjQw3FVv7nCCPinjiO.png"
+            },
+            {
+                "name": "Hellboy: El Hombre Retorcido",
+                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Fantasía, Terror, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
             },
             {
                 "name": "Anora",

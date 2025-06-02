@@ -3068,6 +3068,18 @@
                 "genero": "Comedia",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Vaguito",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405809.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nB6HCQmuIq2YApUGbLxO2qiRPIa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d3cqNvAz1bMZl2suwp8TnHL0iPt.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Drama, Familia, Historia",
+                "duracion": "94 min",
+                "type": "PELICULA"
             }
         ]
     },

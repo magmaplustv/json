@@ -4379,18 +4379,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/fjIxz8laWR3WJsxMpsnXeFnq5Sb.png"
             },
             {
-                "name": "Jin-Roh: La brigada del lobo",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164540.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/clACOLa2bbgV9BbwHjWZ3bMs4iJ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Fuse es un miembro de Tokkitai (Cuerpo motorizado de vigilancia armada especial), pero lleva ya un tiempo planteándose su trabajo, que parece convertirlo en una máquina de matar. Una noche, durante una patrulla, topan con los miembros de Secto, una organización terrorista. Fuse apunta a uno de ellos, una joven con una bomba, pero no dispara...",
-                "anio": "1999",
-                "duracion": "102 min",
-                "genero": "Animación, Drama, Romance, Suspense, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2WuR3EaBj8X2WR4fvqa449tnNLn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ogptyJqsIgtBi6h2QXf3G6i3aZQ.png"
-            },
-            {
                 "name": "Juegos salvajes: Red de traiciones",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164550.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6MeSTWX5LRknrXkApFiQZJF2Nqj.jpg",
@@ -4401,6 +4389,18 @@
                 "genero": "Crimen, Drama, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lUDlQ5DLzn4ZoP2epwU2DEyI20R.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kM8i4hhmkToL0G4xJjkpALi5HOr.png"
+            },
+            {
+                "name": "Jin-Roh: La brigada del lobo",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164540.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/clACOLa2bbgV9BbwHjWZ3bMs4iJ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Fuse es un miembro de Tokkitai (Cuerpo motorizado de vigilancia armada especial), pero lleva ya un tiempo planteándose su trabajo, que parece convertirlo en una máquina de matar. Una noche, durante una patrulla, topan con los miembros de Secto, una organización terrorista. Fuse apunta a uno de ellos, una joven con una bomba, pero no dispara...",
+                "anio": "1999",
+                "duracion": "102 min",
+                "genero": "Animación, Drama, Romance, Suspense, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2WuR3EaBj8X2WR4fvqa449tnNLn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ogptyJqsIgtBi6h2QXf3G6i3aZQ.png"
             },
             {
                 "name": "Kingsman: El círculo de oro",

@@ -2996,6 +2996,18 @@
                 "genero": "Comedia, Crimen, Suspense",
                 "duracion": "95 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sugar Baby",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405823.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kYqEsUtilXXcb7FDfGIUaDq7j5F.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Suspense, Comedia",
+                "duracion": "88 min",
+                "type": "PELICULA"
             }
         ]
     },

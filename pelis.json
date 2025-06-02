@@ -8997,6 +8997,18 @@
                 "genero": "Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aitUECW88Rve2mprcvwVchToE8A.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/k5uRjH8jdVkRNurTQJjdZV45H1r.png"
+            },
+            {
+                "name": "Infiltrada en la NASA",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405798.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oYx9AVIrZaVZ2PezSZvOOjtB75a.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c3tOvnxFp2uUfLs6U8ew52N3FhO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/esgnNKJv1L1wq9gXrJ6NYlFz9Yt.png",
+                "descripcion": "La fiestera de Florida Rex resulta ser la única esperanza para el programa espacial de la NASA después de que una casualidad la ponga a entrenar con otros candidatos que pueden tener mejores currículos, pero que no tienen su inteligencia, corazón y coraje.",
+                "anio": "2024",
+                "genero": "Comedia, Romance",
+                "duracion": "110 min",
+                "type": "PELICULA"
             }
         ]
     }

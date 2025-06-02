@@ -1122,18 +1122,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Biónica",
-                "url": "http://vedo.wvdbozpfc.com/vod/C93DE0DF9C0941C3917653D008E0D074_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/byQJb7SyIaLsoMUCdBbnANAPLfI.jpg",
-                "type": "PELICULA",
-                "descripcion": "Emma, una joven cuadripléjica, contrata los servicios de la Clínica Biónica, institución presidida por el Dr. Wuntz que por primera vez está autorizada por el estado para realizar un tratamiento que consiste en matar a Emma, separar la cabeza y llevarla a un cuarto de reposo donde la cabeza tomará consciencia mientras dure el tratamiento, y llevar el cuerpo a un quirófano donde a través de implantes se procederá a la recuperación total del mismo y a la instalación de talentos especiales que Emma compró. Pero el Dr. Wuntz quiere ir un paso más lejos y arriesga todo el proceso.",
-                "anio": "2025",
-                "duracion": "82 min",
-                "genero": "Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f5pjam70aNueL1GILXJqy2Zp9BX.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La noche que luché contra Dios",
                 "url": "http://vedo.wvdbozpfc.com/vod/7D09C14E72C84DEF92D0A13C6145E8DF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg",
@@ -1144,6 +1132,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wjHLVqJzj8n6mTb0t6B4KEcqPjG.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iKAsVaWaOS09O21zUmhHXE69o7B.png"
+            },
+            {
+                "name": "Biónica",
+                "url": "http://vedo.wvdbozpfc.com/vod/C93DE0DF9C0941C3917653D008E0D074_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/byQJb7SyIaLsoMUCdBbnANAPLfI.jpg",
+                "type": "PELICULA",
+                "descripcion": "Emma, una joven cuadripléjica, contrata los servicios de la Clínica Biónica, institución presidida por el Dr. Wuntz que por primera vez está autorizada por el estado para realizar un tratamiento que consiste en matar a Emma, separar la cabeza y llevarla a un cuarto de reposo donde la cabeza tomará consciencia mientras dure el tratamiento, y llevar el cuerpo a un quirófano donde a través de implantes se procederá a la recuperación total del mismo y a la instalación de talentos especiales que Emma compró. Pero el Dr. Wuntz quiere ir un paso más lejos y arriesga todo el proceso.",
+                "anio": "2025",
+                "duracion": "82 min",
+                "genero": "Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f5pjam70aNueL1GILXJqy2Zp9BX.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Un crimen argentino",

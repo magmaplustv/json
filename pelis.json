@@ -339,18 +339,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Capitán América: Un nuevo mundo",
-                "url": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
-                "anio": "2025",
-                "duracion": "119 min",
-                "genero": "Acción, Suspense, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png"
-            },
-            {
                 "name": "Amor Explosivo",
                 "url": "http://vedo.wvdbozpfc.com/vod/479A24EDA441451C9746988B7B48FD2E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
@@ -361,6 +349,18 @@
                 "genero": "Acción, Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
+            },
+            {
+                "name": "Capitán América: Un nuevo mundo",
+                "url": "http://vedo.wvdbozpfc.com/vod/1444DE4E1A894705BDE65F5C73EB1EEF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/im71UJzBqY03swuGYVR28j0JFM2.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+                "anio": "2025",
+                "duracion": "119 min",
+                "genero": "Acción, Suspense, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png"
             },
             {
                 "name": "Z Zone",

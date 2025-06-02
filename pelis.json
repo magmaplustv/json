@@ -6610,18 +6610,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mrY2z3QmukgcIRl0oLLlNBOnmcN.png"
             },
             {
-                "name": "¿Quién es Luigi Mangione?",
-                "url": "http://vedo.wvdbozpfc.com/vod/564263F1C19040139476AECA9026E550_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg",
-                "type": "PELICULA",
-                "descripcion": "26 años, Luigi Mangione es un joven de riqueza y privilegio. ¿Qué lo llevó al mortal tiroteo contra el CEO de United Healthcare, Brian Thompson?",
-                "anio": "2025",
-                "duracion": "42 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8HBfkTtnZS8gEK5jSgYZHBFyhlY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/qUczBoHMyKHsVdbfnZY2a1XtFXA.png"
-            },
-            {
                 "name": "El 47",
                 "url": "http://vedo.wvdbozpfc.com/vod/60464FAC403342C1A2A92357F148066B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1mMxQuW2b5zL6TlhvufdU1poH9n.jpg",
@@ -6632,6 +6620,18 @@
                 "genero": "Crimen, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4fKEH1eeLv6NsLD4adCsFqJaRo0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cBCmbyQr42ezdqUr97eqKa7m7xb.png"
+            },
+            {
+                "name": "¿Quién es Luigi Mangione?",
+                "url": "http://vedo.wvdbozpfc.com/vod/564263F1C19040139476AECA9026E550_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg",
+                "type": "PELICULA",
+                "descripcion": "26 años, Luigi Mangione es un joven de riqueza y privilegio. ¿Qué lo llevó al mortal tiroteo contra el CEO de United Healthcare, Brian Thompson?",
+                "anio": "2025",
+                "duracion": "42 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8HBfkTtnZS8gEK5jSgYZHBFyhlY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qUczBoHMyKHsVdbfnZY2a1XtFXA.png"
             },
             {
                 "name": "Hijos del éxtasis",

@@ -1098,18 +1098,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Sola en el paraíso",
-                "url": "http://vedo.wvdbozpfc.com/vod/6FB938050CD34A47996914209BF54E14_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sWWcXX69oa1Q7EWdyw8kInhgmrs.jpg",
-                "type": "PELICULA",
-                "descripcion": "La actriz Justina Bustos viaja en medio de la pandemia a filmar una película a una isla de África. Cuando llega, su test de COVID da positivo y es confinada en una base militar. La experiencia se extiende más de lo pensado y las certezas comienzan a desarmarse.",
-                "anio": "2024",
-                "duracion": "72 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1MXE7hL2QTwXvIbbfn9YQw7VwAk.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "School Privada Alfonsina Storni",
                 "url": "http://vedo.wvdbozpfc.com/vod/263CABBDE03245CA9F1A0B0DD71E70E1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5tZO0fLMWijv3V4ApP8F9my6phW.jpg",
@@ -1119,6 +1107,18 @@
                 "duracion": "128 min",
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hqNUr4pDfrqtwy9aJP9FQuZW1yd.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Sola en el paraíso",
+                "url": "http://vedo.wvdbozpfc.com/vod/6FB938050CD34A47996914209BF54E14_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sWWcXX69oa1Q7EWdyw8kInhgmrs.jpg",
+                "type": "PELICULA",
+                "descripcion": "La actriz Justina Bustos viaja en medio de la pandemia a filmar una película a una isla de África. Cuando llega, su test de COVID da positivo y es confinada en una base militar. La experiencia se extiende más de lo pensado y las certezas comienzan a desarmarse.",
+                "anio": "2024",
+                "duracion": "72 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1MXE7hL2QTwXvIbbfn9YQw7VwAk.jpg",
                 "iconpng": ""
             },
             {

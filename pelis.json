@@ -1782,18 +1782,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/rxde6ubOd44HT0Sb0B2LbsehoGU.png"
             },
             {
-                "name": "Culpa cero",
-                "url": "http://vedo.wvdbozpfc.com/vod/7A6A42C9ADED403B88CFC814B3E404E4_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
-                "type": "PELICULA",
-                "descripcion": "La vida de Berta Muller, una exitosa escritora, se ve sacudida cuando, en la cima de su carrera, es expuesta en los medios por plagio. Lejos de asumir la responsabilidad, negará las acusaciones y tratará de justificarse ridículamente, aunque eso signifique exponer toda su oscuridad.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/A0shX1gF6lpowkYrjgEhtLiX2iA.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "El suplente",
                 "url": "http://vedo.wvdbozpfc.com/vod/87C1DB45BAD94D0CB114EC3EF6CFED42_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bcSnHRPfJxp7XAk8u3FW7s5d9Eq.jpg",
@@ -1804,6 +1792,18 @@
                 "genero": "Drama, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hBvsn8Cp6Fj4g1AXbv1DvYHD2Ra.png"
+            },
+            {
+                "name": "Culpa cero",
+                "url": "http://vedo.wvdbozpfc.com/vod/7A6A42C9ADED403B88CFC814B3E404E4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
+                "type": "PELICULA",
+                "descripcion": "La vida de Berta Muller, una exitosa escritora, se ve sacudida cuando, en la cima de su carrera, es expuesta en los medios por plagio. Lejos de asumir la responsabilidad, negará las acusaciones y tratará de justificarse ridículamente, aunque eso signifique exponer toda su oscuridad.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/A0shX1gF6lpowkYrjgEhtLiX2iA.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Un novio para mi mujer",

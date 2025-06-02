@@ -7316,18 +7316,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/yXVRwVGeMeKndfN9KIJUZpOPe1N.png"
             },
             {
-                "name": "La monja",
-                "url": "http://vedo.wvdbozpfc.com/vod/D1620EA880284B799CD4A5206F508AF3_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7fxjwtEvqI1BYkXEbGqJ3dQBgXD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Narra la historia de seis jóvenes internas en un siniestro colegio que pasan sus días atemorizadas por una temible monja. Un horrible secreto que traumatizará a las jóvenes reaparecerá 17 años más tarde, tras una serie de asesinatos que las reunirá para revivir juntas su oscuro pasado. ",
-                "anio": "2005",
-                "duracion": "102 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xh1Xjiu7Q0ORz3DbJjlwfC2KwVM.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/i0kHxyjyjoBVZcbpMgegy7Jifbh.png"
-            },
-            {
                 "name": "El exorcismo de Dios",
                 "url": "http://vedo.wvdbozpfc.com/vod/B8D87D8731A64B77B3CC2E2F22F96411_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
@@ -7338,6 +7326,18 @@
                 "genero": "Terror, Crimen, Drama, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/b1L7qevxiVpkVFq4dmdQPGFPWH0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/h07jdSCelmpm6qVayJ8B5YqvvTy.png"
+            },
+            {
+                "name": "La monja",
+                "url": "http://vedo.wvdbozpfc.com/vod/D1620EA880284B799CD4A5206F508AF3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7fxjwtEvqI1BYkXEbGqJ3dQBgXD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Narra la historia de seis jóvenes internas en un siniestro colegio que pasan sus días atemorizadas por una temible monja. Un horrible secreto que traumatizará a las jóvenes reaparecerá 17 años más tarde, tras una serie de asesinatos que las reunirá para revivir juntas su oscuro pasado. ",
+                "anio": "2005",
+                "duracion": "102 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xh1Xjiu7Q0ORz3DbJjlwfC2KwVM.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/i0kHxyjyjoBVZcbpMgegy7Jifbh.png"
             },
             {
                 "name": "La monja II",

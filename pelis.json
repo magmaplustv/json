@@ -4894,18 +4894,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mbcJcuhMkethEbUThVHRuYpgxVY.png"
             },
             {
-                "name": "Coco",
-                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
-                "anio": "2017",
-                "duracion": "109 min",
-                "genero": "Familia, Animación, Música, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
-            },
-            {
                 "name": "Bob Esponja: Un héroe fuera del agua",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DD8E61AC5674484B354FDE62812E2A1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
@@ -4916,6 +4904,18 @@
                 "genero": "Familia, Comedia, Aventura, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6eGYsTJvTf2R38YO0NlnqdsaZu0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
+            },
+            {
+                "name": "Coco",
+                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+                "anio": "2017",
+                "duracion": "109 min",
+                "genero": "Familia, Animación, Música, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
             },
             {
                 "name": "Earwig y la bruja",

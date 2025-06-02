@@ -2470,18 +2470,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png"
             },
             {
-                "name": "Los Simpson: Santa Homer",
-                "url": "http://vedo.wvdbozpfc.com/vod/F42F4CABE08141768BF3EB5BFBB4C2DA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
-                "type": "PELICULA",
-                "descripcion": "Las cosas se tuercen cuando el famoso mentalista británico Derren Brown llega a Springfield, Homer es hipnotizado y se cree Santa Claus, lo que desata una festiva reacción en cadena.",
-                "anio": "2024",
-                "duracion": "45 min",
-                "genero": "Animación, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kbWZFgcCx4YbKkKHvJDGh6ebsH.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dYvdW8Wfy52iADXKXFiY941V2fJ.png"
-            },
-            {
                 "name": "Jurado Nº 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/608293B955984B8EBE4C35CECDF22BD3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
@@ -2492,6 +2480,18 @@
                 "genero": "Crimen, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
+            },
+            {
+                "name": "Los Simpson: Santa Homer",
+                "url": "http://vedo.wvdbozpfc.com/vod/F42F4CABE08141768BF3EB5BFBB4C2DA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+                "type": "PELICULA",
+                "descripcion": "Las cosas se tuercen cuando el famoso mentalista británico Derren Brown llega a Springfield, Homer es hipnotizado y se cree Santa Claus, lo que desata una festiva reacción en cadena.",
+                "anio": "2024",
+                "duracion": "45 min",
+                "genero": "Animación, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kbWZFgcCx4YbKkKHvJDGh6ebsH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dYvdW8Wfy52iADXKXFiY941V2fJ.png"
             },
             {
                 "name": "Cacería Sangrienta",

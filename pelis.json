@@ -1972,6 +1972,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bxH51PxAA7IrHisOEiUXl1WA4Tu.png"
+            },
+            {
+                "name": "Linda",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405761.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ywpx7bm4tsL1CehzTPwJvbuKwAB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1Lxd3hxHAqtgK0jPqd3xqq6dzuA.jpg",
+                "iconpng": "",
+                "descripcion": "Una joven cautivadora acepta trabajar como empleada doméstica en una casa acomodada. Con su encanto único, despierta la atracción en cada miembro de la familia, pero pronto descubre que detrás de sus vidas aparentemente felices se esconde una complejidad inesperada.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "100 min",
+                "type": "PELICULA"
             }
         ]
     },

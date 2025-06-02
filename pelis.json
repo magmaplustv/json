@@ -524,18 +524,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
             },
             {
-                "name": "Conjuring Tapes",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "79 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Karate Kid: Legends",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425538.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/efNhiZPk71FTYJ30dBkWMfc939D.jpg",
@@ -546,6 +534,18 @@
                 "genero": "Acción, Aventura, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/tGjo4L15aELqZGqQH3ThZQGMKmL.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/6BEBpypi6kT0HZchQIVR23l537p.png"
+            },
+            {
+                "name": "Conjuring Tapes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "79 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "El Contador 2",

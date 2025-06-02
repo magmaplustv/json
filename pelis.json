@@ -5665,18 +5665,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png"
             },
             {
-                "name": "Cazatesoros",
-                "url": "http://vedo.wvdbozpfc.com/vod/D8A2337E84984785938C562E17727739_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un cazador de tesoros busca un botín que supuestamente fue enterrado con el explorador Cristóbal Colón.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3354YDdIZm65L4T7Wvgg3o7OO8d.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7znM1AR2ew1JU3rgYjrjg3LIkOA.png"
-            },
-            {
                 "name": "Jurassic World: Dominion",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4http://vedo.wvdbozpfc.com/vod/1A22384D58874A6A86EC14510D40E0E0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
@@ -5687,6 +5675,18 @@
                 "genero": "Aventura, Acción, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/va5NU8qdUhy0tgwiqubC7jopEdU.png"
+            },
+            {
+                "name": "Cazatesoros",
+                "url": "http://vedo.wvdbozpfc.com/vod/D8A2337E84984785938C562E17727739_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un cazador de tesoros busca un botín que supuestamente fue enterrado con el explorador Cristóbal Colón.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3354YDdIZm65L4T7Wvgg3o7OO8d.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7znM1AR2ew1JU3rgYjrjg3LIkOA.png"
             },
             {
                 "name": "Perdido en la montaña",

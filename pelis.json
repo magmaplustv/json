@@ -5826,18 +5826,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Turno nocturno",
-                "url": "http://vedo.wvdbozpfc.com/vod/483661B3AD7940B8B42C5BCACB9F718C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
-                "type": "PELICULA",
-                "descripcion": "En los pasillos oscuros de un hospital, deambula el fantasma de una enfermera conocida como \"La planchada\", famosa por su aspecto impecable. Mientras los pacientes creen que ella está ahí para ayudarlos, las enfermeras y doctores conocen la verdad: deben seguir sus reglas al pie de la letra. \"Que nada se te olvide. No te distraigas. No te relaciones con el personal. No te duermas nunca\". Rebeca, una nueva enfermera en periodo de prueba, no solo debe demostrar su valía ante sus superiores, sino también enfrentarse a esta misteriosa y temida entidad.",
-                "anio": "2024",
-                "duracion": "107 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/x9AySz3k2BkUWl0DWrlR2EUiCH5.png"
-            },
-            {
                 "name": "Nocturnal",
                 "url": "http://vedo.wvdbozpfc.com/vod/7991CB4417164C65B63D5050C6185264_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6ctFs5utjBPcFjBlAdlEDmswfy9.jpg",
@@ -5848,6 +5836,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ktAfWafrgoh13MHgo7av2W0hGAb.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Turno nocturno",
+                "url": "http://vedo.wvdbozpfc.com/vod/483661B3AD7940B8B42C5BCACB9F718C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
+                "type": "PELICULA",
+                "descripcion": "En los pasillos oscuros de un hospital, deambula el fantasma de una enfermera conocida como \"La planchada\", famosa por su aspecto impecable. Mientras los pacientes creen que ella está ahí para ayudarlos, las enfermeras y doctores conocen la verdad: deben seguir sus reglas al pie de la letra. \"Que nada se te olvide. No te distraigas. No te relaciones con el personal. No te duermas nunca\". Rebeca, una nueva enfermera en periodo de prueba, no solo debe demostrar su valía ante sus superiores, sino también enfrentarse a esta misteriosa y temida entidad.",
+                "anio": "2024",
+                "duracion": "107 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/x9AySz3k2BkUWl0DWrlR2EUiCH5.png"
             },
             {
                 "name": "Misterio en la Costa Norte",

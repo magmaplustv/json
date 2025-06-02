@@ -2206,18 +2206,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
             },
             {
-                "name": "Guason 2: Folie à Deux",
-                "url": "http://vedo.wvdbozpfc.com/vod/44A8F75F56F9403DBC5B468A74302D98_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él.",
-                "anio": "2024",
-                "duracion": "138 min",
-                "genero": "Drama, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7aDM1Rba57BeXr0jWRa3kBgEDUz.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png"
-            },
-            {
                 "name": "Romper el círculo",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3996E888F864D1197BF6F6122B0ECC7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
@@ -2228,6 +2216,18 @@
                 "genero": "Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/48AUIelLTC7UpjyKreojMBD23dx.png"
+            },
+            {
+                "name": "Guason 2: Folie à Deux",
+                "url": "http://vedo.wvdbozpfc.com/vod/44A8F75F56F9403DBC5B468A74302D98_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él.",
+                "anio": "2024",
+                "duracion": "138 min",
+                "genero": "Drama, Crimen, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7aDM1Rba57BeXr0jWRa3kBgEDUz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png"
             },
             {
                 "name": "El juego del asesino",

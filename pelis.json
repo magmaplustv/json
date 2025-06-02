@@ -2530,18 +2530,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
             },
             {
-                "name": "Hellboy: El Hombre Retorcido",
-                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Fantasía, Terror, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
-            },
-            {
                 "name": "Babygirl",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A55A75C35EE4D468ED4EA3EA65BDD6D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg",
@@ -2552,6 +2540,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kgyZJyzdSrzXPqR3bhzeMurLI4W.png"
+            },
+            {
+                "name": "Hellboy: El Hombre Retorcido",
+                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Fantasía, Terror, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
             },
             {
                 "name": "Red One",

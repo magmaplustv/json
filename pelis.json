@@ -8243,18 +8243,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9iw0JNBpFic1aQJkeZMrLQPEwkb.png"
             },
             {
-                "name": "Vera y el placer de los otros",
-                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
-                "anio": "2024",
-                "duracion": "104 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Imbroda, el legado del maestro",
                 "url": "http://vedo.wvdbozpfc.com/vod/5018843A3215429386719AE5C6A5E59A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iL8Je1yRa7arfbpDtO0CE0WyyCN.jpg",
@@ -8264,6 +8252,18 @@
                 "duracion": "90 min",
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nt4YQPnktyh0XS1uUpOlzGCDGxE.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Vera y el placer de los otros",
+                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
+                "anio": "2024",
+                "duracion": "104 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
                 "iconpng": ""
             },
             {

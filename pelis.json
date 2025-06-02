@@ -3116,6 +3116,18 @@
                 "genero": "Drama, Música, Familia",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los vigilantes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405792.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rdspkGeXrprR2GxQqlRSHCJl617.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pWEBvZWcrYTTTyEWmmiH52yMMgO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dRCkhcKXHLXjAEuXnsiz6FrIYuV.png",
+                "descripcion": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
+                "anio": "2024",
+                "genero": "Fantasía, Terror, Misterio",
+                "duracion": "102 min",
+                "type": "PELICULA"
             }
         ]
     },

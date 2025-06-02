@@ -7554,18 +7554,6 @@
         "name": "⭐️Biografias / Documentales⭐️",
         "samples": [
             {
-                "name": "Michael Jackson: Searching for Neverland",
-                "url": "http://vedo.wvdbozpfc.com/vod/BF61B6B7167F4F1CBFDF883ABF4FCE24_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mRZIiG4vJiCgJh4v2EPUVVTznC8.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basado en el best-seller, Remember the Time: Protecting Michael Jackson in His Final Days, y contado a través de los ojos de los guardaespaldas de confianza de Jackson, Bill Whitfield y Javon Beard. La película revelará de primera mano la devoción que Michael Jackson tuvo por sus hijos y el drama oculto que tuvo lugar durante los últimos dos años de su vida.",
-                "anio": "2017",
-                "duracion": "105 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ecksst0Cb1AO1CZwmGjJu11bfUo.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/h4GJlXZLCSKoRslaSYU9OI37i1c.png"
-            },
-            {
                 "name": "Queen: Live at Wembley Stadium",
                 "url": "http://vedo.wvdbozpfc.com/vod/4E9AE26169A74A65B1405080B77164C0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/he2VSGKspGL4iSFe0ggGMcvYlQh.jpg",
@@ -7576,6 +7564,18 @@
                 "genero": "Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJDayBMfh3EnM4EARGceGnS0ppv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/i3ZCQjH3bUzQPkwo8DQHhlGRxL8.png"
+            },
+            {
+                "name": "Michael Jackson: Searching for Neverland",
+                "url": "http://vedo.wvdbozpfc.com/vod/BF61B6B7167F4F1CBFDF883ABF4FCE24_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mRZIiG4vJiCgJh4v2EPUVVTznC8.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basado en el best-seller, Remember the Time: Protecting Michael Jackson in His Final Days, y contado a través de los ojos de los guardaespaldas de confianza de Jackson, Bill Whitfield y Javon Beard. La película revelará de primera mano la devoción que Michael Jackson tuvo por sus hijos y el drama oculto que tuvo lugar durante los últimos dos años de su vida.",
+                "anio": "2017",
+                "duracion": "105 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ecksst0Cb1AO1CZwmGjJu11bfUo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/h4GJlXZLCSKoRslaSYU9OI37i1c.png"
             },
             {
                 "name": "Chaplin",

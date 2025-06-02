@@ -4714,18 +4714,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5IzTK9v4udlCjfpSVoi7D3UXGzB.png"
             },
             {
-                "name": "Robots",
-                "url": "vod/8852BF29AD84408FAD72C46F6A59DAE8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/raxDqPCjSlKgEkxhwME75tjq8M2.jpg",
-                "type": "PELICULA",
-                "descripcion": "Charles es un mujeriego, mientras que Elaine es una cazafortunas. El dúo aprende acerca de la humanidad cuando se ven obligados a unirse y perseguir a los robots dobles de sí mismos.",
-                "anio": "2023",
-                "duracion": "93 min",
-                "genero": "Comedia, Ciencia ficción, Romance, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ujAHEr1smB5pzNYUMZpIj1Bm6uq.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7eUffocs4ITDnDTtsvCFzr11M74.png"
-            },
-            {
                 "name": "Trolls 2: Gira mundial",
                 "url": "http://vedo.wvdbozpfc.com/vod/FE9779EE3DE944C986EA9F0808DA12FC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
@@ -4736,6 +4724,18 @@
                 "genero": "Familia, Animación, Comedia, Fantasía, Aventura, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
+            },
+            {
+                "name": "Robots",
+                "url": "vod/8852BF29AD84408FAD72C46F6A59DAE8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/raxDqPCjSlKgEkxhwME75tjq8M2.jpg",
+                "type": "PELICULA",
+                "descripcion": "Charles es un mujeriego, mientras que Elaine es una cazafortunas. El dúo aprende acerca de la humanidad cuando se ven obligados a unirse y perseguir a los robots dobles de sí mismos.",
+                "anio": "2023",
+                "duracion": "93 min",
+                "genero": "Comedia, Ciencia ficción, Romance, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ujAHEr1smB5pzNYUMZpIj1Bm6uq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7eUffocs4ITDnDTtsvCFzr11M74.png"
             },
             {
                 "name": "5 centímetros por segundo",

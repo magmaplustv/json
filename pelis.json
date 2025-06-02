@@ -2595,18 +2595,6 @@
         "name": "⭐️⭐️Hbo/Max⭐️⭐️",
         "samples": [
             {
-                "name": "Escapada de espanto",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Terror, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
-            },
-            {
                 "name": "Tenet",
                 "url": "http://vedo.wvdbozpfc.com/vod/075A6DDED702407A8CC14DB0BCF9D691_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
@@ -2617,6 +2605,18 @@
                 "genero": "Acción, Suspense, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
+            },
+            {
+                "name": "Escapada de espanto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
             },
             {
                 "name": "Parásitos",

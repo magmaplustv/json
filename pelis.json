@@ -6060,18 +6060,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8MTHVfhHBgXrqTNHs83rQiSfBYh.png"
             },
             {
-                "name": "Silent Hill",
-                "url": "http://vedo.wvdbozpfc.com/vod/75114D75EC594A23A64CB9F57642192D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg",
-                "type": "PELICULA",
-                "descripcion": "Rose, desesperada por encontrar una cura para la misteriosa enfermedad de su hija Sharon, rehúsa ingresar a la niña en una institución psiquiátrica a pesar de las recomendaciones de los médicos, y decide huir a Silent Hill, un pueblo del que su hija habla constantemente en sueños. A pesar de que su marido Christopher se opone al viaje, Rose está convencida de que la respuesta se encuentra en este misterioso lugar. Al aproximarse al pueblo, una misteriosa figura se alza en medio de la carretera. Rose, para no atropellarla, tiene un accidente. Cuando vuelve en sí, Sharon ha desaparecido. A partir de ese momento, acompañada por una agente de policía, empieza una búsqueda desesperada en Silent Hill para encontrar a su hija. Las dos mujeres no tardan en darse cuenta de que el pueblo, que quedó desierto después de ser devastado por unos terribles incendios, no se parece a ningún otro.",
-                "anio": "2006",
-                "duracion": "125 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/29BCwmpV9HQUekAGlJLplkslRRf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zLLnDKXU0UXYs4mUrcN8P2XgaJv.png"
-            },
-            {
                 "name": "Nunca digas su nombre",
                 "url": "http://vedo.wvdbozpfc.com/vod/0AA53657207D4E969377027853228FC9_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nQD4sConnRzxuBpAdzkbz15hROb.jpg",
@@ -6082,6 +6070,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9NHAlsuQkMv4IyAR1gLkGrE7XoU.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yV9IRhWhY0k103qBE4OC1vf1EBn.png"
+            },
+            {
+                "name": "Silent Hill",
+                "url": "http://vedo.wvdbozpfc.com/vod/75114D75EC594A23A64CB9F57642192D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rose, desesperada por encontrar una cura para la misteriosa enfermedad de su hija Sharon, rehúsa ingresar a la niña en una institución psiquiátrica a pesar de las recomendaciones de los médicos, y decide huir a Silent Hill, un pueblo del que su hija habla constantemente en sueños. A pesar de que su marido Christopher se opone al viaje, Rose está convencida de que la respuesta se encuentra en este misterioso lugar. Al aproximarse al pueblo, una misteriosa figura se alza en medio de la carretera. Rose, para no atropellarla, tiene un accidente. Cuando vuelve en sí, Sharon ha desaparecido. A partir de ese momento, acompañada por una agente de policía, empieza una búsqueda desesperada en Silent Hill para encontrar a su hija. Las dos mujeres no tardan en darse cuenta de que el pueblo, que quedó desierto después de ser devastado por unos terribles incendios, no se parece a ningún otro.",
+                "anio": "2006",
+                "duracion": "125 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/29BCwmpV9HQUekAGlJLplkslRRf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zLLnDKXU0UXYs4mUrcN8P2XgaJv.png"
             },
             {
                 "name": "Exhuma",

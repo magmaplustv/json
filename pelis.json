@@ -3510,18 +3510,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
             },
             {
-                "name": "La rosa de Versalles",
-                "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
-                "anio": "2025",
-                "duracion": "113 min",
-                "genero": "Animación, Romance, Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
-            },
-            {
                 "name": "La bala perdida 3",
                 "url": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
@@ -3532,6 +3520,18 @@
                 "genero": "Acción, Crimen, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
+            },
+            {
+                "name": "La rosa de Versalles",
+                "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
+                "anio": "2025",
+                "duracion": "113 min",
+                "genero": "Animación, Romance, Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
             },
             {
                 "name": "Extraterritorial",

@@ -3642,18 +3642,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4i7qPHk5CJqPZe3Tu1pXv7rTD9F.png"
             },
             {
-                "name": "Lo mejor del mundo",
-                "url": "http://vedo.wvdbozpfc.com/vod/D2A90FDF322D4525A74AC3973EF1C072_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando un dúo de padre e hijo se entera de que pueden no estar relacionados biológicamente, los dos se embarcan en una aventura salvaje a través de México para encontrar la verdad.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "A prueba",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171060.ts",
                 "icono": "https://image.tmdb.org/t/p/original/cXgBHj3g0aLH5OWbgZJpNX7zMhT.jpg",
@@ -3664,6 +3652,18 @@
                 "genero": "Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eExaW68UXzJMDQP9Ekyc3wn9h1Z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9mVFQqZPALoyztL8YjfV9RARcoZ.png"
+            },
+            {
+                "name": "Lo mejor del mundo",
+                "url": "http://vedo.wvdbozpfc.com/vod/D2A90FDF322D4525A74AC3973EF1C072_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando un dúo de padre e hijo se entera de que pueden no estar relacionados biológicamente, los dos se embarcan en una aventura salvaje a través de México para encontrar la verdad.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Chicos de hielo en el trópico",

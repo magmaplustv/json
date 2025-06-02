@@ -2566,18 +2566,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kgyZJyzdSrzXPqR3bhzeMurLI4W.png"
             },
             {
-                "name": "Criaturas: Linea de Extincion",
-                "url": "http://vedo.wvdbozpfc.com/vod/313FA881EF7145FFBDDBE7D486223535_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/92cd9vR6ThBqT6Pe6m5daxX0rAk.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un padre soltero y dos mujeres se aventuran desde la seguridad de sus hogares a enfrentarse a criaturas monstruosas para salvar la vida de un niño.",
-                "anio": "2024",
-                "duracion": "91 min",
-                "genero": "Acción, Ciencia ficción, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5ZcebxdEL5Q8gkgxGRRf22cVdBK.png"
-            },
-            {
                 "name": "Beekeeper: El protector",
                 "url": "http://vedo.wvdbozpfc.com/vod/243B961D03524E55A40499A57CFCEE5A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",
@@ -2588,6 +2576,18 @@
                 "genero": "Acción, Crimen, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
+            },
+            {
+                "name": "Criaturas: Linea de Extincion",
+                "url": "http://vedo.wvdbozpfc.com/vod/313FA881EF7145FFBDDBE7D486223535_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/92cd9vR6ThBqT6Pe6m5daxX0rAk.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un padre soltero y dos mujeres se aventuran desde la seguridad de sus hogares a enfrentarse a criaturas monstruosas para salvar la vida de un niño.",
+                "anio": "2024",
+                "duracion": "91 min",
+                "genero": "Acción, Ciencia ficción, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5ZcebxdEL5Q8gkgxGRRf22cVdBK.png"
             }
         ]
     },

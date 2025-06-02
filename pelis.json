@@ -1650,18 +1650,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El patrón, radiografía de un crimen",
-                "url": "http://vedo.wvdbozpfc.com/vod/08A8F82E345A49BFB233434F8141CA1B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/tqM5b356wYON9VcIKUTOONRUL7P.jpg",
-                "type": "PELICULA",
-                "descripcion": "El patrón, radiografía de un crimen, se enfoca en un hecho criminal real sobre un hombre rural que llega a Buenos Aires en busca de trabajo y termina explotado por un siniestro patrón que lo obliga a vender carne podrida y que lo somete a una verdadera esclavitud, en el corazón de la Ciudad de Buenos Aires y en el siglo XXI.",
-                "anio": "2014",
-                "duracion": "99 min",
-                "genero": "Drama, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ptISaxb6sZ5Jvt2r7An9hBbejQk.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "El Robo del siglo",
                 "url": "http://vedo.wvdbozpfc.com/vod/D72F606244C74A2FA51FC5628A178D8F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/acQ5lwnQGwre8n3m8JzTTcNKc5h.jpg",
@@ -1672,6 +1660,18 @@
                 "genero": "Comedia, Romance, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/Au1wISgqcMO3tkEevGMgxVALM4Z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nTfIy4YdVX7yxRrcnCoxxIH4a5p.png"
+            },
+            {
+                "name": "El patrón, radiografía de un crimen",
+                "url": "http://vedo.wvdbozpfc.com/vod/08A8F82E345A49BFB233434F8141CA1B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tqM5b356wYON9VcIKUTOONRUL7P.jpg",
+                "type": "PELICULA",
+                "descripcion": "El patrón, radiografía de un crimen, se enfoca en un hecho criminal real sobre un hombre rural que llega a Buenos Aires en busca de trabajo y termina explotado por un siniestro patrón que lo obliga a vender carne podrida y que lo somete a una verdadera esclavitud, en el corazón de la Ciudad de Buenos Aires y en el siglo XXI.",
+                "anio": "2014",
+                "duracion": "99 min",
+                "genero": "Drama, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ptISaxb6sZ5Jvt2r7An9hBbejQk.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Carancho",

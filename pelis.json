@@ -5115,18 +5115,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/y49rcN29AFhGhPEyybGdYpYbOqm.png"
             },
             {
-                "name": "1917",
-                "url": "http://vedo.wvdbozpfc.com/vod/E7075F88F87045A0972D8060906378BE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg",
-                "type": "PELICULA",
-                "descripcion": "1917. La Gran Guerra amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda.",
-                "anio": "2019",
-                "duracion": "119 min",
-                "genero": "Bélica, Historia, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/wwSU87KF5cqBLI4ani5vOnYIErh.png"
-            },
-            {
                 "name": "La lista de Schindler",
                 "url": "http://vedo.wvdbozpfc.com/vod/797E30B115554726BA8782E7CE52854F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
@@ -5137,6 +5125,18 @@
                 "genero": "Drama, Historia, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
+            },
+            {
+                "name": "1917",
+                "url": "http://vedo.wvdbozpfc.com/vod/E7075F88F87045A0972D8060906378BE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg",
+                "type": "PELICULA",
+                "descripcion": "1917. La Gran Guerra amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda.",
+                "anio": "2019",
+                "duracion": "119 min",
+                "genero": "Bélica, Historia, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wwSU87KF5cqBLI4ani5vOnYIErh.png"
             },
             {
                 "name": "La delgada línea roja",

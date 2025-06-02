@@ -255,18 +255,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Holland",
-                "url": "http://vedo.wvdbozpfc.com/vod/4275E8AE1DB849EF9ABF17F973C1681B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
-                "type": "PELICULA",
-                "descripcion": "En esta película de suspense impredecible, Nicole Kidman es la meticulosa Nancy Vandergroot, una profesora y ama de casa cuya vida perfecta con su marido y su hijo en Holland, Míchigan, una ciudad llena de tulipanes, se convierte en una historia retorcida. Nancy y su amable compañero de trabajo empiezan a sospechar de un secreto, y acaban descubriendo que nada en sus vidas es lo que parece.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Suspense, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/68WMl6vWiY6oPIXXQadhrRpWFdg.png"
-            },
-            {
                 "name": "Hombre lobo",
                 "url": "http://vedo.wvdbozpfc.com/vod/74364C0FAC0443D9B5BC058E87D10013_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
@@ -277,6 +265,18 @@
                 "genero": "Acción, Fantasía, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uwSSP1XJOYyCHdfGBjE2VuB3LLi.png"
+            },
+            {
+                "name": "Holland",
+                "url": "http://vedo.wvdbozpfc.com/vod/4275E8AE1DB849EF9ABF17F973C1681B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
+                "type": "PELICULA",
+                "descripcion": "En esta película de suspense impredecible, Nicole Kidman es la meticulosa Nancy Vandergroot, una profesora y ama de casa cuya vida perfecta con su marido y su hijo en Holland, Míchigan, una ciudad llena de tulipanes, se convierte en una historia retorcida. Nancy y su amable compañero de trabajo empiezan a sospechar de un secreto, y acaban descubriendo que nada en sus vidas es lo que parece.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Suspense, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/68WMl6vWiY6oPIXXQadhrRpWFdg.png"
             },
             {
                 "name": "Plankton, la película",

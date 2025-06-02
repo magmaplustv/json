@@ -241,6 +241,18 @@
                 "genero": "Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
+            },
+            {
+                "name": "Vivir el momento",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406170.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/RiE4GRCOgSS9OgDi4nUuEvgGyK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yVKcoov9MHFJeGO3h6hRDHJTm0s.png",
+                "descripcion": "Almut y Tobias se conocen en un encuentro inesperado que cambia sus vidas. A través de pasajes de su vida en común −se enamoran, construyen un hogar, forman una familia− se nos revela una difícil verdad que amenaza con sacudir sus cimientos. A medida que emprenden un camino que los límites del tiempo desafían, los protagonistas aprenderán a apreciar cada momento del inusual camino que ha tomado su historia de amor, que abarca una década.",
+                "anio": "2024",
+                "genero": "Romance, Drama",
+                "duracion": "108 min",
+                "type": "PELICULA"
             }
         ]
     },

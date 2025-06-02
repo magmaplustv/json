@@ -3164,18 +3164,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8z9AengHCrn6K53xuw8dkZT9PKX.png"
             },
             {
-                "name": "Detained",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168602.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
-                "type": "PELICULA",
-                "descripcion": "En la oscuridad de la noche, Rebecca se despierta en una comisaría decrépita, acusada de atropello y fuga. Pero una refriega mortal revela un siniestro complot. Sin ningún lugar a donde acudir, debe descubrir la verdad antes de que la consuma. Pero Rebecca esconde secretos más oscuros de lo que creen.",
-                "anio": "2024",
-                "duracion": "97 min",
-                "genero": "Suspense, Misterio, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sYRkCdD87Pj2QWmevUknqrHP4LI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5b9ltHYiChJ2xgpuqlxKCHXAUqG.png"
-            },
-            {
                 "name": "El retorno",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168303.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/mZhOvUZdlIiJ4sXGEsFTJ8XvwCP.jpg",
@@ -3186,6 +3174,18 @@
                 "genero": "Drama, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fIKGOv3Sc2Sbv8eBE8flUyWFz6I.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Detained",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168602.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la oscuridad de la noche, Rebecca se despierta en una comisaría decrépita, acusada de atropello y fuga. Pero una refriega mortal revela un siniestro complot. Sin ningún lugar a donde acudir, debe descubrir la verdad antes de que la consuma. Pero Rebecca esconde secretos más oscuros de lo que creen.",
+                "anio": "2024",
+                "duracion": "97 min",
+                "genero": "Suspense, Misterio, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sYRkCdD87Pj2QWmevUknqrHP4LI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5b9ltHYiChJ2xgpuqlxKCHXAUqG.png"
             },
             {
                 "name": "Doble espionaje",

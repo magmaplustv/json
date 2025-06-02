@@ -5605,18 +5605,6 @@
         "name": "⭐️⭐️Aventura⭐️⭐️",
         "samples": [
             {
-                "name": "Minions: El origen de Gru",
-                "url": "http://vedo.wvdbozpfc.com/vod/4DD04A20B1304D9D9478C03AE688D9F6_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg",
-                "type": "PELICULA",
-                "descripcion": "Mucho antes de convertirse en un genio del mal, Gru no era más que un chaval de 12 años en plenos años 70 tratando de conquistar el mundo desde el sótano de su casa de un barrio residencial cualquiera. Y no le iba demasiado bien. Pero cuando Gru se cruza en su camino con Kevin, Stuart, Bob, y Otto —un nuevo Minion con aparato en los dientes y desesperado por sentirse aceptado—, esta inesperada familia unirá fuerzas para construir su primera guarida, diseñar sus primeras armas y llevar a cabo sus primeras misiones.",
-                "anio": "2022",
-                "duracion": "87 min",
-                "genero": "Animación, Comedia, Familia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9dfHalOBi4fj2GY2YW9H7IuyaXC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2tHEeYyrrw4VwydLdILcgSI5ENm.png"
-            },
-            {
                 "name": "Lampo, el perro viajero",
                 "url": "http://vedo.wvdbozpfc.com/vod/777D9B0008E94F07A21699F915189EA6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gQpGDVYNCSTYf1ogw6hM55VBeLF.jpg",
@@ -5627,6 +5615,18 @@
                 "genero": "Familia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/Ag1XghiFAN9K6e3PcSLdl0nWJTV.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Minions: El origen de Gru",
+                "url": "http://vedo.wvdbozpfc.com/vod/4DD04A20B1304D9D9478C03AE688D9F6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg",
+                "type": "PELICULA",
+                "descripcion": "Mucho antes de convertirse en un genio del mal, Gru no era más que un chaval de 12 años en plenos años 70 tratando de conquistar el mundo desde el sótano de su casa de un barrio residencial cualquiera. Y no le iba demasiado bien. Pero cuando Gru se cruza en su camino con Kevin, Stuart, Bob, y Otto —un nuevo Minion con aparato en los dientes y desesperado por sentirse aceptado—, esta inesperada familia unirá fuerzas para construir su primera guarida, diseñar sus primeras armas y llevar a cabo sus primeras misiones.",
+                "anio": "2022",
+                "duracion": "87 min",
+                "genero": "Animación, Comedia, Familia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9dfHalOBi4fj2GY2YW9H7IuyaXC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2tHEeYyrrw4VwydLdILcgSI5ENm.png"
             },
             {
                 "name": "Bambi, una vida en el bosque",

@@ -4163,18 +4163,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/m8Cp9iqsJQyy1WAALU4waOkSXxs.png"
             },
             {
-                "name": "Predator",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164227.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
-                "anio": "1987",
-                "duracion": "102 min",
-                "genero": "Ciencia ficción, Acción, Aventura, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/e4dOUF9wnKgRGglTsozEPOee9U4.png"
-            },
-            {
                 "name": "Dead Rising: Watchtower",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164237.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/95gMn5GwR6rPHmmHfDyEs0pO2U7.jpg",
@@ -4185,6 +4173,18 @@
                 "genero": "Terror, Ciencia ficción, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3QyZefxeAuoUshAwpliuhaTwDPy.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/aCi13kzufPWMkTZtjSZHffyLZbI.png"
+            },
+            {
+                "name": "Predator",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164227.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
+                "anio": "1987",
+                "duracion": "102 min",
+                "genero": "Ciencia ficción, Acción, Aventura, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/e4dOUF9wnKgRGglTsozEPOee9U4.png"
             },
             {
                 "name": "Deadpool 2",

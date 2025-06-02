@@ -2930,12 +2930,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
             },
             {
-                "name": "Francotirador: La batalla final",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Love Me",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169703.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
@@ -2946,6 +2940,12 @@
                 "genero": "Drama, Música, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/l19ruhwCLotkG5wTcelrqVvmPX8.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oJUoccvSAXFF01DmAwJLfkqlwj2.png"
+            },
+            {
+                "name": "Francotirador: La batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Un día de esos",

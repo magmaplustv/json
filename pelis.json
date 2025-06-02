@@ -5564,18 +5564,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/pRa3ke5lZAg1oS5cuqdJDNX8B78.png"
             },
             {
-                "name": "Dalia y el libro rojo",
-                "url": "http://vedo.wvdbozpfc.com/vod/B7BCE01568D8475A87C5FD13F98EADFF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oyGyAQZOj7NzyLxCZX7FHKYELP1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando los personajes de la novela que su padre nunca pudo terminar cobran vida y amenazan con tomar el control de la historia, Dalia es arrastrada a una fascinante aventura dentro de El Libro Rojo. Con solo 12 horas, una hoja en blanco y una pluma, Dalia, junto a una valiente cabra convertida en guía y compañera de viaje, debe encontrar la manera de escribir el final de la historia y decidir si desea convertirse en escritora, como su padre.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Aventura, Drama, Fantasía, Animación",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/585hAEHBMNqyCt3pswF5MjImBrR.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zM55iX3aURDv144hQa3ANKnZAo5.png"
-            },
-            {
                 "name": "Attack on Titan: THE LAST ATTACK",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A6C0ECAE6054A339BD8CC407C85EEA8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg",
@@ -5586,6 +5574,18 @@
                 "genero": "Animación, Acción, Aventura, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Dalia y el libro rojo",
+                "url": "http://vedo.wvdbozpfc.com/vod/B7BCE01568D8475A87C5FD13F98EADFF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oyGyAQZOj7NzyLxCZX7FHKYELP1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando los personajes de la novela que su padre nunca pudo terminar cobran vida y amenazan con tomar el control de la historia, Dalia es arrastrada a una fascinante aventura dentro de El Libro Rojo. Con solo 12 horas, una hoja en blanco y una pluma, Dalia, junto a una valiente cabra convertida en guía y compañera de viaje, debe encontrar la manera de escribir el final de la historia y decidir si desea convertirse en escritora, como su padre.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Aventura, Drama, Fantasía, Animación",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/585hAEHBMNqyCt3pswF5MjImBrR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zM55iX3aURDv144hQa3ANKnZAo5.png"
             },
             {
                 "name": "Richard, la cigüeña",

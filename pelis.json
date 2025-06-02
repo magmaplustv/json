@@ -4978,18 +4978,6 @@
                 "iconpng": ""
             },
             {
-                "name": "La Patrulla Canina: La película",
-                "url": "http://vedo.wvdbozpfc.com/vod/F1F25AC7CBE1402DB36EBF9E3C25AA62_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
-                "type": "PELICULA",
-                "descripcion": "La patrulla canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la patrulla canina lucha por salvar a los ciudadanos de Ciudad Aventura.",
-                "anio": "2021",
-                "duracion": "86 min",
-                "genero": "Familia, Comedia, Aventura, Animación",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/wI5JxVzmXS6WrJNzr8i8JZXCGQN.png"
-            },
-            {
                 "name": "Bob Esponja: Un héroe al rescate",
                 "url": "http://vedo.wvdbozpfc.com/vod/CD377777A12F48C588A3D3F8AD8AA967_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fi2pg2mtAZwhq3qVuAs6PztjnHT.jpg",
@@ -5000,6 +4988,18 @@
                 "genero": "Familia, Comedia, Aventura, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vZibX3cIJICUb1TXIEQQ71S6K7J.png"
+            },
+            {
+                "name": "La Patrulla Canina: La película",
+                "url": "http://vedo.wvdbozpfc.com/vod/F1F25AC7CBE1402DB36EBF9E3C25AA62_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
+                "type": "PELICULA",
+                "descripcion": "La patrulla canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la patrulla canina lucha por salvar a los ciudadanos de Ciudad Aventura.",
+                "anio": "2021",
+                "duracion": "86 min",
+                "genero": "Familia, Comedia, Aventura, Animación",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wI5JxVzmXS6WrJNzr8i8JZXCGQN.png"
             },
             {
                 "name": "Moana",

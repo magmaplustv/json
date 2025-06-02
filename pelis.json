@@ -5091,18 +5091,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/G3yN5lqWmEShs1xpCZ3rtIF26f.png"
             },
             {
-                "name": "La delgada línea roja",
-                "url": "http://vedo.wvdbozpfc.com/vod/C7078173648940A3AB0C49BEE3CE6C85_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/234oXaXKIcyXpWMMFISsZ94tas9.jpg",
-                "type": "PELICULA",
-                "descripcion": "Segunda Guerra Mundial, isla de Guadalcanal, 1942. Un grupo de hombres pertenecientes a la compañía de fusileros del ejército 'C de Charlie' combate contra el ejército japonés por la conquista de una estratégica colina. Allí, los hombres sufren grandes cambios, padecen y, en última instancia, descubren aspectos fundamentales de sí mismos. Los soldados forman parte del envío de nuevas unidades del ejército para proceder al relevo de las unidades de infantería de marina agotadas por el combate.",
-                "anio": "1998",
-                "duracion": "170 min",
-                "genero": "Drama, Historia, Bélica",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hu6NS5mDlnoRMLU99uUn9Nye6t1.png"
-            },
-            {
                 "name": "Warfare. Tiempo de guerra",
                 "url": "http://vedo.wvdbozpfc.com/vod/6CEAE2019B9A4D1BA986DF329EFC0B9F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9Ci3Rl0eXN8lJCuxIApZrjds6cg.jpg",
@@ -5113,6 +5101,18 @@
                 "genero": "Bélica, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cRHC3tyxV7hEOrnjNhRaIvaMZ1C.png"
+            },
+            {
+                "name": "La delgada línea roja",
+                "url": "http://vedo.wvdbozpfc.com/vod/C7078173648940A3AB0C49BEE3CE6C85_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/234oXaXKIcyXpWMMFISsZ94tas9.jpg",
+                "type": "PELICULA",
+                "descripcion": "Segunda Guerra Mundial, isla de Guadalcanal, 1942. Un grupo de hombres pertenecientes a la compañía de fusileros del ejército 'C de Charlie' combate contra el ejército japonés por la conquista de una estratégica colina. Allí, los hombres sufren grandes cambios, padecen y, en última instancia, descubren aspectos fundamentales de sí mismos. Los soldados forman parte del envío de nuevas unidades del ejército para proceder al relevo de las unidades de infantería de marina agotadas por el combate.",
+                "anio": "1998",
+                "duracion": "170 min",
+                "genero": "Drama, Historia, Bélica",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hu6NS5mDlnoRMLU99uUn9Nye6t1.png"
             },
             {
                 "name": "Sin novedad en el frente",

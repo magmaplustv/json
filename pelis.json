@@ -6425,18 +6425,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5MHDCC3aVnH0HteKCaqCWipAJc1.png"
             },
             {
-                "name": "Rivales",
-                "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil que se preparan para la gran final, que se juega en Sevilla. Todos han depositado una gran ilusión en este gran partido, quieren vencer a sus eternos rivales. Durante el viaje a Sevilla conoceremos no sólo las peculiares relaciones entre padres e hijos o entre la pareja, sino también sus relaciones sociales con los demás. Una comedia coral que retrata situaciones variopintas de la vida cotidiana, en un mundo donde los adultos muchas veces son peores que los niños.",
-                "anio": "2008",
-                "duracion": "100 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La Dolce Villa",
                 "url": "http://vedo.wvdbozpfc.com/vod/8150818199EA40D4A6E5778D590A46C8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jKui5UBVChCofnDuT9mrldofFDB.jpg",
@@ -6447,6 +6435,18 @@
                 "genero": "Romance, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/aJ8smpUzD40BY40d6K4cF2AeRt7.png"
+            },
+            {
+                "name": "Rivales",
+                "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
+                "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Deportivo Madrileño y el Atlético Barcelonés son dos equipos de fútbol juvenil que se preparan para la gran final, que se juega en Sevilla. Todos han depositado una gran ilusión en este gran partido, quieren vencer a sus eternos rivales. Durante el viaje a Sevilla conoceremos no sólo las peculiares relaciones entre padres e hijos o entre la pareja, sino también sus relaciones sociales con los demás. Una comedia coral que retrata situaciones variopintas de la vida cotidiana, en un mundo donde los adultos muchas veces son peores que los niños.",
+                "anio": "2008",
+                "duracion": "100 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Una historia de amor en Copenhague",

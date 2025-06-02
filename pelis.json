@@ -3522,18 +3522,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9pLluhKIZECy3HUmGh2vH7mRsdK.png"
             },
             {
-                "name": "La rosa de Versalles",
-                "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
-                "anio": "2025",
-                "duracion": "113 min",
-                "genero": "Animación, Romance, Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
-            },
-            {
                 "name": "Extraterritorial",
                 "url": "http://vedo.wvdbozpfc.com/vod/1901DF80656842B58525D2831D1FD49B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg",
@@ -3544,6 +3532,18 @@
                 "genero": "Suspense, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/bVm6udIB6iKsRqgMdQh6HywuEBj.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/3gsyw7kSJUDtxfjf2TcyEYT3WYi.png"
+            },
+            {
+                "name": "La rosa de Versalles",
+                "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
+                "anio": "2025",
+                "duracion": "113 min",
+                "genero": "Animación, Romance, Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
             },
             {
                 "name": "La más fan",

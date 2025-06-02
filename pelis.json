@@ -2882,18 +2882,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dMdf4BgWn5pVkFOB46Y5jUiqxTQ.png"
             },
             {
-                "name": "Noryang: la batalla final",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169792.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/pYUGx3ARSPL3i9V53P6Z6t0v04x.jpg",
-                "type": "PELICULA",
-                "descripcion": "Todo un éxito en Corea del Sur, una superproducción bélica repleta de escenas de acción de gran espectacularidad que recorre la histórica Batalla de Noryang, la última gran batalla de las invasiones japonesas de Corea (1592-1598).En 1598, la Guerra de Imjin está a punto de terminar. El almirante Yi Sun-shin lidera una flota aliada de barcos para aniquilar al ejército Wae. Ahora, las fuerzas de Joseon, Ming y Wae se enfrentan en el estrecho de Noryang, el mar mortal donde el almirante Yi libra la última gran batalla de las invasiones japonesas de Corea. Kim Han-min, director de la cinta, ya había adaptado la vida del almirante De Joseon, Yi Sun-shin, héroe nacional en Corea, en anteriores ocasiones con \" El almirante: Mar de fuego \" en 2014 y con \"La batalla del dragón\" en 2022.",
-                "anio": "2023",
-                "duracion": "153 min",
-                "genero": "Bélica, Acción, Historia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ksZTspehDCC4PCZN8ci31pFT6yp.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eFXhGxMfDvF1lfbzhLbXxpGiDve.png"
-            },
-            {
                 "name": "Imagínatelo",
                 "url": "http://vedo.wvdbozpfc.com/vod/35338A6BCB344FBFA4E695C2E452EDA2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ke6Awqk7WembxYHifay7ujOjXwJ.jpg",
@@ -2904,6 +2892,18 @@
                 "genero": "Comedia, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hzBLtqQs1jdclPu71xlNcyiXOBD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/x8HNcT1fLsBKlNvdUuGZu4VaHCq.png"
+            },
+            {
+                "name": "Noryang: la batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169792.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pYUGx3ARSPL3i9V53P6Z6t0v04x.jpg",
+                "type": "PELICULA",
+                "descripcion": "Todo un éxito en Corea del Sur, una superproducción bélica repleta de escenas de acción de gran espectacularidad que recorre la histórica Batalla de Noryang, la última gran batalla de las invasiones japonesas de Corea (1592-1598).En 1598, la Guerra de Imjin está a punto de terminar. El almirante Yi Sun-shin lidera una flota aliada de barcos para aniquilar al ejército Wae. Ahora, las fuerzas de Joseon, Ming y Wae se enfrentan en el estrecho de Noryang, el mar mortal donde el almirante Yi libra la última gran batalla de las invasiones japonesas de Corea. Kim Han-min, director de la cinta, ya había adaptado la vida del almirante De Joseon, Yi Sun-shin, héroe nacional en Corea, en anteriores ocasiones con \" El almirante: Mar de fuego \" en 2014 y con \"La batalla del dragón\" en 2022.",
+                "anio": "2023",
+                "duracion": "153 min",
+                "genero": "Bélica, Acción, Historia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ksZTspehDCC4PCZN8ci31pFT6yp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eFXhGxMfDvF1lfbzhLbXxpGiDve.png"
             },
             {
                 "name": "Wish You Were Here",

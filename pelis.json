@@ -668,18 +668,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/tgxAaOzxeGM0PJXfsuMjZzzgVyk.png"
             },
             {
-                "name": "The Chemists",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168590.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2LCxXzAVteNyAErJqKqLztpamaz.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "100 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bY90Kcw4avzuhW6x78nBBJ6Ksv.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Mercato",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168588.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fOxsQAg1RmICNrh0gdI27UP2DVD.jpg",
@@ -689,6 +677,18 @@
                 "duracion": "119 min",
                 "genero": "Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2uEmC6WvlxL1H4RRFS567l3HoVP.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "The Chemists",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168590.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2LCxXzAVteNyAErJqKqLztpamaz.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "100 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bY90Kcw4avzuhW6x78nBBJ6Ksv.jpg",
                 "iconpng": ""
             },
             {

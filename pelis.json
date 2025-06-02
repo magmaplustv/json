@@ -6389,18 +6389,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xVdAIoMsR1OOcfOCXUYVgLGq5o.png"
             },
             {
-                "name": "A un minuto de ti",
-                "url": "http://vedo.wvdbozpfc.com/vod/C83612ADEDCF448290F350A60D8BCFF6_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1DkmVaJoOAZSL0xm6ML0LDS5Vhz.jpg",
-                "type": "PELICULA",
-                "descripcion": "Minnie y Quinn nacen el mismo día, con un minuto de diferencia. Sus vidas pueden comenzar juntas, pero sus mundos no podrían ser más diferentes. 30 años después se encuentran juntos de nuevo. Tal vez es hora de darle una oportunidad al amor.",
-                "anio": "2024",
-                "duracion": "116 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2TaEkr096jxQrzryviiB3izYLEi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gCwD92K3jUwQi8uFeyw88GO59cm.png"
-            },
-            {
                 "name": "Ricos, sin duda",
                 "url": "http://vedo.wvdbozpfc.com/vod/F42348E5FAB0458A9C00DDBED298745F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
@@ -6411,6 +6399,18 @@
                 "genero": "Romance, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jHbSVuahqx0FVbAhgtf6SUnJ1Vf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iePVUTB8TiPVXqHmJPgkAB2OyLl.png"
+            },
+            {
+                "name": "A un minuto de ti",
+                "url": "http://vedo.wvdbozpfc.com/vod/C83612ADEDCF448290F350A60D8BCFF6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1DkmVaJoOAZSL0xm6ML0LDS5Vhz.jpg",
+                "type": "PELICULA",
+                "descripcion": "Minnie y Quinn nacen el mismo día, con un minuto de diferencia. Sus vidas pueden comenzar juntas, pero sus mundos no podrían ser más diferentes. 30 años después se encuentran juntos de nuevo. Tal vez es hora de darle una oportunidad al amor.",
+                "anio": "2024",
+                "duracion": "116 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2TaEkr096jxQrzryviiB3izYLEi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gCwD92K3jUwQi8uFeyw88GO59cm.png"
             },
             {
                 "name": "La Dolce Villa",

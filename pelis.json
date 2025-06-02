@@ -1794,18 +1794,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El suplente",
-                "url": "http://vedo.wvdbozpfc.com/vod/87C1DB45BAD94D0CB114EC3EF6CFED42_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bcSnHRPfJxp7XAk8u3FW7s5d9Eq.jpg",
-                "type": "PELICULA",
-                "descripcion": "Lucio, un prestigioso profesor de literatura en la universidad, toma un curso en una escuela del barrio donde creció, en los suburbios de Buenos Aires. Allí intentará ayudar a su padre a salvar a Dilan, un estudiante perseguido por un grupo de narcos.",
-                "anio": "2022",
-                "duracion": "111 min",
-                "genero": "Drama, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hBvsn8Cp6Fj4g1AXbv1DvYHD2Ra.png"
-            },
-            {
                 "name": "Un novio para mi mujer",
                 "url": "http://vedo.wvdbozpfc.com/vod/AFA3393302514EA5BC59532794A7B869_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ybMKaNMoBie2ebXf4TIz1Sh70Iq.jpg",
@@ -1816,6 +1804,18 @@
                 "genero": "Romance, Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qockJIX0NNDiny7q5BoLywOVZxW.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "El suplente",
+                "url": "http://vedo.wvdbozpfc.com/vod/87C1DB45BAD94D0CB114EC3EF6CFED42_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bcSnHRPfJxp7XAk8u3FW7s5d9Eq.jpg",
+                "type": "PELICULA",
+                "descripcion": "Lucio, un prestigioso profesor de literatura en la universidad, toma un curso en una escuela del barrio donde creció, en los suburbios de Buenos Aires. Allí intentará ayudar a su padre a salvar a Dilan, un estudiante perseguido por un grupo de narcos.",
+                "anio": "2022",
+                "duracion": "111 min",
+                "genero": "Drama, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hBvsn8Cp6Fj4g1AXbv1DvYHD2Ra.png"
             },
             {
                 "name": "Ex casados",

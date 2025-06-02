@@ -2816,6 +2816,18 @@
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los descendientes: Corazón rebelde",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405849.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/57XarHzHxeDouUyjAb6BpVxIkC0.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dn3gbDpXPSwC6saMJOHkCiFA9jn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mPK1LTHTOGvez0DfqMTZBiE1mlk.png",
+                "descripcion": "Cuando la Reina de Corazones da un golpe de Estado en Áuradon, su rebelde hija Red y la perfeccionista hija de Cenicienta, Chloe, unen sus fuerzas y viajan al pasado para intentar impedir el traumático suceso que llevó a la madre de Red a convertirse en una villana.",
+                "anio": "2024",
+                "genero": "Fantasía, Aventura, Familia, Comedia",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

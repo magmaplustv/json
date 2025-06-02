@@ -5880,18 +5880,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/cz9PongGbf2Z6LWxE8QjuXRN5Gm.png"
             },
             {
-                "name": "El Sonido de la Libertad",
-                "url": "http://vedo.wvdbozpfc.com/vod/AD62396428A94A399A0614B2A58055FF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tim Ballard, un exagente del gobierno de Estados Unidos, que decide renunciar a su trabajo para dedicar su vida a la lucha contra la explotación infantil.",
-                "anio": "2023",
-                "duracion": "131 min",
-                "genero": "Acción, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6abqP3NJvSVbtAj5CQ9PRHfaZiq.png"
-            },
-            {
                 "name": "Paranormal Activity",
                 "url": "http://vedo.wvdbozpfc.com/vod/DE611E8AC3F94467ACC862CE45A0E8C6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/919Xf5NshBIKuj4HP2XkGIfNaCF.jpg",
@@ -5902,6 +5890,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xAnSELun945cE4kFUD9mI7W3puI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7NNFxFTy7XYg6hJKMbYrIBRHgWU.png"
+            },
+            {
+                "name": "El Sonido de la Libertad",
+                "url": "http://vedo.wvdbozpfc.com/vod/AD62396428A94A399A0614B2A58055FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tim Ballard, un exagente del gobierno de Estados Unidos, que decide renunciar a su trabajo para dedicar su vida a la lucha contra la explotación infantil.",
+                "anio": "2023",
+                "duracion": "131 min",
+                "genero": "Acción, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6abqP3NJvSVbtAj5CQ9PRHfaZiq.png"
             },
             {
                 "name": "El Niño",

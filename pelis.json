@@ -255,18 +255,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Plankton, la película",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
-                "type": "PELICULA",
-                "descripcion": "La complicada historia de amor de Plankton con su esposa computarizada Karen se complica cuando ella decide destruir el mundo sin él.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Animación, Aventura, Comedia, Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/33g8BPIyp1aF9DcXUmWqtwlXwYA.png"
-            },
-            {
                 "name": "Amor Explosivo",
                 "url": "http://vedo.wvdbozpfc.com/vod/479A24EDA441451C9746988B7B48FD2E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
@@ -277,6 +265,18 @@
                 "genero": "Acción, Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
+            },
+            {
+                "name": "Plankton, la película",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167183.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
+                "type": "PELICULA",
+                "descripcion": "La complicada historia de amor de Plankton con su esposa computarizada Karen se complica cuando ella decide destruir el mundo sin él.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Animación, Aventura, Comedia, Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/33g8BPIyp1aF9DcXUmWqtwlXwYA.png"
             },
             {
                 "name": "Holland",

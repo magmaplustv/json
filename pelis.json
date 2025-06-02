@@ -6711,18 +6711,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "La mitad de Ana",
-                "url": "http://vedo.wvdbozpfc.com/vod/DF19DEBFDC874EDDB7BEA2E333F616B2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z9MU1BtnhHooojObwlg3DD6vo2A.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gnAYmVmWjSJenWUUAASTx9krdK2.jpg",
-                "iconpng": "",
-                "descripcion": "Trata el tema de lo trans en la infancia a través de una madre y un hijo en el proceso de cambio.",
-                "anio": "2025",
-                "genero": "Drama",
-                "duracion": "89 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Prófugo por accidente",
                 "url": "http://vedo.wvdbozpfc.com/vod/96150B3DFFE542ACBD7C85171C33764D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/r7QB75hlCqB8iKBfeO5TnpajQGn.jpg",
@@ -6733,6 +6721,18 @@
                 "genero": "Suspense, Drama, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/12IP1jQLj3r2rUvO8WJ7KGEFlCR.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/2obTpOlrjCUr4EJtLjPVDSqBUn6.png"
+            },
+            {
+                "name": "La mitad de Ana",
+                "url": "http://vedo.wvdbozpfc.com/vod/DF19DEBFDC874EDDB7BEA2E333F616B2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z9MU1BtnhHooojObwlg3DD6vo2A.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gnAYmVmWjSJenWUUAASTx9krdK2.jpg",
+                "iconpng": "",
+                "descripcion": "Trata el tema de lo trans en la infancia a través de una madre y un hijo en el proceso de cambio.",
+                "anio": "2025",
+                "genero": "Drama",
+                "duracion": "89 min",
+                "type": "PELICULA"
             },
             {
                 "name": "Daria",

@@ -4487,18 +4487,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/oCdX0rDqAkrEGa3OYf5iTN3tvHG.png"
             },
             {
-                "name": "Batman vs Superman: El amanecer de la justicia",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164646.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
-                "type": "PELICULA",
-                "descripcion": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
-                "anio": "2016",
-                "duracion": "153 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
-            },
-            {
                 "name": "The Amazing Spider-Man",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164710.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg",
@@ -4509,6 +4497,18 @@
                 "genero": "Acción, Aventura, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
+            },
+            {
+                "name": "Batman vs Superman: El amanecer de la justicia",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164646.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+                "type": "PELICULA",
+                "descripcion": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
+                "anio": "2016",
+                "duracion": "153 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
             },
             {
                 "name": "Ninja Turtles: Fuera de las sombras",

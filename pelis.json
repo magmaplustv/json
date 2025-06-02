@@ -6072,18 +6072,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/zLLnDKXU0UXYs4mUrcN8P2XgaJv.png"
             },
             {
-                "name": "Exhuma",
-                "url": "http://vedo.wvdbozpfc.com/vod/4390A6E46577494782934CA11034CAE1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
-                "anio": "2024",
-                "duracion": "134 min",
-                "genero": "Misterio, Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6EO11KoiMMG29ISaQrm2G5DCe1X.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nEWLYsH8q1iVL9wNxnpWMhxrymL.png"
-            },
-            {
                 "name": "Nunca digas su nombre",
                 "url": "http://vedo.wvdbozpfc.com/vod/0AA53657207D4E969377027853228FC9_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nQD4sConnRzxuBpAdzkbz15hROb.jpg",
@@ -6094,6 +6082,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9NHAlsuQkMv4IyAR1gLkGrE7XoU.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yV9IRhWhY0k103qBE4OC1vf1EBn.png"
+            },
+            {
+                "name": "Exhuma",
+                "url": "http://vedo.wvdbozpfc.com/vod/4390A6E46577494782934CA11034CAE1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una renombrada chamana (Kim Go-eun) y su aprendiz son contratados por una enigmática familia adinerada para investigar la enfermedad sobrenatural que afecta a su hijo primogénito. Con la ayuda de un embalsamador y el experto en feng shui más famoso del país (Choi Min-sik), rastrean una tumba familiar oculta, ubicada en tierra sagrada. Percibiendo un aura ominosa alrededor del lugar, el equipo opta por exhumar y reubicar los restos ancestrales de inmediato. Pero algo mucho más oscuro emerge en la remota montaña, desatando fuerzas sobrenaturales que amenazan con destruirlos a todos.",
+                "anio": "2024",
+                "duracion": "134 min",
+                "genero": "Misterio, Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6EO11KoiMMG29ISaQrm2G5DCe1X.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nEWLYsH8q1iVL9wNxnpWMhxrymL.png"
             },
             {
                 "name": "The Host",

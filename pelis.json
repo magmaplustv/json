@@ -7042,6 +7042,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "106 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La trampa del ratón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405770.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9eZkAWx3Qk9BzxfdK97ugqlgzvU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bSAsy5lASVHJnoRKHlmBmYujlwv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kcgt1LIFfAVd35u6zSXMI1FTrvw.png",
+                "descripcion": "Es el 21 cumpleaños de Alex, pero está atrapada en la sala de máquinas recreativas en un turno de noche, así que sus amigos deciden darle una sorpresa, pero un asesino enmascarado vestido de Mickey Mouse decide jugar un juego propio con ellos al que ella debe sobrevivir. Primera película de terror creada tras le caída de Mickey Mouse en el dominio público en su versión de \"Steamboat Willie\" de 1928.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "80 min",
+                "type": "PELICULA"
             }
         ]
     },

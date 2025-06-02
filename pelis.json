@@ -5868,18 +5868,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "El Sonido de la Libertad",
-                "url": "http://vedo.wvdbozpfc.com/vod/AD62396428A94A399A0614B2A58055FF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tim Ballard, un exagente del gobierno de Estados Unidos, que decide renunciar a su trabajo para dedicar su vida a la lucha contra la explotación infantil.",
-                "anio": "2023",
-                "duracion": "131 min",
-                "genero": "Acción, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6abqP3NJvSVbtAj5CQ9PRHfaZiq.png"
-            },
-            {
                 "name": "La huérfana",
                 "url": "http://vedo.wvdbozpfc.com/vod/D93385ED28DA4474AEF0102C9DC64A8D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8jiiOachubR8j3B57aWAvdA8zDu.jpg",
@@ -5890,6 +5878,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/z7tBFs4Jw4T1TcT3VROsOoIIaiE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cz9PongGbf2Z6LWxE8QjuXRN5Gm.png"
+            },
+            {
+                "name": "El Sonido de la Libertad",
+                "url": "http://vedo.wvdbozpfc.com/vod/AD62396428A94A399A0614B2A58055FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tim Ballard, un exagente del gobierno de Estados Unidos, que decide renunciar a su trabajo para dedicar su vida a la lucha contra la explotación infantil.",
+                "anio": "2023",
+                "duracion": "131 min",
+                "genero": "Acción, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6abqP3NJvSVbtAj5CQ9PRHfaZiq.png"
             },
             {
                 "name": "Paranormal Activity",

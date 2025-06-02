@@ -368,18 +368,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "¡Qué Huevos, Sofía!",
-                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
-            },
-            {
                 "name": "El Mono",
                 "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
@@ -390,6 +378,18 @@
                 "genero": "Terror, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
+            },
+            {
+                "name": "¡Qué Huevos, Sofía!",
+                "url": "http://vedo.wvdbozpfc.com/vod/4D6A53AAAA424F6D9633DAC5A89BDA16_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FmvRL0XPAdCFRs4w2wcYBwuKUO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/19TEEw9siyno7LeQfQWHkuhMsa0.png"
             },
             {
                 "name": "Peter Pan: Pesadilla en Nunca Jamás",

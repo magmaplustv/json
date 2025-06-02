@@ -6891,12 +6891,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eULzPpc8gXz0YZMK36vpmbViwsj.png"
             },
             {
-                "name": "One Chicago Crossover Event",
-                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Oh, Canada",
                 "url": "http://vedo.wvdbozpfc.com/vod/C8F77651A9304DEE88489FEFBC3617A7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9MbhhZP62zitaouJxkKb1tiQcEU.jpg",
@@ -6907,6 +6901,12 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/50ZSvrvnnIHobB8h2henqbBXqKH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bGEg8bhm2pH3KbmiCQcJLGrVlZU.png"
+            },
+            {
+                "name": "One Chicago Crossover Event",
+                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
+                "type": "PELICULA"
             }
         ]
     },

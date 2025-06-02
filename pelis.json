@@ -2237,18 +2237,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/k8ZRKvVjVfOnhAddEddH7QTzvpn.png"
             },
             {
-                "name": "Aterrados",
-                "url": "http://vedo.wvdbozpfc.com/vod/ED5E87CFF9C04E6C9B3D11D2D5F7EB95_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Algo muy extraño está pasando en un barrio del conurbano bonaerense. Objetos que se mueven, apariciones extrañas y cañerías que hablan son los primeros indicios de que lo Paranormal –así, en mayúsculas– vino para quedarse. Azorado, el Comisario Funes convoca a Mario Jano para que lo ayude a desentrañar el misterio. Se les unirán la doctora Albrec y el norteamericano Rosentok, formando un grupo de investigación que vivirá una verdadera escalada a la locura.",
-                "anio": "2018",
-                "duracion": "85 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tNDXIbgB7kImBmIGYk7ufDFpAqL.png"
-            },
-            {
                 "name": "El patrón, radiografía de un crimen",
                 "url": "http://vedo.wvdbozpfc.com/vod/08A8F82E345A49BFB233434F8141CA1B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tqM5b356wYON9VcIKUTOONRUL7P.jpg",
@@ -2259,6 +2247,18 @@
                 "genero": "Drama, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ptISaxb6sZ5Jvt2r7An9hBbejQk.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Aterrados",
+                "url": "http://vedo.wvdbozpfc.com/vod/ED5E87CFF9C04E6C9B3D11D2D5F7EB95_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Algo muy extraño está pasando en un barrio del conurbano bonaerense. Objetos que se mueven, apariciones extrañas y cañerías que hablan son los primeros indicios de que lo Paranormal –así, en mayúsculas– vino para quedarse. Azorado, el Comisario Funes convoca a Mario Jano para que lo ayude a desentrañar el misterio. Se les unirán la doctora Albrec y el norteamericano Rosentok, formando un grupo de investigación que vivirá una verdadera escalada a la locura.",
+                "anio": "2018",
+                "duracion": "85 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tNDXIbgB7kImBmIGYk7ufDFpAqL.png"
             },
             {
                 "name": "Familia rodante",

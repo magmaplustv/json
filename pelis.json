@@ -6550,18 +6550,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iO1VpKsixfBBYkPhFINFMzsvzJF.png"
             },
             {
-                "name": "Leal",
-                "url": "http://vedo.wvdbozpfc.com/vod/B10F8FADAB0E4C7F9F3D12F171E96705_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un ministro recién designado y un par de hombres de su  confianza reclutan a los mejores comandos para conformar un grupo de  Operaciones Especiales con el fin de desbaratar una organización criminal. Con  reportes de Inteligencia, el cuerpo antidrogas emprende una serie de operaciones  de precisión, golpeando sorpresivamente a los narcos.",
-                "anio": "2018",
-                "duracion": "107 min",
-                "genero": "Acción, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iMtRC0Fo9SWR1quSHGrJKJltzfG.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "El callejón de las almas perdidas",
                 "url": "http://vedo.wvdbozpfc.com/vod/D3EB73BA869C4EE289B38E4C75369EE5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tR6fZLYlrbauhTgprfWXIhi6ldc.jpg",
@@ -6572,6 +6560,18 @@
                 "genero": "Crimen, Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8nH44gfYxREuE4otNBjN2KAI30W.png"
+            },
+            {
+                "name": "Leal",
+                "url": "http://vedo.wvdbozpfc.com/vod/B10F8FADAB0E4C7F9F3D12F171E96705_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un ministro recién designado y un par de hombres de su  confianza reclutan a los mejores comandos para conformar un grupo de  Operaciones Especiales con el fin de desbaratar una organización criminal. Con  reportes de Inteligencia, el cuerpo antidrogas emprende una serie de operaciones  de precisión, golpeando sorpresivamente a los narcos.",
+                "anio": "2018",
+                "duracion": "107 min",
+                "genero": "Acción, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iMtRC0Fo9SWR1quSHGrJKJltzfG.jpg",
+                "iconpng": ""
             },
             {
                 "name": "The Order (La hermandad silenciosa)",

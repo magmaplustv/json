@@ -1410,18 +1410,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Un cuento chino",
-                "url": "http://vedo.wvdbozpfc.com/vod/F894799BA00F4AA58078357C60A43382_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/aol93ghyDZqgc1s9WnlQlUmwHp3.jpg",
-                "type": "PELICULA",
-                "descripcion": "La película trata la historia de Roberto Di Cesare, un ferretero gruñón y solitario que se cruza por casualidad en Buenos Aires con Jun, un chino que no habla español y que esta sólo en Argentina, en busca de un tío. El encuentro entre ambos lleva a una serie de situaciones graciosas en la convivencia entre ambos, así como a situaciones dramáticas cuando ambos comparten sus pasados, signados por una tragedia relacionada con una vaca que cae del cielo, y con la Guerra de Malvinas. Al mismo tiempo, Mari, una mujer llegada del campo, intenta conquistar a Roberto.",
-                "anio": "2011",
-                "duracion": "93 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fqRJLbbakXAT88XTBVz0no4xavg.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/qO3rqR8dlnjFHjwhY4qAsr0acku.png"
-            },
-            {
                 "name": "El aura",
                 "url": "http://vedo.wvdbozpfc.com/vod/32E09018AD994B5B9440D4678BF7AEEE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wzJok3MeJk7Zi0BGBII3UxnLyHn.jpg",
@@ -1432,6 +1420,18 @@
                 "genero": "Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fvl1geY63c1xoa6r6iRPARGJdJY.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ag6YGEGdJGT83vMDyMgasMgPEDx.png"
+            },
+            {
+                "name": "Un cuento chino",
+                "url": "http://vedo.wvdbozpfc.com/vod/F894799BA00F4AA58078357C60A43382_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aol93ghyDZqgc1s9WnlQlUmwHp3.jpg",
+                "type": "PELICULA",
+                "descripcion": "La película trata la historia de Roberto Di Cesare, un ferretero gruñón y solitario que se cruza por casualidad en Buenos Aires con Jun, un chino que no habla español y que esta sólo en Argentina, en busca de un tío. El encuentro entre ambos lleva a una serie de situaciones graciosas en la convivencia entre ambos, así como a situaciones dramáticas cuando ambos comparten sus pasados, signados por una tragedia relacionada con una vaca que cae del cielo, y con la Guerra de Malvinas. Al mismo tiempo, Mari, una mujer llegada del campo, intenta conquistar a Roberto.",
+                "anio": "2011",
+                "duracion": "93 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fqRJLbbakXAT88XTBVz0no4xavg.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qO3rqR8dlnjFHjwhY4qAsr0acku.png"
             },
             {
                 "name": "El bonaerense",

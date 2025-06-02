@@ -3882,18 +3882,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/j93kYRzcsm5C9O2wV0XLKZD4rl5.png"
             },
             {
-                "name": "Oni-Goroshi: Ciudad de los demonios",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169710.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un asesino a sueldo retirado no se detiene ante nada para vengarse de los enmascarados que han tomado la ciudad tras inculparlo de matar a su propia familia y darlo por muerto.",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Acción, Crimen, Fantasía, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hNNkbUDmAc9rf2ksWFhHBlqsReN.png"
-            },
-            {
                 "name": "Delicia",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169709.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg",
@@ -3904,6 +3892,18 @@
                 "genero": "Romance, Drama",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Oni-Goroshi: Ciudad de los demonios",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169710.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un asesino a sueldo retirado no se detiene ante nada para vengarse de los enmascarados que han tomado la ciudad tras inculparlo de matar a su propia familia y darlo por muerto.",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Acción, Crimen, Fantasía, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hNNkbUDmAc9rf2ksWFhHBlqsReN.png"
             },
             {
                 "name": "La culpa no es mía",

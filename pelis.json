@@ -7477,18 +7477,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Ip Man",
-                "url": "http://vedo.wvdbozpfc.com/vod/F281B630EEDE4775BD6713DE30E0B9EF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6BNa7SL9qrs3iaoMtdXIYqF58s3.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/69QJSMkm5Hh0x9fLElZ8hjv5N4P.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/wBO9xLRrFYAnvNtmQJcwMG8CdOn.png",
-                "descripcion": "Foshan, años treinta. Ip Man, respetado maestro de Wing Chun, combina el estudio de las artes marciales con los combates ocasionales a los que se ve forzado por parte de sus admiradores. Son tiempos de prosperidad a los que la guerra con Japón amenaza con poner fin. Con la ocupación estallará la tragedia e Ip Man se verá obligado a defender el honor de su pueblo. Ip Man (o también conocido como Yip Man), fue maestro y mentor de Bruce Lee.",
-                "anio": "2008",
-                "genero": "Drama, Acción, Historia",
-                "duracion": "106 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Ip Man 4: El final",
                 "url": "http://vedo.wvdbozpfc.com/vod/8F736A4700454A538A303B633CA23246_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg",
@@ -7498,6 +7486,18 @@
                 "anio": "2019",
                 "genero": "Acción, Historia, Drama",
                 "duracion": "105 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Ip Man",
+                "url": "http://vedo.wvdbozpfc.com/vod/F281B630EEDE4775BD6713DE30E0B9EF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6BNa7SL9qrs3iaoMtdXIYqF58s3.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/69QJSMkm5Hh0x9fLElZ8hjv5N4P.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wBO9xLRrFYAnvNtmQJcwMG8CdOn.png",
+                "descripcion": "Foshan, años treinta. Ip Man, respetado maestro de Wing Chun, combina el estudio de las artes marciales con los combates ocasionales a los que se ve forzado por parte de sus admiradores. Son tiempos de prosperidad a los que la guerra con Japón amenaza con poner fin. Con la ocupación estallará la tragedia e Ip Man se verá obligado a defender el honor de su pueblo. Ip Man (o también conocido como Yip Man), fue maestro y mentor de Bruce Lee.",
+                "anio": "2008",
+                "genero": "Drama, Acción, Historia",
+                "duracion": "106 min",
                 "type": "PELICULA"
             },
             {

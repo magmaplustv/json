@@ -536,18 +536,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
             },
             {
-                "name": "Conjuring Tapes",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "79 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La huella del mal",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171071.ts",
                 "icono": "https://image.tmdb.org/t/p/original/o410zKXtZYy2vVBcQJPxzOc9KYc.jpg",
@@ -557,6 +545,18 @@
                 "duracion": "",
                 "genero": "Crimen, Misterio, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wnVxIPc14Af9ztf1h3YzelZuw6W.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Conjuring Tapes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tV0c4awT03nnuasAp06iabznDSV.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "79 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "",
                 "iconpng": ""
             },
             {

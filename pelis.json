@@ -51,18 +51,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
             },
             {
-                "name": "La Partida de go",
-                "url": "http://vedo.wvdbozpfc.com/vod/FC72610395A542188A76F97BE13D9D5D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Es la historia de dos legendarios jugadores de Go, Cho Hun-hyun y su protegido y futuro rival Lee Chang-ho.",
-                "anio": "2025",
-                "duracion": "115 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
-            },
-            {
                 "name": "El Irlandés",
                 "url": "http://zuiowy.net:8080/movie/MovNxt2023/Tv20230302NxtCaMR/45357.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
@@ -73,6 +61,18 @@
                 "genero": "Crimen, Drama, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bCAhNbPTDCj6g2ukijoySf7vNQL.png"
+            },
+            {
+                "name": "La Partida de go",
+                "url": "http://vedo.wvdbozpfc.com/vod/FC72610395A542188A76F97BE13D9D5D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/99XUkLH31ArJYf4fqGmu9pmA00u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Es la historia de dos legendarios jugadores de Go, Cho Hun-hyun y su protegido y futuro rival Lee Chang-ho.",
+                "anio": "2025",
+                "duracion": "115 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/unmyJgN3I7yABMcejxoZUE8U1AK.png"
             },
             {
                 "name": "Better Man",

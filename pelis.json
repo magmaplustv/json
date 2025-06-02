@@ -6156,18 +6156,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "El ritual",
-                "url": "http://vedo.wvdbozpfc.com/vod/A34005DE90DB4A619B8C129635ED4171_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2023",
-                "duracion": "4 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La familia de mi marido",
                 "url": "http://vedo.wvdbozpfc.com/vod/6B0F9C49078942ACAA134280D7E4349E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lN1Mk8yKQFhvGUe3XDL803kyyGB.jpg",
@@ -6177,6 +6165,18 @@
                 "duracion": "90 min",
                 "genero": "Película de TV, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nnSPxImxAX9FyWtRHn9UJrRVloT.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "El ritual",
+                "url": "http://vedo.wvdbozpfc.com/vod/A34005DE90DB4A619B8C129635ED4171_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2023",
+                "duracion": "4 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
                 "iconpng": ""
             },
             {

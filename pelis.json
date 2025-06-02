@@ -4235,18 +4235,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Deadpool 2",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164229.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
-                "type": "PELICULA",
-                "descripcion": "Wade Wilson, mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso y en esta ocasión su misión será salvar a un chico llamado Russell de las manos de un poderoso rival llamado Cable. En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force. Secuela de la exitosa película Deadpool (2016), parodia de los superhéroes mutantes.",
-                "anio": "2018",
-                "duracion": "123 min",
-                "genero": "Acción, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png"
-            },
-            {
                 "name": "El rey de los kickboxers",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/424634.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kHGryC1UwsVYW7DMTF7nzVUx9mV.jpg",
@@ -4257,6 +4245,18 @@
                 "genero": "Acción, Crimen, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qnAy2XthzsPzquzNNa4jSSmdszt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rGDGxiFTYCXbEsSUQhG5cYqacIC.png"
+            },
+            {
+                "name": "Deadpool 2",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164229.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg",
+                "type": "PELICULA",
+                "descripcion": "Wade Wilson, mejor conocido como Deadpool, su nombre de batalla e identidad antiheroica, está de regreso y en esta ocasión su misión será salvar a un chico llamado Russell de las manos de un poderoso rival llamado Cable. En aras de dar cumplimiento a su tarea el antihéroe formará un grupo al cual pondrá el nombre de X-Force. Secuela de la exitosa película Deadpool (2016), parodia de los superhéroes mutantes.",
+                "anio": "2018",
+                "duracion": "123 min",
+                "genero": "Acción, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png"
             },
             {
                 "name": "La jungla 4.0",

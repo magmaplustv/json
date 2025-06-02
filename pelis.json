@@ -2798,18 +2798,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/v7GqDTIx5V3IkNzAEzPHtl7QRf6.png"
             },
             {
-                "name": "Fight or flight (sicarios en el aire)",
-                "url": "http://vedo.wvdbozpfc.com/vod/011781CFF011497591EE8746514613B7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un mercenario acepta el encargo de localizar a un objetivo en un avión, pero debe protegerla cuando se ven rodeados de gente que intentan matarlos a ambos.",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Acción, Comedia, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6J259Zuq09Bt2PLUNeTS5a3DwLZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/br2S8IZxUrVNNk58vtogaXuQOKa.png"
-            },
-            {
                 "name": "Ash",
                 "url": "http://vedo.wvdbozpfc.com/vod/7B4C454970FE4EA091A5436ECC2E58EB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
@@ -2820,6 +2808,18 @@
                 "genero": "Ciencia ficción, Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sQa299yggIkxfwKJFgzYwDdsC9t.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eiArUmkEpN3cR9xIrO8gyrfFzxP.png"
+            },
+            {
+                "name": "Fight or flight (sicarios en el aire)",
+                "url": "http://vedo.wvdbozpfc.com/vod/011781CFF011497591EE8746514613B7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un mercenario acepta el encargo de localizar a un objetivo en un avión, pero debe protegerla cuando se ven rodeados de gente que intentan matarlos a ambos.",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Acción, Comedia, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6J259Zuq09Bt2PLUNeTS5a3DwLZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/br2S8IZxUrVNNk58vtogaXuQOKa.png"
             },
             {
                 "name": "G20",

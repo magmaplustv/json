@@ -351,18 +351,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
             },
             {
-                "name": "Revelación",
-                "url": "http://vedo.wvdbozpfc.com/vod/2161BA4D508F43A2997E3095398D4AD8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un pastor que cree en las revelaciones divinas y un detective atormentado por las visiones investigan el caso de una persona desaparecida, que saca a la luz sus propios demonios.",
-                "anio": "2025",
-                "duracion": "122 min",
-                "genero": "Suspense, Crimen, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
-            },
-            {
                 "name": "Bridget Jones: Loca por él",
                 "url": "http://vedo.wvdbozpfc.com/vod/6811D433F96F45A0918ACF490BB2B68D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
@@ -373,6 +361,18 @@
                 "genero": "Romance, Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
+            },
+            {
+                "name": "Revelación",
+                "url": "http://vedo.wvdbozpfc.com/vod/2161BA4D508F43A2997E3095398D4AD8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un pastor que cree en las revelaciones divinas y un detective atormentado por las visiones investigan el caso de una persona desaparecida, que saca a la luz sus propios demonios.",
+                "anio": "2025",
+                "duracion": "122 min",
+                "genero": "Suspense, Crimen, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
             },
             {
                 "name": "Giro final",

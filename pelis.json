@@ -2744,6 +2744,12 @@
                 "type": "PELICULA"
             },
             {
+                "name": "Como una ola en el mar",
+                "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Until Dawn: Noche de terror",
                 "url": "http://vedo.wvdbozpfc.com/vod/1ABEEA13C8C345488A373E42572849DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/myNjx5DRj6UvROSlV6t4FuvcTLm.jpg",
@@ -2754,12 +2760,6 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/opSyE1w2QzskFAko0JHtiSrBY6e.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/seWw0gCtRd2CvukwM4QcaRsouMI.png"
-            },
-            {
-                "name": "Como una ola en el mar",
-                "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
-                "type": "PELICULA"
             },
             {
                 "name": "Sobre la ley del Crimen",

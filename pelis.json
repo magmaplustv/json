@@ -7328,6 +7328,18 @@
                 "genero": "Documental, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/PYfUXeQjiDD7hBXQjRcaipvkQx.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
+            },
+            {
+                "name": "La herencia tiene un precio",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405790.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/w0N9wVv0904itL2Gwdvon2AR4IU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4So4aDgPRkspivwd0WEZu9x1GVH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xh3ReuYzlhRwqmro3TmdT0uaJxg.png",
+                "descripcion": "La excéntrica familia Delle Fave urde un plan para eliminar a un viudo en serie de abuelas ricas en esta hilarante secuela veraniega de ‘La familia tiene un precio’.",
+                "anio": "2024",
+                "genero": "Comedia, Crimen",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

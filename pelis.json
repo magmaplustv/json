@@ -3188,6 +3188,18 @@
                 "genero": "Drama, Familia, Comedia",
                 "duracion": "106 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Madame Web",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405764.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/82Y9a1cGxwFjPnaeukz3eQQnG7v.png",
+                "descripcion": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso... si consiguen sobrevivir a un presente mortal.",
+                "anio": "2024",
+                "genero": "Acción, Fantasía",
+                "duracion": "117 min",
+                "type": "PELICULA"
             }
         ]
     },

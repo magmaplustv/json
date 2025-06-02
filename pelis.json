@@ -2314,18 +2314,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6FFu2e5qECWHADmOjSmsAFvCkD1.png"
             },
             {
-                "name": "Smile 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/AE9DF6B4DBA6491DA3EBD480910A5A34_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
-                "type": "PELICULA",
-                "descripcion": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. Secuela del exitoso film de terror 'Smile' (2022).",
-                "anio": "2024",
-                "duracion": "127 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/r9SsXx4ZQC7n0uWHiFinNTbp5jB.svg"
-            },
-            {
                 "name": "GTMAX",
                 "url": "http://vedo.wvdbozpfc.com/vod/1D6DAADC32674D15B4613578FDAF9310_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
@@ -2336,6 +2324,18 @@
                 "genero": "Acción, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/1yWwSZwnAI72MtubqoF09HFjymM.png"
+            },
+            {
+                "name": "Smile 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/AE9DF6B4DBA6491DA3EBD480910A5A34_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
+                "type": "PELICULA",
+                "descripcion": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. Secuela del exitoso film de terror 'Smile' (2022).",
+                "anio": "2024",
+                "duracion": "127 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/r9SsXx4ZQC7n0uWHiFinNTbp5jB.svg"
             },
             {
                 "name": "Moana 2",

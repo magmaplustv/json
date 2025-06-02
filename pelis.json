@@ -8051,18 +8051,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Solo en casa",
-                "url": "http://vedo.wvdbozpfc.com/vod/0B338A3B8F15497A9DFFDB79A9A84044_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
-                "type": "PELICULA",
-                "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
-                "anio": "1992",
-                "duracion": "120 min",
-                "genero": "Comedia, Familia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kjby7cr8JnIPkfqMGKutOFrM2at.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ohoC5TdWmkUedRGElebBpYUiuyI.png"
-            },
-            {
                 "name": "Un movimiento extraño",
                 "url": "http://vedo.wvdbozpfc.com/vod/0908C77FFDE14444868669AF974E31F8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
@@ -8073,6 +8061,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4CYHemafValVa4qhkfRBn4l9xdo.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Solo en casa",
+                "url": "http://vedo.wvdbozpfc.com/vod/0B338A3B8F15497A9DFFDB79A9A84044_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
+                "type": "PELICULA",
+                "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
+                "anio": "1992",
+                "duracion": "120 min",
+                "genero": "Comedia, Familia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kjby7cr8JnIPkfqMGKutOFrM2at.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ohoC5TdWmkUedRGElebBpYUiuyI.png"
             },
             {
                 "name": "Cassino in Ischia",

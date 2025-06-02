@@ -8207,18 +8207,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El maestro del crimen",
-                "url": "http://vedo.wvdbozpfc.com/vod/1FE7AFCB43234537834083A4AC59F4D5_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/uO7d83mC6Jvdg5G1GShN5uOnFfo.jpg",
-                "type": "PELICULA",
-                "descripcion": "Danny Dolinski (Christoph Waltz) es un veterano sicario que, pese a estar a punto de retirarse, está convencido de que sigue siendo el mejor en su trabajo. La compañía para la que trabajaba vuelve a llamarlo con una nueva misión: entrenar a Wihlborg (Cooper Hoffman), un joven prodigio recién llegado. Aunque al principio no lograrán entenderse, tendrán que unir sus habilidades para descubrir la verdad que se esconde tras la organización para la que trabajan.",
-                "anio": "2024",
-                "duracion": "93 min",
-                "genero": "Acción, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kuYZz7aRnZvsyYyXwjuMCy0dPj4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/jeKTbHQ5Ij09f5rArUm4H9KIjSj.png"
-            },
-            {
                 "name": "Historia y Geografía",
                 "url": "http://vedo.wvdbozpfc.com/vod/EF0C7F3A0E1544868DBF87D658648D4D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nxMV22es0QBIlQPoRfvU1zw1NLB.jpg",
@@ -8229,6 +8217,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/e2czX1KqSI0aelvyCJ9Mv5uKON6.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lvvx4lYnM9h5pCp3qQrU31C5eGH.png"
+            },
+            {
+                "name": "El maestro del crimen",
+                "url": "http://vedo.wvdbozpfc.com/vod/1FE7AFCB43234537834083A4AC59F4D5_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uO7d83mC6Jvdg5G1GShN5uOnFfo.jpg",
+                "type": "PELICULA",
+                "descripcion": "Danny Dolinski (Christoph Waltz) es un veterano sicario que, pese a estar a punto de retirarse, está convencido de que sigue siendo el mejor en su trabajo. La compañía para la que trabajaba vuelve a llamarlo con una nueva misión: entrenar a Wihlborg (Cooper Hoffman), un joven prodigio recién llegado. Aunque al principio no lograrán entenderse, tendrán que unir sus habilidades para descubrir la verdad que se esconde tras la organización para la que trabajan.",
+                "anio": "2024",
+                "duracion": "93 min",
+                "genero": "Acción, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kuYZz7aRnZvsyYyXwjuMCy0dPj4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jeKTbHQ5Ij09f5rArUm4H9KIjSj.png"
             },
             {
                 "name": "Padre no hay más que uno",

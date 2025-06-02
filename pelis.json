@@ -5276,18 +5276,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
             },
             {
-                "name": "Kung Fu Panda 4",
-                "url": "http://vedo.wvdbozpfc.com/vod/62CF613CE861486F8ADC9E1E83486854_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
-                "type": "PELICULA",
-                "descripcion": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
-                "anio": "2024",
-                "duracion": "94 min",
-                "genero": "Animación, Familia, Acción, Comedia, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/QeAYsp12oO1o9vc1CTBDxxKgJk.png"
-            },
-            {
                 "name": "Shrek tercero",
                 "url": "http://vedo.wvdbozpfc.com/vod/600782DFCA4D400D934DBC13941BE337_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
@@ -5298,6 +5286,18 @@
                 "genero": "Fantasía, Aventura, Animación, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
+            },
+            {
+                "name": "Kung Fu Panda 4",
+                "url": "http://vedo.wvdbozpfc.com/vod/62CF613CE861486F8ADC9E1E83486854_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
+                "type": "PELICULA",
+                "descripcion": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+                "anio": "2024",
+                "duracion": "94 min",
+                "genero": "Animación, Familia, Acción, Comedia, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/QeAYsp12oO1o9vc1CTBDxxKgJk.png"
             },
             {
                 "name": "Soul",

@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Elyas el protector",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405838.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yDeTQU7Sb3Tc7GQOAKZgthJXW5j.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b4vPyaCEP53fVDBj0HqFukICiyk.jpg",
+                "iconpng": "",
+                "descripcion": "Elyas, un exsoldado de las Fuerzas Especiales, solitario y paranoico, se convierte en guardaespaldas de Nour, de 13 años, y de su madre Amina, procedentes de Oriente Medio. Mientras el ex militar y la joven se conocen, un misterioso comando les ataca. Elyas no se detendrá ante nada para salvarla.",
+                "anio": "2024",
+                "genero": "Acción, Suspense",
+                "duracion": "99 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Strangers: Capítulo 1",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405840.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/1rTRllZNEAX30dTxYL1hONR6gPj.jpg",
@@ -2911,18 +2923,6 @@
                 "anio": "2024",
                 "genero": "Comedia",
                 "duracion": "90 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Elyas el protector",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405838.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yDeTQU7Sb3Tc7GQOAKZgthJXW5j.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b4vPyaCEP53fVDBj0HqFukICiyk.jpg",
-                "iconpng": "",
-                "descripcion": "Elyas, un exsoldado de las Fuerzas Especiales, solitario y paranoico, se convierte en guardaespaldas de Nour, de 13 años, y de su madre Amina, procedentes de Oriente Medio. Mientras el ex militar y la joven se conocen, un misterioso comando les ataca. Elyas no se detendrá ante nada para salvarla.",
-                "anio": "2024",
-                "genero": "Acción, Suspense",
-                "duracion": "99 min",
                 "type": "PELICULA"
             }
         ]

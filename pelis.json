@@ -5091,18 +5091,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/G3yN5lqWmEShs1xpCZ3rtIF26f.png"
             },
             {
-                "name": "Warfare. Tiempo de guerra",
-                "url": "http://vedo.wvdbozpfc.com/vod/6CEAE2019B9A4D1BA986DF329EFC0B9F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9Ci3Rl0eXN8lJCuxIApZrjds6cg.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basada en las experiencias reales del ex marine Ray Mendoza (codirector y coguionista de la película) durante la guerra de Irak. Introduce al espectador en la experiencia de un pelotón de Navy SEALs estadounidenses. Concretamente en una misión de vigilancia que se tuerce en territorio insurgente. Una historia visceral y a pie de campo sobre la guerra moderna y la hermandad, contada como nunca antes: en tiempo real y basada en los recuerdos de quienes la vivieron.",
-                "anio": "2025",
-                "duracion": "95 min",
-                "genero": "Bélica, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cRHC3tyxV7hEOrnjNhRaIvaMZ1C.png"
-            },
-            {
                 "name": "La delgada línea roja",
                 "url": "http://vedo.wvdbozpfc.com/vod/C7078173648940A3AB0C49BEE3CE6C85_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/234oXaXKIcyXpWMMFISsZ94tas9.jpg",
@@ -5113,6 +5101,18 @@
                 "genero": "Drama, Historia, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hu6NS5mDlnoRMLU99uUn9Nye6t1.png"
+            },
+            {
+                "name": "Warfare. Tiempo de guerra",
+                "url": "http://vedo.wvdbozpfc.com/vod/6CEAE2019B9A4D1BA986DF329EFC0B9F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9Ci3Rl0eXN8lJCuxIApZrjds6cg.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basada en las experiencias reales del ex marine Ray Mendoza (codirector y coguionista de la película) durante la guerra de Irak. Introduce al espectador en la experiencia de un pelotón de Navy SEALs estadounidenses. Concretamente en una misión de vigilancia que se tuerce en territorio insurgente. Una historia visceral y a pie de campo sobre la guerra moderna y la hermandad, contada como nunca antes: en tiempo real y basada en los recuerdos de quienes la vivieron.",
+                "anio": "2025",
+                "duracion": "95 min",
+                "genero": "Bélica, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cRHC3tyxV7hEOrnjNhRaIvaMZ1C.png"
             },
             {
                 "name": "Sin novedad en el frente",

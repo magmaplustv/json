@@ -5713,18 +5713,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png"
             },
             {
-                "name": "Aquaman y el reino perdido",
-                "url": "http://vedo.wvdbozpfc.com/vod/255E6DFA3B8D4B3687F225260367327C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg",
-                "type": "PELICULA",
-                "descripcion": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola.  Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
-                "anio": "2023",
-                "duracion": "124 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
-            },
-            {
                 "name": "Tu mejor amigo",
                 "url": "http://vedo.wvdbozpfc.com/vod/8EA1E3C1B2104EE9B740E5ED7BD713C6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1vz34upg09Hh9p4aV2Uau19g2bv.jpg",
@@ -5735,6 +5723,18 @@
                 "genero": "Aventura, Comedia, Fantasía, Familia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/Atd4P4o5C9VGAziMB4xyibLNjHm.png"
+            },
+            {
+                "name": "Aquaman y el reino perdido",
+                "url": "http://vedo.wvdbozpfc.com/vod/255E6DFA3B8D4B3687F225260367327C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg",
+                "type": "PELICULA",
+                "descripcion": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola.  Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
+                "anio": "2023",
+                "duracion": "124 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
             },
             {
                 "name": "Everest",

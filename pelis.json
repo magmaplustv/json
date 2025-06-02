@@ -2008,6 +2008,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Millers in Marriage",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405190.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5a8UmLL6uNgTaqX6AaanEcXBs6s.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/90rq8My9OwUWTh75zuBp1UwPzMy.png",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "117 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Beetlejuice 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/81EC519E035A4D2D808087E91C61AEA7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
@@ -2588,18 +2600,6 @@
                 "genero": "Acción, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5ZcebxdEL5Q8gkgxGRRf22cVdBK.png"
-            },
-            {
-                "name": "Millers in Marriage",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405190.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5a8UmLL6uNgTaqX6AaanEcXBs6s.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/90rq8My9OwUWTh75zuBp1UwPzMy.png",
-                "descripcion": "",
-                "anio": "2024",
-                "genero": "Drama",
-                "duracion": "117 min",
-                "type": "PELICULA"
             }
         ]
     },

@@ -3786,18 +3786,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Rüzgara Bırak",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167494.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "96 min",
-                "genero": "Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qAJqYEz0utqsaPsMQvgjbUatUwv.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Bastion 36",
                 "url": "http://vedo.wvdbozpfc.com/vod/DEC695813EE94112A6D2345B328277C1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg",
@@ -3808,6 +3796,18 @@
                 "genero": "Acción, Crimen, Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8qXc6OLHoLHBxOFIjsfbZwWDFYH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/A1q2Rc1YJWsS5w3fO40g1PCs9p2.png"
+            },
+            {
+                "name": "Rüzgara Bırak",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167494.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "96 min",
+                "genero": "Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qAJqYEz0utqsaPsMQvgjbUatUwv.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El caos está en el aire",

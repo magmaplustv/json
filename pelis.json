@@ -4115,18 +4115,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Deepwater Horizon: In Their Own Words",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2019",
-                "duracion": "45 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8xOjlWW9qj83b9ESkhhqZODzPeZ.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Independence Day: Contraataque",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164222.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/f56cB64d5tuRa07hnHbMvON35H5.jpg",
@@ -4137,6 +4125,18 @@
                 "genero": "Acción, Aventura, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pgJUufiR3lNlgZmxsTqRk929ucH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8ihFkFuSLspJphDs7knGhgdPbg1.png"
+            },
+            {
+                "name": "Deepwater Horizon: In Their Own Words",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164234.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6bEa24oy4HwhF4exmXyde3KXYFo.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "45 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8xOjlWW9qj83b9ESkhhqZODzPeZ.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Dioses de Egipto",

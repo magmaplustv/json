@@ -241,6 +241,18 @@
                 "genero": "Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
+            },
+            {
+                "name": "Joker: Folie à Deux",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406164.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7aDM1Rba57BeXr0jWRa3kBgEDUz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png",
+                "descripcion": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él.",
+                "anio": "2024",
+                "genero": "Drama, Crimen, Suspense",
+                "duracion": "138 min",
+                "type": "PELICULA"
             }
         ]
     },

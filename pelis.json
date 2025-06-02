@@ -267,18 +267,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Amor Explosivo",
-                "url": "http://vedo.wvdbozpfc.com/vod/479A24EDA441451C9746988B7B48FD2E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
-                "type": "PELICULA",
-                "descripcion": "Marvin Gable, un agente inmobiliario que trabaja en un barrio a las afueras de Milwaukee, recibe un sobre rojo de Rose, una antigua cómplice a la que daba por muerta y se verá de nuevo arrastrado a un mundo de francotiradores implacables plagado de traiciones y eventos inmobiliarios convertidos en trampas letales.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Acción, Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
-            },
-            {
                 "name": "El Maravilloso Mago de Oz",
                 "url": "http://vedo.wvdbozpfc.com/vod/79491A9EB6D24D2089D6530730C826BF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
@@ -289,6 +277,18 @@
                 "genero": "Drama, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7YY2Frx7Fl0pHybebct510Hx1qL.png"
+            },
+            {
+                "name": "Amor Explosivo",
+                "url": "http://vedo.wvdbozpfc.com/vod/479A24EDA441451C9746988B7B48FD2E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
+                "type": "PELICULA",
+                "descripcion": "Marvin Gable, un agente inmobiliario que trabaja en un barrio a las afueras de Milwaukee, recibe un sobre rojo de Rose, una antigua cómplice a la que daba por muerta y se verá de nuevo arrastrado a un mundo de francotiradores implacables plagado de traiciones y eventos inmobiliarios convertidos en trampas letales.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Acción, Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
             },
             {
                 "name": "Holland",

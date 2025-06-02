@@ -6485,18 +6485,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Maravilloso desastre",
-                "url": "http://vedo.wvdbozpfc.com/vod/7CA317A9C80B406A829194AF7828DE7C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
-                "type": "PELICULA",
-                "descripcion": "Travis es exactamente lo que Abby necesita y quiere… evitar. Pasa las noches peleando en combates clandestinos de boxeo, y los días como el mayor encantador del campus. Aunque Abby no quiere tener nada que ver con Travis, él le ofrece una simple apuesta: si pierde su próxima pelea, estará un mes entero sin sexo; pero si gana, Abby deberá vivir en su apartamento la misma cantidad de tiempo.",
-                "anio": "2023",
-                "duracion": "96 min",
-                "genero": "Romance, Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b5mzCMHZJJ0I1vlzyglAnk8j2uL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/oIYq9s8FDubMXh0PZC29x8Kk7nK.png"
-            },
-            {
                 "name": "ยูเรนัส 2324",
                 "url": "http://vedo.wvdbozpfc.com/vod/3A5CF667F7EA43ECB9FC1B4B1F48D2DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gZiUK88EQoe3pseBYNl8vJRRHMj.jpg",
@@ -6507,6 +6495,18 @@
                 "genero": "Romance, Drama, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xqO4sV74bfXpk4Yh5K9Yqa11Jcj.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ai2S8K2A8QaQ7DP65Yo6bX2DWPd.png"
+            },
+            {
+                "name": "Maravilloso desastre",
+                "url": "http://vedo.wvdbozpfc.com/vod/7CA317A9C80B406A829194AF7828DE7C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
+                "type": "PELICULA",
+                "descripcion": "Travis es exactamente lo que Abby necesita y quiere… evitar. Pasa las noches peleando en combates clandestinos de boxeo, y los días como el mayor encantador del campus. Aunque Abby no quiere tener nada que ver con Travis, él le ofrece una simple apuesta: si pierde su próxima pelea, estará un mes entero sin sexo; pero si gana, Abby deberá vivir en su apartamento la misma cantidad de tiempo.",
+                "anio": "2023",
+                "duracion": "96 min",
+                "genero": "Romance, Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b5mzCMHZJJ0I1vlzyglAnk8j2uL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/oIYq9s8FDubMXh0PZC29x8Kk7nK.png"
             },
             {
                 "name": "Los puentes de Madison",

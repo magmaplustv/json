@@ -7131,6 +7131,18 @@
                 "genero": "Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bexDCBOW8PiN5StVw0M2MWas0BZ.png"
+            },
+            {
+                "name": "Un auténtico caballero",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405797.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/c1vHz6Sl8U2GhV88ev6xOVZgBGz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zFyK00VDVqcRIYw7pw57LiTyolV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ux9Bkg6Ltm6qyuuMkelt4sHW5Kp.png",
+                "descripcion": "La vida de un cautivador gigoló se pone patas arriba cuando se enamora y se ve obligado a descubrir qué es lo que realmente quiere y lo que necesita.",
+                "anio": "2024",
+                "genero": "Romance, Drama",
+                "duracion": "110 min",
+                "type": "PELICULA"
             }
         ]
     },

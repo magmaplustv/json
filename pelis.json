@@ -8159,18 +8159,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Cómo cortar a tu patán",
-                "url": "http://vedo.wvdbozpfc.com/vod/C2F7E78B188A46F18A9D72C3CC1C4C82_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg",
-                "type": "PELICULA",
-                "descripcion": "Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.",
-                "anio": "2017",
-                "duracion": "100 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXrq2AME5M7f91jsJJbecFxqPod.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Saturday Night",
                 "url": "http://vedo.wvdbozpfc.com/vod/B2EDD336F4AB4835877412BF4C44A4A2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/86EtkVtsVgHUCxX6xDzXNNxJIeh.jpg",
@@ -8181,6 +8169,18 @@
                 "genero": "Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qJUi08RHf2TVKNvvkhc07MJJiJt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dKseEHqdluBHQprgYjxAccyGXcv.png"
+            },
+            {
+                "name": "Cómo cortar a tu patán",
+                "url": "http://vedo.wvdbozpfc.com/vod/C2F7E78B188A46F18A9D72C3CC1C4C82_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg",
+                "type": "PELICULA",
+                "descripcion": "Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.",
+                "anio": "2017",
+                "duracion": "100 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tXrq2AME5M7f91jsJJbecFxqPod.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El juicio del perro",

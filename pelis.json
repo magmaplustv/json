@@ -3248,18 +3248,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Batman Ninja vs. Yakuza League",
-                "url": "http://vedo.wvdbozpfc.com/vod/1C834AD9544B4A71AC180117BBBF86B7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sólo un día después de regresar del pasado, Batman y sus aliados descubren que el mundo no es exactamente el mismo que dejaron. Toda la isla de Japón ya no existe y los héroes de la Liga de la Justicia tampoco. Pero antes de que puedan comprender lo que está pasando, los yakuza empiezan a llover literalmente del cielo. Secuela de la película anime 3D \"Batman Ninja\".",
-                "anio": "2025",
-                "duracion": "90 min",
-                "genero": "Animación, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/e807jDKiFcntZS32ze88X6I96OD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/njpLFYwd4WivyON7eaAeYwFpmEH.png"
-            },
-            {
                 "name": "Vidas perfectas",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168007.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",
@@ -3270,6 +3258,18 @@
                 "genero": "Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/Ngb1e1ovAujjavCrnbHZWkI0Wv.png"
+            },
+            {
+                "name": "Batman Ninja vs. Yakuza League",
+                "url": "http://vedo.wvdbozpfc.com/vod/1C834AD9544B4A71AC180117BBBF86B7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sólo un día después de regresar del pasado, Batman y sus aliados descubren que el mundo no es exactamente el mismo que dejaron. Toda la isla de Japón ya no existe y los héroes de la Liga de la Justicia tampoco. Pero antes de que puedan comprender lo que está pasando, los yakuza empiezan a llover literalmente del cielo. Secuela de la película anime 3D \"Batman Ninja\".",
+                "anio": "2025",
+                "duracion": "90 min",
+                "genero": "Animación, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/e807jDKiFcntZS32ze88X6I96OD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/njpLFYwd4WivyON7eaAeYwFpmEH.png"
             },
             {
                 "name": "Hereje",

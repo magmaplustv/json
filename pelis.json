@@ -6120,18 +6120,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/S883mlhutIjUanxRiC8NC9lVj6.png"
             },
             {
-                "name": "Así en la Tierra como en el Infierno",
-                "url": "http://vedo.wvdbozpfc.com/vod/5B4A865DB86548B39AC51155A322DF3A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg",
-                "type": "PELICULA",
-                "descripcion": "Bajo los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar que ocupan el laberinto y acaban descubriendo cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror. AS ABOVE, SO BELOW llega a lo más profundo de la mente humana, sacando a la luz los demonios que regresan para perseguirnos. (FILMAFFINITY)",
-                "anio": "2014",
-                "duracion": "93 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/xCjkQS9cDc9X1wN3K6k2C04Evsu.png"
-            },
-            {
                 "name": "La visita",
                 "url": "http://vedo.wvdbozpfc.com/vod/ACECA4F61C854072A7C8390DAE799A21_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bwZ9zpsWHYlwffMJg2E8N9RLL0M.jpg",
@@ -6142,6 +6130,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/s2kerlPQUQos4REFUZvdWqdQJW2.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Así en la Tierra como en el Infierno",
+                "url": "http://vedo.wvdbozpfc.com/vod/5B4A865DB86548B39AC51155A322DF3A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg",
+                "type": "PELICULA",
+                "descripcion": "Bajo los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar que ocupan el laberinto y acaban descubriendo cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror. AS ABOVE, SO BELOW llega a lo más profundo de la mente humana, sacando a la luz los demonios que regresan para perseguirnos. (FILMAFFINITY)",
+                "anio": "2014",
+                "duracion": "93 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xCjkQS9cDc9X1wN3K6k2C04Evsu.png"
             },
             {
                 "name": "El ritual",

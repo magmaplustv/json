@@ -5187,18 +5187,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ykrOjR8kwwQ03QPfHSHkfetw8vu.png"
             },
             {
-                "name": "Cuando éramos soldados",
-                "url": "http://vedo.wvdbozpfc.com/vod/56805BEE1EA64AFDBC8EF984269B4F2D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zg4aTLVKj3gKM2IEEmBo17W3ObY.jpg",
-                "type": "PELICULA",
-                "descripcion": "En plena guerra del Vietnam, el coronel Hal Moore y sus soldados (unos 400 hombres) aterrizaron en noviembre de 1965 en una región conocida como \"El valle de la muerte\". Allí fueron recibidos por más de 2.000 soldados del Vietcong, desencadenándose una de las batallas más feroces de la guerra.",
-                "anio": "2002",
-                "duracion": "139 min",
-                "genero": "Acción, Historia, Bélica",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kWRTA0WRpO4DWA8PIIFCwAkuW7I.png"
-            },
-            {
                 "name": "Hasta el último hombre",
                 "url": "http://vedo.wvdbozpfc.com/vod/108517240866491FB10657CAFBB31A0A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
@@ -5209,6 +5197,18 @@
                 "genero": "Drama, Historia, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7vYNOtW1MIRYULNPDr0KBuBGtXo.png"
+            },
+            {
+                "name": "Cuando éramos soldados",
+                "url": "http://vedo.wvdbozpfc.com/vod/56805BEE1EA64AFDBC8EF984269B4F2D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zg4aTLVKj3gKM2IEEmBo17W3ObY.jpg",
+                "type": "PELICULA",
+                "descripcion": "En plena guerra del Vietnam, el coronel Hal Moore y sus soldados (unos 400 hombres) aterrizaron en noviembre de 1965 en una región conocida como \"El valle de la muerte\". Allí fueron recibidos por más de 2.000 soldados del Vietcong, desencadenándose una de las batallas más feroces de la guerra.",
+                "anio": "2002",
+                "duracion": "139 min",
+                "genero": "Acción, Historia, Bélica",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kWRTA0WRpO4DWA8PIIFCwAkuW7I.png"
             },
             {
                 "name": "Napoleón",

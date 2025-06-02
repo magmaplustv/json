@@ -1943,18 +1943,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Poseído",
-                "url": "http://vedo.wvdbozpfc.com/vod/62A4D1ECB69B4A5E8B18784D19906B1E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fHN1jFP5oyTkDuj23OsRqFSfmUQ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUqTisBecO8MpjHm3OI0CZnSGVf.jpg",
-                "iconpng": "",
-                "descripcion": "Cristian es atacado por una entidad malvada, su madre no sabía qué hacer, su padrino, el padre Ernesto lucha para salvarlo y así recuperar la fe de todos.",
-                "anio": "2019",
-                "genero": "Terror",
-                "duracion": "",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La pasión turca",
                 "url": "http://vedo.wvdbozpfc.com/vod/0B10C846EB1845D195ECA9AFF2006803_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fLMjCgzkS4GejHopJNpYpbOwNSw.jpg",
@@ -1964,6 +1952,18 @@
                 "anio": "1994",
                 "genero": "Drama",
                 "duracion": "117 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Poseído",
+                "url": "http://vedo.wvdbozpfc.com/vod/62A4D1ECB69B4A5E8B18784D19906B1E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fHN1jFP5oyTkDuj23OsRqFSfmUQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUqTisBecO8MpjHm3OI0CZnSGVf.jpg",
+                "iconpng": "",
+                "descripcion": "Cristian es atacado por una entidad malvada, su madre no sabía qué hacer, su padrino, el padre Ernesto lucha para salvarlo y así recuperar la fe de todos.",
+                "anio": "2019",
+                "genero": "Terror",
+                "duracion": "",
                 "type": "PELICULA"
             },
             {

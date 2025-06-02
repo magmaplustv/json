@@ -3128,6 +3128,18 @@
                 "genero": "Fantasía, Terror, Misterio",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Elevation",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405791.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/92cd9vR6ThBqT6Pe6m5daxX0rAk.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5ZcebxdEL5Q8gkgxGRRf22cVdBK.png",
+                "descripcion": "Un padre soltero y dos mujeres se aventuran desde la seguridad de sus hogares a enfrentarse a criaturas monstruosas para salvar la vida de un niño.",
+                "anio": "2024",
+                "genero": "Acción, Ciencia ficción, Suspense",
+                "duracion": "91 min",
+                "type": "PELICULA"
             }
         ]
     },

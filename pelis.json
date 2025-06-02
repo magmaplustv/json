@@ -4403,18 +4403,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ogptyJqsIgtBi6h2QXf3G6i3aZQ.png"
             },
             {
-                "name": "Kingsman: El círculo de oro",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164546.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/d0tCSswCeMBzaDsyXc82qfDDvPD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando se produce un ataque contra el cuartel general de Kingsman y un nuevo villano se levanta, Eggsy y Merlin se ven obligados a trabajar junto con la agencia americana conocida como el Statesman para salvar al mundo.",
-                "anio": "2017",
-                "duracion": "135 min",
-                "genero": "Acción, Aventura, Comedia, Crimen, Suspense, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2xmVcUaRQzB3RmVi4U79tbPdbbs.png"
-            },
-            {
                 "name": "Pánico nuclear",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164566.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/voM9RFRBMxb73ruMqAFoEFica5w.jpg",
@@ -4425,6 +4413,18 @@
                 "genero": "Suspense, Acción, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7UTxNes0PJwF0pIQcJVYv1QMdAB.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jK3LiyHdKkIpsYrjyZJXuMiKExi.png"
+            },
+            {
+                "name": "Kingsman: El círculo de oro",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164546.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/d0tCSswCeMBzaDsyXc82qfDDvPD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando se produce un ataque contra el cuartel general de Kingsman y un nuevo villano se levanta, Eggsy y Merlin se ven obligados a trabajar junto con la agencia americana conocida como el Statesman para salvar al mundo.",
+                "anio": "2017",
+                "duracion": "135 min",
+                "genero": "Acción, Aventura, Comedia, Crimen, Suspense, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2xmVcUaRQzB3RmVi4U79tbPdbbs.png"
             },
             {
                 "name": "El justiciero",

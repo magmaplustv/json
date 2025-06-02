@@ -2020,18 +2020,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png"
             },
             {
-                "name": "Megalópolis",
-                "url": "http://vedo.wvdbozpfc.com/vod/2FAB9CB8224F4F7D862EDEB42BBD99A2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6jW627n4kOQnAZCa24bbOd1S0CF.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una fábula épica romana ambientada en una América moderna imaginada. La ciudad de Nueva Roma debe cambiar, lo que provoca un conflicto entre César Catilina, un genio artista que busca saltar hacia un futuro utópico e idealista, y su opositor, el alcalde Franklyn Cicero, que sigue comprometido con un statu quo regresivo, perpetuando la codicia, los intereses particulares y la guerra partidista. Dividida entre ellos está la socialité Julia Cicero, la hija del alcalde, cuyo amor por César ha dividido su lealtad, obligándola a descubrir lo que realmente cree que la humanidad merece.",
-                "anio": "2024",
-                "duracion": "138 min",
-                "genero": "Ciencia ficción, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/rbbdWtuuLpyV4UwBYmbZ1NYz5q7.png"
-            },
-            {
                 "name": "Alien: Romulus",
                 "url": "http://vedo.wvdbozpfc.com/vod/D1346EB4DDB54E19BA0B5E6247CF7211_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tbmIvv6p7zkd5eWRQyquCzmuogp.jpg",
@@ -2042,6 +2030,18 @@
                 "genero": "Terror, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/iJaSpQNZ8GsqVDWfbCXmyZQXZ5l.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/69wA8nqCAemlTQkDTwOmKvdtUPW.png"
+            },
+            {
+                "name": "Megalópolis",
+                "url": "http://vedo.wvdbozpfc.com/vod/2FAB9CB8224F4F7D862EDEB42BBD99A2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6jW627n4kOQnAZCa24bbOd1S0CF.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una fábula épica romana ambientada en una América moderna imaginada. La ciudad de Nueva Roma debe cambiar, lo que provoca un conflicto entre César Catilina, un genio artista que busca saltar hacia un futuro utópico e idealista, y su opositor, el alcalde Franklyn Cicero, que sigue comprometido con un statu quo regresivo, perpetuando la codicia, los intereses particulares y la guerra partidista. Dividida entre ellos está la socialité Julia Cicero, la hija del alcalde, cuyo amor por César ha dividido su lealtad, obligándola a descubrir lo que realmente cree que la humanidad merece.",
+                "anio": "2024",
+                "duracion": "138 min",
+                "genero": "Ciencia ficción, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rbbdWtuuLpyV4UwBYmbZ1NYz5q7.png"
             },
             {
                 "name": "Beetlejuice 2",

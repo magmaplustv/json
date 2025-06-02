@@ -2566,18 +2566,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/kgyZJyzdSrzXPqR3bhzeMurLI4W.png"
             },
             {
-                "name": "Beekeeper: El protector",
-                "url": "http://vedo.wvdbozpfc.com/vod/243B961D03524E55A40499A57CFCEE5A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",
-                "type": "PELICULA",
-                "descripcion": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
-                "anio": "2024",
-                "duracion": "105 min",
-                "genero": "Acción, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
-            },
-            {
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://vedo.wvdbozpfc.com/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
@@ -2588,6 +2576,18 @@
                 "genero": "Drama, Acción, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dBOtMMLbTgjQw3FVv7nCCPinjiO.png"
+            },
+            {
+                "name": "Beekeeper: El protector",
+                "url": "http://vedo.wvdbozpfc.com/vod/243B961D03524E55A40499A57CFCEE5A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9eDQv0tnsrJWmqKmKLdxGxp10b7.jpg",
+                "type": "PELICULA",
+                "descripcion": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+                "anio": "2024",
+                "duracion": "105 min",
+                "genero": "Acción, Crimen, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
             }
         ]
     },

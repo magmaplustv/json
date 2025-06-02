@@ -4666,6 +4666,12 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mb34rpLNTctV7FwGEKgLzdPMv8d.png"
             },
             {
+                "name": "Las aventuras de Petey y sus amigos",
+                "url": "http://vedo.wvdbozpfc.com/vod/470D9625EBB443189360740268154363_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/n0npunSHa7rOXbup1Je7Sz0hG0z.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los pingüinos de Madagascar",
                 "url": "http://vedo.wvdbozpfc.com/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
@@ -4676,12 +4682,6 @@
                 "genero": "Familia, Animación, Aventura, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2QMgoiDlTmrO9FngZft8GgZ2SbX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
-            },
-            {
-                "name": "Las aventuras de Petey y sus amigos",
-                "url": "http://vedo.wvdbozpfc.com/vod/470D9625EBB443189360740268154363_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/n0npunSHa7rOXbup1Je7Sz0hG0z.jpg",
-                "type": "PELICULA"
             },
             {
                 "name": "Robots",

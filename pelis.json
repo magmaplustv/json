@@ -4726,18 +4726,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Trolls 2: Gira mundial",
-                "url": "http://vedo.wvdbozpfc.com/vod/FE9779EE3DE944C986EA9F0808DA12FC_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
-                "anio": "2020",
-                "duracion": "91 min",
-                "genero": "Familia, Animación, Comedia, Fantasía, Aventura, Música",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
-            },
-            {
                 "name": "Ben 10: La destrucción de los aliens",
                 "url": "http://vedo.wvdbozpfc.com/vod/B39DE01DC135441196E8E345D7998D4C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
@@ -4748,6 +4736,18 @@
                 "genero": "Animación, Ciencia ficción, Familia, Acción, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cSMMrcFXHsnieG78TXOZwUx5GFa.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5IzTK9v4udlCjfpSVoi7D3UXGzB.png"
+            },
+            {
+                "name": "Trolls 2: Gira mundial",
+                "url": "http://vedo.wvdbozpfc.com/vod/FE9779EE3DE944C986EA9F0808DA12FC_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
+                "anio": "2020",
+                "duracion": "91 min",
+                "genero": "Familia, Animación, Comedia, Fantasía, Aventura, Música",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
             },
             {
                 "name": "5 centímetros por segundo",

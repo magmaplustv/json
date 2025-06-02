@@ -5677,18 +5677,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/va5NU8qdUhy0tgwiqubC7jopEdU.png"
             },
             {
-                "name": "Cazatesoros",
-                "url": "http://vedo.wvdbozpfc.com/vod/D8A2337E84984785938C562E17727739_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un cazador de tesoros busca un botín que supuestamente fue enterrado con el explorador Cristóbal Colón.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3354YDdIZm65L4T7Wvgg3o7OO8d.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7znM1AR2ew1JU3rgYjrjg3LIkOA.png"
-            },
-            {
                 "name": "Perdido en la montaña",
                 "url": "http://vedo.wvdbozpfc.com/vod/92FFC1C1A84D4320A650F52E473E7A87_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5RkYlk2R6oqgeFxiMtsXvo5nGri.jpg",
@@ -5699,6 +5687,18 @@
                 "genero": "Aventura, Drama, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/q8blBwffuaexW9QMNC2Pa3wqgqM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hUxDDM2VjZqlKETWq4k5g6mM5lw.png"
+            },
+            {
+                "name": "Cazatesoros",
+                "url": "http://vedo.wvdbozpfc.com/vod/D8A2337E84984785938C562E17727739_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un cazador de tesoros busca un botín que supuestamente fue enterrado con el explorador Cristóbal Colón.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3354YDdIZm65L4T7Wvgg3o7OO8d.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7znM1AR2ew1JU3rgYjrjg3LIkOA.png"
             },
             {
                 "name": "Uncharted",

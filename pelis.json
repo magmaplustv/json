@@ -423,18 +423,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
             },
             {
-                "name": "Colmillos del Bayou",
-                "url": "http://vedo.wvdbozpfc.com/vod/45FE977649F14FDE87A1840819F87A5E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eVoBCxDHmpXhidKWhIubG2I0ffJ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Las vacaciones de la recién graduada Kyle y sus amigos se convierten en desastre cuando escapan de un accidente de avión en el desolado e infame Bayou de Luisiana. Allí descubren que hay algo mucho más peligroso acechando en las aguas.",
-                "anio": "2025",
-                "duracion": "87 min",
-                "genero": "Suspense, Terror, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/y12HU18e5FHNeqkSZdvMBEOY6BU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4eaieEP40EjyVFtINe70bPnfn5G.png"
-            },
-            {
                 "name": "Códigos de Guerra",
                 "url": "http://vedo.wvdbozpfc.com/vod/5DB7CE977BB84528A05460014F484BE5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
@@ -445,6 +433,18 @@
                 "genero": "Acción, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ibF5XVxTzf1ayzZrmiJqgeQ39Qk.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Colmillos del Bayou",
+                "url": "http://vedo.wvdbozpfc.com/vod/45FE977649F14FDE87A1840819F87A5E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eVoBCxDHmpXhidKWhIubG2I0ffJ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Las vacaciones de la recién graduada Kyle y sus amigos se convierten en desastre cuando escapan de un accidente de avión en el desolado e infame Bayou de Luisiana. Allí descubren que hay algo mucho más peligroso acechando en las aguas.",
+                "anio": "2025",
+                "duracion": "87 min",
+                "genero": "Suspense, Terror, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/y12HU18e5FHNeqkSZdvMBEOY6BU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4eaieEP40EjyVFtINe70bPnfn5G.png"
             },
             {
                 "name": "Golpe de Superacion",

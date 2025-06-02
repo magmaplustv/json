@@ -2786,18 +2786,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Vidas Paralelas",
-                "url": "http://vedo.wvdbozpfc.com/vod/6452416206504C9085A125ED3AC26796_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2008",
-                "duracion": "100 min",
-                "genero": "Drama, Acción",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "A Knight's War",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
                 "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
@@ -2808,6 +2796,18 @@
                 "genero": "Terror, Acción, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
+            },
+            {
+                "name": "Vidas Paralelas",
+                "url": "http://vedo.wvdbozpfc.com/vod/6452416206504C9085A125ED3AC26796_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2008",
+                "duracion": "100 min",
+                "genero": "Drama, Acción",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Ash",

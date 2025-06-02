@@ -5617,18 +5617,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/2tHEeYyrrw4VwydLdILcgSI5ENm.png"
             },
             {
-                "name": "Bambi, una vida en el bosque",
-                "url": "http://vedo.wvdbozpfc.com/vod/D4D4FCAD12AA400C9FE45360A815DA9A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fvtIXQH4JcifptPe0J9GfLDIOAQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Adaptación del libro “Bambi, la historia de una vida en el bosque” de Felix Salten, la película cuenta las aventuras de un joven cervatillo, rodeado de su madre y de los animales del bosque: su amigo el cuervo, el conejo, el mapache... Descubre el mundo de los árboles y sus secretos. Cada día, su madre lo educa para que pueda crecer fuerte. Pero cuando llega el otoño, Bambi se aventura a la intemperie cuando los cazadores lo separan para siempre de su madre.",
-                "anio": "2024",
-                "duracion": "77 min",
-                "genero": "Aventura, Familia, Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bIh56F8e5EaZ3r2nD1hXAOisItZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/smobOZW90pposG0g1blMVDDrYD3.png"
-            },
-            {
                 "name": "Lampo, el perro viajero",
                 "url": "http://vedo.wvdbozpfc.com/vod/777D9B0008E94F07A21699F915189EA6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gQpGDVYNCSTYf1ogw6hM55VBeLF.jpg",
@@ -5639,6 +5627,18 @@
                 "genero": "Familia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/Ag1XghiFAN9K6e3PcSLdl0nWJTV.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Bambi, una vida en el bosque",
+                "url": "http://vedo.wvdbozpfc.com/vod/D4D4FCAD12AA400C9FE45360A815DA9A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fvtIXQH4JcifptPe0J9GfLDIOAQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Adaptación del libro “Bambi, la historia de una vida en el bosque” de Felix Salten, la película cuenta las aventuras de un joven cervatillo, rodeado de su madre y de los animales del bosque: su amigo el cuervo, el conejo, el mapache... Descubre el mundo de los árboles y sus secretos. Cada día, su madre lo educa para que pueda crecer fuerte. Pero cuando llega el otoño, Bambi se aventura a la intemperie cuando los cazadores lo separan para siempre de su madre.",
+                "anio": "2024",
+                "duracion": "77 min",
+                "genero": "Aventura, Familia, Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bIh56F8e5EaZ3r2nD1hXAOisItZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/smobOZW90pposG0g1blMVDDrYD3.png"
             },
             {
                 "name": "Jurassic World: Dominion",

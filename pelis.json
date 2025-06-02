@@ -7112,18 +7112,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hK6m36CnZ5AfiaB0LwM4vWnSqOC.png"
             },
             {
-                "name": "Nunca apagues la luz",
-                "url": "http://vedo.wvdbozpfc.com/vod/66B14BE465AB46C88FF5BB3509A302C8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
-                "type": "PELICULA",
-                "descripcion": "Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad. El espíritu de Diana está relacionado con la madre de Rebecca. Ahora que se está convirtiendo en adulta, Diana va a por su hermano pequeño, Martín.",
-                "anio": "2016",
-                "duracion": "90 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tFciXMK1OroUYWscZOmTKMOoCUH.png"
-            },
-            {
                 "name": "Heretic (Hereje)",
                 "url": "http://vedo.wvdbozpfc.com/vod/41E4EDE7D32342EAA5CF48E07A9B4FB7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
@@ -7134,6 +7122,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vpdawmqaLJhoT3E6ofhK7LmUcsw.png"
+            },
+            {
+                "name": "Nunca apagues la luz",
+                "url": "http://vedo.wvdbozpfc.com/vod/66B14BE465AB46C88FF5BB3509A302C8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad. El espíritu de Diana está relacionado con la madre de Rebecca. Ahora que se está convirtiendo en adulta, Diana va a por su hermano pequeño, Martín.",
+                "anio": "2016",
+                "duracion": "90 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zahnSOF0U2vsbKTWqSySoUXSUgi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tFciXMK1OroUYWscZOmTKMOoCUH.png"
             },
             {
                 "name": "Oddity",

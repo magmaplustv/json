@@ -2840,6 +2840,18 @@
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El silencio de las palabras",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405846.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wLx4hKEln8fEUKL3mJu3CCsp1Uz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d8x5rteAHXPCz71F3Q952bfeApH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wLiGbjSwUm2Womlvqe0zawHkKRS.png",
+                "descripcion": "Melody Brooks es una estudiante de secundaria con parálisis cerebral que es muy ingeniosa e inteligente, pero, como no puede expresarse con palabras y se desplaza en una silla de ruedas, no tiene las mismas oportunidades que sus compañeros. Cuando una joven profesora se fija en el potencial de Melody y participa en un programa de integración escolar, Melody demuestra que lo que tiene que decir es más importante que su forma de expresarse.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "107 min",
+                "type": "PELICULA"
             }
         ]
     },

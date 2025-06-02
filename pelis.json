@@ -3343,18 +3343,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Mientras Cupido no está",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuenta la historia de Mirtha del Cañón (Dolores Heredia), quien es una brillante empresaria que se enfrenta a su hijo Bartolo (Vadhir Derbez) a fin de que éste siente cabeza, trabaje y forme una familia. Es con estas intenciones que la afamada arquitecta, con la ayuda de su asistente personal Alan (Manuel Vega) y Mary su ama de llaves (Antonia San Juan) organizarán una estrategia poco convencional para encontrar a la persona que se gane el corazón de Bartolo.",
-                "anio": "2025",
-                "duracion": "84 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v5EE8wkX6bSWNuTSEPRVmXuac4J.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eOcrqGMKXqHcAxoWJ4XaTaKf5KN.png"
-            },
-            {
                 "name": "O'Dessa",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168333.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg",
@@ -3365,6 +3353,18 @@
                 "genero": "Música, Drama, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7z2lSLmiJ5jNeYCoXmton86BapN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/pUJUloUc2blGR9av1R7sPN0rMWp.png"
+            },
+            {
+                "name": "Mientras Cupido no está",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuenta la historia de Mirtha del Cañón (Dolores Heredia), quien es una brillante empresaria que se enfrenta a su hijo Bartolo (Vadhir Derbez) a fin de que éste siente cabeza, trabaje y forme una familia. Es con estas intenciones que la afamada arquitecta, con la ayuda de su asistente personal Alan (Manuel Vega) y Mary su ama de llaves (Antonia San Juan) organizarán una estrategia poco convencional para encontrar a la persona que se gane el corazón de Bartolo.",
+                "anio": "2025",
+                "duracion": "84 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v5EE8wkX6bSWNuTSEPRVmXuac4J.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eOcrqGMKXqHcAxoWJ4XaTaKf5KN.png"
             },
             {
                 "name": "Una muerte silenciosa",

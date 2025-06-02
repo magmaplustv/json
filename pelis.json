@@ -3522,18 +3522,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9pLluhKIZECy3HUmGh2vH7mRsdK.png"
             },
             {
-                "name": "La más fan",
-                "url": "http://vedo.wvdbozpfc.com/vod/5E36603C996647CB9D517C133B618505_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",
-                "type": "PELICULA",
-                "descripcion": "Lana Cruz, cancelada en Hollywood, busca revivir su carrera en su país. Pero Polly, una fan divertida y algo intensa, convierte su vida en una telenovela. ¿Podrá brillar otra vez?",
-                "anio": "2025",
-                "duracion": "91 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iznPd7PLnCBA1G50M4DuA9wvCIy.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La rosa de Versalles",
                 "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
@@ -3544,6 +3532,18 @@
                 "genero": "Animación, Romance, Drama, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
+            },
+            {
+                "name": "La más fan",
+                "url": "http://vedo.wvdbozpfc.com/vod/5E36603C996647CB9D517C133B618505_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",
+                "type": "PELICULA",
+                "descripcion": "Lana Cruz, cancelada en Hollywood, busca revivir su carrera en su país. Pero Polly, una fan divertida y algo intensa, convierte su vida en una telenovela. ¿Podrá brillar otra vez?",
+                "anio": "2025",
+                "duracion": "91 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iznPd7PLnCBA1G50M4DuA9wvCIy.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Extraterritorial",

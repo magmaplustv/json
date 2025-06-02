@@ -7829,18 +7829,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/pwLEaoRT7SHiqwhhK3wNXFK8Avm.png"
             },
             {
-                "name": "Celebración Macabra",
-                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
-                "type": "PELICULA",
-                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Terror, Suspense, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
-            },
-            {
                 "name": "Chica conoce a chico",
                 "url": "http://vedo.wvdbozpfc.com/vod/230EB3113D9043BCBBC0042040934049_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/kxRjfgZHj7nsa7aBqm6qato2b70.jpg",
@@ -7851,6 +7839,18 @@
                 "genero": "Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/a52YYsOwawIlc9WTG1MpgEBjcoV.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/71LK7Iu2584LudQN6oJ1xIzUOMC.png"
+            },
+            {
+                "name": "Celebración Macabra",
+                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
+                "type": "PELICULA",
+                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Terror, Suspense, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
             },
             {
                 "name": "Contigo en el futuro",

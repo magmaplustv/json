@@ -6956,18 +6956,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/9jKIhNTT9RkrpftUBdLXUMr4ici.png"
             },
             {
-                "name": "Algea: God of Pain",
-                "url": "http://vedo.wvdbozpfc.com/vod/A5CEB7DB5DC64D778E90806C2CF21986_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
-                "type": "PELICULA",
-                "descripcion": "Llega un momento en que tienes que enfrentarte a tus demonios interiores, y Algea no es una excepción. Te adentrarás en las mentes de distintos personajes que luchan contra sus demonios interiores.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Terror, Ciencia ficción, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Longlegs",
                 "url": "http://vedo.wvdbozpfc.com/vod/ECAA3DC5E643403FA6C28AB7030C3DDB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
@@ -6978,6 +6966,18 @@
                 "genero": "Terror, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/v3YW69KD3vnsgMXIqK50L5mEnBd.png"
+            },
+            {
+                "name": "Algea: God of Pain",
+                "url": "http://vedo.wvdbozpfc.com/vod/A5CEB7DB5DC64D778E90806C2CF21986_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
+                "type": "PELICULA",
+                "descripcion": "Llega un momento en que tienes que enfrentarte a tus demonios interiores, y Algea no es una excepción. Te adentrarás en las mentes de distintos personajes que luchan contra sus demonios interiores.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Terror, Ciencia ficción, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
+                "iconpng": ""
             },
             {
                 "name": "La mujer de las sombras",

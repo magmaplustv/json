@@ -459,18 +459,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/s6iSnSmQkIHZelLYLoszQWtz4GX.png"
             },
             {
-                "name": "Las Aventuras de Dog Man",
-                "url": "http://vedo.wvdbozpfc.com/vod/347AE83EDE07482F9E973091AAC78E69_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un perro y un agente de policía resultan heridos juntos en el trabajo. Una operación quirúrgica que les salva la vida cambia el curso de la historia cuando nace Policán. Mitad perro, mitad hombre, Policán ha jurado proteger y servir -siempre que no le distraigan las ardillas- mientras persigue tenazmente a su archienemigo: el supervillano felino Petey el Gato. Pero la rivalidad entre Policán y Petey se ve alterada por la llegada de un adorable gatito clon de Petey, Lil Petey, que cambia las reglas del juego para ambos.",
-                "anio": "2025",
-                "duracion": "89 min",
-                "genero": "Animación, Familia, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w1SjvuBifhtFwe3BSssXXFyV6bk.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kIiK0wKZL9LAX6Z27XdJPrL3B2v.png"
-            },
-            {
                 "name": "En un confín del mundo",
                 "url": "http://vedo.wvdbozpfc.com/vod/2EB37E2AD5544848BC2F1DB904E73294_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg",
@@ -481,6 +469,18 @@
                 "genero": "Comedia, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bJ6hZMsknsjHz4ihZoYjtAa9lKF.png"
+            },
+            {
+                "name": "Las Aventuras de Dog Man",
+                "url": "http://vedo.wvdbozpfc.com/vod/347AE83EDE07482F9E973091AAC78E69_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un perro y un agente de policía resultan heridos juntos en el trabajo. Una operación quirúrgica que les salva la vida cambia el curso de la historia cuando nace Policán. Mitad perro, mitad hombre, Policán ha jurado proteger y servir -siempre que no le distraigan las ardillas- mientras persigue tenazmente a su archienemigo: el supervillano felino Petey el Gato. Pero la rivalidad entre Policán y Petey se ve alterada por la llegada de un adorable gatito clon de Petey, Lil Petey, que cambia las reglas del juego para ambos.",
+                "anio": "2025",
+                "duracion": "89 min",
+                "genero": "Animación, Familia, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w1SjvuBifhtFwe3BSssXXFyV6bk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kIiK0wKZL9LAX6Z27XdJPrL3B2v.png"
             },
             {
                 "name": "Isla de perros",

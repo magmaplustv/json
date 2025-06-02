@@ -4684,12 +4684,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Tom y Jerry: Rapidos y Peludo",
-                "url": "http://vedo.wvdbozpfc.com/vod/677B98709A794E61ACCA8A64ADED4AEA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9rn3wbkXyQen9ipaAQtX01HGAMe.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Robots",
                 "url": "vod/8852BF29AD84408FAD72C46F6A59DAE8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/raxDqPCjSlKgEkxhwME75tjq8M2.jpg",
@@ -4700,6 +4694,12 @@
                 "genero": "Comedia, Ciencia ficción, Romance, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ujAHEr1smB5pzNYUMZpIj1Bm6uq.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7eUffocs4ITDnDTtsvCFzr11M74.png"
+            },
+            {
+                "name": "Tom y Jerry: Rapidos y Peludo",
+                "url": "http://vedo.wvdbozpfc.com/vod/677B98709A794E61ACCA8A64ADED4AEA_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9rn3wbkXyQen9ipaAQtX01HGAMe.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Tu Nombre",

@@ -356,18 +356,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
-                "name": "Enfrentando la Oscuridad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
-            },
-            {
                 "name": "Nahual",
                 "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
@@ -378,6 +366,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Enfrentando la Oscuridad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A997F2417D004C99ACBF6C880DF04799_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
                 "name": "El Rey de Reyes",

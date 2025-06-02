@@ -2822,18 +2822,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/br2S8IZxUrVNNk58vtogaXuQOKa.png"
             },
             {
-                "name": "G20",
-                "url": "http://vedo.wvdbozpfc.com/vod/1118FE8E1BC846CAA01BF0FFF1511DF0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando la cumbre del G20 sufre un ataque, la presidenta de EE. UU. Danielle Sutton se convierte en el objetivo número uno. Tras evitar ser capturada por los atacantes, debe derrotar al enemigo para proteger a su familia, defender a su país y poner a salvo a los líderes del mundo en esta trepidante película cargada de acción.",
-                "anio": "2025",
-                "duracion": "108 min",
-                "genero": "Acción, Misterio, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iPITIm26Qpt5dFhaLIXxCg7z7zy.png"
-            },
-            {
                 "name": "A Knight's War",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
                 "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
@@ -2844,6 +2832,18 @@
                 "genero": "Terror, Acción, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
+            },
+            {
+                "name": "G20",
+                "url": "http://vedo.wvdbozpfc.com/vod/1118FE8E1BC846CAA01BF0FFF1511DF0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando la cumbre del G20 sufre un ataque, la presidenta de EE. UU. Danielle Sutton se convierte en el objetivo número uno. Tras evitar ser capturada por los atacantes, debe derrotar al enemigo para proteger a su familia, defender a su país y poner a salvo a los líderes del mundo en esta trepidante película cargada de acción.",
+                "anio": "2025",
+                "duracion": "108 min",
+                "genero": "Acción, Misterio, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iPITIm26Qpt5dFhaLIXxCg7z7zy.png"
             },
             {
                 "name": "Imagínatelo",

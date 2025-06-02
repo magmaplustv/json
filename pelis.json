@@ -8207,18 +8207,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Vera y el placer de los otros",
-                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
-                "anio": "2024",
-                "duracion": "104 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Verano en diciembre",
                 "url": "http://vedo.wvdbozpfc.com/vod/56B6B2C89928447595AE33D5BABFA9D3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xUJecKzNuaL5CCqO6MS7V4S7oBI.jpg",
@@ -8228,6 +8216,18 @@
                 "duracion": "97 min",
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/pxqyiBJRm9Avmw7k2xCg0myQyuh.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Vera y el placer de los otros",
+                "url": "http://vedo.wvdbozpfc.com/vod/9B4857E9272F4455B6E5E472DF546624_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Vera, una adolescente de 17 años, reparte sus días entre el vóley, la escuela y un pasatiempo secreto: subalquilar por un par de horas un departamento vacío con bolsas de dormir para que otros adolescentes tengan sexo.",
+                "anio": "2024",
+                "duracion": "104 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
                 "iconpng": ""
             },
             {

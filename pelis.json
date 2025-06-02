@@ -4930,18 +4930,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
             },
             {
-                "name": "Cómo entrenar a tu dragón",
-                "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-                "anio": "2025",
-                "duracion": "125 min",
-                "genero": "Acción, Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
-            },
-            {
                 "name": "Earwig y la bruja",
                 "url": "http://vedo.wvdbozpfc.com/vod/A197BFAB20C448BBB7C9141C553EB333_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
@@ -4952,6 +4940,18 @@
                 "genero": "Animación, Fantasía, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/t9YEokkCYAIWPmI4jNP57JZUhq9.png"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "duracion": "125 min",
+                "genero": "Acción, Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
             },
             {
                 "name": "El Arco Mágico",

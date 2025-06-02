@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "El hoyo 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405824.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1MESH5XtdBxHMuNbQvkIa75hyz1.png",
+                "descripcion": "Un misterioso líder ha impuesto su ley en un brutal sistema de celdas verticales, pero la llegada de una residente desafía su dudoso método de distribución de comida.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Terror, Suspense",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Furiosa: De la saga Mad Max",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405833.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hstQNWXBkZUVMH7VB3VqDDhX6cX.jpg",
@@ -2983,18 +2995,6 @@
                 "anio": "2024",
                 "genero": "Comedia, Crimen, Suspense",
                 "duracion": "95 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El hoyo 2",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405824.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1MESH5XtdBxHMuNbQvkIa75hyz1.png",
-                "descripcion": "Un misterioso líder ha impuesto su ley en un brutal sistema de celdas verticales, pero la llegada de una residente desafía su dudoso método de distribución de comida.",
-                "anio": "2024",
-                "genero": "Ciencia ficción, Terror, Suspense",
-                "duracion": "100 min",
                 "type": "PELICULA"
             }
         ]

@@ -3379,18 +3379,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Alexander y el viaje terrible, horrible, espantoso, horroroso",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169908.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
-                "type": "PELICULA",
-                "descripcion": "El viaje de Alexander y su familia a Ciudad de México sale mal, cuando descubren una maldición.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Comedia, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4MlFvMcvKR5vLoREuobBzndTKeF.png"
-            },
-            {
                 "name": "Another You",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168780.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
@@ -3401,6 +3389,18 @@
                 "genero": "Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/j4oYX4LgNnoRYHnkafGYeyVLULi.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/thiMiYIVcowc1T34mS2rChaKp70.png"
+            },
+            {
+                "name": "Alexander y el viaje terrible, horrible, espantoso, horroroso",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169908.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
+                "type": "PELICULA",
+                "descripcion": "El viaje de Alexander y su familia a Ciudad de México sale mal, cuando descubren una maldición.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Comedia, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4MlFvMcvKR5vLoREuobBzndTKeF.png"
             },
             {
                 "name": "Mesa de regalos",

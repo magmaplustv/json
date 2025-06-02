@@ -3582,18 +3582,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mTQdC7zH5vlWLxXDG9AKDpwPXHi.png"
             },
             {
-                "name": "Estragos",
-                "url": "http://vedo.wvdbozpfc.com/vod/BF65AFA5D1CC4E988FF2D1D4137146C7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando un robo de drogas tiene consecuencias fatales, un policía lucha contra el submundo criminal de una ciudad corrupta para salvar al hijo de un político.",
-                "anio": "2025",
-                "duracion": "107 min",
-                "genero": "Acción, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/mf5VdjXXg4SdBpeSD7F1BVw4oQY.png"
-            },
-            {
                 "name": "iRehén",
                 "url": "http://vedo.wvdbozpfc.com/vod/08D743CB70024228AAFFF61E1A30B04D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
@@ -3604,6 +3592,18 @@
                 "genero": "Suspense, Crimen, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uL46cOIcmtIAvIIZK7LFu6zwY4r.png"
+            },
+            {
+                "name": "Estragos",
+                "url": "http://vedo.wvdbozpfc.com/vod/BF65AFA5D1CC4E988FF2D1D4137146C7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando un robo de drogas tiene consecuencias fatales, un policía lucha contra el submundo criminal de una ciudad corrupta para salvar al hijo de un político.",
+                "anio": "2025",
+                "duracion": "107 min",
+                "genero": "Acción, Crimen, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mf5VdjXXg4SdBpeSD7F1BVw4oQY.png"
             },
             {
                 "name": "Pánico en el tren bala",

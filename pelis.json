@@ -2145,6 +2145,18 @@
                 "genero": "Animación, Acción, Ciencia ficción",
                 "duracion": "50 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El rostro de la venganza",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405773.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aiJSXogyKU4rh6AmUKP6SsjX6xr.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l7TLxnV6lB9QySMOVcuaOhN4aHC.jpg",
+                "iconpng": "",
+                "descripcion": "Un ejecutivo, maltratado por su jefe e ignorado por su esposa, se levanta un día y ve cómo su rostro está borrado y ocupado por una gran mancha blanca, de la que no puede deshacerse. Pero ahora tendrá la oportunidad de vengarse de todos los que hicieron su vida imposible y miserable: amigos, jefes y su propia esposa...",
+                "anio": "2000",
+                "genero": "Suspense, Terror, Misterio",
+                "duracion": "99 min",
+                "type": "PELICULA"
             }
         ]
     },

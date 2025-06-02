@@ -4906,18 +4906,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
             },
             {
-                "name": "Coco",
-                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
-                "anio": "2017",
-                "duracion": "109 min",
-                "genero": "Familia, Animación, Música, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
-            },
-            {
                 "name": "Earwig y la bruja",
                 "url": "http://vedo.wvdbozpfc.com/vod/A197BFAB20C448BBB7C9141C553EB333_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
@@ -4928,6 +4916,18 @@
                 "genero": "Animación, Fantasía, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/t9YEokkCYAIWPmI4jNP57JZUhq9.png"
+            },
+            {
+                "name": "Coco",
+                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+                "anio": "2017",
+                "duracion": "109 min",
+                "genero": "Familia, Animación, Música, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
             },
             {
                 "name": "Cómo entrenar a tu dragón",

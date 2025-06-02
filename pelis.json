@@ -1686,18 +1686,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Aterrados",
-                "url": "http://vedo.wvdbozpfc.com/vod/ED5E87CFF9C04E6C9B3D11D2D5F7EB95_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Algo muy extraño está pasando en un barrio del conurbano bonaerense. Objetos que se mueven, apariciones extrañas y cañerías que hablan son los primeros indicios de que lo Paranormal –así, en mayúsculas– vino para quedarse. Azorado, el Comisario Funes convoca a Mario Jano para que lo ayude a desentrañar el misterio. Se les unirán la doctora Albrec y el norteamericano Rosentok, formando un grupo de investigación que vivirá una verdadera escalada a la locura.",
-                "anio": "2018",
-                "duracion": "85 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tNDXIbgB7kImBmIGYk7ufDFpAqL.png"
-            },
-            {
                 "name": "Esperando la carroza",
                 "url": "http://vedo.wvdbozpfc.com/vod/4276A33872704FA6BFF90D2964B8E7CD_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qkSThbNiC6kimvLlWrgeTNYLCeq.jpg",
@@ -1708,6 +1696,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/3c9csN2cguE6KwIEcJJ06pQVl5s.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dIAWvlbcISNVCOXsuNMOC8a4ZmF.png"
+            },
+            {
+                "name": "Aterrados",
+                "url": "http://vedo.wvdbozpfc.com/vod/ED5E87CFF9C04E6C9B3D11D2D5F7EB95_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Algo muy extraño está pasando en un barrio del conurbano bonaerense. Objetos que se mueven, apariciones extrañas y cañerías que hablan son los primeros indicios de que lo Paranormal –así, en mayúsculas– vino para quedarse. Azorado, el Comisario Funes convoca a Mario Jano para que lo ayude a desentrañar el misterio. Se les unirán la doctora Albrec y el norteamericano Rosentok, formando un grupo de investigación que vivirá una verdadera escalada a la locura.",
+                "anio": "2018",
+                "duracion": "85 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tNDXIbgB7kImBmIGYk7ufDFpAqL.png"
             },
             {
                 "name": "El rey del Once",

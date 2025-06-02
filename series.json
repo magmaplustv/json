@@ -1010,65 +1010,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "Impostura",
-                    "genero": "Comedia",
-                    "descripcion": "Una comedia de universitarios sobre el caótico viaje de Benny, que todavía está en el armario, que enseguida se hace amigo de Carmen, una marginada que quiere encajar a toda costa. Muy divertida e íntima, la serie explora la forma en que todos forzamos nuestro comportamiento en el camino de descubrir quiénes somos en realidad.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/gQcQ04niq3YIlkeboiEdeo8HS9I.png",
-                    "icono": "https://image.tmdb.org/t/p/original/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/rjHCjs3UEEmC8FKVCNlUT4iiztq.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0AA56687B2324E3989DEFFCA35D9D783_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/854853154B9B487C86F4A8A6F7EBB3C2_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1732A6E381746909714A0E4396C8EC2_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9DD4E9E15B4B4D198ED74478593CAD79_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A71FB555D4854FB9BB8D8156FC425C1B_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2778F71CB10E45F18B7E19C4E02FFA8C_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8B428CEBFCF14B448BE01C68F217EA87_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/60C0DD84ED054CEAB71DAEC9900853779_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 247619,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Manual para Residentes",
                     "genero": "Drama",
                     "descripcion": "",

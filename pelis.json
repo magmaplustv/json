@@ -2278,18 +2278,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/v1l7vCVOaft4kF6Bmbgbk7YSgNs.png"
             },
             {
-                "name": "Seis Triple Ocho",
-                "url": "http://vedo.wvdbozpfc.com/vod/F87CAC4C8FBA4C5D9E56A301FED8257B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
-                "type": "PELICULA",
-                "descripcion": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de diecisiete millones de piezas de correo.",
-                "anio": "2024",
-                "duracion": "130 min",
-                "genero": "Drama, Bélica, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6FFu2e5qECWHADmOjSmsAFvCkD1.png"
-            },
-            {
                 "name": "Wicked",
                 "url": "http://vedo.wvdbozpfc.com/vod/609E8F2815994C50868A390BC41290B9_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1ZSVA2pNpc89C07RDgsR6p0GMs7.jpg",
@@ -2300,6 +2288,18 @@
                 "genero": "Fantasía, Romance, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/irMy4NnEVR9nNB0wN17OMKo2Gnj.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Seis Triple Ocho",
+                "url": "http://vedo.wvdbozpfc.com/vod/F87CAC4C8FBA4C5D9E56A301FED8257B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
+                "type": "PELICULA",
+                "descripcion": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de diecisiete millones de piezas de correo.",
+                "anio": "2024",
+                "duracion": "130 min",
+                "genero": "Drama, Bélica, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6FFu2e5qECWHADmOjSmsAFvCkD1.png"
             },
             {
                 "name": "La Trampa",

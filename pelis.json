@@ -5838,6 +5838,12 @@
                 "iconpng": ""
             },
             {
+                "name": "Secta Virtual",
+                "url": "http://vedo.wvdbozpfc.com/vod/C7CA56DAFBCA47D4A688893726F84ED1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vNlXo17MlEdkxgWYykfJXlZFdTD.jpg",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Turno nocturno",
                 "url": "http://vedo.wvdbozpfc.com/vod/483661B3AD7940B8B42C5BCACB9F718C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
@@ -5848,12 +5854,6 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/x9AySz3k2BkUWl0DWrlR2EUiCH5.png"
-            },
-            {
-                "name": "Secta Virtual",
-                "url": "http://vedo.wvdbozpfc.com/vod/C7CA56DAFBCA47D4A688893726F84ED1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vNlXo17MlEdkxgWYykfJXlZFdTD.jpg",
-                "type": "PELICULA"
             },
             {
                 "name": "Misterio en la Costa Norte",

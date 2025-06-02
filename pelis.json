@@ -2482,18 +2482,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dYvdW8Wfy52iADXKXFiY941V2fJ.png"
             },
             {
-                "name": "Cacería Sangrienta",
-                "url": "http://vedo.wvdbozpfc.com/vod/93458CD9E32040F88F01D79EA754D17D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un grupo de jóvenes activistas decide hacer una declaración ambiental vandalizando una tienda de artículos para el hogar justo cuando la tienda está por cerrar. Pero su plan sale terriblemente mal cuando quedan atrapados dentro y deben enfrentarse a un guardia de seguridad trastornado con una pasión macabra por la caza primitiva. A medida que la noche se llena de violencia y terror, los adolescentes se encuentran en una lucha desesperada por sus vidas.",
-                "anio": "2024",
-                "duracion": "90 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/jsNakCUCwDjpklhNghsuqvlK7PM.png"
-            },
-            {
                 "name": "Jurado Nº 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/608293B955984B8EBE4C35CECDF22BD3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
@@ -2504,6 +2492,18 @@
                 "genero": "Crimen, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
+            },
+            {
+                "name": "Cacería Sangrienta",
+                "url": "http://vedo.wvdbozpfc.com/vod/93458CD9E32040F88F01D79EA754D17D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un grupo de jóvenes activistas decide hacer una declaración ambiental vandalizando una tienda de artículos para el hogar justo cuando la tienda está por cerrar. Pero su plan sale terriblemente mal cuando quedan atrapados dentro y deben enfrentarse a un guardia de seguridad trastornado con una pasión macabra por la caza primitiva. A medida que la noche se llena de violencia y terror, los adolescentes se encuentran en una lucha desesperada por sus vidas.",
+                "anio": "2024",
+                "duracion": "90 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jsNakCUCwDjpklhNghsuqvlK7PM.png"
             },
             {
                 "name": "Hellboy: El Hombre Retorcido",

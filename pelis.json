@@ -428,18 +428,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/zBVYdBVEENSXea58yyXpj7A0BcC.png"
             },
             {
-                "name": "Una película de Minecraft",
-                "url": "http://vedo.wvdbozpfc.com/vod/45C5C595F01A4310B59E6FED84F9DE57_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Familia, Comedia, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
-            },
-            {
                 "name": "Freaky Tales",
                 "url": "http://vedo.wvdbozpfc.com/vod/4F1D39C907DC4844B5CF08DD9B88C8BB_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg",
@@ -450,6 +438,18 @@
                 "genero": "Acción, Comedia, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kv6uXot40z3ZmyHp0f6w6oYbmdp.png"
+            },
+            {
+                "name": "Una película de Minecraft",
+                "url": "http://vedo.wvdbozpfc.com/vod/45C5C595F01A4310B59E6FED84F9DE57_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Familia, Comedia, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
             },
             {
                 "name": "Hombre lobo",

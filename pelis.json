@@ -6735,18 +6735,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Daria",
-                "url": "http://vedo.wvdbozpfc.com/vod/2633356B8E134C2489B6368C74B022A2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/clQfVYD48lUIkfTAwMQxmfM3G3b.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2020",
-                "duracion": "93 min",
-                "genero": "Suspense, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/smeN9kM1FtADlZrbdm1qOdslRdF.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Queer",
                 "url": "http://vedo.wvdbozpfc.com/vod/6FC8E4A274CE48AFBDADF1AB28285C14_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/w18FVX4a42hWZO6QB07IGBTEFGo.jpg",
@@ -6757,6 +6745,18 @@
                 "genero": "Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7bUYzlDz8eel1BVL1Y0YcF9NQmd.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/hhMU6kmnpaTH0QihDTJ4AWfUo9f.png"
+            },
+            {
+                "name": "Daria",
+                "url": "http://vedo.wvdbozpfc.com/vod/2633356B8E134C2489B6368C74B022A2_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/clQfVYD48lUIkfTAwMQxmfM3G3b.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2020",
+                "duracion": "93 min",
+                "genero": "Suspense, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/smeN9kM1FtADlZrbdm1qOdslRdF.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El milagro de Tyson",

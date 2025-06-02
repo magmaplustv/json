@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Road House (De profesión: duro)",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405855.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/77THaFziWEMmsvmKr2mIEEwH0te.png",
+                "descripcion": "Dalton es un exluchador de la UFC en horas bajas que acepta un trabajo como portero en un conflictivo bar de carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece... Remake de la película de 1989 con Patrick Swayze.",
+                "anio": "2024",
+                "genero": "Acción, Suspense",
+                "duracion": "114 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Arthur",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/425541.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
@@ -2755,18 +2767,6 @@
                 "anio": "2024",
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Road House (De profesión: duro)",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405855.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/77THaFziWEMmsvmKr2mIEEwH0te.png",
-                "descripcion": "Dalton es un exluchador de la UFC en horas bajas que acepta un trabajo como portero en un conflictivo bar de carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece... Remake de la película de 1989 con Patrick Swayze.",
-                "anio": "2024",
-                "genero": "Acción, Suspense",
-                "duracion": "114 min",
                 "type": "PELICULA"
             }
         ]

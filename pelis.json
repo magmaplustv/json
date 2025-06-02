@@ -7040,18 +7040,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/gI4xdmWUsOJ7thrMTDiZWIJIIbn.png"
             },
             {
-                "name": "Expediente Warren: The Conjuring",
-                "url": "http://vedo.wvdbozpfc.com/vod/8D5E01DE20514517B2F9548961ED2EEC_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
-                "anio": "2013",
-                "duracion": "112 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
-            },
-            {
                 "name": "Posesión infernal: El despertar",
                 "url": "http://vedo.wvdbozpfc.com/vod/3A10652ECB8740C898C075CCFA3DCBE0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
@@ -7062,6 +7050,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uVV2Ab8ipgwM94h0LQVvjtFDuze.png"
+            },
+            {
+                "name": "Expediente Warren: The Conjuring",
+                "url": "http://vedo.wvdbozpfc.com/vod/8D5E01DE20514517B2F9548961ED2EEC_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+                "anio": "2013",
+                "duracion": "112 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
             },
             {
                 "name": "Expediente Warren: Obligado por el demonio",

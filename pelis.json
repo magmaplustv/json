@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "1992",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405848.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qUPYV4GCGMNBgrHDX007G1fYENw.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eP65PJW2C08CrD6P3aMijvMZ4Hb.png",
+                "descripcion": "Un tendero debe salvar a su hijo de una multitud enfurecida durante la revuelta de Los Ángeles de 1992 tras el veredicto de Rodney King.",
+                "anio": "2024",
+                "genero": "Crimen, Suspense, Acción",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los descendientes: Corazón rebelde",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405849.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/57XarHzHxeDouUyjAb6BpVxIkC0.jpg",
@@ -2827,18 +2839,6 @@
                 "anio": "2024",
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "1992",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405848.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/qUPYV4GCGMNBgrHDX007G1fYENw.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eP65PJW2C08CrD6P3aMijvMZ4Hb.png",
-                "descripcion": "Un tendero debe salvar a su hijo de una multitud enfurecida durante la revuelta de Los Ángeles de 1992 tras el veredicto de Rodney King.",
-                "anio": "2024",
-                "genero": "Crimen, Suspense, Acción",
-                "duracion": "96 min",
                 "type": "PELICULA"
             }
         ]

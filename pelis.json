@@ -3080,18 +3080,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/oPjWUwDWDSMWgyIdkoCe52Bod6C.png"
             },
             {
-                "name": "Barbie y Teresa: La receta de la amistad",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168734.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un grupo de amigas ayuda a Teresa a recrear una preciada receta familiar de tamales para la inauguración del restaurante de su prima en Nueva York.",
-                "anio": "2025",
-                "duracion": "61 min",
-                "genero": "Animación, Familia, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rbMUbtT7WHUEzrxJgSIEVEz5ACE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/v5mY0J8DfIB7KdrCYOBHpwXkBho.png"
-            },
-            {
                 "name": "Popeye the Slayer Man",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168852.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nVwu3mN7hr1yF467pGct3yQFM41.jpg",
@@ -3102,6 +3090,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xkjWiRQtrenqGRWO2Enry2JIl4d.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jXaNeL88evMJIJDThLOO69TF3Nb.png"
+            },
+            {
+                "name": "Barbie y Teresa: La receta de la amistad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168734.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un grupo de amigas ayuda a Teresa a recrear una preciada receta familiar de tamales para la inauguración del restaurante de su prima en Nueva York.",
+                "anio": "2025",
+                "duracion": "61 min",
+                "genero": "Animación, Familia, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rbMUbtT7WHUEzrxJgSIEVEz5ACE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v5mY0J8DfIB7KdrCYOBHpwXkBho.png"
             },
             {
                 "name": "El Jardinero",

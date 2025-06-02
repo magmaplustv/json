@@ -7757,18 +7757,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1v2nUBeYuDKiibNy27vBZ6taDeT.png"
             },
             {
-                "name": "Celebración Macabra",
-                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
-                "type": "PELICULA",
-                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Terror, Suspense, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
-            },
-            {
                 "name": "DJ encubierto",
                 "url": "http://vedo.wvdbozpfc.com/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
@@ -7779,6 +7767,18 @@
                 "genero": "Comedia, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zmLAlyYfyJcbHEaMpJVG9EWdouA.png"
+            },
+            {
+                "name": "Celebración Macabra",
+                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
+                "type": "PELICULA",
+                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Terror, Suspense, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
             },
             {
                 "name": "Vampira humanista busca suicida",

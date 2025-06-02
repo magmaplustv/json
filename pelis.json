@@ -2619,18 +2619,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
             },
             {
-                "name": "Escapada de espanto",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Terror, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
-            },
-            {
                 "name": "Supervillanos: la investigación",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
@@ -2641,6 +2629,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
+            },
+            {
+                "name": "Escapada de espanto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
             },
             {
                 "name": "La estafa (Bad Education)",

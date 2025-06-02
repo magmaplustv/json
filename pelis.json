@@ -2013,6 +2013,18 @@
                 "genero": "Animación, Acción, Ciencia ficción",
                 "duracion": "50 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La liga de los hombres extraordinarios",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431017.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/y4DuzWnRkjfY84NnhL8biEgimmh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tsUlDhS8jeaK6x65ZrEtvrkPVx4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/s3fJMfDhITAwwtsiIat69YMy7mX.png",
+                "descripcion": "En la Inglaterra victoriana, un malvado comete sus fechorías con la intención de provocar una guerra mundial. Intentando evitarlo, las autoridades reclutarán a un grupo de valientes con una peculiaridad: todos son héroes literarios. La extraordinaria Liga de Quatermain  está compuesta por el capitán Nemo, la vampiresa de Drácula Mina Harker, el hombre invisible Rodney Skinner, el agente del servicio secreto americano Sawyer, Dorian Gray, y el Dr. Jekyll / Mr. Hyde. El enigmático M, es quien recluta a la Liga. Los miembros de la Liga son contumaces individualistas, forajidos de hecho, con pasados en los que hay luces y sombras y singulares dones que les han reportado alegrías y penalidades a la par. Ahora deben aprenden a confiar los unos en los otros y trabajar como equipo por el bien y la esperanza de la civilización, con poca preparación y ningún tiempo que perder.",
+                "anio": "2003",
+                "genero": "Fantasía, Acción, Suspense, Ciencia ficción",
+                "duracion": "110 min",
+                "type": "PELICULA"
             }
         ]
     },

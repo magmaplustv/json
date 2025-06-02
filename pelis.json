@@ -147,18 +147,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
             },
             {
-                "name": "Terrifier 3",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406188.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
-                "type": "PELICULA",
-                "descripcion": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas destrozadas. A medida que se acercan las fiestas de Navidad, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, el payaso Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente mientras el payaso Art desata su retorcido terror marca de la casa, demostrando que ninguna festividad es segura.",
-                "anio": "2024",
-                "duracion": "125 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
-            },
-            {
                 "name": "Confidencial (Black Bag)",
                 "url": "http://vedo.wvdbozpfc.com/vod/F9F41C7FAD9544E7BD5170F1BD4A626E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg",
@@ -169,6 +157,18 @@
                 "genero": "Suspense, Misterio, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wi2CEFSyoxoBWdFeVmTeqnlX3qI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/aecaoDpXGvDALdkebTfPMyXUQty.png"
+            },
+            {
+                "name": "Terrifier 3",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406188.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iaGfB2itLC8exBvfLUoadS0Q6tP.jpg",
+                "type": "PELICULA",
+                "descripcion": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas destrozadas. A medida que se acercan las fiestas de Navidad, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, el payaso Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente mientras el payaso Art desata su retorcido terror marca de la casa, demostrando que ninguna festividad es segura.",
+                "anio": "2024",
+                "duracion": "125 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vBJaFKkadHdxyNed1nFJUtPlQmk.png"
             },
             {
                 "name": "Sujo",

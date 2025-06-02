@@ -363,18 +363,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
             },
             {
-                "name": "Giro final",
-                "url": "http://vedo.wvdbozpfc.com/vod/03AA66DD999243DF90562E118479E136_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/npzFyBu4fFPQpWXaLKdrXc6JrUK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Mónica tiene un podcast y Alex tiene un oscuro secreto. A veces, reunirse con amigos en línea en la vida real no es una buena idea.",
-                "anio": "2025",
-                "duracion": "95 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hlfyEitcmizL4AEYhcbqpXWklLK.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Revelación",
                 "url": "http://vedo.wvdbozpfc.com/vod/2161BA4D508F43A2997E3095398D4AD8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
@@ -385,6 +373,18 @@
                 "genero": "Suspense, Crimen, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
+            },
+            {
+                "name": "Giro final",
+                "url": "http://vedo.wvdbozpfc.com/vod/03AA66DD999243DF90562E118479E136_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/npzFyBu4fFPQpWXaLKdrXc6JrUK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Mónica tiene un podcast y Alex tiene un oscuro secreto. A veces, reunirse con amigos en línea en la vida real no es una buena idea.",
+                "anio": "2025",
+                "duracion": "95 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hlfyEitcmizL4AEYhcbqpXWklLK.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Rescate Implacable",

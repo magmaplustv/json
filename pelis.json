@@ -6598,18 +6598,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mrY2z3QmukgcIRl0oLLlNBOnmcN.png"
             },
             {
-                "name": "¿Quién es Luigi Mangione?",
-                "url": "http://vedo.wvdbozpfc.com/vod/564263F1C19040139476AECA9026E550_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg",
-                "type": "PELICULA",
-                "descripcion": "26 años, Luigi Mangione es un joven de riqueza y privilegio. ¿Qué lo llevó al mortal tiroteo contra el CEO de United Healthcare, Brian Thompson?",
-                "anio": "2025",
-                "duracion": "42 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8HBfkTtnZS8gEK5jSgYZHBFyhlY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/qUczBoHMyKHsVdbfnZY2a1XtFXA.png"
-            },
-            {
                 "name": "Calendario mortal",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DBD08D6A825401C86B628BBD8EF42CA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg",
@@ -6620,6 +6608,18 @@
                 "genero": "Crimen, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/m9c9H2puKOWSPfuUAnIIKXPMe9j.png"
+            },
+            {
+                "name": "¿Quién es Luigi Mangione?",
+                "url": "http://vedo.wvdbozpfc.com/vod/564263F1C19040139476AECA9026E550_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg",
+                "type": "PELICULA",
+                "descripcion": "26 años, Luigi Mangione es un joven de riqueza y privilegio. ¿Qué lo llevó al mortal tiroteo contra el CEO de United Healthcare, Brian Thompson?",
+                "anio": "2025",
+                "duracion": "42 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8HBfkTtnZS8gEK5jSgYZHBFyhlY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qUczBoHMyKHsVdbfnZY2a1XtFXA.png"
             },
             {
                 "name": "El 47",

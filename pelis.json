@@ -2302,18 +2302,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Nos vemos la próxima Navidad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
-                "anio": "2024",
-                "duracion": "105 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
-            },
-            {
                 "name": "Smile 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/AE9DF6B4DBA6491DA3EBD480910A5A34_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aQtWauWpy5KQEHsBURDnoTD6svd.jpg",
@@ -2324,6 +2312,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/r9SsXx4ZQC7n0uWHiFinNTbp5jB.svg"
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
+                "anio": "2024",
+                "duracion": "105 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
             },
             {
                 "name": "GTMAX",

@@ -1062,18 +1062,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Eva Perón",
-                "url": "http://vedo.wvdbozpfc.com/vod/9A15B62E422B4B3F8517DF97241E93EF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7fHmUns7qqieMLcbch7HJukUnC8.jpg",
-                "type": "PELICULA",
-                "descripcion": "Es una película argentina dramática-histórica de 1996 dirigida por Juan Carlos Desanzo y escrita por José Pablo Feinmann. Es protagonizada por Esther Goris y Víctor Laplace en los papeles de Eva Perón y Juan Domingo Perón. Se estrenó el 24 de octubre de 1996 y fue ganadora de varios premios nacionales, entre ellos el Cóndor de Plata a la Mejor actriz, Mejor guion original y Mejor dirección artística de la Asociación de Cronistas Cinematográficos de la Argentina.  Película que narra la vida de Eva Perón, una de las personalidades femeninas más importantes de la historia político-social de la Argentina del siglo XX, tomando como eje del relato los sucesos históricos de 1951, especialmente su propuesta como candidata a Vicepresidente de la Nación por parte de la CGT y la renuncia a la misma una semana después.",
-                "anio": "1996",
-                "duracion": "114 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6LzqaFQFvGWyYVXbuwbZ2OXkicm.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Imágenes paganas",
                 "url": "http://vedo.wvdbozpfc.com/vod/66E285573CAD47CEA3E2F0654BC1F0E2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wNgRY67A7fIcDvfjUmUqqmNumPV.jpg",
@@ -1083,6 +1071,18 @@
                 "duracion": "82 min",
                 "genero": "Documental, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xam0DUFC1IDDKuzfWCNggRoZ3Mg.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Eva Perón",
+                "url": "http://vedo.wvdbozpfc.com/vod/9A15B62E422B4B3F8517DF97241E93EF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7fHmUns7qqieMLcbch7HJukUnC8.jpg",
+                "type": "PELICULA",
+                "descripcion": "Es una película argentina dramática-histórica de 1996 dirigida por Juan Carlos Desanzo y escrita por José Pablo Feinmann. Es protagonizada por Esther Goris y Víctor Laplace en los papeles de Eva Perón y Juan Domingo Perón. Se estrenó el 24 de octubre de 1996 y fue ganadora de varios premios nacionales, entre ellos el Cóndor de Plata a la Mejor actriz, Mejor guion original y Mejor dirección artística de la Asociación de Cronistas Cinematográficos de la Argentina.  Película que narra la vida de Eva Perón, una de las personalidades femeninas más importantes de la historia político-social de la Argentina del siglo XX, tomando como eje del relato los sucesos históricos de 1951, especialmente su propuesta como candidata a Vicepresidente de la Nación por parte de la CGT y la renuncia a la misma una semana después.",
+                "anio": "1996",
+                "duracion": "114 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6LzqaFQFvGWyYVXbuwbZ2OXkicm.jpg",
                 "iconpng": ""
             },
             {

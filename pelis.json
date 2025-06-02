@@ -3140,18 +3140,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/2Gfd9h2SWyDtvwUuZ5WgkCTnico.png"
             },
             {
-                "name": "Un Viaje de Sobriedad",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168697.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/s7vHYNh2eJ6W1EccCcRULur0ial.jpg",
-                "type": "PELICULA",
-                "descripcion": "Recién salida de rehabilitación, Rona regresa a las Islas Orcadas, un lugar salvaje y hermoso, justo al lado de la costa escocesa. Ahora con 29 años y después de más de una década viviendo al límite en Londres, donde encontró y perdió el amor, Rona intenta aceptar su pasado problemático. Mientras se reconecta con el dramático paisaje donde creció, los recuerdos de su infancia traumática se fusionan con eventos desafiantes más recientes que la han puesto en el camino de la recuperación.",
-                "anio": "2024",
-                "duracion": "118 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5OOYy7YpnwWxZAx8enpwRLIIRR8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8z9AengHCrn6K53xuw8dkZT9PKX.png"
-            },
-            {
                 "name": "Duplicidad, de Tyler Perry",
                 "url": "http://vedo.wvdbozpfc.com/vod/AE9988F4CF1C4CED99D3F5630EA323AF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg",
@@ -3162,6 +3150,18 @@
                 "genero": "Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nT0tpSovSldMoKQywsf46R9dXbe.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cXgEr4feMim1O5uhT09RgiFuWPX.png"
+            },
+            {
+                "name": "Un Viaje de Sobriedad",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168697.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/s7vHYNh2eJ6W1EccCcRULur0ial.jpg",
+                "type": "PELICULA",
+                "descripcion": "Recién salida de rehabilitación, Rona regresa a las Islas Orcadas, un lugar salvaje y hermoso, justo al lado de la costa escocesa. Ahora con 29 años y después de más de una década viviendo al límite en Londres, donde encontró y perdió el amor, Rona intenta aceptar su pasado problemático. Mientras se reconecta con el dramático paisaje donde creció, los recuerdos de su infancia traumática se fusionan con eventos desafiantes más recientes que la han puesto en el camino de la recuperación.",
+                "anio": "2024",
+                "duracion": "118 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5OOYy7YpnwWxZAx8enpwRLIIRR8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8z9AengHCrn6K53xuw8dkZT9PKX.png"
             },
             {
                 "name": "Detained",

@@ -6473,18 +6473,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/y8UW7uDg7I6p87JVv3UiYNNzfT8.png"
             },
             {
-                "name": "Maravilloso desastre",
-                "url": "http://vedo.wvdbozpfc.com/vod/7CA317A9C80B406A829194AF7828DE7C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
-                "type": "PELICULA",
-                "descripcion": "Travis es exactamente lo que Abby necesita y quiere… evitar. Pasa las noches peleando en combates clandestinos de boxeo, y los días como el mayor encantador del campus. Aunque Abby no quiere tener nada que ver con Travis, él le ofrece una simple apuesta: si pierde su próxima pelea, estará un mes entero sin sexo; pero si gana, Abby deberá vivir en su apartamento la misma cantidad de tiempo.",
-                "anio": "2023",
-                "duracion": "96 min",
-                "genero": "Romance, Drama, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b5mzCMHZJJ0I1vlzyglAnk8j2uL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/oIYq9s8FDubMXh0PZC29x8Kk7nK.png"
-            },
-            {
                 "name": "Rivales",
                 "url": "http://vedo.wvdbozpfc.com/vod/2C40E0CF40424A2594D7DB54A269FC8A_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg",
@@ -6495,6 +6483,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Maravilloso desastre",
+                "url": "http://vedo.wvdbozpfc.com/vod/7CA317A9C80B406A829194AF7828DE7C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
+                "type": "PELICULA",
+                "descripcion": "Travis es exactamente lo que Abby necesita y quiere… evitar. Pasa las noches peleando en combates clandestinos de boxeo, y los días como el mayor encantador del campus. Aunque Abby no quiere tener nada que ver con Travis, él le ofrece una simple apuesta: si pierde su próxima pelea, estará un mes entero sin sexo; pero si gana, Abby deberá vivir en su apartamento la misma cantidad de tiempo.",
+                "anio": "2023",
+                "duracion": "96 min",
+                "genero": "Romance, Drama, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b5mzCMHZJJ0I1vlzyglAnk8j2uL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/oIYq9s8FDubMXh0PZC29x8Kk7nK.png"
             },
             {
                 "name": "ยูเรนัส 2324",

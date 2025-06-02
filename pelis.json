@@ -3260,18 +3260,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/njpLFYwd4WivyON7eaAeYwFpmEH.png"
             },
             {
-                "name": "The Fire Inside",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167444.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg",
-                "type": "PELICULA",
-                "descripcion": "Claressa Shields, estudiante de secundaria de Flint, Michigan, con la ayuda de su firme entrenador, Jason Crutchfield, supera todas las limitaciones para convertirse en la primera mujer estadounidense en ganar una medalla de oro olímpica en boxeo. Pero incluso en la cima del éxito, Claressa debe reconocer que no todos los sueños son iguales, y que la verdadera lucha apenas comienza.",
-                "anio": "2024",
-                "duracion": "109 min",
-                "genero": "Historia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/GtWV2PAAFZYYHAy788RI6xOMJ8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/paFPbADZ8kqxt7tTTroca2v2Nxq.png"
-            },
-            {
                 "name": "Vidas perfectas",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168007.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",
@@ -3282,6 +3270,18 @@
                 "genero": "Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/Ngb1e1ovAujjavCrnbHZWkI0Wv.png"
+            },
+            {
+                "name": "The Fire Inside",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167444.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg",
+                "type": "PELICULA",
+                "descripcion": "Claressa Shields, estudiante de secundaria de Flint, Michigan, con la ayuda de su firme entrenador, Jason Crutchfield, supera todas las limitaciones para convertirse en la primera mujer estadounidense en ganar una medalla de oro olímpica en boxeo. Pero incluso en la cima del éxito, Claressa debe reconocer que no todos los sueños son iguales, y que la verdadera lucha apenas comienza.",
+                "anio": "2024",
+                "duracion": "109 min",
+                "genero": "Historia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/GtWV2PAAFZYYHAy788RI6xOMJ8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/paFPbADZ8kqxt7tTTroca2v2Nxq.png"
             },
             {
                 "name": "O Auto da Compadecida 2",

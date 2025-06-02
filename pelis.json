@@ -2918,12 +2918,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/j1cTG6Th3EY0ZkLqfkEGkTrdeVb.png"
             },
             {
-                "name": "Francotirador: La batalla final",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Love Hurts",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169712.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/152YLDtthOTvMPEPK7W8bMPq8vD.jpg",
@@ -2934,6 +2928,12 @@
                 "genero": "Acción, Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png"
+            },
+            {
+                "name": "Francotirador: La batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Love Me",

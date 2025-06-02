@@ -5384,18 +5384,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png"
             },
             {
-                "name": "Zootrópolis",
-                "url": "http://vedo.wvdbozpfc.com/vod/09591988DFD14E21A9F4211A0B995A93_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/i3WnZpJkQYXXbSGplEGmyoyeskM.jpg",
-                "type": "PELICULA",
-                "descripcion": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
-                "anio": "2016",
-                "duracion": "100 min",
-                "genero": "Animación, Aventura, Familia, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6GP71TtX6ZRU6vnEG95t6E0BXzh.png"
-            },
-            {
                 "name": "La escalofriante historia del Capitán Calzoncillos Jale-o-ween",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DEED86266854E2898C8086B6DEEAB75_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qGuBwXcJhmFBQRu5F6EB2VoTCn2.jpg",
@@ -5406,6 +5394,18 @@
                 "genero": "Comedia, Animación, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zb85xjZQTXa1AKA6AenN5gfIH2b.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rTX1o2GDFD1CPk8BqqHhON5KbjE.png"
+            },
+            {
+                "name": "Zootrópolis",
+                "url": "http://vedo.wvdbozpfc.com/vod/09591988DFD14E21A9F4211A0B995A93_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/i3WnZpJkQYXXbSGplEGmyoyeskM.jpg",
+                "type": "PELICULA",
+                "descripcion": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
+                "anio": "2016",
+                "duracion": "100 min",
+                "genero": "Animación, Aventura, Familia, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6GP71TtX6ZRU6vnEG95t6E0BXzh.png"
             },
             {
                 "name": "Elli y el equipo de monstruos",

@@ -5976,18 +5976,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8wYmPlRxHeiGw1ta74KJH6GyuxF.png"
             },
             {
-                "name": "Frogman",
-                "url": "http://vedo.wvdbozpfc.com/vod/350824BBC42445B495BBE0AF4EE0F602_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/wFCM4SKsBQIpKXhcCGgkVf7DK2F.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "81 min",
-                "genero": "Terror, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/99XoA625Gl9Q5tBKGX1nf2g11yJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/O1a8YsPOTbm9Zsp1s54yhusjLM.png"
-            },
-            {
                 "name": "The Boy: La maldición de Brahms",
                 "url": "http://vedo.wvdbozpfc.com/vod/68A493A9564F4AF8AA65064637B7537E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/llOwkKApB9mtirnCq10bYJOJt0D.jpg",
@@ -5998,6 +5986,18 @@
                 "genero": "Terror, Misterio, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jeiVmutYPZyQRSYk7OvyWENGIrA.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jUhAHKdxYljtUGAdyS8p3cbG0y8.png"
+            },
+            {
+                "name": "Frogman",
+                "url": "http://vedo.wvdbozpfc.com/vod/350824BBC42445B495BBE0AF4EE0F602_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wFCM4SKsBQIpKXhcCGgkVf7DK2F.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "81 min",
+                "genero": "Terror, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/99XoA625Gl9Q5tBKGX1nf2g11yJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/O1a8YsPOTbm9Zsp1s54yhusjLM.png"
             },
             {
                 "name": "Jessabelle",

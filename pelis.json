@@ -380,18 +380,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El Mono",
-                "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
-                "anio": "2025",
-                "duracion": "97 min",
-                "genero": "Terror, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
-            },
-            {
                 "name": "El Rey de Reyes",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
@@ -402,6 +390,18 @@
                 "genero": "Familia, Fantasía, Drama, Animación",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Mono",
+                "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando dos hermanos gemelos encuentran un misterioso mono de cuerda, una serie de muertes atroces separan a su familia. Veinticinco años después, el mono comienza una nueva matanza que obliga a los hermanos a enfrentarse al juguete maldito.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
             },
             {
                 "name": "¡Qué Huevos, Sofía!",

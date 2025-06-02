@@ -2960,6 +2960,18 @@
                 "genero": "Acción, Animación, Fantasía, Suspense",
                 "duracion": "103 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Acaba con los vecinos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405832.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/njQ2villCID6ZcCAXgJNu9OS96G.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zMjI3HqcpOQVcIy9poJQ6vdd2Ds.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aeX5EZvygUZyuWC0I9iEqzZ7ghK.png",
+                "descripcion": "El músico de prog-rock William Brown se ve envuelto en una pesadilla cuando mata accidentalmente a Vlad, el vecino del infierno.",
+                "anio": "2024",
+                "genero": "Comedia, Terror, Música",
+                "duracion": "86 min",
+                "type": "PELICULA"
             }
         ]
     },

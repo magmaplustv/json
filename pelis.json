@@ -2025,6 +2025,18 @@
                 "genero": "Animación, Acción, Ciencia ficción",
                 "duracion": "50 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Yo soy la venganza",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430864.ts",
+                "icono": "https://image.tmdb.org/t/p/original/3KawNznHOhYKQLLeZdbRhKJbfXp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ox6qOu33CSE48bNcArrqqCp4NUB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2lqxQeLphpbArzsaY5FkL26YSog.png",
+                "descripcion": "Un hombre inicia un camino de venganza contra varios oficiales de policía corruptos, al ser incapaz de descubrir al asesino de su mujer.",
+                "anio": "2016",
+                "genero": "Acción, Crimen, Drama, Suspense",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

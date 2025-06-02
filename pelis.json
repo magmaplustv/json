@@ -6968,18 +6968,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Longlegs",
-                "url": "http://vedo.wvdbozpfc.com/vod/ECAA3DC5E643403FA6C28AB7030C3DDB_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
-                "type": "PELICULA",
-                "descripcion": "Lee Harker, una nueva y talentosa agente del FBI, ha sido asignada a un caso sin resolver de un asesino en serie. A medida que la investigación se complica y se descubren pruebas ocultistas, Harker se da cuenta de que existe un vínculo personal con el despiadado asesino y debe actuar con rapidez para evitar otro asesinato familiar.",
-                "anio": "2024",
-                "duracion": "101 min",
-                "genero": "Terror, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/v3YW69KD3vnsgMXIqK50L5mEnBd.png"
-            },
-            {
                 "name": "Algea: God of Pain",
                 "url": "http://vedo.wvdbozpfc.com/vod/A5CEB7DB5DC64D778E90806C2CF21986_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
@@ -6990,6 +6978,18 @@
                 "genero": "Terror, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Longlegs",
+                "url": "http://vedo.wvdbozpfc.com/vod/ECAA3DC5E643403FA6C28AB7030C3DDB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
+                "type": "PELICULA",
+                "descripcion": "Lee Harker, una nueva y talentosa agente del FBI, ha sido asignada a un caso sin resolver de un asesino en serie. A medida que la investigación se complica y se descubren pruebas ocultistas, Harker se da cuenta de que existe un vínculo personal con el despiadado asesino y debe actuar con rapidez para evitar otro asesinato familiar.",
+                "anio": "2024",
+                "duracion": "101 min",
+                "genero": "Terror, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v3YW69KD3vnsgMXIqK50L5mEnBd.png"
             },
             {
                 "name": "Tu Sangre",

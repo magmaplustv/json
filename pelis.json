@@ -5856,18 +5856,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/x9AySz3k2BkUWl0DWrlR2EUiCH5.png"
             },
             {
-                "name": "Misterio en la Costa Norte",
-                "url": "http://vedo.wvdbozpfc.com/vod/078AF8C8E83041A786996BE8CE861CEE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bB878bAElQ1pm8D4uE6Efj6kp0u.jpg",
-                "type": "PELICULA",
-                "descripcion": "En la primavera de 2020, cinco estudiantes y dos profesores del Mid Ulster College of Art desaparecieron en un bosque de la costa norte de Irlanda. Lo que ocurrió el día de su desaparición ha sido un misterio... hasta ahora.",
-                "anio": "2024",
-                "duracion": "96 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nyZjhvcmeXcr8H2Xx6JzKEAxPph.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/mFwBbLLKjoZCwwEksK26eC0kGPA.png"
-            },
-            {
                 "name": "Paranormal Activity",
                 "url": "http://vedo.wvdbozpfc.com/vod/DE611E8AC3F94467ACC862CE45A0E8C6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/919Xf5NshBIKuj4HP2XkGIfNaCF.jpg",
@@ -5878,6 +5866,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xAnSELun945cE4kFUD9mI7W3puI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7NNFxFTy7XYg6hJKMbYrIBRHgWU.png"
+            },
+            {
+                "name": "Misterio en la Costa Norte",
+                "url": "http://vedo.wvdbozpfc.com/vod/078AF8C8E83041A786996BE8CE861CEE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bB878bAElQ1pm8D4uE6Efj6kp0u.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la primavera de 2020, cinco estudiantes y dos profesores del Mid Ulster College of Art desaparecieron en un bosque de la costa norte de Irlanda. Lo que ocurrió el día de su desaparición ha sido un misterio... hasta ahora.",
+                "anio": "2024",
+                "duracion": "96 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nyZjhvcmeXcr8H2Xx6JzKEAxPph.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mFwBbLLKjoZCwwEksK26eC0kGPA.png"
             },
             {
                 "name": "El Sonido de la Libertad",

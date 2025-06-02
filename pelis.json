@@ -4499,18 +4499,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
             },
             {
-                "name": "Ninja Turtles: Fuera de las sombras",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164678.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Michelangelo, Donatello, Leonardo y Raphael regresan junto con April O’Neil, Vern Fenwick y un nuevo vigilante enmascarado, Casey Jones, para combatir a unos villanos aún más malignos y poderosos. El súper villano Shredder escapa de prisión y une sus fuerzas con el científico loco Baxter Stockman y sus dos secuaces, Bebob y Rocksteady, para llevar a cabo un diabólico plan para conquistar el mundo. Mientras las Tortugas se preparan para enfrentarse a Shredder y su banda, tendrán que luchar también con un nuevo enemigo, incluso más poderoso, y también con intenciones malignas: El General Krang.",
-                "anio": "2016",
-                "duracion": "112 min",
-                "genero": "Acción, Aventura, Comedia, Familia, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/41objfan7PDTBG5MFXQl4ownQzJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eYYtFkx57D9NVrDPV7tDa4HU58J.png"
-            },
-            {
                 "name": "The Amazing Spider-Man",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164710.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg",
@@ -4521,6 +4509,18 @@
                 "genero": "Acción, Aventura, Ciencia ficción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
+            },
+            {
+                "name": "Ninja Turtles: Fuera de las sombras",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164678.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Michelangelo, Donatello, Leonardo y Raphael regresan junto con April O’Neil, Vern Fenwick y un nuevo vigilante enmascarado, Casey Jones, para combatir a unos villanos aún más malignos y poderosos. El súper villano Shredder escapa de prisión y une sus fuerzas con el científico loco Baxter Stockman y sus dos secuaces, Bebob y Rocksteady, para llevar a cabo un diabólico plan para conquistar el mundo. Mientras las Tortugas se preparan para enfrentarse a Shredder y su banda, tendrán que luchar también con un nuevo enemigo, incluso más poderoso, y también con intenciones malignas: El General Krang.",
+                "anio": "2016",
+                "duracion": "112 min",
+                "genero": "Acción, Aventura, Comedia, Familia, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/41objfan7PDTBG5MFXQl4ownQzJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eYYtFkx57D9NVrDPV7tDa4HU58J.png"
             },
             {
                 "name": "El reino prohibido",

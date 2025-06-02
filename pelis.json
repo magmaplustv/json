@@ -3337,18 +3337,6 @@
         "name": "⭐️Disney⭐️",
         "samples": [
             {
-                "name": "Una muerte silenciosa",
-                "url": "http://vedo.wvdbozpfc.com/vod/BF5C35E549BC45A3AE7AEAC6CD74E880_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
-                "type": "PELICULA",
-                "descripcion": "En las profundidades de la Patagonia de los años 80, un guía de caza se topa con un espeluznante crimen en el que está implicada su sobrina, lo que le obliga a investigar y a enfrentarse a los inquietantes secretos de aquellos oscuros años en su búsqueda de justicia.",
-                "anio": "2025",
-                "duracion": "93 min",
-                "genero": "Crimen, Drama, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5zVa0nkfygTcyNMlezxA7tAcuBL.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Mientras Cupido no está",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
@@ -3359,6 +3347,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/v5EE8wkX6bSWNuTSEPRVmXuac4J.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eOcrqGMKXqHcAxoWJ4XaTaKf5KN.png"
+            },
+            {
+                "name": "Una muerte silenciosa",
+                "url": "http://vedo.wvdbozpfc.com/vod/BF5C35E549BC45A3AE7AEAC6CD74E880_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
+                "type": "PELICULA",
+                "descripcion": "En las profundidades de la Patagonia de los años 80, un guía de caza se topa con un espeluznante crimen en el que está implicada su sobrina, lo que le obliga a investigar y a enfrentarse a los inquietantes secretos de aquellos oscuros años en su búsqueda de justicia.",
+                "anio": "2025",
+                "duracion": "93 min",
+                "genero": "Crimen, Drama, Misterio, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5zVa0nkfygTcyNMlezxA7tAcuBL.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Los Simpsons: The Past and the Furious",

@@ -4882,18 +4882,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/3zD0kTgBGBsp5Bo5joyqI1ASSGW.png"
             },
             {
-                "name": "Bob Esponja: Un héroe fuera del agua",
-                "url": "http://vedo.wvdbozpfc.com/vod/2DD8E61AC5674484B354FDE62812E2A1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
-                "type": "PELICULA",
-                "descripcion": "Segunda película sobre el personaje marino más querido por niños y adultos, Bob Esponja.\r El argumento gira en torno a Bob Esponja y sus inseparables amigos del mar, como son Patricio y la ardilla Arenita, y otros personajes de la serie en la que se basa, como Calamardo y Don Cangrejo. En esta ocasión Bob Esponja y cía se embarcan en una aventura en la que deberán encontrar una receta robada, lo que llevará a los personajes de Fondo Bikini hasta nuestra dimensión. Por lo que la película mezcla animación y escenas de acción real. Las escenas de animación están hechas tanto con CGI (imagen generada por ordenador) como en dibujo a mano.\r En la dimensión real se tendrán que enfrentar al pirata Alameda Jack, al que da vida Antonio Banderas.",
-                "anio": "2015",
-                "duracion": "85 min",
-                "genero": "Familia, Comedia, Aventura, Animación",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6eGYsTJvTf2R38YO0NlnqdsaZu0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
-            },
-            {
                 "name": "Bolt",
                 "url": "http://vedo.wvdbozpfc.com/vod/204AEC6B5D844B95B22F4B549DFE2A5A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
@@ -4904,6 +4892,18 @@
                 "genero": "Animación, Familia, Aventura, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/x97Rz20wHUtarM5TXaRKlPwz7YY.png"
+            },
+            {
+                "name": "Bob Esponja: Un héroe fuera del agua",
+                "url": "http://vedo.wvdbozpfc.com/vod/2DD8E61AC5674484B354FDE62812E2A1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
+                "type": "PELICULA",
+                "descripcion": "Segunda película sobre el personaje marino más querido por niños y adultos, Bob Esponja.\r El argumento gira en torno a Bob Esponja y sus inseparables amigos del mar, como son Patricio y la ardilla Arenita, y otros personajes de la serie en la que se basa, como Calamardo y Don Cangrejo. En esta ocasión Bob Esponja y cía se embarcan en una aventura en la que deberán encontrar una receta robada, lo que llevará a los personajes de Fondo Bikini hasta nuestra dimensión. Por lo que la película mezcla animación y escenas de acción real. Las escenas de animación están hechas tanto con CGI (imagen generada por ordenador) como en dibujo a mano.\r En la dimensión real se tendrán que enfrentar al pirata Alameda Jack, al que da vida Antonio Banderas.",
+                "anio": "2015",
+                "duracion": "85 min",
+                "genero": "Familia, Comedia, Aventura, Animación",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6eGYsTJvTf2R38YO0NlnqdsaZu0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
             },
             {
                 "name": "Bright: Alma de samurái",

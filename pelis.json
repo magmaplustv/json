@@ -4954,18 +4954,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
             },
             {
-                "name": "El Arco Mágico",
-                "url": "http://vedo.wvdbozpfc.com/vod/F7A51A852DF64E67A4465A2785070ADD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ngu7BkIewxtknFb2jsIA1wxZ0oD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Biografía del famoso y controvertido compositor italiano Niccolo Paganini (1782-1840).",
-                "anio": "1946",
-                "duracion": "106 min",
-                "genero": "Música, Drama, Romance",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "El jinete del dragón",
                 "url": "http://vedo.wvdbozpfc.com/vod/41064EE317ED4FF4A20FE2C6370F4605_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/g8TTuBZFSFzQLTyP92XE1I9WVVC.jpg",
@@ -4976,6 +4964,18 @@
                 "genero": "Animación, Familia, Aventura, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/494bVeWKJ3DlCRHQu7kaPyskou9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tTsn31IwokRVsmxzLYYM2DdpPY1.png"
+            },
+            {
+                "name": "El Arco Mágico",
+                "url": "http://vedo.wvdbozpfc.com/vod/F7A51A852DF64E67A4465A2785070ADD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ngu7BkIewxtknFb2jsIA1wxZ0oD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Biografía del famoso y controvertido compositor italiano Niccolo Paganini (1782-1840).",
+                "anio": "1946",
+                "duracion": "106 min",
+                "genero": "Música, Drama, Romance",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "La Patrulla Canina: La película",

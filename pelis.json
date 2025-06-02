@@ -5964,18 +5964,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jUhAHKdxYljtUGAdyS8p3cbG0y8.png"
             },
             {
-                "name": "Paranormal Activity 4",
-                "url": "http://vedo.wvdbozpfc.com/vod/D9C982127709489CA96B8BE08F327665_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg",
-                "type": "PELICULA",
-                "descripcion": "Todo transcurre cinco años después de los sucesos de \"Paranormal Activity 2\", que terminó con el secuestro de Hunter por parte de Katie. En la actualidad, Katie y Hunter, que ahora se hace llamar Robbie, se han trasladado a un nuevo barrio y sus vecinos, Alex y su familia, comienzan a experimentar sucesos paranormales que ocurren en su casa.",
-                "anio": "2012",
-                "duracion": "88 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eq68gWGBtumauGYFV1FCJ20kXFU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8wYmPlRxHeiGw1ta74KJH6GyuxF.png"
-            },
-            {
                 "name": "Paranormal Activity 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/09F77C50C3FE4716A52D09B7CBEEA36D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lWpl5SH15Bk9movTlexugxTXDd0.jpg",
@@ -5986,6 +5974,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHSfsJBiQUkaMukRaOopdVBkrnX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/af2hnOdluUzTepMsXHW7QT56XqW.png"
+            },
+            {
+                "name": "Paranormal Activity 4",
+                "url": "http://vedo.wvdbozpfc.com/vod/D9C982127709489CA96B8BE08F327665_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg",
+                "type": "PELICULA",
+                "descripcion": "Todo transcurre cinco años después de los sucesos de \"Paranormal Activity 2\", que terminó con el secuestro de Hunter por parte de Katie. En la actualidad, Katie y Hunter, que ahora se hace llamar Robbie, se han trasladado a un nuevo barrio y sus vecinos, Alex y su familia, comienzan a experimentar sucesos paranormales que ocurren en su casa.",
+                "anio": "2012",
+                "duracion": "88 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eq68gWGBtumauGYFV1FCJ20kXFU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8wYmPlRxHeiGw1ta74KJH6GyuxF.png"
             },
             {
                 "name": "Ten cuidado a quién llamas",

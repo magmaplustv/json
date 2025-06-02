@@ -5737,18 +5737,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
             },
             {
-                "name": "Historia de pastores",
-                "url": "http://vedo.wvdbozpfc.com/vod/5B398A2999C949128AD33A871C5179F7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nrMM5hhQVuud5Or1TaXCAbmIfkr.jpg",
-                "type": "PELICULA",
-                "descripcion": "Altiplano de Granada, año 2027. Entre ovejas, ruinas y drones, una estudiante y dos pastores se encuentran, se visitan y se conectan alrededor de la historia de un cortijo que aparece y desaparece.",
-                "anio": "2024",
-                "duracion": "80 min",
-                "genero": "Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mr6WQoDFQX3B7I3ureOuA93JxY3.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Tu mejor amigo",
                 "url": "http://vedo.wvdbozpfc.com/vod/8EA1E3C1B2104EE9B740E5ED7BD713C6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1vz34upg09Hh9p4aV2Uau19g2bv.jpg",
@@ -5759,6 +5747,18 @@
                 "genero": "Aventura, Comedia, Fantasía, Familia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/Atd4P4o5C9VGAziMB4xyibLNjHm.png"
+            },
+            {
+                "name": "Historia de pastores",
+                "url": "http://vedo.wvdbozpfc.com/vod/5B398A2999C949128AD33A871C5179F7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nrMM5hhQVuud5Or1TaXCAbmIfkr.jpg",
+                "type": "PELICULA",
+                "descripcion": "Altiplano de Granada, año 2027. Entre ovejas, ruinas y drones, una estudiante y dos pastores se encuentran, se visitan y se conectan alrededor de la historia de un cortijo que aparece y desaparece.",
+                "anio": "2024",
+                "duracion": "80 min",
+                "genero": "Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mr6WQoDFQX3B7I3ureOuA93JxY3.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Everest",

@@ -4427,18 +4427,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jK3LiyHdKkIpsYrjyZJXuMiKExi.png"
             },
             {
-                "name": "El justiciero",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164597.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Rui está en proceso de separación de Silvia, su esposa y John, su hijo, al darse cuenta de que su padre no puede salir de esa situación y que nunca será feliz en ella, decide pedirle ayuda al mítico héroe boliviano \"El Justiciero\".",
-                "anio": "2009",
-                "duracion": "27 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jjsepJy1gCMADgtnokmnFxYbGlC.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La verdadera historia de la banda de Kelly",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164557.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/9dumUhmSjAF4tDwejXkr39P1dcT.jpg",
@@ -4449,6 +4437,18 @@
                 "genero": "Crimen, Drama, Western, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6xIZ4GCZ5Dhjv8tYU88ZbZ4PwxQ.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/j2i6t1wI3Rl3iWzBFOTaVQr4TtY.png"
+            },
+            {
+                "name": "El justiciero",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164597.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rui está en proceso de separación de Silvia, su esposa y John, su hijo, al darse cuenta de que su padre no puede salir de esa situación y que nunca será feliz en ella, decide pedirle ayuda al mítico héroe boliviano \"El Justiciero\".",
+                "anio": "2009",
+                "duracion": "27 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jjsepJy1gCMADgtnokmnFxYbGlC.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Mechanic: Resurrection",

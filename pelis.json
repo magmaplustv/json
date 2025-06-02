@@ -4439,18 +4439,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jK3LiyHdKkIpsYrjyZJXuMiKExi.png"
             },
             {
-                "name": "El justiciero",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164597.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Rui está en proceso de separación de Silvia, su esposa y John, su hijo, al darse cuenta de que su padre no puede salir de esa situación y que nunca será feliz en ella, decide pedirle ayuda al mítico héroe boliviano \"El Justiciero\".",
-                "anio": "2009",
-                "duracion": "27 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jjsepJy1gCMADgtnokmnFxYbGlC.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Mechanic: Resurrection",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164629.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
@@ -4461,6 +4449,18 @@
                 "genero": "Acción, Crimen, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4CCvDWKtmFms4tSTXeawA19sheU.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/3RoSznVdTY5m1jcVlS7FlCEhnXS.png"
+            },
+            {
+                "name": "El justiciero",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164597.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rui está en proceso de separación de Silvia, su esposa y John, su hijo, al darse cuenta de que su padre no puede salir de esa situación y que nunca será feliz en ella, decide pedirle ayuda al mítico héroe boliviano \"El Justiciero\".",
+                "anio": "2009",
+                "duracion": "27 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jjsepJy1gCMADgtnokmnFxYbGlC.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Men in Black: International",

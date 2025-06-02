@@ -6168,18 +6168,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El proyecto de la bruja de Blair",
-                "url": "http://vedo.wvdbozpfc.com/vod/8DC008CEC2554B91BD0E4FA985652186_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4VkdY6GlFchXcHgg3Bsl1A73jsH.jpg",
-                "type": "PELICULA",
-                "descripcion": "Durante el octubre de 1994, tres estudiantes de cine en el Montgomery College, Heather Donahue, Joshua Leonard y Michael Williams realizaron la propuesta de crear un proyecto para presentarla en la clase de cine, el proyecto llamado por Heather \"El Proyecto de la Bruja de Blair\" contaba de entrevistas con los residentes del pueblo de Burkittsville, Maryland, sobre la bruja local.",
-                "anio": "1999",
-                "duracion": "81 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xpTHHojJnJQgavgMw5OQYUzuNIU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aelBB8W8j2rsSuMqdaoRVj3phHr.png"
-            },
-            {
                 "name": "La familia de mi marido",
                 "url": "http://vedo.wvdbozpfc.com/vod/6B0F9C49078942ACAA134280D7E4349E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lN1Mk8yKQFhvGUe3XDL803kyyGB.jpg",
@@ -6190,6 +6178,18 @@
                 "genero": "Película de TV, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/nnSPxImxAX9FyWtRHn9UJrRVloT.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "El proyecto de la bruja de Blair",
+                "url": "http://vedo.wvdbozpfc.com/vod/8DC008CEC2554B91BD0E4FA985652186_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4VkdY6GlFchXcHgg3Bsl1A73jsH.jpg",
+                "type": "PELICULA",
+                "descripcion": "Durante el octubre de 1994, tres estudiantes de cine en el Montgomery College, Heather Donahue, Joshua Leonard y Michael Williams realizaron la propuesta de crear un proyecto para presentarla en la clase de cine, el proyecto llamado por Heather \"El Proyecto de la Bruja de Blair\" contaba de entrevistas con los residentes del pueblo de Burkittsville, Maryland, sobre la bruja local.",
+                "anio": "1999",
+                "duracion": "81 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xpTHHojJnJQgavgMw5OQYUzuNIU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aelBB8W8j2rsSuMqdaoRVj3phHr.png"
             },
             {
                 "name": "El asesino del lago azul",

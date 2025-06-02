@@ -291,18 +291,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/33g8BPIyp1aF9DcXUmWqtwlXwYA.png"
             },
             {
-                "name": "La acompañante",
-                "url": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
-                "type": "PELICULA",
-                "descripcion": "La muerte de un multimillonario desencadena una serie de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su finca junto al lago.",
-                "anio": "2025",
-                "duracion": "97 min",
-                "genero": "Terror, Ciencia ficción, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
-            },
-            {
                 "name": "El Maravilloso Mago de Oz",
                 "url": "http://vedo.wvdbozpfc.com/vod/79491A9EB6D24D2089D6530730C826BF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
@@ -313,6 +301,18 @@
                 "genero": "Drama, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ejbakRnwPh75RhlMrlL4miFb8UD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/7YY2Frx7Fl0pHybebct510Hx1qL.png"
+            },
+            {
+                "name": "La acompañante",
+                "url": "http://vedo.wvdbozpfc.com/vod/55FBC0094C494E57B40779E15824D887_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
+                "type": "PELICULA",
+                "descripcion": "La muerte de un multimillonario desencadena una serie de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su finca junto al lago.",
+                "anio": "2025",
+                "duracion": "97 min",
+                "genero": "Terror, Ciencia ficción, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
             },
             {
                 "name": "Vidas de Matrimonio",

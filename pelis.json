@@ -2768,18 +2768,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/seWw0gCtRd2CvukwM4QcaRsouMI.png"
             },
             {
-                "name": "Vidas Paralelas",
-                "url": "http://vedo.wvdbozpfc.com/vod/6452416206504C9085A125ED3AC26796_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2008",
-                "duracion": "100 min",
-                "genero": "Drama, Acción",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Otro pequeño favor",
                 "url": "http://vedo.wvdbozpfc.com/vod/B4B5296EC48845259C6E8C68F5EADA40_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
@@ -2790,6 +2778,18 @@
                 "genero": "Suspense, Comedia, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/b6e5Nss2QNoQM4wJv2VppChswNP.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/v7GqDTIx5V3IkNzAEzPHtl7QRf6.png"
+            },
+            {
+                "name": "Vidas Paralelas",
+                "url": "http://vedo.wvdbozpfc.com/vod/6452416206504C9085A125ED3AC26796_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hKF4b4vCtxDFsyjiMfjQlMDfhMm.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2008",
+                "duracion": "100 min",
+                "genero": "Drama, Acción",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Macbeth - Voces de Harlem",

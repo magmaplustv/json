@@ -272,18 +272,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
             },
             {
-                "name": "Uppercut",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405216.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/xcXq6q0p6QEXZC1o8UIFHt3L1EE.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gxiAac3FWYJXiBmK5eGhu1OGBsD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/s6iSnSmQkIHZelLYLoszQWtz4GX.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Drama, Suspense",
-                "duracion": "104 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Capitán América: Brave New World",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405193.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
@@ -293,6 +281,18 @@
                 "anio": "2025",
                 "genero": "Acción, Suspense, Ciencia ficción",
                 "duracion": "119 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Uppercut",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405216.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xcXq6q0p6QEXZC1o8UIFHt3L1EE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gxiAac3FWYJXiBmK5eGhu1OGBsD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/s6iSnSmQkIHZelLYLoszQWtz4GX.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Drama, Suspense",
+                "duracion": "104 min",
                 "type": "PELICULA"
             },
             {

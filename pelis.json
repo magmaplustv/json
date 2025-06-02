@@ -39,18 +39,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
             },
             {
-                "name": "Nahual",
-                "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Nahual como entidad audiovisual y saber ancestral es un centralizador rítmico que provee la danza, el trance y el ritual. Entidad iniciática e inicial que, como los saberes ancestrales, no es analizable ni deconstruible y, por ello, es inicial e iniciático, parte enhebrante de las imágenes y los sonidos, que precipita el ritual, las alianzas, la liturgia y la danza.",
-                "anio": "2024",
-                "duracion": "15 min",
-                "genero": "Documental",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "El Rey de Reyes",
                 "url": "http://vedo.wvdbozpfc.com/vod/1A6215EAEA4C4981897850419E673B01_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg",
@@ -61,6 +49,18 @@
                 "genero": "Familia, Fantasía, Drama, Animación",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Nahual",
+                "url": "http://vedo.wvdbozpfc.com/vod/6FA9FCC6A2344DD19AD7AADF7B12AE1A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Nahual como entidad audiovisual y saber ancestral es un centralizador rítmico que provee la danza, el trance y el ritual. Entidad iniciática e inicial que, como los saberes ancestrales, no es analizable ni deconstruible y, por ello, es inicial e iniciático, parte enhebrante de las imágenes y los sonidos, que precipita el ritual, las alianzas, la liturgia y la danza.",
+                "anio": "2024",
+                "duracion": "15 min",
+                "genero": "Documental",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "La Confesión",

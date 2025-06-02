@@ -3152,6 +3152,18 @@
                 "genero": "Documental, Terror, Suspense",
                 "duracion": "92 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "South Park: El fin de la obesidad",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405779.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2nqr42Dvh6GMVECYjVG82zzJL7N.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/e4e7cfSfvsNLIZzSAx7ndq1WrrD.png",
+                "descripcion": "La llegada de nuevos medicamentos para bajar de peso tiene un gran impacto en todos los habitantes de South Park. Cuando a Cartman se le niega el acceso a la medicina que le cambiará la vida, los niños entran en acción.",
+                "anio": "2024",
+                "genero": "Animación, Comedia, Película de TV",
+                "duracion": "51 min",
+                "type": "PELICULA"
             }
         ]
     },

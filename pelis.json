@@ -3456,18 +3456,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4QBfS6BCeJOObdcIewXlsKXHiQ7.png"
             },
             {
-                "name": "Baila, Vini",
-                "url": "http://vedo.wvdbozpfc.com/vod/9EA89E6F146546049C02ED856419174F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg",
-                "type": "PELICULA",
-                "descripcion": "\"Vini Jr.\", un documental sobre la vida de Vinícius Júnior, uno de los delanteros más prometedores del fútbol. Con impresionantes números, Vini Jr es una estrella de la selección brasileña, y la trama lo sigue en el decisivo año de 2024. Ganador de la UEFA Champions League y con la posibilidad de ganar el premio The Best de la FIFA. Reconocido también por su valentía en la lucha contra el racismo, muestra las dificultades que experimentó durante la liga española. Con la presencia de varios ídolos deportivos, como Neymar, Karim Benzema, Jude Bellingham y Tony Kroos, el documental analiza el impacto del jugador dentro y fuera del campo.",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qQ9i4mO2GrUFR3gLWjf8J6s3Wf3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/72SiqX4eemC0dBqSbt6KLAR8gAR.png"
-            },
-            {
                 "name": "Nonnas",
                 "url": "http://vedo.wvdbozpfc.com/vod/4887ED79B4D6468AAB2C4719531D71DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg",
@@ -3478,6 +3466,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png"
+            },
+            {
+                "name": "Baila, Vini",
+                "url": "http://vedo.wvdbozpfc.com/vod/9EA89E6F146546049C02ED856419174F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg",
+                "type": "PELICULA",
+                "descripcion": "\"Vini Jr.\", un documental sobre la vida de Vinícius Júnior, uno de los delanteros más prometedores del fútbol. Con impresionantes números, Vini Jr es una estrella de la selección brasileña, y la trama lo sigue en el decisivo año de 2024. Ganador de la UEFA Champions League y con la posibilidad de ganar el premio The Best de la FIFA. Reconocido también por su valentía en la lucha contra el racismo, muestra las dificultades que experimentó durante la liga española. Con la presencia de varios ídolos deportivos, como Neymar, Karim Benzema, Jude Bellingham y Tony Kroos, el documental analiza el impacto del jugador dentro y fuera del campo.",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qQ9i4mO2GrUFR3gLWjf8J6s3Wf3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/72SiqX4eemC0dBqSbt6KLAR8gAR.png"
             },
             {
                 "name": "Un matrimonio mortal en Carolina del Norte (2025)",

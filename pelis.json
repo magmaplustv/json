@@ -5576,18 +5576,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/7ju2r6SfmRbtkb4urhLtTpUxEbN.png"
             },
             {
-                "name": "Attack on Titan: THE LAST ATTACK",
-                "url": "http://vedo.wvdbozpfc.com/vod/1A6C0ECAE6054A339BD8CC407C85EEA8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg",
-                "type": "PELICULA",
-                "descripcion": "Película recopilatoria para cines de los dos últimos episodios especiales de la última temporada de \"Ataque a los Titanes\". La humanidad vivía en paz tras los enormes muros construidos para protegerse de la amenaza de unas criaturas monstruosas llamadas Titanes. Su siglo de paz se vio truncado por un ataque a su ciudad que dejó huérfano de madre a un niño, Eren Yeager, que juró vengarse de los titanes. Años después de unirse a la Tropa de Reconocimiento, Eren se enfrenta a un enemigo mortal y acaba adquiriendo una habilidad especial que revela una nueva verdad sobre el mundo que conoce... Tras aventurarse más allá de los muros y separarse de sus camaradas, Eren, motivado por sus nuevos conocimientos del mundo, planea el \"Retumbar\", un terrorífico plan para erradicar a todo ser vivo del mundo. Con el destino del mundo pendiendo de un hilo, un variopinto grupo de antiguos camaradas y enemigos de Eren lucha por detener su letal misión. La única pregunta es: ¿lo conseguirán?",
-                "anio": "2024",
-                "duracion": "145 min",
-                "genero": "Animación, Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "La muerte de Superman",
                 "url": "http://vedo.wvdbozpfc.com/vod/6663C2D2D6D94DD29652B04CFA039064_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4Lv3rhwgSgnPlWaTfv6V7VHWmgC.jpg",
@@ -5598,6 +5586,18 @@
                 "genero": "Ciencia ficción, Aventura, Animación, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7bf0HqO64dbzGKpK8sKJJDnv3TE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/pRa3ke5lZAg1oS5cuqdJDNX8B78.png"
+            },
+            {
+                "name": "Attack on Titan: THE LAST ATTACK",
+                "url": "http://vedo.wvdbozpfc.com/vod/1A6C0ECAE6054A339BD8CC407C85EEA8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg",
+                "type": "PELICULA",
+                "descripcion": "Película recopilatoria para cines de los dos últimos episodios especiales de la última temporada de \"Ataque a los Titanes\". La humanidad vivía en paz tras los enormes muros construidos para protegerse de la amenaza de unas criaturas monstruosas llamadas Titanes. Su siglo de paz se vio truncado por un ataque a su ciudad que dejó huérfano de madre a un niño, Eren Yeager, que juró vengarse de los titanes. Años después de unirse a la Tropa de Reconocimiento, Eren se enfrenta a un enemigo mortal y acaba adquiriendo una habilidad especial que revela una nueva verdad sobre el mundo que conoce... Tras aventurarse más allá de los muros y separarse de sus camaradas, Eren, motivado por sus nuevos conocimientos del mundo, planea el \"Retumbar\", un terrorífico plan para erradicar a todo ser vivo del mundo. Con el destino del mundo pendiendo de un hilo, un variopinto grupo de antiguos camaradas y enemigos de Eren lucha por detener su letal misión. La única pregunta es: ¿lo conseguirán?",
+                "anio": "2024",
+                "duracion": "145 min",
+                "genero": "Animación, Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+                "iconpng": ""
             }
         ]
     },

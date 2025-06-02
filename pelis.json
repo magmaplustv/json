@@ -3056,18 +3056,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/wd6hpxdOPSNzihwswOho4EMJtQv.png"
             },
             {
-                "name": "Lazareth",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168856.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6J69iDonqx7sLURtwD9iOjYmr1d.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "86 min",
-                "genero": "Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5yZIKAPCjqm8t2r19vlzuasxbOP.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/mlYc1sOsc96F7EV6fLnAE2Og4pa.png"
-            },
-            {
                 "name": "El último aliento",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168855.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fyKkecH1we96Ko6N0gMbuhwVlGL.jpg",
@@ -3078,6 +3066,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4wXTv2LhZrVWIyIHG4dVIsjxCon.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oPjWUwDWDSMWgyIdkoCe52Bod6C.png"
+            },
+            {
+                "name": "Lazareth",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168856.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6J69iDonqx7sLURtwD9iOjYmr1d.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "86 min",
+                "genero": "Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5yZIKAPCjqm8t2r19vlzuasxbOP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mlYc1sOsc96F7EV6fLnAE2Og4pa.png"
             },
             {
                 "name": "Popeye the Slayer Man",

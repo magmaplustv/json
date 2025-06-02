@@ -704,18 +704,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Novocaine",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168132.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/sPauBC638fpNHj1Bl3Qto8uWO93.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
-                "anio": "2025",
-                "duracion": "110 min",
-                "genero": "Acción, Comedia, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hClSVcba9Vf2AUSndaUr1DOVL46.png"
-            },
-            {
                 "name": "Gladiators",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168124.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg",
@@ -726,6 +714,18 @@
                 "genero": "Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xMJB53yUT01yNtu198tg4rnY8b.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oVgMJZOPX8yelH3LchVJh7TGelM.png"
+            },
+            {
+                "name": "Novocaine",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168132.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sPauBC638fpNHj1Bl3Qto8uWO93.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
+                "anio": "2025",
+                "duracion": "110 min",
+                "genero": "Acción, Comedia, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hClSVcba9Vf2AUSndaUr1DOVL46.png"
             },
             {
                 "name": "La Evaluación",

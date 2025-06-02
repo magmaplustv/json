@@ -6855,12 +6855,6 @@
                 "iconpng": ""
             },
             {
-                "name": "One Chicago Crossover Event",
-                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Inexplicable",
                 "url": "http://vedo.wvdbozpfc.com/vod/8792304E1F1F40B5B3FC81FA82DFD956_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yiWrMyJA6yYo147S9Xu7Cy4ghEI.jpg",
@@ -6871,6 +6865,12 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/65ysk3EEssozUCFDGiYi495ChKw.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eAEtRtZzmrLRVAc28ZZ7Y5156rk.png"
+            },
+            {
+                "name": "One Chicago Crossover Event",
+                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "L'edat imminent",

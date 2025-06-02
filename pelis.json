@@ -7052,18 +7052,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
             },
             {
-                "name": "Expediente Warren: Obligado por el demonio",
-                "url": "http://vedo.wvdbozpfc.com/vod/E5EEB7E1771A4B3F843F105B4558BEA9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg",
-                "type": "PELICULA",
-                "descripcion": "Los investigadores paranormales Ed y Lorraine Warren se encuentran con lo que se convertiría en uno de los casos más sensacionales de sus archivos. La lucha por el alma de un niño los lleva más allá de todo lo que habían visto antes, para marcar la primera vez en la historia de los Estados Unidos que un sospechoso de asesinato reclamaría posesión demoníaca como defensa.",
-                "anio": "2021",
-                "duracion": "112 min",
-                "genero": "Terror, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aqi0pRKE7YdFNtfoHl5XHYPlFYg.png"
-            },
-            {
                 "name": "Posesión infernal: El despertar",
                 "url": "http://vedo.wvdbozpfc.com/vod/3A10652ECB8740C898C075CCFA3DCBE0_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
@@ -7074,6 +7062,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uVV2Ab8ipgwM94h0LQVvjtFDuze.png"
+            },
+            {
+                "name": "Expediente Warren: Obligado por el demonio",
+                "url": "http://vedo.wvdbozpfc.com/vod/E5EEB7E1771A4B3F843F105B4558BEA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg",
+                "type": "PELICULA",
+                "descripcion": "Los investigadores paranormales Ed y Lorraine Warren se encuentran con lo que se convertiría en uno de los casos más sensacionales de sus archivos. La lucha por el alma de un niño los lleva más allá de todo lo que habían visto antes, para marcar la primera vez en la historia de los Estados Unidos que un sospechoso de asesinato reclamaría posesión demoníaca como defensa.",
+                "anio": "2021",
+                "duracion": "112 min",
+                "genero": "Terror, Misterio, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aqi0pRKE7YdFNtfoHl5XHYPlFYg.png"
             },
             {
                 "name": "Insidious: La puerta roja",

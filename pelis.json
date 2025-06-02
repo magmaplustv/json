@@ -3104,6 +3104,18 @@
                 "genero": "Ciencia ficción, Terror, Aventura",
                 "duracion": "97 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Un héroe anónimo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405794.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/80ARSA2k0sTgbRF9Z4oIj6gfdeh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/73X7Yj9JmAKynrkPyo4iOaDXlz9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5m1UrluI00gcnrOgGzxWOezGVWc.svg",
+                "descripcion": "La familia de David Smallbone se traslada de Australia a Estados Unidos en busca de un futuro mejor tras la quiebra de su exitosa compañía musical. Con nada más que sus siete hijos, maletas y su amor por la música, David y su esposa Helen, embarazada, se disponen a reconstruir sus vidas. La fe de Helen resiste contra viento y marea e inspira a su marido e hijos a aferrarse a la suya. Con sus propios sueños en suspenso, David y Helen empiezan a darse cuenta de la destreza musical de sus hijos, que llegarán a convertirse en dos de los artistas de más éxito en la historia de la música inspiradora: los artistas de KING + COUNTRY y Rebecca St. James, ganadores de cinco premios GRAMMY®.",
+                "anio": "2024",
+                "genero": "Drama, Música, Familia",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     },

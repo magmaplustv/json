@@ -435,18 +435,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4eaieEP40EjyVFtINe70bPnfn5G.png"
             },
             {
-                "name": "Golpe de Superacion",
-                "url": "http://vedo.wvdbozpfc.com/vod/41CE03256FB2469D908CC3051E350B96_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xcXq6q0p6QEXZC1o8UIFHt3L1EE.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "104 min",
-                "genero": "Drama, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gxiAac3FWYJXiBmK5eGhu1OGBsD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/s6iSnSmQkIHZelLYLoszQWtz4GX.png"
-            },
-            {
                 "name": "Códigos de Guerra",
                 "url": "http://vedo.wvdbozpfc.com/vod/5DB7CE977BB84528A05460014F484BE5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
@@ -457,6 +445,18 @@
                 "genero": "Acción, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ibF5XVxTzf1ayzZrmiJqgeQ39Qk.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Golpe de Superacion",
+                "url": "http://vedo.wvdbozpfc.com/vod/41CE03256FB2469D908CC3051E350B96_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xcXq6q0p6QEXZC1o8UIFHt3L1EE.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "104 min",
+                "genero": "Drama, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gxiAac3FWYJXiBmK5eGhu1OGBsD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/s6iSnSmQkIHZelLYLoszQWtz4GX.png"
             },
             {
                 "name": "En un confín del mundo",

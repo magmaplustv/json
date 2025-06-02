@@ -3666,18 +3666,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/lOBqP3KQGS3dYd0vussTF7JeEPn.png"
             },
             {
-                "name": "Lo mejor del mundo",
-                "url": "http://vedo.wvdbozpfc.com/vod/D2A90FDF322D4525A74AC3973EF1C072_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando un dúo de padre e hijo se entera de que pueden no estar relacionados biológicamente, los dos se embarcan en una aventura salvaje a través de México para encontrar la verdad.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Chicos de hielo en el trópico",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171075.ts",
                 "icono": "https://image.tmdb.org/t/p/original/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg",
@@ -3688,6 +3676,18 @@
                 "genero": "Drama, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/fUAIZBOvE01SDJnftmOm4UT2wAU.png"
+            },
+            {
+                "name": "Lo mejor del mundo",
+                "url": "http://vedo.wvdbozpfc.com/vod/D2A90FDF322D4525A74AC3973EF1C072_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando un dúo de padre e hijo se entera de que pueden no estar relacionados biológicamente, los dos se embarcan en una aventura salvaje a través de México para encontrar la verdad.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Promesas Del Corazón",

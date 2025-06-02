@@ -3080,6 +3080,18 @@
                 "genero": "Drama, Familia, Historia",
                 "duracion": "94 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Ultimo Niño de la Tierra",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405808.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kdk29Zi7FEGqbUqt0uyM2pMGGxS.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aeFdraxkJz05VW6JVQOnKT4hFwL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sL86qMeiVjs69gze2lXpqcjnh5H.png",
+                "descripcion": "En un futuro distante, un enigmático niño se convierte en la figura central en la búsqueda de una nueva esperanza. ¿Quién es este niño? ¿Por qué todo el mundo lo busca? A veces es mejor no conocer ciertas respuestas.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Terror, Aventura",
+                "duracion": "97 min",
+                "type": "PELICULA"
             }
         ]
     },

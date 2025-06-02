@@ -135,18 +135,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/frXBmTvmn1KtjXlMWnc5xeGoSgs.png"
             },
             {
-                "name": "Una película de Minecraft",
-                "url": "http://vedo.wvdbozpfc.com/vod/45C5C595F01A4310B59E6FED84F9DE57_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Familia, Comedia, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
-            },
-            {
                 "name": "El Mono",
                 "url": "http://vedo.wvdbozpfc.com/vod/B2E4BA52437E4812859073C31BF5BAD6_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg",
@@ -157,6 +145,18 @@
                 "genero": "Terror, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/87ZmZT3mnp2m0FQMkLUVHOJTLqP.png"
+            },
+            {
+                "name": "Una película de Minecraft",
+                "url": "http://vedo.wvdbozpfc.com/vod/45C5C595F01A4310B59E6FED84F9DE57_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Familia, Comedia, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
             },
             {
                 "name": "Gravedad cero",

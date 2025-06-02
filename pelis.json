@@ -6538,18 +6538,6 @@
         "name": "⭐️⭐️Crimen⭐️⭐️",
         "samples": [
             {
-                "name": "El método Knox",
-                "url": "http://vedo.wvdbozpfc.com/vod/D8E04433D8734F1BA7F73D7CBF412558_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qpqKP6Af16UVNSpCRdkOTrR3cdD.jpg",
-                "type": "PELICULA",
-                "descripcion": "John Knox (Michael Keaton) es un asesino a sueldo al que le diagnostican una demencia en estado avanzado. Decide entonces pasar sus últimos días intentando redimirse ayudando a su hijo adulto (James Marsden), del que ha estado mucho tiempo separado. Pronto John encuentra en una carrera contra las autoridades, así como en el tictac del reloj de su propia mente, que se deterioran rápidamente.",
-                "anio": "2024",
-                "duracion": "114 min",
-                "genero": "Acción, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iO1VpKsixfBBYkPhFINFMzsvzJF.png"
-            },
-            {
                 "name": "El callejón de las almas perdidas",
                 "url": "http://vedo.wvdbozpfc.com/vod/D3EB73BA869C4EE289B38E4C75369EE5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/tR6fZLYlrbauhTgprfWXIhi6ldc.jpg",
@@ -6560,6 +6548,18 @@
                 "genero": "Crimen, Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8nH44gfYxREuE4otNBjN2KAI30W.png"
+            },
+            {
+                "name": "El método Knox",
+                "url": "http://vedo.wvdbozpfc.com/vod/D8E04433D8734F1BA7F73D7CBF412558_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qpqKP6Af16UVNSpCRdkOTrR3cdD.jpg",
+                "type": "PELICULA",
+                "descripcion": "John Knox (Michael Keaton) es un asesino a sueldo al que le diagnostican una demencia en estado avanzado. Decide entonces pasar sus últimos días intentando redimirse ayudando a su hijo adulto (James Marsden), del que ha estado mucho tiempo separado. Pronto John encuentra en una carrera contra las autoridades, así como en el tictac del reloj de su propia mente, que se deterioran rápidamente.",
+                "anio": "2024",
+                "duracion": "114 min",
+                "genero": "Acción, Crimen, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iO1VpKsixfBBYkPhFINFMzsvzJF.png"
             },
             {
                 "name": "The Order (La hermandad silenciosa)",

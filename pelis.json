@@ -3942,18 +3942,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eXdV1QI8btQcVisNoCALqUvr4F2.png"
             },
             {
-                "name": "Inheritance",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169700.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando el patriarca de una poderosa familia asociada con vínculos políticos muere,  deja a su hija al frente de la estabilidad económica familiar. Su responsabilidad es doble, dado que  ya ha  desaparecido  su padre, le han confesado un terrible secreto, así como una herencia maligna que amenaza con destruir tanto su vida, como la de todo el mundo que tiene a su alrededor.",
-                "anio": "2020",
-                "duracion": "115 min",
-                "genero": "Drama, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b8EeJnKkjatM3b0dvWpQOKNf0vN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/etrtzy17JJ4gfBApci0odllbsBO.png"
-            },
-            {
                 "name": "Dhoom Dhaam",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169697.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
@@ -3964,6 +3952,18 @@
                 "genero": "Comedia, Romance, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nLgrzPEBAOBPOW9sDZzZJXoCimo.png"
+            },
+            {
+                "name": "Inheritance",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169700.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando el patriarca de una poderosa familia asociada con vínculos políticos muere,  deja a su hija al frente de la estabilidad económica familiar. Su responsabilidad es doble, dado que  ya ha  desaparecido  su padre, le han confesado un terrible secreto, así como una herencia maligna que amenaza con destruir tanto su vida, como la de todo el mundo que tiene a su alrededor.",
+                "anio": "2020",
+                "duracion": "115 min",
+                "genero": "Drama, Misterio, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b8EeJnKkjatM3b0dvWpQOKNf0vN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/etrtzy17JJ4gfBApci0odllbsBO.png"
             },
             {
                 "name": "De vuelta a la acción",

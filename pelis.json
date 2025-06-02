@@ -6938,12 +6938,6 @@
                 "iconpng": ""
             },
             {
-                "name": "La Maldición de la hacienda Grady",
-                "url": "http://vedo.wvdbozpfc.com/vod/E4901099D29940F39004F05C9A1E30CF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/yuu15mFqlB6gNhxy4KGHTmCcI12.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Parásito",
                 "url": "http://vedo.wvdbozpfc.com/vod/FB5AB2E1D1374E7CB4EE6BD4F6A9E01B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hmfVO0q2LCsu2sTOe4KjH1aU5tG.jpg",
@@ -6954,6 +6948,12 @@
                 "genero": "Ciencia ficción, Terror, Acción, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/at9UA6p81CHBHNPbnIBgXzKQycl.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9jKIhNTT9RkrpftUBdLXUMr4ici.png"
+            },
+            {
+                "name": "La Maldición de la hacienda Grady",
+                "url": "http://vedo.wvdbozpfc.com/vod/E4901099D29940F39004F05C9A1E30CF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yuu15mFqlB6gNhxy4KGHTmCcI12.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Longlegs",

@@ -6024,18 +6024,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/3d5vwYiDpni0tLLBb9dQpR8sVDq.png"
             },
             {
-                "name": "Jessabelle",
-                "url": "http://vedo.wvdbozpfc.com/vod/1CB8949903D847798F8E5BCB1E62EF43_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oyszsO25OfSxkxhKCCnk9ZrAjkp.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una joven es forzada a volver a casa de su padre, en Luisiana, cuando un accidente de tráfico la deja inválida sin poder usar las piernas. Descubrirá entonces que hay un misterio alrededor de su nacimiento y un fantasma, llamado Jessabelle, que parece dispuesto a acabar con ella.",
-                "anio": "2014",
-                "duracion": "90 min",
-                "genero": "Suspense, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tSXPSzYMqR2pU09irsJ2pJBpfFd.png"
-            },
-            {
                 "name": "Hereditary",
                 "url": "http://vedo.wvdbozpfc.com/vod/4B953FE7BF5E41FA8A44AA19232010AE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yrob2Q0Wl5ydqiUId48WSa5yGRI.jpg",
@@ -6046,6 +6034,18 @@
                 "genero": "Terror, Misterio, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/xhSvs5ZY2HSNb0v4zrKGwTyUfkv.png"
+            },
+            {
+                "name": "Jessabelle",
+                "url": "http://vedo.wvdbozpfc.com/vod/1CB8949903D847798F8E5BCB1E62EF43_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oyszsO25OfSxkxhKCCnk9ZrAjkp.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una joven es forzada a volver a casa de su padre, en Luisiana, cuando un accidente de tráfico la deja inválida sin poder usar las piernas. Descubrirá entonces que hay un misterio alrededor de su nacimiento y un fantasma, llamado Jessabelle, que parece dispuesto a acabar con ella.",
+                "anio": "2014",
+                "duracion": "90 min",
+                "genero": "Suspense, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/o2iN9n2ShVqobqnYR0odM6yIlgW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tSXPSzYMqR2pU09irsJ2pJBpfFd.png"
             },
             {
                 "name": "[REC]",

@@ -2834,18 +2834,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/eiArUmkEpN3cR9xIrO8gyrfFzxP.png"
             },
             {
-                "name": "A Knight's War",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
-                "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "103 min",
-                "genero": "Terror, Acción, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
-            },
-            {
                 "name": "El abismo secreto",
                 "url": "http://vedo.wvdbozpfc.com/vod/EB0FA76841BD42FE88BC2D90DE326252_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
@@ -2856,6 +2844,18 @@
                 "genero": "Romance, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dMdf4BgWn5pVkFOB46Y5jUiqxTQ.png"
+            },
+            {
+                "name": "A Knight's War",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
+                "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "103 min",
+                "genero": "Terror, Acción, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
             },
             {
                 "name": "Los superhéroes de Malegaon",

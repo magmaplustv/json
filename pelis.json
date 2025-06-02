@@ -4091,18 +4091,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Blindado: sin salida",
-                "url": "http://vedo.wvdbozpfc.com/vod/70610BDEF4BC40B2A98840DC34FB6BA1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hSUmtSJOslBLULMtoYK6XlqfWu7.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un padre y un hijo trabajan como guardias de seguridad para una empresa de camiones blindados. Cuando se encuentran con un equipo de posibles ladrones mientras están atrapados en un puente, deben idear un plan para escapar y asegurar su supervivencia.",
-                "anio": "2024",
-                "duracion": "89 min",
-                "genero": "Acción, Crimen, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/xFMF0TlvUkwyPF2b5H4pO1MyN7f.png"
-            },
-            {
                 "name": "Implacable",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/164223.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg",
@@ -4113,6 +4101,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Blindado: sin salida",
+                "url": "http://vedo.wvdbozpfc.com/vod/70610BDEF4BC40B2A98840DC34FB6BA1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hSUmtSJOslBLULMtoYK6XlqfWu7.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un padre y un hijo trabajan como guardias de seguridad para una empresa de camiones blindados. Cuando se encuentran con un equipo de posibles ladrones mientras están atrapados en un puente, deben idear un plan para escapar y asegurar su supervivencia.",
+                "anio": "2024",
+                "duracion": "89 min",
+                "genero": "Acción, Crimen, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/evFChfYeD2LqobEJf8iQsrYcGTw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xFMF0TlvUkwyPF2b5H4pO1MyN7f.png"
             },
             {
                 "name": "Independence Day: Contraataque",

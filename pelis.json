@@ -123,18 +123,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/gkuUF7GgYpEQiHGbBTfmB30yim6.png"
             },
             {
-                "name": "Meet the Khumalos",
-                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "92 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
-            },
-            {
                 "name": "sneaks: un par con suerte",
                 "url": "http://vedo.wvdbozpfc.com/vod/D61EFC402FC44040B287C35A0B3C0C69_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/52DmaVSxjmb13qePsHtZElmHdXB.jpg",
@@ -145,6 +133,18 @@
                 "genero": "Animación, Comedia, Familia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dqHpYbjIvX1u7YqWOoUaIPwoYke.png"
+            },
+            {
+                "name": "Meet the Khumalos",
+                "url": "http://vedo.wvdbozpfc.com/vod/45C3004339E141C9ACA8C14538078229_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8UpAV8TPHV6jKdwxOtojHbtiS9u.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "92 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nu6695NzxfHHmsFex8oRZzOqdPk.png"
             },
             {
                 "name": "Terrifier 3",

@@ -3116,18 +3116,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Chico Bento e a Goiabeira Maraviosa",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Familia, Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Un Viaje de Sobriedad",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168697.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/s7vHYNh2eJ6W1EccCcRULur0ial.jpg",
@@ -3138,6 +3126,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/5OOYy7YpnwWxZAx8enpwRLIIRR8.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8z9AengHCrn6K53xuw8dkZT9PKX.png"
+            },
+            {
+                "name": "Chico Bento e a Goiabeira Maraviosa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168811.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Familia, Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wHVkV7XML3IEFT355QlZ9uUc03V.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Lee Miller",

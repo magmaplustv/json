@@ -7292,18 +7292,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Ruega por nosotros",
-                "url": "http://vedo.wvdbozpfc.com/vod/38B3BD2B2C004EBDB4E71EF130F487A3_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg",
-                "type": "PELICULA",
-                "descripcion": "Se centra en un periodista caído en desgracia que descubre una serie de aparentes milagros acaecidos en un pequeño pueblo de Nueva Inglaterra, aplicándolos para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree.",
-                "anio": "2021",
-                "duracion": "99 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wwFBRyekDcKXJwP0mImRJjAnudL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/rSLFEDxf5jCj4PmzkXaZ72XQLKk.png"
-            },
-            {
                 "name": "Y al séptimo día",
                 "url": "http://vedo.wvdbozpfc.com/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
@@ -7314,6 +7302,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yXVRwVGeMeKndfN9KIJUZpOPe1N.png"
+            },
+            {
+                "name": "Ruega por nosotros",
+                "url": "http://vedo.wvdbozpfc.com/vod/38B3BD2B2C004EBDB4E71EF130F487A3_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg",
+                "type": "PELICULA",
+                "descripcion": "Se centra en un periodista caído en desgracia que descubre una serie de aparentes milagros acaecidos en un pequeño pueblo de Nueva Inglaterra, aplicándolos para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree.",
+                "anio": "2021",
+                "duracion": "99 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wwFBRyekDcKXJwP0mImRJjAnudL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rSLFEDxf5jCj4PmzkXaZ72XQLKk.png"
             },
             {
                 "name": "El exorcismo de Dios",

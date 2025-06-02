@@ -2470,18 +2470,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/e825QNuaemRJYjM4kFYRWNduBYU.png"
             },
             {
-                "name": "Hellboy: El Hombre Retorcido",
-                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Fantasía, Terror, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
-            },
-            {
                 "name": "No entres",
                 "url": "http://vedo.wvdbozpfc.com/vod/3E0AD37DF7A44D5887CD45B45793CF20_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/pi2pkIUeVk0z3iy67YKTxDjeAGr.jpg",
@@ -2492,6 +2480,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kNI01OBzgKmEXeWTIOsB2aVpVTw.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/fHy8NAhpyRTODPtSX9LxZiQcb0D.png"
+            },
+            {
+                "name": "Hellboy: El Hombre Retorcido",
+                "url": "http://vedo.wvdbozpfc.com/vod/6CAABEFCF9154530A0ACA78114FA524C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+                "type": "PELICULA",
+                "descripcion": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Fantasía, Terror, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g1z1ZvYKcmk9EnVOTYXR6vkNjkZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7VFSuca7qrsGq55EIxXZHybCgQy.png"
             },
             {
                 "name": "Cacería Sangrienta",

@@ -680,18 +680,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/tgxAaOzxeGM0PJXfsuMjZzzgVyk.png"
             },
             {
-                "name": "Mickey 17",
-                "url": "http://vedo.wvdbozpfc.com/vod/EBE20378482440D789D390EBFD917690_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
-                "anio": "2025",
-                "duracion": "137 min",
-                "genero": "Ciencia ficción, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ffJVoywEy5F838YkqBljNm0yyit.png"
-            },
-            {
                 "name": "Gladiators",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168124.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3ecBMVWe2xRhHKcTcRkuqLk85jq.jpg",
@@ -702,6 +690,18 @@
                 "genero": "Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xMJB53yUT01yNtu198tg4rnY8b.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/oVgMJZOPX8yelH3LchVJh7TGelM.png"
+            },
+            {
+                "name": "Mickey 17",
+                "url": "http://vedo.wvdbozpfc.com/vod/EBE20378482440D789D390EBFD917690_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+                "anio": "2025",
+                "duracion": "137 min",
+                "genero": "Ciencia ficción, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ffJVoywEy5F838YkqBljNm0yyit.png"
             },
             {
                 "name": "The Chemists",

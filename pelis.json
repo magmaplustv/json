@@ -5725,18 +5725,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/Atd4P4o5C9VGAziMB4xyibLNjHm.png"
             },
             {
-                "name": "Aquaman y el reino perdido",
-                "url": "http://vedo.wvdbozpfc.com/vod/255E6DFA3B8D4B3687F225260367327C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg",
-                "type": "PELICULA",
-                "descripcion": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola.  Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
-                "anio": "2023",
-                "duracion": "124 min",
-                "genero": "Acción, Aventura, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
-            },
-            {
                 "name": "Everest",
                 "url": "http://vedo.wvdbozpfc.com/vod/32290F82B45C42899A6A33B553281B17_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7SfhoXCc8LGfKvyNIw2nU0gEi3R.jpg",
@@ -5747,6 +5735,18 @@
                 "genero": "Aventura, Drama, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fWrAtRkmTUhT6zhqog1x3WOItQz.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/l8jzV76x3MoUaCpwy72ekfiEHA6.png"
+            },
+            {
+                "name": "Aquaman y el reino perdido",
+                "url": "http://vedo.wvdbozpfc.com/vod/255E6DFA3B8D4B3687F225260367327C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg",
+                "type": "PELICULA",
+                "descripcion": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola.  Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
+                "anio": "2023",
+                "duracion": "124 min",
+                "genero": "Acción, Aventura, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
             },
             {
                 "name": "Indiana Jones y el dial del destino",

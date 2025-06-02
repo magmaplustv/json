@@ -6646,18 +6646,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
             },
             {
-                "name": "Caos: Los crímenes de Manson",
-                "url": "http://vedo.wvdbozpfc.com/vod/F4855C669DCA4CCF84DC33E9CC9B5242_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9EhRCPYmmTcWVMIwHL1UpKgb0O5.jpg",
-                "type": "PELICULA",
-                "descripcion": "En agosto de 1969, Charles Manson ordenó a sus acólitos que mataran a siete personas. ¿Por qué? Sumérgete en una conspiración de control mental, experimentos de la CIA y asesinato.",
-                "anio": "2025",
-                "duracion": "96 min",
-                "genero": "Documental, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/s6jEjHXlCyUJEFnV2fAodwhIRi1.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/yQPjDlBZzPTWCZm48xTA46B7jgz.png"
-            },
-            {
                 "name": "Kingsman: Servicio secreto",
                 "url": "http://vedo.wvdbozpfc.com/vod/A0EA80FE9B4D447396589326B05C94B7_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/67a2OJdqkYcKUGSzV0TI131VVQy.jpg",
@@ -6668,6 +6656,18 @@
                 "genero": "Crimen, Comedia, Acción, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qqPURzGohu9qogbEy0eT53b8xBy.png"
+            },
+            {
+                "name": "Caos: Los crímenes de Manson",
+                "url": "http://vedo.wvdbozpfc.com/vod/F4855C669DCA4CCF84DC33E9CC9B5242_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9EhRCPYmmTcWVMIwHL1UpKgb0O5.jpg",
+                "type": "PELICULA",
+                "descripcion": "En agosto de 1969, Charles Manson ordenó a sus acólitos que mataran a siete personas. ¿Por qué? Sumérgete en una conspiración de control mental, experimentos de la CIA y asesinato.",
+                "anio": "2025",
+                "duracion": "96 min",
+                "genero": "Documental, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/s6jEjHXlCyUJEFnV2fAodwhIRi1.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yQPjDlBZzPTWCZm48xTA46B7jgz.png"
             },
             {
                 "name": "Muerte en Granville",

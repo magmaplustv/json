@@ -2326,18 +2326,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/r9SsXx4ZQC7n0uWHiFinNTbp5jB.svg"
             },
             {
-                "name": "Nos vemos la próxima Navidad",
-                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
-                "type": "PELICULA",
-                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
-                "anio": "2024",
-                "duracion": "105 min",
-                "genero": "Romance, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
-            },
-            {
                 "name": "GTMAX",
                 "url": "http://vedo.wvdbozpfc.com/vod/1D6DAADC32674D15B4613578FDAF9310_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
@@ -2348,6 +2336,18 @@
                 "genero": "Acción, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/1yWwSZwnAI72MtubqoF09HFjymM.png"
+            },
+            {
+                "name": "Nos vemos la próxima Navidad",
+                "url": "http://vedo.wvdbozpfc.com/vod/A99580D246B342D584A1AE65C823A230_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sAHWgOY7NqxwoLZsl6HpbGDYcSc.jpg",
+                "type": "PELICULA",
+                "descripcion": "Con el objetivo de encontrarse con el hombre de sus sueños, Layla recorre Nueva York en busca de una entrada para el concierto que da Pentatonix en Nochebuena.",
+                "anio": "2024",
+                "duracion": "105 min",
+                "genero": "Romance, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
             },
             {
                 "name": "Moana 2",

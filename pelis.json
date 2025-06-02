@@ -7781,18 +7781,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/RLZHYRIcG2lL0yH1MA47p6Mthy.png"
             },
             {
-                "name": "Celebración Macabra",
-                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
-                "type": "PELICULA",
-                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
-                "anio": "2024",
-                "duracion": "106 min",
-                "genero": "Terror, Suspense, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
-            },
-            {
                 "name": "El Asesino de los ojos de corazon",
                 "url": "http://vedo.wvdbozpfc.com/vod/62CA838DFAD34EE48902C39E69177ABC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cQdfSHkmPnSS3AncCz13H0fCUoq.jpg",
@@ -7803,6 +7791,18 @@
                 "genero": "Terror, Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iTSPpwQrx0Ouy9sxICIuaBLexnI.png"
+            },
+            {
+                "name": "Celebración Macabra",
+                "url": "http://vedo.wvdbozpfc.com/vod/FC1C2461D30E400EBE483C0B1E022648_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2GiUPrD2R3mrOj0VHPcoCyOvJDN.jpg",
+                "type": "PELICULA",
+                "descripcion": "El misterio de un asesinato surge en medio de una acalorada elección de alcalde en un pintoresco pueblo de Nueva Inglaterra.",
+                "anio": "2024",
+                "duracion": "106 min",
+                "genero": "Terror, Suspense, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/AdokIKpoik5wVDFMd49PIVmSZtL.png"
             },
             {
                 "name": "Fuera de la ley",

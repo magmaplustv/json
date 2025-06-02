@@ -6867,12 +6867,6 @@
                 "iconpng": ""
             },
             {
-                "name": "One Chicago Crossover Event",
-                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "L'edat imminent",
                 "url": "http://vedo.wvdbozpfc.com/vod/764AE605732844C99DE6CF6158FB7C54_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1tYd4NSyctZPRQm5i0ggWDX8RkU.jpg",
@@ -6883,6 +6877,12 @@
                 "genero": "Drama, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7L7syYZtQPeconJ4iB9WCKXUpYU.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "One Chicago Crossover Event",
+                "url": "http://vedo.wvdbozpfc.com/vod/8A3FEE68E4C54A17904997A8ADE69225_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4SZhtisMMWeB82ucUjzzIYwehk.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "El más allá",

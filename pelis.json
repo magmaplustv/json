@@ -7244,18 +7244,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5GxU9WVcTodN9XIMBaWnoaEJ6KB.png"
             },
             {
-                "name": "Juega Conmigo",
-                "url": "http://vedo.wvdbozpfc.com/vod/23E6A1D54D474A6A8E74B99691640332_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sofía, una joven insegura, comienza a trabajar en una casa cuidando a dos hermanos de carácter problemático, que le harán su estancia sumamente difícil. Sin embargo, durante una noche en que los padres están ausentes, los niños serán acosados por una entidad demoníaca y Sofía tendrá que tomar parte en un terrorífico juego para intentar salvarlos.",
-                "anio": "2021",
-                "duracion": "80 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jST0q4EMty2kYyggxxwvsjpHPOs.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
-            },
-            {
                 "name": "Terrifier",
                 "url": "http://vedo.wvdbozpfc.com/vod/136700A6724D4A71A6078B852D5252D8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg",
@@ -7266,6 +7254,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ri8rWRF6jZc9nqiCPpGpWZJ8Cxj.png"
+            },
+            {
+                "name": "Juega Conmigo",
+                "url": "http://vedo.wvdbozpfc.com/vod/23E6A1D54D474A6A8E74B99691640332_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sofía, una joven insegura, comienza a trabajar en una casa cuidando a dos hermanos de carácter problemático, que le harán su estancia sumamente difícil. Sin embargo, durante una noche en que los padres están ausentes, los niños serán acosados por una entidad demoníaca y Sofía tendrá que tomar parte en un terrorífico juego para intentar salvarlos.",
+                "anio": "2021",
+                "duracion": "80 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jST0q4EMty2kYyggxxwvsjpHPOs.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
             },
             {
                 "name": "Ghost Game",

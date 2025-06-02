@@ -1122,18 +1122,6 @@
                 "iconpng": ""
             },
             {
-                "name": "La noche que luché contra Dios",
-                "url": "http://vedo.wvdbozpfc.com/vod/7D09C14E72C84DEF92D0A13C6145E8DF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg",
-                "type": "PELICULA",
-                "descripcion": "El 18 de julio de 1994, el joven Benjamín Sheinberg inicia su primer día como médico residente en el Hospital de Clínicas, en Buenos Aires, mientras que al mismo tiempo una bomba explota en la AMIA causando la muerte de 85 personas. Sheinberg se ve sobrepasado por la situación que lo afecta más allá de lo profesional y decide marcharse a Israel. Allí, de la mano de Rubén, un viejo amigo de su abuelo, “viajará” en el tiempo, adentrándose en la antigua historia de Israel, viéndose reflejado en el milenario personaje Jacob. Pero, ¿qué conexión hay entre ambos personajes?",
-                "anio": "2024",
-                "duracion": "103 min",
-                "genero": "Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wjHLVqJzj8n6mTb0t6B4KEcqPjG.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iKAsVaWaOS09O21zUmhHXE69o7B.png"
-            },
-            {
                 "name": "Argentina 1985",
                 "url": "http://vedo.wvdbozpfc.com/vod/243403A16A564637BC5F2CF5CFEF0DF3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
@@ -1144,6 +1132,18 @@
                 "genero": "Drama, Historia, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qzxvUPjQIpNvalclAY1A8DS1exR.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eia1F1rlsJrmJJ2D6VQirDVAn0Z.png"
+            },
+            {
+                "name": "La noche que luché contra Dios",
+                "url": "http://vedo.wvdbozpfc.com/vod/7D09C14E72C84DEF92D0A13C6145E8DF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg",
+                "type": "PELICULA",
+                "descripcion": "El 18 de julio de 1994, el joven Benjamín Sheinberg inicia su primer día como médico residente en el Hospital de Clínicas, en Buenos Aires, mientras que al mismo tiempo una bomba explota en la AMIA causando la muerte de 85 personas. Sheinberg se ve sobrepasado por la situación que lo afecta más allá de lo profesional y decide marcharse a Israel. Allí, de la mano de Rubén, un viejo amigo de su abuelo, “viajará” en el tiempo, adentrándose en la antigua historia de Israel, viéndose reflejado en el milenario personaje Jacob. Pero, ¿qué conexión hay entre ambos personajes?",
+                "anio": "2024",
+                "duracion": "103 min",
+                "genero": "Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wjHLVqJzj8n6mTb0t6B4KEcqPjG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iKAsVaWaOS09O21zUmhHXE69o7B.png"
             },
             {
                 "name": "Biónica",

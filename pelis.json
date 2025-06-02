@@ -1806,18 +1806,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Un novio para mi mujer",
-                "url": "http://vedo.wvdbozpfc.com/vod/AFA3393302514EA5BC59532794A7B869_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ybMKaNMoBie2ebXf4TIz1Sh70Iq.jpg",
-                "type": "PELICULA",
-                "descripcion": "El Tenso no sabe cómo enfrentarse a su mujer, la Tana, para decirle que se quiere separar, ya que la relación se le hace insostenible debido a su terrible carácter. Ella vive constantemente malhumorada: si no protesta por el tiempo, es por el gobierno; si no es por los vecinos, es por los jóvenes, o por los viejos… o por lo que fuere. Carlos, amigo del Tenso, le sugiere invertir el problema… y provocar que la Tana lo abandone a él. ¿Cómo? se pregunta el Tenso, y Carlos le presenta una propuesta: recurrir al Cuervo Flores, un viejo seductor irresistible que seducirá a su mujer hasta el enamoramiento para que, por fin, el Tenso encuentre la solución a sus problemas.",
-                "anio": "2008",
-                "duracion": "100 min",
-                "genero": "Romance, Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qockJIX0NNDiny7q5BoLywOVZxW.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Sin hijos",
                 "url": "http://vedo.wvdbozpfc.com/vod/D3EFAF10B0FE4D24939ADB1A144E1BF3_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8ABPcRThqfqv7o9ohhkLKEc6gZ2.jpg",
@@ -1828,6 +1816,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7QXpK9JmwUHFOjl8RQVdMUOg1YA.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/KA0gINqOCgIXwOkvLKz2PXeeQZ.png"
+            },
+            {
+                "name": "Un novio para mi mujer",
+                "url": "http://vedo.wvdbozpfc.com/vod/AFA3393302514EA5BC59532794A7B869_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ybMKaNMoBie2ebXf4TIz1Sh70Iq.jpg",
+                "type": "PELICULA",
+                "descripcion": "El Tenso no sabe cómo enfrentarse a su mujer, la Tana, para decirle que se quiere separar, ya que la relación se le hace insostenible debido a su terrible carácter. Ella vive constantemente malhumorada: si no protesta por el tiempo, es por el gobierno; si no es por los vecinos, es por los jóvenes, o por los viejos… o por lo que fuere. Carlos, amigo del Tenso, le sugiere invertir el problema… y provocar que la Tana lo abandone a él. ¿Cómo? se pregunta el Tenso, y Carlos le presenta una propuesta: recurrir al Cuervo Flores, un viejo seductor irresistible que seducirá a su mujer hasta el enamoramiento para que, por fin, el Tenso encuentre la solución a sus problemas.",
+                "anio": "2008",
+                "duracion": "100 min",
+                "genero": "Romance, Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qockJIX0NNDiny7q5BoLywOVZxW.jpg",
+                "iconpng": ""
             },
             {
                 "name": "Blondi",

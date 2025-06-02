@@ -8325,6 +8325,18 @@
                 "genero": "Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/aitUECW88Rve2mprcvwVchToE8A.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/k5uRjH8jdVkRNurTQJjdZV45H1r.png"
+            },
+            {
+                "name": "Friendship",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405199.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gAm2iSFNmBcfYLpxvtiSVe7cvzU.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "100 min",
+                "type": "PELICULA"
             }
         ]
     }

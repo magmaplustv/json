@@ -4930,18 +4930,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/t9YEokkCYAIWPmI4jNP57JZUhq9.png"
             },
             {
-                "name": "Bright: Alma de samurái",
-                "url": "vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/rZrWSMVg2sIsYFwc6iKtaE9y3LR.jpg",
-                "type": "PELICULA",
-                "descripcion": "Izo, un Ronin, y Raiden, un orco, trabajan para llevar a una joven elfa y la varita que lleva a la tierra de los elfos en el norte.",
-                "anio": "2021",
-                "duracion": "79 min",
-                "genero": "Animación, Acción, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/JvTFgt2JTR9Rp4XGGVGOCSRrC5.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1ugewUbld74lYQH85VuAGFqV49f.png"
-            },
-            {
                 "name": "Cómo entrenar a tu dragón",
                 "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
@@ -4952,6 +4940,18 @@
                 "genero": "Acción, Familia, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
+            },
+            {
+                "name": "Bright: Alma de samurái",
+                "url": "vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rZrWSMVg2sIsYFwc6iKtaE9y3LR.jpg",
+                "type": "PELICULA",
+                "descripcion": "Izo, un Ronin, y Raiden, un orco, trabajan para llevar a una joven elfa y la varita que lleva a la tierra de los elfos en el norte.",
+                "anio": "2021",
+                "duracion": "79 min",
+                "genero": "Animación, Acción, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/JvTFgt2JTR9Rp4XGGVGOCSRrC5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1ugewUbld74lYQH85VuAGFqV49f.png"
             },
             {
                 "name": "El jinete del dragón",

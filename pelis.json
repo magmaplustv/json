@@ -2104,6 +2104,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Shirley",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405851.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4dcx4odNyL7IQ8c6vb6oYkjk9rg.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2V3Q33FyWW4vmER5XLX9vzYBZ9K.png",
+                "descripcion": "En 1972, Shirley Chisholm se presenta como candidata a la presidencia de EE. UU. por el Partido Demócrata, tras convertirse en la primera congresista negra del país.",
+                "anio": "2024",
+                "genero": "Historia, Drama",
+                "duracion": "117 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Tarot",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405852.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg",
@@ -2803,18 +2815,6 @@
                 "anio": "2024",
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Shirley",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405851.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4dcx4odNyL7IQ8c6vb6oYkjk9rg.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2V3Q33FyWW4vmER5XLX9vzYBZ9K.png",
-                "descripcion": "En 1972, Shirley Chisholm se presenta como candidata a la presidencia de EE. UU. por el Partido Demócrata, tras convertirse en la primera congresista negra del país.",
-                "anio": "2024",
-                "genero": "Historia, Drama",
-                "duracion": "117 min",
                 "type": "PELICULA"
             }
         ]

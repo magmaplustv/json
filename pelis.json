@@ -2942,12 +2942,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/oJUoccvSAXFF01DmAwJLfkqlwj2.png"
             },
             {
-                "name": "Francotirador: La batalla final",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Un día de esos",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169704.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/7FCcl763dbG6ieiqdKbYBkDzohS.jpg",
@@ -2958,6 +2952,12 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4IagwbAfL2HnTd3d7Ahi1w7izws.png"
+            },
+            {
+                "name": "Francotirador: La batalla final",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169719.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "Don Jediondo Recargado",

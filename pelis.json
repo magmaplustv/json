@@ -5240,18 +5240,6 @@
         "name": "⭐️⭐️Animacion⭐️⭐️",
         "samples": [
             {
-                "name": "El día que la Tierra explotó: Una película de los Looney Tunes",
-                "url": "http://vedo.wvdbozpfc.com/vod/C16E3387FC45455D8A8724845262F575_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kq32P0VC4yWYujyByp7ieNCZjA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Porky y el Pato Lucas regresan a la gran pantalla, junto con Petunia, en una nueva y emocionante aventura animada. En esta comedia de ciencia ficción, nuestros héroes improbables descubren un plan alienígena secreto para controlar las mentes y se convierten en la última esperanza de la Tierra.",
-                "anio": "2024",
-                "duracion": "91 min",
-                "genero": "Familia, Comedia, Aventura, Animación, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ps79664UJDYLnRvT5IeSdC98ICd.png"
-            },
-            {
                 "name": "Shrek",
                 "url": "http://vedo.wvdbozpfc.com/vod/2BE9F2DCB2024D07B1B98F7C0FAB09AA_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
@@ -5262,6 +5250,18 @@
                 "genero": "Animación, Comedia, Fantasía, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+            },
+            {
+                "name": "El día que la Tierra explotó: Una película de los Looney Tunes",
+                "url": "http://vedo.wvdbozpfc.com/vod/C16E3387FC45455D8A8724845262F575_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kq32P0VC4yWYujyByp7ieNCZjA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Porky y el Pato Lucas regresan a la gran pantalla, junto con Petunia, en una nueva y emocionante aventura animada. En esta comedia de ciencia ficción, nuestros héroes improbables descubren un plan alienígena secreto para controlar las mentes y se convierten en la última esperanza de la Tierra.",
+                "anio": "2024",
+                "duracion": "91 min",
+                "genero": "Familia, Comedia, Aventura, Animación, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ps79664UJDYLnRvT5IeSdC98ICd.png"
             },
             {
                 "name": "Gatos: Un viaje de vuelta a casa",

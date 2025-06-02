@@ -2530,18 +2530,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
             },
             {
-                "name": "Red One",
-                "url": "http://vedo.wvdbozpfc.com/vod/E11A60548F7E42FF8D41637EC0CCFCAD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
-                "anio": "2024",
-                "duracion": "124 min",
-                "genero": "Acción, Comedia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
-            },
-            {
                 "name": "Apocalipsis Z: el principio del fin",
                 "url": "http://vedo.wvdbozpfc.com/vod/C38FF8BF49DF439DA1074719AD671C92_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
@@ -2552,6 +2540,18 @@
                 "genero": "Drama, Acción, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dBOtMMLbTgjQw3FVv7nCCPinjiO.png"
+            },
+            {
+                "name": "Red One",
+                "url": "http://vedo.wvdbozpfc.com/vod/E11A60548F7E42FF8D41637EC0CCFCAD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
+                "anio": "2024",
+                "duracion": "124 min",
+                "genero": "Acción, Comedia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
             },
             {
                 "name": "Criaturas: Linea de Extincion",

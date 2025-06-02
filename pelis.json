@@ -5372,18 +5372,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vElEYlOkh84RVLh1ak73IURAb2J.png"
             },
             {
-                "name": "Toy Story",
-                "url": "http://vedo.wvdbozpfc.com/vod/0605836C86674C43BA627996EA22A69B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg",
-                "type": "PELICULA",
-                "descripcion": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
-                "anio": "1995",
-                "duracion": "77 min",
-                "genero": "Animación, Aventura, Familia, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png"
-            },
-            {
                 "name": "La escalofriante historia del Capitán Calzoncillos Jale-o-ween",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DEED86266854E2898C8086B6DEEAB75_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/qGuBwXcJhmFBQRu5F6EB2VoTCn2.jpg",
@@ -5394,6 +5382,18 @@
                 "genero": "Comedia, Animación, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zb85xjZQTXa1AKA6AenN5gfIH2b.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/rTX1o2GDFD1CPk8BqqHhON5KbjE.png"
+            },
+            {
+                "name": "Toy Story",
+                "url": "http://vedo.wvdbozpfc.com/vod/0605836C86674C43BA627996EA22A69B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg",
+                "type": "PELICULA",
+                "descripcion": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
+                "anio": "1995",
+                "duracion": "77 min",
+                "genero": "Animación, Aventura, Familia, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png"
             },
             {
                 "name": "Zootrópolis",

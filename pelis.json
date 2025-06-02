@@ -3008,6 +3008,18 @@
                 "genero": "Suspense, Comedia",
                 "duracion": "88 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "My Hero Academia: You're Next",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405821.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8yhktB00MJOO0bztN66SFaJJ7G4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hd1TvTUGjkoYoqvXYfSBpI5Ri9B.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cCf1pAVXhKNXMgqp8sbZj36CEK5.png",
+                "descripcion": "En una sociedad en la que héroes y villanos luchan continuamente en nombre de la paz y el caos, Deku, un estudiante de U.A. High School que aspira a ser el mejor héroe posible, se enfrenta al villano que imita al héroe al que admira desde hace tiempo. ¿Podrán Deku y el resto de la clase 1-A del instituto U.A. proteger el mundo acabando con Dark Might, el hombre que pretende ser el nuevo Símbolo de la Paz?",
+                "anio": "2024",
+                "genero": "Animación, Acción, Aventura, Ciencia ficción",
+                "duracion": "110 min",
+                "type": "PELICULA"
             }
         ]
     },

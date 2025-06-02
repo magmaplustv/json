@@ -7817,18 +7817,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Conejos asesinos",
-                "url": "http://vedo.wvdbozpfc.com/vod/1EE7A739EAA84CF4A7314D4956C46B28_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "103 min",
-                "genero": "Terror, Comedia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lljZTHeXJ3mNt3IC5Kh7MPXVKeZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pwLEaoRT7SHiqwhhK3wNXFK8Avm.png"
-            },
-            {
                 "name": "¡Estáis cordialmente invitados!",
                 "url": "http://vedo.wvdbozpfc.com/vod/BF2DF8A5165F4D7EAEC950E25E105CA4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/14jxZmclGIqAQ4xtYXYKhvRLTwx.jpg",
@@ -7839,6 +7827,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xaNBpBkONtupAVJqQBIW5EZa7xi.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/na37a1odzixk5QR2AkEoLHYV5DA.png"
+            },
+            {
+                "name": "Conejos asesinos",
+                "url": "http://vedo.wvdbozpfc.com/vod/1EE7A739EAA84CF4A7314D4956C46B28_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "103 min",
+                "genero": "Terror, Comedia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lljZTHeXJ3mNt3IC5Kh7MPXVKeZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pwLEaoRT7SHiqwhhK3wNXFK8Avm.png"
             },
             {
                 "name": "Contigo en el futuro",

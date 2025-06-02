@@ -2326,18 +2326,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/zYM9dAA5kUuSG2iYRE35evW1LIu.png"
             },
             {
-                "name": "GTMAX",
-                "url": "http://vedo.wvdbozpfc.com/vod/1D6DAADC32674D15B4613578FDAF9310_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando una conocida banda de moteros reclutan a su hermano para un robo, una ex campeona de motocross debe enfrentarse a sus miedos más profundos para mantener a su familia a salvo.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Acción, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1yWwSZwnAI72MtubqoF09HFjymM.png"
-            },
-            {
                 "name": "La Trampa",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3F13A5256A148B2AFE453FB6E571EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
@@ -2348,6 +2336,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Ldp4JHqZ2zjCKCKkofsZXX30tQ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "GTMAX",
+                "url": "http://vedo.wvdbozpfc.com/vod/1D6DAADC32674D15B4613578FDAF9310_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando una conocida banda de moteros reclutan a su hermano para un robo, una ex campeona de motocross debe enfrentarse a sus miedos más profundos para mantener a su familia a salvo.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Acción, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/liuBLPXvisMRo5w2JEKHXceWq5u.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1yWwSZwnAI72MtubqoF09HFjymM.png"
             },
             {
                 "name": "Moana 2",

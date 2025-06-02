@@ -7697,18 +7697,6 @@
         "name": "⭐️⭐️Comedia⭐️⭐️",
         "samples": [
             {
-                "name": "Una pequeña confusión",
-                "url": "http://vedo.wvdbozpfc.com/vod/3DA473C070814CB2BF67805C9469980A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/r01XiXILuu0uymj8yvpRyiD9hB0.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "107 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8U1xsLUtWSN8WlH0xzwYGZxHMUi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1StsIA3QtjfN6QdJ7BE9C5Xe2ZH.png"
-            },
-            {
                 "name": "Superpapá",
                 "url": "http://vedo.wvdbozpfc.com/vod/94BB540603394423BE2E65414CFA6B55_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hJ1WXZgANL8RSfOumvK8udUSC3H.jpg",
@@ -7719,6 +7707,18 @@
                 "genero": "Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/5tR7ERtILQLnwdKOqnk0aC2Bcbx.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Una pequeña confusión",
+                "url": "http://vedo.wvdbozpfc.com/vod/3DA473C070814CB2BF67805C9469980A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/r01XiXILuu0uymj8yvpRyiD9hB0.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "107 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8U1xsLUtWSN8WlH0xzwYGZxHMUi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1StsIA3QtjfN6QdJ7BE9C5Xe2ZH.png"
             },
             {
                 "name": "Un lío de millones",

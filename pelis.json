@@ -2684,6 +2684,18 @@
                 "genero": "Acción, Ciencia ficción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5ZcebxdEL5Q8gkgxGRRf22cVdBK.png"
+            },
+            {
+                "name": "(Ho Ho Ho) Santa Homer",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406184.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3kbWZFgcCx4YbKkKHvJDGh6ebsH.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dYvdW8Wfy52iADXKXFiY941V2fJ.png",
+                "descripcion": "Las cosas se tuercen cuando el famoso mentalista británico Derren Brown llega a Springfield, Homer es hipnotizado y se cree Santa Claus, lo que desata una festiva reacción en cadena.",
+                "anio": "2024",
+                "genero": "Animación, Comedia",
+                "duracion": "45 min",
+                "type": "PELICULA"
             }
         ]
     },

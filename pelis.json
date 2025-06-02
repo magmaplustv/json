@@ -6048,18 +6048,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/tSXPSzYMqR2pU09irsJ2pJBpfFd.png"
             },
             {
-                "name": "Nunca digas su nombre",
-                "url": "http://vedo.wvdbozpfc.com/vod/0AA53657207D4E969377027853228FC9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nQD4sConnRzxuBpAdzkbz15hROb.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando tres estudiantes universitarios se mudan a una vieja casa fuera del campus, sin querer, liberan a \"Bye Bye Man\", un ente sobrenatural que persigue a quien descubre su nombre. Intentarán mantener su existencia en secreto para alejar al resto de una muerte segura.",
-                "anio": "2017",
-                "duracion": "97 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9NHAlsuQkMv4IyAR1gLkGrE7XoU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/yV9IRhWhY0k103qBE4OC1vf1EBn.png"
-            },
-            {
                 "name": "Silent Hill",
                 "url": "http://vedo.wvdbozpfc.com/vod/75114D75EC594A23A64CB9F57642192D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg",
@@ -6070,6 +6058,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/29BCwmpV9HQUekAGlJLplkslRRf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zLLnDKXU0UXYs4mUrcN8P2XgaJv.png"
+            },
+            {
+                "name": "Nunca digas su nombre",
+                "url": "http://vedo.wvdbozpfc.com/vod/0AA53657207D4E969377027853228FC9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nQD4sConnRzxuBpAdzkbz15hROb.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando tres estudiantes universitarios se mudan a una vieja casa fuera del campus, sin querer, liberan a \"Bye Bye Man\", un ente sobrenatural que persigue a quien descubre su nombre. Intentarán mantener su existencia en secreto para alejar al resto de una muerte segura.",
+                "anio": "2017",
+                "duracion": "97 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9NHAlsuQkMv4IyAR1gLkGrE7XoU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yV9IRhWhY0k103qBE4OC1vf1EBn.png"
             },
             {
                 "name": "[REC]",

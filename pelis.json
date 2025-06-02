@@ -1494,18 +1494,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/yGSDyzZdCNDWyX9joG0CVZDW810.png"
             },
             {
-                "name": "Tango feroz: La leyenda de Tanguito",
-                "url": "http://vedo.wvdbozpfc.com/vod/397C680147294015A7D1A3B884E64993_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/n9mDdOQ2CpDb7WKRVQgOapxBN0P.jpg",
-                "type": "PELICULA",
-                "descripcion": "La leyenda de amor entre Tanguito y Mariana es utilizada como pretexto para mostrar una época, finales de los 60 y comienzos de los 70, el nacimiento del rock argentino, el enfrentamiento entre los viejos valores y la libertad, el amor, la paz, la amistad y la solidaridad de la juventud argentina de la época.",
-                "anio": "1993",
-                "duracion": "124 min",
-                "genero": "Drama, Música",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2pov8bDTzf63CocoaABHMH92G1u.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/rtKJ4L1kAkF2u7bOweIuvvReWBG.png"
-            },
-            {
                 "name": "Elefante blanco",
                 "url": "http://vedo.wvdbozpfc.com/vod/92B3C0DEDDC54FBA991457931C7A38DC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aAUQfrFww2C2qdCEB8YtOqgNiil.jpg",
@@ -1516,6 +1504,18 @@
                 "genero": "Aventura",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Tango feroz: La leyenda de Tanguito",
+                "url": "http://vedo.wvdbozpfc.com/vod/397C680147294015A7D1A3B884E64993_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/n9mDdOQ2CpDb7WKRVQgOapxBN0P.jpg",
+                "type": "PELICULA",
+                "descripcion": "La leyenda de amor entre Tanguito y Mariana es utilizada como pretexto para mostrar una época, finales de los 60 y comienzos de los 70, el nacimiento del rock argentino, el enfrentamiento entre los viejos valores y la libertad, el amor, la paz, la amistad y la solidaridad de la juventud argentina de la época.",
+                "anio": "1993",
+                "duracion": "124 min",
+                "genero": "Drama, Música",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2pov8bDTzf63CocoaABHMH92G1u.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rtKJ4L1kAkF2u7bOweIuvvReWBG.png"
             },
             {
                 "name": "Descansar en paz",

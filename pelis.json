@@ -447,18 +447,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4eaieEP40EjyVFtINe70bPnfn5G.png"
             },
             {
-                "name": "En un confín del mundo",
-                "url": "http://vedo.wvdbozpfc.com/vod/2EB37E2AD5544848BC2F1DB904E73294_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg",
-                "type": "PELICULA",
-                "descripcion": "La fe de un párroco se tambalea cuando un meteorito cae en su pequeña comunidad finlandesa. El impacto desata el caos y despierta oscuros impulsos criminales.",
-                "anio": "2025",
-                "duracion": "105 min",
-                "genero": "Comedia, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bJ6hZMsknsjHz4ihZoYjtAa9lKF.png"
-            },
-            {
                 "name": "Códigos de Guerra",
                 "url": "http://vedo.wvdbozpfc.com/vod/5DB7CE977BB84528A05460014F484BE5_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
@@ -469,6 +457,18 @@
                 "genero": "Acción, Bélica",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ibF5XVxTzf1ayzZrmiJqgeQ39Qk.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "En un confín del mundo",
+                "url": "http://vedo.wvdbozpfc.com/vod/2EB37E2AD5544848BC2F1DB904E73294_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg",
+                "type": "PELICULA",
+                "descripcion": "La fe de un párroco se tambalea cuando un meteorito cae en su pequeña comunidad finlandesa. El impacto desata el caos y despierta oscuros impulsos criminales.",
+                "anio": "2025",
+                "duracion": "105 min",
+                "genero": "Comedia, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2jllAxMf7dTMt1fw9A1slsaj6Fv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bJ6hZMsknsjHz4ihZoYjtAa9lKF.png"
             },
             {
                 "name": "Las Aventuras de Dog Man",

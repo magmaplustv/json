@@ -39,18 +39,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
             },
             {
-                "name": "Troya",
-                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/185210.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2019",
-                "duracion": "8 min",
-                "genero": "Drama",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Better Man",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406670.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg",
@@ -61,6 +49,18 @@
                 "genero": "Música, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/eUbSRRtUPFQQjPx3PCCFgvLijWo.png"
+            },
+            {
+                "name": "Troya",
+                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/185210.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "8 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "La Partida de go",

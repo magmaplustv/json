@@ -1206,18 +1206,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Campamento con mamá",
-                "url": "http://vedo.wvdbozpfc.com/vod/4B5CCC9AC2184559A713F7960BF2F0F1_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Para salvar la acampada de fin de curso de su hijo, una madre soltera decide conducir el autobús mientras intenta demostrarle que puede ser una madre guay.",
-                "anio": "2024",
-                "duracion": "95 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5rDvw8ESyywu7ClZz15uDOSnm1h.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kQG7Gdb6o5Syx2VQsDGfBhyajCE.png"
-            },
-            {
                 "name": "Relatos salvajes",
                 "url": "http://vedo.wvdbozpfc.com/vod/5858EFFDF50649A6AA1DDBBDF422139C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vimbRR5XdkMj7CqnzVN92Cla8jN.jpg",
@@ -1228,6 +1216,18 @@
                 "genero": "Drama, Suspense, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qMEDBrNUGWEwCQLm9s35xfOLK3A.png"
+            },
+            {
+                "name": "Campamento con mamá",
+                "url": "http://vedo.wvdbozpfc.com/vod/4B5CCC9AC2184559A713F7960BF2F0F1_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Para salvar la acampada de fin de curso de su hijo, una madre soltera decide conducir el autobús mientras intenta demostrarle que puede ser una madre guay.",
+                "anio": "2024",
+                "duracion": "95 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5rDvw8ESyywu7ClZz15uDOSnm1h.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kQG7Gdb6o5Syx2VQsDGfBhyajCE.png"
             },
             {
                 "name": "El secreto de sus ojos",

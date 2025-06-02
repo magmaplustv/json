@@ -7160,18 +7160,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Susurros Mortales 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "112 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
-            },
-            {
                 "name": "Terrifier 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/D445BD8CAFA94AEEBFCC8830404D5A2F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg",
@@ -7182,6 +7170,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cRdA9xjHBbobw4LJFsQ3j1CgpVq.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zWQZy0RUVMuTmSp5h9rfH2ak2l0.png"
+            },
+            {
+                "name": "Susurros Mortales 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/01B7B8A3E38C4D7BA51CA29AC3D3D344_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "112 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
             },
             {
                 "name": "Grafted",

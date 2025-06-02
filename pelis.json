@@ -2092,6 +2092,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "10 vidas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406163.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xEPQxkqAVIXrZKQIQCKqyRHzc1t.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8ZRWGE33oRlcbRFsx3gvd5vELhG.png",
+                "descripcion": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Ante lo inevitable, suplica que le permitan volver a su vida perfecta.",
+                "anio": "2024",
+                "genero": "Animación, Comedia, Familia, Fantasía",
+                "duracion": "87 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Haikyu!! La batalla del basurero",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406182.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nqdzN2C7L2vVWAfFZLx8510AUGe.jpg",
@@ -2719,18 +2731,6 @@
                 "anio": "2024",
                 "genero": "Romance, Drama",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "10 vidas",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406163.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/4clvunwVxvwjem4y1BjuqImlPB.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xEPQxkqAVIXrZKQIQCKqyRHzc1t.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8ZRWGE33oRlcbRFsx3gvd5vELhG.png",
-                "descripcion": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Ante lo inevitable, suplica que le permitan volver a su vida perfecta.",
-                "anio": "2024",
-                "genero": "Animación, Comedia, Familia, Fantasía",
-                "duracion": "87 min",
                 "type": "PELICULA"
             }
         ]

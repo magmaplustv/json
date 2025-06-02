@@ -3498,18 +3498,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
             },
             {
-                "name": "La bala perdida 3",
-                "url": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
-                "type": "PELICULA",
-                "descripcion": "Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad.",
-                "anio": "2025",
-                "duracion": "112 min",
-                "genero": "Acción, Crimen, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
-            },
-            {
                 "name": "Mala influencia",
                 "url": "http://vedo.wvdbozpfc.com/vod/F7A971261E9444C9B64469C3FB813321_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg",
@@ -3520,6 +3508,18 @@
                 "genero": "Suspense, Drama, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zXUxcXnBPHF1cD0IHi4KUpsNvF4.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9pLluhKIZECy3HUmGh2vH7mRsdK.png"
+            },
+            {
+                "name": "La bala perdida 3",
+                "url": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
+                "type": "PELICULA",
+                "descripcion": "Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad.",
+                "anio": "2025",
+                "duracion": "112 min",
+                "genero": "Acción, Crimen, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
             },
             {
                 "name": "La rosa de Versalles",

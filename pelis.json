@@ -3738,18 +3738,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/hkaOa76w0S5zsgjPiomUWzwjyYC.png"
             },
             {
-                "name": "Contraataque",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169699.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una misión de rescate de rehenes, el capitán Guerrero y sus soldados de élite sufren una emboscada de un despiadado cártel de la droga.",
-                "anio": "2025",
-                "duracion": "85 min",
-                "genero": "Acción, Aventura, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/j7thvBCy6bPQl4gNIt3sMITVurr.png"
-            },
-            {
                 "name": "Estado eléctrico",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168131.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",
@@ -3760,6 +3748,18 @@
                 "genero": "Ciencia ficción, Aventura, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bFJK4dK4eLJYnUWLjE2HmUTB63N.png"
+            },
+            {
+                "name": "Contraataque",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169699.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una misión de rescate de rehenes, el capitán Guerrero y sus soldados de élite sufren una emboscada de un despiadado cártel de la droga.",
+                "anio": "2025",
+                "duracion": "85 min",
+                "genero": "Acción, Aventura, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/j7thvBCy6bPQl4gNIt3sMITVurr.png"
             },
             {
                 "name": "Tornado. Atrapados en la tormenta",

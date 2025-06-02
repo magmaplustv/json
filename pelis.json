@@ -7769,18 +7769,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1v2nUBeYuDKiibNy27vBZ6taDeT.png"
             },
             {
-                "name": "Vampira humanista busca suicida",
-                "url": "http://vedo.wvdbozpfc.com/vod/51AB874355834C0BA0354A4E8C43276A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vQNOB42MJNi2655nMaLsQa8XaiK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sasha es una joven vampiro con un grave problema: es demasiado sensible para matar. Cuando sus padres dejan de alimentarla, su vida corre peligro. Por suerte, Sasha conoce a Paul, un adolescente solitario con tendencias suicidas que está dispuesto a dar su vida para salvar a su nueva amiga. Pronto su acuerdo se convierte en una búsqueda nocturna para cumplir, antes de que amanezca, los últimos deseos de Paul.",
-                "anio": "2023",
-                "duracion": "91 min",
-                "genero": "Romance, Comedia, Fantasía, Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/RLZHYRIcG2lL0yH1MA47p6Mthy.png"
-            },
-            {
                 "name": "DJ encubierto",
                 "url": "http://vedo.wvdbozpfc.com/vod/4D44A1BD2A9249A3BFBA8969FA7F9AAF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/x2pegSby27ebOwW361GJb1aKcxa.jpg",
@@ -7791,6 +7779,18 @@
                 "genero": "Comedia, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/zmLAlyYfyJcbHEaMpJVG9EWdouA.png"
+            },
+            {
+                "name": "Vampira humanista busca suicida",
+                "url": "http://vedo.wvdbozpfc.com/vod/51AB874355834C0BA0354A4E8C43276A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vQNOB42MJNi2655nMaLsQa8XaiK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sasha es una joven vampiro con un grave problema: es demasiado sensible para matar. Cuando sus padres dejan de alimentarla, su vida corre peligro. Por suerte, Sasha conoce a Paul, un adolescente solitario con tendencias suicidas que está dispuesto a dar su vida para salvar a su nueva amiga. Pronto su acuerdo se convierte en una búsqueda nocturna para cumplir, antes de que amanezca, los últimos deseos de Paul.",
+                "anio": "2023",
+                "duracion": "91 min",
+                "genero": "Romance, Comedia, Fantasía, Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/RLZHYRIcG2lL0yH1MA47p6Mthy.png"
             },
             {
                 "name": "El Asesino de los ojos de corazon",

@@ -3188,18 +3188,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5b9ltHYiChJ2xgpuqlxKCHXAUqG.png"
             },
             {
-                "name": "High Rollers",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168125.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/hHowAaChDjwueySmwVbsjHmpWa.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "101 min",
-                "genero": "Acción, Crimen, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/me3SisKfnxwBP69aOVKAVMw9vDM.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
-            },
-            {
                 "name": "Bloat",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168121.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/nlutnb8dO390fo5zkRayYiVuKdU.jpg",
@@ -3210,6 +3198,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/dTgtCZj3YroMJe0P7DZ9ICeAoSC.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "High Rollers",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168125.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hHowAaChDjwueySmwVbsjHmpWa.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "101 min",
+                "genero": "Acción, Crimen, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/me3SisKfnxwBP69aOVKAVMw9vDM.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
             },
             {
                 "name": "Doble espionaje",

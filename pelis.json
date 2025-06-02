@@ -2338,18 +2338,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1yWwSZwnAI72MtubqoF09HFjymM.png"
             },
             {
-                "name": "Moana 2",
-                "url": "http://vedo.wvdbozpfc.com/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
-                "anio": "2024",
-                "duracion": "100 min",
-                "genero": "Animación, Aventura, Familia, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png"
-            },
-            {
                 "name": "La Trampa",
                 "url": "http://vedo.wvdbozpfc.com/vod/A3F13A5256A148B2AFE453FB6E571EBE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/utOClhVjHeLkcPZmRD0H7WmY75p.jpg",
@@ -2360,6 +2348,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/9Ldp4JHqZ2zjCKCKkofsZXX30tQ.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Moana 2",
+                "url": "http://vedo.wvdbozpfc.com/vod/FD6C26C5AEF94EF78651CE614EDCB1DB_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/b1WsCRfomw7tRi12NuseKsAJxYK.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+                "anio": "2024",
+                "duracion": "100 min",
+                "genero": "Animación, Aventura, Familia, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png"
             },
             {
                 "name": "Culpa tuya",

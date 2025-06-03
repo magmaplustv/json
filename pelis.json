@@ -2314,6 +2314,18 @@
                 "genero": "Aventura, Acción, Drama",
                 "duracion": "178 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "The Society of Virtue Saves Christmas!",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405605.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/uFgwUuFwa8g5RnhPrL9Z7K0RsRO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7iGZ3b8U6Ejimq9n4O55xB0Usut.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Comedia, Animación",
+                "duracion": "21 min",
+                "type": "PELICULA"
             }
         ]
     },

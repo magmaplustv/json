@@ -2350,6 +2350,18 @@
                 "genero": "Comedia, Animación",
                 "duracion": "21 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Watchmen: Capítulo 1",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405502.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9xCQvNou4ghf3GKAEpiq2onXzlG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4cazJU7Jjb5EukxmT7XRCoO9VnV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hSjLWEhQpRh4YEQHYb7m9ZdBZDW.png",
+                "descripcion": "En 1985, el asesinato de un superhéroe patrocinado por el gobierno saca a sus colegas proscritos de su retiro y los lleva a un misterio que amenaza con trastocar sus vidas personales y el mundo mismo.",
+                "anio": "2024",
+                "genero": "Animación, Drama, Ciencia ficción",
+                "duracion": "84 min",
+                "type": "PELICULA"
             }
         ]
     },

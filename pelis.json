@@ -7707,6 +7707,18 @@
         "name": "⭐️Drama⭐️",
         "samples": [
             {
+                "name": "El tren de los niños",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405678.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3E0rGo5oUPjwcJkyiaPaLh6PiJo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iAvPwfBZFF4WuR4RPHAxfJEm97y.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4iJyztYbELKdXmuAJCAHWNlTtwn.png",
+                "descripcion": "En la Italia de finales de los cuarenta, una madre toma la difícil decisión de enviar a su hijo al norte, donde este vislumbra una nueva vida alejada de la pobreza.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "106 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "HIERVE (UMAMI)",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405196.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/h40GMBkxXmU0aar8IAv9MmM3ZDB.jpg",
@@ -7974,18 +7986,6 @@
                 "anio": "2024",
                 "genero": "Drama",
                 "duracion": "101 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El tren de los niños",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405678.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/3E0rGo5oUPjwcJkyiaPaLh6PiJo.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iAvPwfBZFF4WuR4RPHAxfJEm97y.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4iJyztYbELKdXmuAJCAHWNlTtwn.png",
-                "descripcion": "En la Italia de finales de los cuarenta, una madre toma la difícil decisión de enviar a su hijo al norte, donde este vislumbra una nueva vida alejada de la pobreza.",
-                "anio": "2024",
-                "genero": "Drama",
-                "duracion": "106 min",
                 "type": "PELICULA"
             }
         ]

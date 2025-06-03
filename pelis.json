@@ -3236,6 +3236,18 @@
                 "genero": "Acción, Comedia, Ciencia ficción",
                 "duracion": "127 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cazafantasmas: Imperio helado",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405740.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8EuqSPcyxSE6yvjNR8JhVTBnk3l.png",
+                "descripcion": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas.",
+                "anio": "2024",
+                "genero": "Fantasía, Aventura, Comedia",
+                "duracion": "115 min",
+                "type": "PELICULA"
             }
         ]
     },

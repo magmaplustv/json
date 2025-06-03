@@ -5271,6 +5271,18 @@
                 "genero": "Acción, Aventura, Suspense",
                 "duracion": "100 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cazadores en tierra inhóspita",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405720.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h6HOBpg2XaLrr2DcWMwqrnZRjkJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uhkleZo69Up8PWx1yDdUkJ5qqUM.png",
+                "descripcion": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Acción",
+                "duracion": "107 min",
+                "type": "PELICULA"
             }
         ]
     },

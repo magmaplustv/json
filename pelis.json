@@ -4840,6 +4840,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La viuda negra",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/82F236FECE0F497E9283C525E0A61476_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uuabL0qp3zygLDEjImbPiWR9j2e.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pOR4Aye28KLZ5Jogu8zc3yiqBpT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sRvdGaagFOb2Wmr2xYTrBSnKYT0.png",
+                "descripcion": "Cuando un hombre aparece muerto, la investigación del caso desbarata la imagen perfecta de su esposa y pone al descubierto su doble vida en este thriller basado en hechos reales.",
+                "anio": "2025",
+                "genero": "Suspense, Misterio",
+                "duracion": "120 min",
+                "type": "PELICULA"
             }
         ]
     },

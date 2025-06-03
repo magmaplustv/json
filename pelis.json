@@ -3212,6 +3212,18 @@
                 "genero": "Acción, Fantasía",
                 "duracion": "117 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "I.S.S.",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405751.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2ZgXNi458jc7DqdAMhsHpF1sX0I.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cw8YicokMa3okekWq2rJT8Hccaz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kSzW8vTzUmkK5w9DOILfuohnvhR.png",
+                "descripcion": "Cuando se produce un acontecimiento bélico mundial en la Tierra, Estados Unidos y Rusia, ambas naciones contactan en secreto con sus astronautas a bordo de la ISS y les dan instrucciones para que tomen el control de la estación por cualquier medio necesario.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Suspense",
+                "duracion": "96 min",
+                "type": "PELICULA"
             }
         ]
     },

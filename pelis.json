@@ -2338,6 +2338,18 @@
                 "genero": "Comedia, Animación",
                 "duracion": "21 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El señor de los anillos: La guerra de los Rohirrim",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405526.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1SCdmxDfJacm68WniIKPiz3761m.png",
+                "descripcion": "Explora la \"historia no contada\" del Abismo de Helm, cientos de años antes de la mítica batalla, y de su fundador, Helm Hammerhand, Rey de Rohan.",
+                "anio": "2024",
+                "genero": "Animación, Fantasía, Aventura, Acción",
+                "duracion": "134 min",
+                "type": "PELICULA"
             }
         ]
     },

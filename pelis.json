@@ -5768,6 +5768,18 @@
                 "genero": "Familia, Aventura, Animación, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mwJqenycCK0jCLgIz8dHTidd7Xw.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dWhcjYTug9ciq1lajWkbUNQ15db.png"
+            },
+            {
+                "name": "Good Burger 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405743.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yi9fSl9ZPN1trcb8aEWEsfxzGDj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kKxwzAbrA2mY7ixsO3f9uLF7S6v.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lnTitHALyE6cQRcJ7BiEzXqC4IV.png",
+                "descripcion": "Después de que su último invento falla, Ed le da la bienvenida a Dex a su antiguo trabajo en Good Burger, que una vez más se pone en peligro cuando Dex idea un plan para recuperarse.",
+                "anio": "2023",
+                "genero": "Familia, Comedia",
+                "duracion": "91 min",
+                "type": "PELICULA"
             }
         ]
     },

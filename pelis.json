@@ -4093,6 +4093,18 @@
         "name": "⭐️Disney⭐️",
         "samples": [
             {
+                "name": "Ultraman: El ascenso",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405658.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1JF1rvvmiU90QlTDNajNiySPkIt.png",
+                "descripcion": "Una estrella del deporte vuelve a casa a regañadientes para seguir los pasos de su padre y convertirse en Ultraman, el héroe encargado de proteger Tokio de unos monstruos gigantes.",
+                "anio": "2024",
+                "genero": "Animación, Ciencia ficción, Familia, Acción",
+                "duracion": "116 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los Simpsons: The Past and the Furious",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168304.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cHQef5ohvTtiG53h04NSsVPoSJ5.jpg",
@@ -4169,18 +4181,6 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/k50zwn8Gs4f999ezuVAL2WXLv5x.jpg",
                 "iconpng": ""
-            },
-            {
-                "name": "Ultraman: El ascenso",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405658.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1JF1rvvmiU90QlTDNajNiySPkIt.png",
-                "descripcion": "Una estrella del deporte vuelve a casa a regañadientes para seguir los pasos de su padre y convertirse en Ultraman, el héroe encargado de proteger Tokio de unos monstruos gigantes.",
-                "anio": "2024",
-                "genero": "Animación, Ciencia ficción, Familia, Acción",
-                "duracion": "116 min",
-                "type": "PELICULA"
             }
         ]
     },

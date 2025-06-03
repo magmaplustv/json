@@ -6839,6 +6839,18 @@
                 "genero": "Aventura, Drama, Ciencia ficción",
                 "duracion": "127 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Guardiana de dragones (Dragonkeeper)",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405579.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rgBHNpiLZMPzFHyTJruQQ3IT7Lp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7qdUfDpNdt4nO5TdeRn2VTA0gAg.png",
+                "descripcion": "Son tiempos oscuros en la China imperial. Los dragones, antaño amigos y sabios aliados de los hombres, han sido perseguidos durante años y encerrados en mazmorras. En una remota fortaleza en las montañas, una niña ayuda a escapar al último de los dragones y se une a él en una apasionante misión para recuperar el tesoro más preciado: El último huevo de dragón, robado por un malvado hechicero que quiere explotar su potencial mágico para alcanzar la inmortalidad. Adaptación de la primera de las seis novelas de la saga literaria homónima de Carole Wilkins.",
+                "anio": "2024",
+                "genero": "Animación, Familia, Acción, Aventura, Fantasía",
+                "duracion": "99 min",
+                "type": "PELICULA"
             }
         ]
     },

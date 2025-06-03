@@ -6068,6 +6068,18 @@
                 "genero": "Familia, Comedia",
                 "duracion": "91 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El gato galactico y el hechizo del tiempo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405565.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3avzAHJk4wLsUtlVTLE7GLoGokV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5kUnTUAt6g4fXUpqbX8dnIJ5b6c.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9EOLOzWduoJDUNWPkUKM4lneyN9.png",
+                "descripcion": "Una nueva aventura llena de misterio con el Gato Galáctico. Roni gana un reloj mágico y termina en un pueblo encantado, donde los niños están desapareciendo. Con sus amigos se enfrentará al poderoso Perpétuo y salvará Cronópolis",
+                "anio": "2024",
+                "genero": "Aventura",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     },

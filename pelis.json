@@ -3284,6 +3284,18 @@
                 "genero": "Terror, Animación",
                 "duracion": "94 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "En las profundidades del Sena",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405703.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iEdoaYfM63it7G7TxyyyQpHLRV1.png",
+                "descripcion": "La científica Sophie se ve obligada a enfrentarse a su trágico pasado para salvar París de un baño de sangre cuando un tiburón gigante aparece en el Sena.",
+                "anio": "2024",
+                "genero": "Acción, Terror",
+                "duracion": "104 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -9717,6 +9717,18 @@
                 "genero": "Comedia",
                 "duracion": "115 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hit Man. Asesino por casualidad",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405589.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pWkpI5w07073TpTiJRgTig85gLC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8g8JNOAmniknwkCty6EJgA2XaN1.png",
+                "descripcion": "Gary Johnson es el asesino profesional más buscado de Nueva Orleans. Para sus clientes, es el sicario ideal. Pero si le pagas para que elimine a un cónyuge infiel o a un jefe maltratador, será mejor que tengas cuidado: trabaja para la policía. Cuando rompe el protocolo para ayudar a una mujer desesperada que intenta huir de un marido maltratador, se convierte en uno de sus falsos personajes, se enamora de la mujer y coquetea con convertirse él mismo en un criminal.",
+                "anio": "2024",
+                "genero": "Comedia, Romance, Crimen",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     }

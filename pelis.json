@@ -3224,6 +3224,18 @@
                 "genero": "Ciencia ficción, Suspense",
                 "duracion": "96 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Deadpool y Lobezno",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405747.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9mAPpTbG0GinS9WaBFTW8llRqo7.png",
+                "descripcion": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
+                "anio": "2024",
+                "genero": "Acción, Comedia, Ciencia ficción",
+                "duracion": "127 min",
+                "type": "PELICULA"
             }
         ]
     },

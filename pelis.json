@@ -8830,6 +8830,18 @@
                 "genero": "Música, Historia, Drama",
                 "duracion": "122 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mon Laferte, te amo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405674.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sildryP1raUQgULCVVZ2hRuZWZu.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pESWGzAznm6xwAZvztr2pTcfngr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8s5cSUTMG4D7yWf26fA9negcKeS.png",
+                "descripcion": "En este documental íntimo, la artista y cantante chilena Mon Laferte recuerda su vida mientras lidia con una gira mundial, la maternidad y sus heridas más profundas.",
+                "anio": "2024",
+                "genero": "Documental, Música",
+                "duracion": "77 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -5439,6 +5439,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "95 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Arcadian",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405473.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2paAs9Azw9CXZe3jD5F3weQVwyr.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tyUH9om77kbbFPdc411aK19dPKS.png",
+                "descripcion": "Un padre y sus hijos mellizos intentan sobrevivir al asedio de unas criaturas feroces que atacan su remota granja.",
+                "anio": "2024",
+                "genero": "Acción, Terror, Suspense, Ciencia ficción",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

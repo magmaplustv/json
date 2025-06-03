@@ -2176,6 +2176,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "Dune: Parte dos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405704.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png",
+                "descripcion": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Aventura",
+                "duracion": "167 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Godzilla y Kong: El nuevo imperio",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405611.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
@@ -3271,18 +3283,6 @@
                 "anio": "2024",
                 "genero": "Terror, Animación",
                 "duracion": "94 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Dune: Parte dos",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405704.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png",
-                "descripcion": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
-                "anio": "2024",
-                "genero": "Ciencia ficción, Aventura",
-                "duracion": "167 min",
                 "type": "PELICULA"
             }
         ]

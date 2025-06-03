@@ -887,7 +887,7 @@
             },
             {
                 "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-                "url": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
+                "url": "https://stmv5.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
             }

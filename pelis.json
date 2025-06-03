@@ -5566,6 +5566,18 @@
         "name": "⭐️Cine Infantil⭐️",
         "samples": [
             {
+                "name": "Amigos imaginarios",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405552.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vrvXSQtrGJCZrSOrOMt8ERfdo3x.png",
+                "descripcion": "Una niña pasa por una experiencia difícil y entonces empieza a ver a los amigos imaginarios de todo el mundo que se han ido quedando atrás a medida que sus amigos de la vida real han ido creciendo.",
+                "anio": "2024",
+                "genero": "Comedia, Fantasía, Familia",
+                "duracion": "104 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Capitán Avispa",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405653.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
@@ -6103,18 +6115,6 @@
                 "anio": "2024",
                 "genero": "Aventura",
                 "duracion": "",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Amigos imaginarios",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405552.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/vrvXSQtrGJCZrSOrOMt8ERfdo3x.png",
-                "descripcion": "Una niña pasa por una experiencia difícil y entonces empieza a ver a los amigos imaginarios de todo el mundo que se han ido quedando atrás a medida que sus amigos de la vida real han ido creciendo.",
-                "anio": "2024",
-                "genero": "Comedia, Fantasía, Familia",
-                "duracion": "104 min",
                 "type": "PELICULA"
             }
         ]

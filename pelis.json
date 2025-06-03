@@ -1996,6 +1996,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cQDTGfrZyJR53kqG8vdCHv2qEy9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bxH51PxAA7IrHisOEiUXl1WA4Tu.png"
+            },
+            {
+                "name": "El rapto",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/423882.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7ayaN1HSWcBO8ODQmONQKzleZep.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2LgFJs1INVKYJXeCqVBXZxltwY8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fDDnorOBkYBC478uBfYLH6ux4ct.png",
+                "descripcion": "Basando en el libro homónimo de Martín Sivak. El 5 de diciembre de 1990 un grupo de obreros que levantaba un hotel en el centro de Buenos Aires vio cómo Jorge Sivak se lanzaba al vacío sin darles tiempo a impedirlo. Dirigente estudiantil, guerrillero urbano, abogado defensor de presos políticos, y él mismo preso político y exiliado, Jorge Sivak nunca abandonó la empresa familiar, un pequeño imperio creado gracias a la habilidad mercantil de su padre y a los fondos secretos del Partido Comunista. Quedó a cargo —sin don para los negocios— cuando su hermano mayor fue asesinado en el secuestro más sonado de la década de 1980: el Caso Sivak. Su hijo, Martín Sivak, que en el momento del suicidio tenía quince años, reconstruye una vida que brilló y se extinguió ante sus ojos.",
+                "anio": "2023",
+                "genero": "Suspense, Drama",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -5523,6 +5523,18 @@
                 "genero": "Acción, Comedia, Drama, Romance",
                 "duracion": "127 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Corrupción en Bangkok: Entre el cielo y el infierno",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405575.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/igtm12Wy9EUlxFeyb4v8bRyuYSY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/q3Qlm99rk2921uRSX31z8z9zaH9.png",
+                "descripcion": "Un rescatista debe luchar por sobrevivir tras verse atrapado en un conflicto entre bandas rivales de los bajos fondos de Bangkok.",
+                "anio": "2024",
+                "genero": "Acción, Crimen, Drama, Suspense",
+                "duracion": "147 min",
+                "type": "PELICULA"
             }
         ]
     },

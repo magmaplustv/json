@@ -5355,6 +5355,18 @@
                 "genero": "Ciencia ficción, Acción",
                 "duracion": "107 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Role Play",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405699.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wkeZG5O1xAA9obHuGKyYmGH8PX7.svg",
+                "descripcion": "Emma y Dave animan su aniversario de bodas con una noche de juego de roles en Nueva York. Pero todo peligra cuando la vida secreta de Emma como sicaria internacional, que David no conocía, queda expuesta por Bob y pone en peligro a su familia. Emma tiene que confiar en sus habilidades letales y su determinación para proteger a su familia a toda costa.",
+                "anio": "2023",
+                "genero": "Acción, Comedia, Romance",
+                "duracion": "101 min",
+                "type": "PELICULA"
             }
         ]
     },

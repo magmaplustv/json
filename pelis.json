@@ -7767,6 +7767,18 @@
                 "genero": "Ciencia ficción, Comedia, Romance",
                 "duracion": "103 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Pared con pared",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405559.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ugnzz1A9mjJUgnFwVqEUsUNt7t6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/AoTnnMziZlOc36m7RA1PiESI9R9.png",
+                "descripcion": "Valentina es una joven pianista que comienza una nueva vida; su vecino, David, un inventor que detesta el ruido y el finísimo muro que los separa, su mejor opción para hacer match.",
+                "anio": "2024",
+                "genero": "Romance, Comedia",
+                "duracion": "98 min",
+                "type": "PELICULA"
             }
         ]
     },

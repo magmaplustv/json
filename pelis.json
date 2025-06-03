@@ -8174,6 +8174,18 @@
         "name": "⭐️Terror⭐️",
         "samples": [
             {
+                "name": "El brillo de la televisión",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405585.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3AvLBac3KejQ1cO0d183t4rALua.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sNBnCmF1ueoERa4uW5kh929KkRO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zhqFYDDRTQQRci4hGu20yiVdF2u.png",
+                "descripcion": "Dos adolescentes comparten su amor por una serie de televisión de terror, pero esta se cancela misteriosamente.",
+                "anio": "2024",
+                "genero": "Drama, Terror",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Winnie the Pooh 2: El bosque sangriento",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405690.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/7BSJhvwvrhifE8DyA5cuXgLRYLx.jpg",
@@ -8681,18 +8693,6 @@
                 "anio": "2024",
                 "genero": "Acción, Terror, Suspense",
                 "duracion": "86 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El brillo de la televisión",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405585.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/3AvLBac3KejQ1cO0d183t4rALua.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sNBnCmF1ueoERa4uW5kh929KkRO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zhqFYDDRTQQRci4hGu20yiVdF2u.png",
-                "descripcion": "Dos adolescentes comparten su amor por una serie de televisión de terror, pero esta se cancela misteriosamente.",
-                "anio": "2024",
-                "genero": "Drama, Terror",
-                "duracion": "100 min",
                 "type": "PELICULA"
             }
         ]

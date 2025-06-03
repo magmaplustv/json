@@ -8742,6 +8742,18 @@
                 "genero": "Terror",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Imaginary",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405568.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6jrq4lA5KV3oIFnCYGDueSMTENd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/TGsfNWkASegCfAn6ED1b08a9O6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6uAlYGHEy83IKqeNDPBVGC9tHks.png",
+                "descripcion": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), su hijastra más pequeña, comienza a desarrollar un extraño apego hacia Chauncey, el oso de peluche que encuentra en el sótano. En un primer momento, Alice y Chauncey se entretienen con juegos aparentemente divertidos que, poco a poco, irán volviéndose más siniestros y peligrosos. A medida que el comportamiento de Alice se va volviendo más inquietante, Jessica decide intervenir, pero cuando lo hace se da cuenta de que Chauncey es mucho más que un inofensivo oso de peluche.",
+                "anio": "2024",
+                "genero": "Terror, Misterio",
+                "duracion": "104 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -7594,6 +7594,18 @@
                 "genero": "Suspense",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La maldición de Cenicienta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405457.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/SFewWt1tXEqGq08oZqH1q78gzM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tXafRmXx4ITyBErTBlfJS58LW8S.png",
+                "descripcion": "Cenicienta es una joven sencilla y hermosa que sueña con encontrar el amor y la felicidad. Su malvada madrastra y hermanastras la maltratan y abusan a diario y no tiene forma de escapar de su crueldad. Sin embargo, cuando descubre un libro antiguo encuadernado en carne que puede convocar a un hada madrina, su suerte cambia. El hada madrina le concede un deseo a Cenicienta y ella elige vengarse.",
+                "anio": "2024",
+                "genero": "Terror, Fantasía",
+                "duracion": "82 min",
+                "type": "PELICULA"
             }
         ]
     },

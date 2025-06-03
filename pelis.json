@@ -3308,6 +3308,18 @@
                 "genero": "Acción, Terror",
                 "duracion": "104 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Conde de Montecristo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405672.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/r2PGzaGA7bgcuy6PX7nx0BfDYsK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8IYpYg6MdNBGiMnNAZptSxt1jGm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/x99d6ivvwfTcIYx4aoESaICgmnc.png",
+                "descripcion": "Todos los sueños del joven Edmundo Dantés están a punto de hacerse realidad. Traicionado por sus rivales, es encarcelado sin juicio en el Castillo de If sin esperanza de escapar. Tras catorce años de encierro, Dantés consigue escapar y hacerse con el legendario tesoro escondido en la isla de Montecristo. Ahora, con una enorme fortuna, urde un plan extraordinario para vengarse.",
+                "anio": "2024",
+                "genero": "Aventura, Acción, Drama",
+                "duracion": "178 min",
+                "type": "PELICULA"
             }
         ]
     },

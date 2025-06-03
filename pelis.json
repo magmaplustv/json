@@ -8694,6 +8694,18 @@
                 "genero": "Acción, Terror, Suspense",
                 "duracion": "86 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El misterio de Salem's Lot",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405581.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jf1V00dZdNkVfEq7VPk8frrlELk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/e9G3Q7TqL3lerTSqdlUj7xKAFdJ.png",
+                "descripcion": "El escritor Ben Mears regresa a Jerusalem's Lot, la casa de su infancia, en busca de inspiración para su próximo libro. Allí descubre que su ciudad natal está siendo presa de un vampiro sediento de sangre.",
+                "anio": "2024",
+                "genero": "Terror",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -8686,6 +8686,18 @@
                 "genero": "Documental",
                 "duracion": "94 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Back to Black",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405727.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/a1m4DAmySexNaaGnjEVA2MKNUCo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wpE1mrJLLhz5ykn9MfuRD9gmlEY.png",
+                "descripcion": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.",
+                "anio": "2024",
+                "genero": "Música, Historia, Drama",
+                "duracion": "122 min",
+                "type": "PELICULA"
             }
         ]
     },

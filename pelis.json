@@ -8311,6 +8311,18 @@
                 "genero": "Drama, Suspense",
                 "duracion": "117 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Una parte de ti",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405528.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/eV9Zm2z7fd6VvgnqvnVUQ6QVxb4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gGW1Je4CaAc1m5QEre6WjA97VKP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/h3kat25xdUjU41D52eAtz6kIift.png",
+                "descripcion": "Una adolescente de 17 años, Agnes, posee todo lo que sueña: ser la chica más popular de la escuela y tener novio. Entonces ocurre lo peor posible y su mundo se pone patas arriba.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "101 min",
+                "type": "PELICULA"
             }
         ]
     },

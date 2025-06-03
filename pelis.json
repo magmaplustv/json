@@ -5446,6 +5446,18 @@
         "name": "⭐️⭐️Cine Infantil⭐️⭐️",
         "samples": [
             {
+                "name": "Capitán Avispa",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405653.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4damV6u8Za9p03SH9jvKr3TwHQC.jpg",
+                "iconpng": "",
+                "descripcion": "En Avispatropolis, el intrépido capitán Avispa emerge como un protector ejemplar de la ciudad, cuyo coraje y convicciones siempre prevalecen sobre las fuerzas del mal. Su poder inquebrantable se nutre de una sinceridad absoluta, pues perdería su fuerza si se atreviera a tejer engaños. Solo en pos de causas nobles se permite desviarse de la verdad. Como es común en historias de este tipo, el capitán Avispa está rodeado de una constelación de amigos cercanos y archienemigos, cuyas historias tienen su origen en las canciones del artista.",
+                "anio": "2024",
+                "genero": "Animación, Familia",
+                "duracion": "88 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "LEGO: La película",
                 "url": "http://vedo.wvdbozpfc.com/vod/C88B175F889046CE9A017EECC9CBE37C_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/faKcUazMUagPhx9N3kKNaUCrES4.jpg",
@@ -5959,18 +5971,6 @@
                 "anio": "2023",
                 "genero": "Familia, Comedia",
                 "duracion": "91 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Capitán Avispa",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405653.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4damV6u8Za9p03SH9jvKr3TwHQC.jpg",
-                "iconpng": "",
-                "descripcion": "En Avispatropolis, el intrépido capitán Avispa emerge como un protector ejemplar de la ciudad, cuyo coraje y convicciones siempre prevalecen sobre las fuerzas del mal. Su poder inquebrantable se nutre de una sinceridad absoluta, pues perdería su fuerza si se atreviera a tejer engaños. Solo en pos de causas nobles se permite desviarse de la verdad. Como es común en historias de este tipo, el capitán Avispa está rodeado de una constelación de amigos cercanos y archienemigos, cuyas historias tienen su origen en las canciones del artista.",
-                "anio": "2024",
-                "genero": "Animación, Familia",
-                "duracion": "88 min",
                 "type": "PELICULA"
             }
         ]

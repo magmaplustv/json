@@ -884,12 +884,6 @@
                 "url": "https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1204601192_b301200.m3u8",
                 "type": "HLS",
                 "icono": "https://i5o948.p3cdn1.secureserver.net/wp-content/uploads/2020/05/LOGO-PARA-FONDO-COLOR.png"
-            },
-            {
-                "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-                "url": "https://stmv5.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8",
-                "type": "HLS",
-                "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
             }
         ]
     },

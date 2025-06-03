@@ -4883,6 +4883,18 @@
         "name": "⭐️Accion⭐️",
         "samples": [
             {
+                "name": "Misión hostil",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405586.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png",
+                "descripcion": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+                "anio": "2024",
+                "genero": "Acción, Bélica, Suspense",
+                "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El Contador",
                 "url": "http://vedo.wvdbozpfc.com/vod/7436A0A4474C4466AD645C388194A16F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3UGoHBbVY8Y5xBwfgFfiplhCOaP.jpg",
@@ -5510,18 +5522,6 @@
                 "anio": "2024",
                 "genero": "Acción, Comedia, Drama, Romance",
                 "duracion": "127 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Misión hostil",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405586.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png",
-                "descripcion": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
-                "anio": "2024",
-                "genero": "Acción, Bélica, Suspense",
-                "duracion": "113 min",
                 "type": "PELICULA"
             }
         ]

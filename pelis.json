@@ -5547,6 +5547,18 @@
                 "genero": "Crimen, Suspense, Acción",
                 "duracion": "99 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Perros de guerra",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405555.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fks0SX3SAOjjV6Rd9sJhXPyI5ai.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/adhmvUZbbxcck5jzhTrxCLvaXty.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4J05LUo03K0BbSsrSzfCLoIeYIo.png",
+                "descripcion": "Tras el fracaso de una operación encubierta, un mercenario sobrevive para vengar a sus camaradas caídos.",
+                "anio": "2024",
+                "genero": "Acción, Suspense",
+                "duracion": "94 min",
+                "type": "PELICULA"
             }
         ]
     },

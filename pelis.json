@@ -5499,6 +5499,18 @@
                 "genero": "Acción, Terror, Suspense, Ciencia ficción",
                 "duracion": "92 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El especialista",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405593.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/A5LijwDVZsupBTL0qKoagMfUiKR.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aR9ae7DX0PNOb6Yc73EZKATZhD1.png",
+                "descripcion": "Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo. ¿Qué podría salir bien?",
+                "anio": "2024",
+                "genero": "Acción, Comedia, Drama, Romance",
+                "duracion": "127 min",
+                "type": "PELICULA"
             }
         ]
     },

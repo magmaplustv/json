@@ -5535,6 +5535,18 @@
                 "genero": "Acción, Crimen, Drama, Suspense",
                 "duracion": "147 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La hora del silencio",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405564.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3C3LTPEdkH0la3LMbCEgMXzMHlh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pS7DtizIvsOhqTyq4TSGBm2zGu7.png",
+                "descripcion": "Sigue a un detective de policía con discapacidad auditiva que trabaja como intérprete para el departamento y debe enfrentarse a un equipo de policías corruptos que intentan eliminar a un testigo de asesinato sordo en un edificio de apartamentos.",
+                "anio": "2024",
+                "genero": "Crimen, Suspense, Acción",
+                "duracion": "99 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -313,6 +313,18 @@
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bob Marley: One Love",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405700.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2QlWpWXZ7exFSsWm8K0Gu9Yqfib.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lHPap2xBR7DgWLiu6RsfKESgzAi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yzu0yisZMNRVK35SWNIxXWPPowO.png",
+                "descripcion": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+                "anio": "2024",
+                "genero": "Música, Historia, Drama",
+                "duracion": "104 min",
+                "type": "PELICULA"
             }
         ]
     },

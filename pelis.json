@@ -6515,6 +6515,18 @@
                 "genero": "Aventura, Ciencia ficción, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
+            },
+            {
+                "name": "El reino animal",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430152.ts",
+                "icono": "https://image.tmdb.org/t/p/original/oWh4BiNEmg7d91ZOXPzdkRo0KSO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uLzkkLkMREqkpovDL0E0KPlgHYK.png",
+                "descripcion": "En un mundo azotado por una ola de mutaciones que transforman gradualmente a algunos humanos en animales, François hace todo lo posible por salvar a su esposa, afectada por esta misteriosa enfermedad. Mientras la sociedad se ve abocada a un nuevo orden, iniciará junto a Émile, su hijo de 16 años, una búsqueda que los cambiará para siempre.",
+                "anio": "2023",
+                "genero": "Aventura, Drama, Ciencia ficción",
+                "duracion": "127 min",
+                "type": "PELICULA"
             }
         ]
     },

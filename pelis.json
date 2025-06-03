@@ -2326,6 +2326,18 @@
                 "genero": "Comedia, Animación",
                 "duracion": "21 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Atlas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405544.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2xMzOOJUdzNuNCg2KruM3QywZpN.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hTyifkSjafKVdBEODW9i9AxOBrT.png",
+                "descripcion": "Una brillante analista antiterrorista recela de la IA hasta que descubre que podría ser su única esperanza cuando se tuerce una misión para atrapar a un robot rebelde.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Acción",
+                "duracion": "120 min",
+                "type": "PELICULA"
             }
         ]
     },

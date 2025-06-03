@@ -5583,6 +5583,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "94 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Wanted Man",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405527.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cOH1ejWdBWgn1bzv0jsnZ2fAUWG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/46SOJGPQdCjBpLlAeuXrKcO1cO6.png",
+                "descripcion": "Sigue a un oficial de policía que debe recuperar a un testigo y escoltarla después de que un tiroteo de un cartel deja varios agentes de la DEA muertos, pero luego debe decidir en quién confiar cuando descubren que el ataque fue ejecutado por fuerzas estadounidenses.",
+                "anio": "2024",
+                "genero": "Acción",
+                "duracion": "85 min",
+                "type": "PELICULA"
             }
         ]
     },

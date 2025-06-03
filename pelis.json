@@ -5631,6 +5631,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "121 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Juego de espías: La ciudad eterna",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405466.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ghlwOez45gndnAp3aPMzg5kxMjp.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5S5RbWcFBlHJnaNQlnLsA5RArBA.png",
+                "descripcion": "Sophie, ahora adolescente, convence a JJ para que acompañe el viaje del coro de su escuela a Italia, donde ambos, sin saberlo, terminan siendo peones en un complot terrorista internacional que tiene como objetivo al jefe de la CIA, David Kim, y su hijo, Collin, quien también resulta ser el mejor amigo de Sophie.",
+                "anio": "2024",
+                "genero": "Acción, Comedia",
+                "duracion": "112 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -6176,6 +6176,18 @@
                 "genero": "Aventura",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hechizados",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405478.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/g4oArI4RmOnSDZzQbdbAm3yLNkC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/n4ycOGj2tRLfINTJQ3wl0vNYqpR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bAHtwnVwcP8TNJ9YCnfMWkiZK3U.png",
+                "descripcion": "Cuando un poderoso hechizo transforma a sus padres en unos monstruos gigantes, una joven princesa debe adentrarse en la naturaleza para romper la maldición antes de que sea tarde.",
+                "anio": "2024",
+                "genero": "Animación, Fantasía, Familia, Aventura, Comedia",
+                "duracion": "110 min",
+                "type": "PELICULA"
             }
         ]
     },

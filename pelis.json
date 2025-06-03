@@ -8478,6 +8478,18 @@
                 "genero": "Acción, Terror, Suspense",
                 "duracion": "86 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Winnie the Pooh 2: El bosque sangriento",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405690.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7BSJhvwvrhifE8DyA5cuXgLRYLx.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2FIZq8dIeeQbvREyLwaPNtjuBfd.png",
+                "descripcion": "En lo más profundo del Bosque de los Cien Acres, crece una furia destructiva cuando Winnie-the-Pooh, Piglet, Owl y Tigger ven peligrar su hogar y sus vidas después de que Christopher Robin revelara su existencia. No queriendo seguir viviendo en la sombra, el grupo decide llevar la lucha al pueblo de Ashdown, hogar de Christopher Robin, dejando un sangriento rastro de muerte y caos a su paso. Winnie y sus salvajes amigos demostrarán a todo el mundo que son más mortíferos, más fuertes y más listos de lo que nadie podría imaginar y conseguirán vengarse de Christopher Robin, de una vez por todas.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

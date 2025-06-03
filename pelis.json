@@ -8239,6 +8239,18 @@
                 "genero": "Drama, Romance",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Un Viaje Al Corazón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405556.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hiVxWksFOe8MqXUvRHdCLJEivAh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/g7cIVHEdgADI3YjI4oCH6xk6vj2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/O94BoJIhlHEuU97E9gxRxs1CG0.png",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Drama, Suspense",
+                "duracion": "117 min",
+                "type": "PELICULA"
             }
         ]
     },

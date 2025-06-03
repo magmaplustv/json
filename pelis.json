@@ -4696,6 +4696,18 @@
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El sindicato",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405714.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7BDKAu6OE6Dh85kkyCR7dm5U1n4.png",
+                "descripcion": "Un obrero de Nueva Jersey pasa de ser un tío normal a un aspirante a espía cuando su novia del instituto, desaparecida desde hace tiempo, lo recluta para una misión de espionaje.",
+                "anio": "2024",
+                "genero": "Acción, Comedia",
+                "duracion": "109 min",
+                "type": "PELICULA"
             }
         ]
     },

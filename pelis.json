@@ -6935,6 +6935,18 @@
                 "genero": "Aventura, Drama, Ciencia ficción",
                 "duracion": "127 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El astronauta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405530.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/q4G7NXuQ0hDCdO6PUQswyU0VDiF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9ZFNRs58TTnvf3utagd0uSJluXa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aKLCzmDFxcWWstM5nSimooaWTJM.png",
+                "descripcion": "Tras seis meses en una solitaria misión espacial, un astronauta hace frente a los problemas de su matrimonio con la ayuda del misterioso polizón que encuentra en su nave.",
+                "anio": "2024",
+                "genero": "Ciencia ficción, Aventura, Drama",
+                "duracion": "108 min",
+                "type": "PELICULA"
             }
         ]
     },

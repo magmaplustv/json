@@ -5619,6 +5619,18 @@
                 "genero": "Acción",
                 "duracion": "85 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Monkey Man",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405467.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9NSXdVHeSfSHUv49OzLispFcpz1.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dOluu6aI5v4XsbMLlQdCGVG7EDT.png",
+                "descripcion": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.",
+                "anio": "2024",
+                "genero": "Acción, Suspense",
+                "duracion": "121 min",
+                "type": "PELICULA"
             }
         ]
     },

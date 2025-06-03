@@ -5391,6 +5391,18 @@
                 "genero": "Acción, Comedia, Romance",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Aftermath",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405665.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/v9knhuvYKwMUAta6fltNOuun3zF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aWILNXgq07riueQknYXMvum11jo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/69YzqiXUaXt88g8YORHoFGUGw4L.png",
+                "descripcion": "Un veterano de guerra que regresa, afectado por trastorno de estrés postraumático queda atrapado, sin saberlo, con su hermana adolescente en el puente Tobin Memorial de Boston mientras un grupo de ex militares revolucionarios fuertemente armados toma a todos como rehenes.",
+                "anio": "2024",
+                "genero": "Acción, Suspense",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

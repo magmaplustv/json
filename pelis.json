@@ -7174,6 +7174,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "110 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ritual de la oscuridad",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405733.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cFGDaoNRMlNynfUgP4MXL2f0AIE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r5NvzqWUpOdy4eQ7OENzb73XY25.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5gr5PbeeyT2gDZuIEfdlX2ahBAu.png",
+                "descripcion": "Desesperado por salvar la vida de su esposa de una terrible enfermedad, Matt recurre a un antiguo artefacto mágico. Pero la cura exige que sea realizado un siniestro ritual con terribles consecuencias.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "96 min",
+                "type": "PELICULA"
             }
         ]
     },

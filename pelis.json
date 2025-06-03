@@ -7426,6 +7426,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "96 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Puntos suspensivos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405603.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/adMpfpP7c33fiZXFu9zznxhMvca.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dTotQNtAW61jUykBliCHH07ublq.jpg",
+                "iconpng": "",
+                "descripcion": "Leo, exitoso escritor de novelas de misterio, firma con el seudónimo de Cameron Graves. Mientras escribe su próximo libro en un aislado chalet, recibe la extraña visita de Jota, un inquietante personaje que dice ser periodista. Nadie conoce la identidad de Leo y solo Victoria, su agente, sabe que está allí, así que: ¿Cómo ha conseguido Jota llegar hasta él?, ¿Cuáles son sus intenciones? Un oscuro secreto relacionado con Adriana, su joven amante, parece estar detrás de la misteriosa visita. Mentiras, traiciones, amenazas y muerte marcaran el despiadado duelo entre estos personajes.",
+                "anio": "2024",
+                "genero": "Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

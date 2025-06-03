@@ -3248,6 +3248,18 @@
                 "genero": "Fantasía, Aventura, Comedia",
                 "duracion": "115 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Stopmotion",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405709.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tfcXyqmWFwVJ6s8vaVsXZYZhkcg.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/shS6buEDnEDoHTdLbGzCoDIZ9ur.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4l3lCMOc2AWZPcx8oiGXFJvK8AG.png",
+                "descripcion": "Una joven animadora lidia con el dolor por la reciente muerte de su madre, quien fue exigente y manipuladora, canalizando su duelo en la creación de una oscura película de marionetas. Sin la figura que siempre la dirigió, la protagonista se pierde en el caos de su recién adquirida libertad, luchando por descubrir su propia voz creativa.",
+                "anio": "2024",
+                "genero": "Terror, Animación",
+                "duracion": "94 min",
+                "type": "PELICULA"
             }
         ]
     },

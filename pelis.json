@@ -9693,6 +9693,18 @@
                 "genero": "Aventura, Comedia",
                 "duracion": "86 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Abracadaver",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405601.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/b0B1lXZcMvHUxYw9mxr0e5abBGG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uHvoqSuXkdQkozFauzQZ5hmNriG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3FTp1Bk4j4PlVjttzskeZy1Cvpx.png",
+                "descripcion": "Tres hermanos magos se reúnen para llevar a cabo un robo imposible: robar una momia gemela de valor incalculable de un lugar fuertemente custodiado para preservar el legado de su familia en el mundo del circo.",
+                "anio": "2024",
+                "genero": "Comedia",
+                "duracion": "115 min",
+                "type": "PELICULA"
             }
         ]
     }

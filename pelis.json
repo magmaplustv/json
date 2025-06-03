@@ -9993,6 +9993,18 @@
                 "genero": "Comedia, Romance, Crimen",
                 "duracion": "116 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Bitelchús Bitelchús",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405491.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xmoffWxd0uf9OdESgpXUKhDqsxz.png",
+                "descripcion": "Tras una inesperada tragedia familiar, tres generaciones de la familia Deetz regresan a Winter River. La vida de Lydia, todavía atormentada por Bitelchús, da un vuelco cuando su rebelde hija adolescente, Astrid, descubre la misteriosa maqueta de la ciudad en el desván y el portal al Más Allá se abre accidentalmente. Con los problemas que se avecinan en ambos reinos, es sólo cuestión de tiempo que alguien diga el nombre de Bitelchús tres veces y el travieso demonio regrese para desatar su propio caos.",
+                "anio": "2024",
+                "genero": "Terror, Comedia, Fantasía",
+                "duracion": "105 min",
+                "type": "PELICULA"
             }
         ]
     }

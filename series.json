@@ -2309,6 +2309,75 @@
                     ],
                     "tmdb_id": 119051,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "El novicio rebelde",
+                    "genero": "Comedia",
+                    "descripcion": "Rogelio, un ladrón, se esconde en la iglesia de su colonia \"El Milagro\" donde es confundido con el nuevo seminarista. Por lo que él sigue el juego usando los refranes callejeros para ganarse a los vecinos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/c7GTNuWM9cSOQ722LpmUDpWJDs4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2DOENEw8VcFfHCvUDuMH1loKbYb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/f012MeMvlU8gqiECmrq7yxipEw2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4C9DE6D74BB849D695D4943D153A10E1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95CC77368DD54D01B82342CBF67B6624_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/13EAD78121844117A8C4390E2CE2CE1E_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5EE8942A7F74C6185BA48C96FB7AFD6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D69F56C78E7E4F72A8125173AB5BC34D_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3DFA5C85CB9D44C99A70E8B1C904B0AB_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/81D656CAAE444C86807C801B344F154E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B20A81BEACD34307B48A59390C463D36_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2B24DB4E4C74DE8A01AC679C42A3BF4_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/988428BD3F9D495C86B0E58BC6BA1897_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291318,
+                    "total_seasons": 1
                 }
             ]
         },

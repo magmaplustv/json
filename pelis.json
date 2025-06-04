@@ -4087,6 +4087,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Corazón delator",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BFC53B845C2E416083D96C4D99D68738_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gcLh20gTCsYQIBS73sFzxKRa65m.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/d8SyvgSYWfSalhi9HIFKoNbGr49.png",
+                "descripcion": "Un amor que trasciende la muerte. Juan Manuel, un empresario frío, recibe el corazón de Pedro, un hombre humilde. Al investigar el origen de su donante, conoce a Valeria, la viuda, y se enamora de ella. Ocultando su identidad, lucha por salvar el barrio de Pedro, sin revelar que en su pecho late su corazón.",
+                "anio": "2025",
+                "genero": "Romance, Drama",
+                "duracion": "89 min",
+                "type": "PELICULA"
             }
         ]
     },

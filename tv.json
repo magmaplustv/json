@@ -1966,7 +1966,7 @@
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5317283f4110fac3fb3a0becd9f648bc&key=0754a03c926b1247216e01d9dbcfac28",
-                "icono": "http://162.55.86.38/Kanrisha/resize?maxw=512&maxh=512&url=s%3A1%3A%2Fimages%2FN3tGkcRlSnSjLql4JaShRWpIvmCZxRgsuP6_G5WMKi0XCnthK5YasrjgSsQN4M-L.png",
+                "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar",

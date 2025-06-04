@@ -7666,6 +7666,18 @@
                 "genero": "Terror, Misterio, Suspense",
                 "duracion": "89 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Terror en el Río",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/744CA2F8E30C453A978E87C6DA2A123E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kIO7eVOivYH9LptLxdXio5KRor.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/I1relwnq4IZ0IOcLxPyyjaiOoN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bpfVYcVbXnu5hcxtGy2p8DACIyk.png",
+                "descripcion": "Un equipo de buceadores se enfrenta a un tiburón toro en las profundidades y a un grupo de despiadados criminales en la superficie.",
+                "anio": "2025",
+                "genero": "Terror, Acción, Aventura, Suspense",
+                "duracion": "85 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -2049,7 +2049,7 @@
                 "name": "HBO Plus",
                 "url": "https://cdn.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png",
+                "icono": "http://162.55.86.38/Kanrisha/resize?maxw=512&maxh=512&url=s%3A1%3A%2Fimages%2FN3tGkcRlSnSjLql4JaShRQ6KMgD-PydkNVyMhqObPWxe8E2r_mHzomZFToAmgtCr.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

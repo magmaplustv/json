@@ -8455,6 +8455,18 @@
                 "genero": "Drama",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tela de araña (Cobweb)",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1E4765D01334561861C574A1A15553A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tTcPEIFEM2IIArXq1d5MyYF5iKB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pZCVRqYkL1OonKp08IkI5mqR3aN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ciI498VFT9xZ0VLLwAdP74EjRg6.png",
+                "descripcion": "La trama se centrará en un director de cine obsesivo durante la década de los 70. Se conoce que habrá metacine y que la fotografía tendrá un toque experimental mezclando el blanco y negro con el color dentro de un mismo fotograma.  Song Kang-ho e Im Soo-jung interpretarán personajes fuera de la película, y Jeon Yeo-been interpretará personajes en la película.",
+                "anio": "2023",
+                "genero": "Comedia, Drama",
+                "duracion": "135 min",
+                "type": "PELICULA"
             }
         ]
     },

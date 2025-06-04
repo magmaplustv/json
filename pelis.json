@@ -5662,6 +5662,18 @@
         "name": "⭐️Cine Infantil⭐️",
         "samples": [
             {
+                "name": "La Rinoceronte Lulu",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BB1EC939A0DE4D9B99E800A9D33B2882_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fulFi5bEkEA037qgBUdtQXsXoCI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ak7IHiAEJIuiEsklXNd05cCbAr3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1EpCp6aUMgaQUeokVreeupB3t7a.png",
+                "descripcion": "En una misión para compartir la amabilidad, Lulu, una amante de la diversión, se embarca en la aventura de su vida, impulsada por sus nuevos amigos, la valentía y canciones pegadizas.",
+                "anio": "2025",
+                "genero": "Animación, Familia",
+                "duracion": "47 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Hechizados",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405478.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/g4oArI4RmOnSDZzQbdbAm3yLNkC.jpg",
@@ -6223,18 +6235,6 @@
                 "anio": "2024",
                 "genero": "Aventura",
                 "duracion": "",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La rinoceronte Lulu",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/BB1EC939A0DE4D9B99E800A9D33B2882_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fulFi5bEkEA037qgBUdtQXsXoCI.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ak7IHiAEJIuiEsklXNd05cCbAr3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1EpCp6aUMgaQUeokVreeupB3t7a.png",
-                "descripcion": "En una misión para compartir la amabilidad, Lulu, una amante de la diversión, se embarca en la aventura de su vida, impulsada por sus nuevos amigos, la valentía y canciones pegadizas.",
-                "anio": "2025",
-                "genero": "Animación, Familia",
-                "duracion": "47 min",
                 "type": "PELICULA"
             }
         ]

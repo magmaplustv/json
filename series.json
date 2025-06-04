@@ -4,6 +4,65 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "El Mal invisible",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "A finales de abril de 2020, en pleno confinamiento por la COVID-19, las autoridades detuvieron a un hombre acusado de asesinar uno tras otro a varios indigentes en las calles de Barcelona. Siempre siguiendo los mismos patrones: siempre mientras dormían y siempre con una brutalidad extrema. Los agentes de homicidios encargados de la investigación, su entorno personal más cercano y quienes se ven obligados a convivir en las calles de Barcelona sin posibilidad de huir de ningún mal son los personajes principales de la historia.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/lWAeHxwcwikvkEZmJKpT568jjDX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uBYLbDab3IMTNFALAyvpTwbsN7h.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Estado de alarma",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E086FB4DAC7D4AD2A02574301FA9044A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre invisible",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A0A2CC44580E40EBBE476A429B2FB507_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El tercer hombre",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4CE004B99D1545C791DA54D373CDBF04_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Operación sleepers",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F615EB7A5344424881AE095D3CE16123_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La noche del cazador",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7F11D926427A45E8BE2B10A17C3A563A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La cacería",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A816A3840C8F46BAB0F8D3F4BEF0D4E8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La muerte de un ciclista",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2AEC74DB3E4F4093B0016E609B6318B8_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Rebeca",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D35FCB00E8464C4C812C19A25CE3AFD2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 251407,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "El Novicio rebelde",
                     "genero": "Comedia",
                     "descripcion": "Rogelio, un ladrón, se esconde en la iglesia de su colonia \"El Milagro\" donde es confundido con el nuevo seminarista. Por lo que él sigue el juego usando los refranes callejeros para ganarse a los vecinos.",
@@ -2387,65 +2446,6 @@
                         }
                     ],
                     "tmdb_id": 280043,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "El Mal invisible",
-                    "genero": "Crimen, Drama, Misterio",
-                    "descripcion": "A finales de abril de 2020, en pleno confinamiento por la COVID-19, las autoridades detuvieron a un hombre acusado de asesinar uno tras otro a varios indigentes en las calles de Barcelona. Siempre siguiendo los mismos patrones: siempre mientras dormían y siempre con una brutalidad extrema. Los agentes de homicidios encargados de la investigación, su entorno personal más cercano y quienes se ven obligados a convivir en las calles de Barcelona sin posibilidad de huir de ningún mal son los personajes principales de la historia.",
-                    "anio": "2025",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/lWAeHxwcwikvkEZmJKpT568jjDX.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uBYLbDab3IMTNFALAyvpTwbsN7h.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Estado de alarma",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E086FB4DAC7D4AD2A02574301FA9044A_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "El hombre invisible",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A0A2CC44580E40EBBE476A429B2FB507_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "El tercer hombre",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4CE004B99D1545C791DA54D373CDBF04_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Operación sleepers",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F615EB7A5344424881AE095D3CE16123_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "La noche del cazador",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7F11D926427A45E8BE2B10A17C3A563A_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "La cacería",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A816A3840C8F46BAB0F8D3F4BEF0D4E8_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "La muerte de un ciclista",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2AEC74DB3E4F4093B0016E609B6318B8_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Rebeca",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D35FCB00E8464C4C812C19A25CE3AFD2_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 251407,
                     "total_seasons": 1
                 }
             ]

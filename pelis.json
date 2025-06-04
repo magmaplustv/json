@@ -906,6 +906,18 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
+            },
+            {
+                "name": "Shadow Force",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/721395335ECD41208510D1C31181EC1C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v67tbCB03CMcJRWit8CS7JdJp6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pbID1LtsgnquZfM4pL2Zy9NtxXH.png",
+                "descripcion": "Con una recompensa por sus cabezas, la pareja formada por Omar Sy y Kerry Washington, huye con su hijo para escapar de su antigua organización: una unidad de operaciones en la sombra que ha sido enviada para liquidarlos.",
+                "anio": "2025",
+                "genero": "Acción, Suspense, Drama",
+                "duracion": "103 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -2751,6 +2751,151 @@
             "nombre": "⭐️⭐️Acción⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Ishura",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "En un mundo donde el Rey Demonio ha muerto, una multitud de semidioses capaces de derribarlo han heredado el mundo. Un maestro esgrimista que puede descubrir cómo eliminar a sus oponentes con una sola mirada; un lancero tan veloz que puede romper la barrera del sonido; un pícaro wyvern que lucha con tres armas legendarias a la vez; un mago todopoderoso que puede hacer realidad los pensamientos; un asesino angelical que causa muerte instantánea. Ansiosos por obtener el título de \"Verdadero Héroe\", estos campeones persiguen desafíos contra enemigos formidables y provocan conflictos entre ellos. Comienza la batalla para determinar quién es el más poderoso de los poderosos.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/zpQTGOgswk0HkhcHOVD6C2BlLY7.png",
+                    "icono": "https://image.tmdb.org/t/p/original/Q0nbxeYiFQJxzJ8nTTOwWNij2z.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4QJjj63L1pfhiF9rSRAVbwB4lLp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Soujiro la Espada Sauce",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431239.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Alus el Jinete Estelar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431240.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Dakai la Urraca y Regnejee El Ala del Atardecer",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431241.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Nihilo la Estampida Vórtice y Kia la Palabra del Mundo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431242.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Higuare el Pelágico y Nastique la Cantante Tranquila",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431243.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Reunión de facciones",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431244.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Comienza la guerra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431245.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La Guerra de la Nueva Reina Demonio",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431246.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Fuego del cielo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431247.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Calamidad evanescente",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431248.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Cuando llega el atardecer",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431249.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Shura",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431250.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Mele el Rugido del Horizonte",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431251.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Linaris la Obsidiana",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431252.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Toroa el Terrible y Mestelexil el Conocimiento Desesperado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431253.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Atrazek la Tormenta de Partículas (1)",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431254.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Atrazek la Tormenta de Partículas (2)",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431255.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Rosclay el Absoluto",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431256.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Lucnoca del Invierno y Psianop el Estancamiento Inagotable",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431257.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Uhak el Silencioso",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431258.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Kazuki el Tono Negro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431259.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Tsu la Maga",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431260.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431261.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Episodio 12",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431262.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 220286,
+                    "total_seasons": 2
+                },
+                {
                     "nombre": "Four Grid Braves",
                     "genero": "Animación, Comedia, Action & Adventure",
                     "descripcion": "En el año 952 del calendario Cattelan, en la parte norte del Continente Central, el Rey Demonio Crodeen y los Cuatro Reyes Celestiales de la Raza Demonio llevaron al Ejército del Rey Demonio a atacar el Reino Cattelan. Cuando la guerra estaba en su apogeo, el valiente humano Zhide Dove entró solo en la ciudad del rey demonio, derrotó a los Cuatro Reyes Celestiales y mató al rey demonio Crodin. Zhide originalmente pensó que este sería el final de la guerra entre humanos y demonios, pero no esperaba que los problemas llegaran a la puerta uno tras otro, y Zhide descubrió el secreto detrás del Reino Cattelan.",
@@ -3843,151 +3988,6 @@
                     ],
                     "tmdb_id": 205788,
                     "total_seasons": 1
-                },
-                {
-                    "nombre": "Ishura",
-                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
-                    "descripcion": "En un mundo donde el Rey Demonio ha muerto, una multitud de semidioses capaces de derribarlo han heredado el mundo. Un maestro esgrimista que puede descubrir cómo eliminar a sus oponentes con una sola mirada; un lancero tan veloz que puede romper la barrera del sonido; un pícaro wyvern que lucha con tres armas legendarias a la vez; un mago todopoderoso que puede hacer realidad los pensamientos; un asesino angelical que causa muerte instantánea. Ansiosos por obtener el título de \"Verdadero Héroe\", estos campeones persiguen desafíos contra enemigos formidables y provocan conflictos entre ellos. Comienza la batalla para determinar quién es el más poderoso de los poderosos.",
-                    "anio": "2024",
-                    "iconPng": "https://image.tmdb.org/t/p/original/zpQTGOgswk0HkhcHOVD6C2BlLY7.png",
-                    "icono": "https://image.tmdb.org/t/p/original/Q0nbxeYiFQJxzJ8nTTOwWNij2z.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/4QJjj63L1pfhiF9rSRAVbwB4lLp.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Soujiro la Espada Sauce",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431239.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Alus el Jinete Estelar",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431240.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Dakai la Urraca y Regnejee El Ala del Atardecer",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431241.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Nihilo la Estampida Vórtice y Kia la Palabra del Mundo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431242.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Higuare el Pelágico y Nastique la Cantante Tranquila",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431243.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Reunión de facciones",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431244.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Comienza la guerra",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431245.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "La Guerra de la Nueva Reina Demonio",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431246.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Fuego del cielo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431247.mp4"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Calamidad evanescente",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431248.mp4"
-                                },
-                                {
-                                    "numero": 11,
-                                    "titulo": "Cuando llega el atardecer",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431249.mp4"
-                                },
-                                {
-                                    "numero": 12,
-                                    "titulo": "Shura",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431250.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Mele el Rugido del Horizonte",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431251.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Linaris la Obsidiana",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431252.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Toroa el Terrible y Mestelexil el Conocimiento Desesperado",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431253.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Atrazek la Tormenta de Partículas (1)",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431254.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Atrazek la Tormenta de Partículas (2)",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431255.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Rosclay el Absoluto",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431256.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Lucnoca del Invierno y Psianop el Estancamiento Inagotable",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431257.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Uhak el Silencioso",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431258.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Kazuki el Tono Negro",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431259.mp4"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Tsu la Maga",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431260.mp4"
-                                },
-                                {
-                                    "numero": 11,
-                                    "titulo": "Episodio 11",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431261.mp4"
-                                },
-                                {
-                                    "numero": 12,
-                                    "titulo": "Episodio 12",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431262.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 220286,
-                    "total_seasons": 2
                 }
             ]
         },

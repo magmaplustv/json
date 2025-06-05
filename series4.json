@@ -1,8 +1,136 @@
 {
     "categorias": [
         {
-            "nombre": "RECOMENDADOS",
+            "nombre": "⚡️Recomendados⚡️",
             "series": [
+                {
+                    "nombre": "El Mal invisible",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "A finales de abril de 2020, en pleno confinamiento por la COVID-19, las autoridades detuvieron a un hombre acusado de asesinar uno tras otro a varios indigentes en las calles de Barcelona. Siempre siguiendo los mismos patrones: siempre mientras dormían y siempre con una brutalidad extrema. Los agentes de homicidios encargados de la investigación, su entorno personal más cercano y quienes se ven obligados a convivir en las calles de Barcelona sin posibilidad de huir de ningún mal son los personajes principales de la historia.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/lWAeHxwcwikvkEZmJKpT568jjDX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uBYLbDab3IMTNFALAyvpTwbsN7h.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Estado de alarma",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E086FB4DAC7D4AD2A02574301FA9044A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre invisible",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A0A2CC44580E40EBBE476A429B2FB507_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El tercer hombre",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4CE004B99D1545C791DA54D373CDBF04_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Operación sleepers",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F615EB7A5344424881AE095D3CE16123_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La noche del cazador",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7F11D926427A45E8BE2B10A17C3A563A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La cacería",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A816A3840C8F46BAB0F8D3F4BEF0D4E8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La muerte de un ciclista",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2AEC74DB3E4F4093B0016E609B6318B8_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Rebeca",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D35FCB00E8464C4C812C19A25CE3AFD2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 251407,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "El Novicio rebelde",
+                    "genero": "Comedia",
+                    "descripcion": "Rogelio, un ladrón, se esconde en la iglesia de su colonia \"El Milagro\" donde es confundido con el nuevo seminarista. Por lo que él sigue el juego usando los refranes callejeros para ganarse a los vecinos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/c7GTNuWM9cSOQ722LpmUDpWJDs4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2DOENEw8VcFfHCvUDuMH1loKbYb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/f012MeMvlU8gqiECmrq7yxipEw2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4C9DE6D74BB849D695D4943D153A10E1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95CC77368DD54D01B82342CBF67B6624_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/13EAD78121844117A8C4390E2CE2CE1E_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5EE8942A7F74C6185BA48C96FB7AFD6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D69F56C78E7E4F72A8125173AB5BC34D_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3DFA5C85CB9D44C99A70E8B1C904B0AB_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/81D656CAAE444C86807C801B344F154E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B20A81BEACD34307B48A59390C463D36_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2B24DB4E4C74DE8A01AC679C42A3BF4_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/988428BD3F9D495C86B0E58BC6BA1897_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291318,
+                    "total_seasons": 1
+                },
                 {
                     "nombre": "Machos de verdad",
                     "genero": "Comedia",
@@ -2250,15 +2378,20 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
-                },
+                }
+            ]
+        },
+        {
+            "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
+            "series": [
                 {
-                    "nombre": "Merlina",
-                    "genero": "Sci-Fi & Fantasy, Misterio, Comedia",
-                    "descripcion": "Miércoles Addams, lista, sarcástica y un poco muerta por dentro, investiga una oleada de asesinatos mientras hace amigos —y enemigos— en la Academia Nunca Más.",
-                    "anio": "2022",
-                    "iconPng": "https://image.tmdb.org/t/p/original/zTX88mQdeaHIgVTT08rrM7pICqF.png",
-                    "icono": "https://image.tmdb.org/t/p/original/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+                    "nombre": "Buen chico",
+                    "genero": "Crimen, Comedia, Action & Adventure, Drama",
+                    "descripcion": "Tras 11 años, la Policía de Insung acoge a antiguos deportistas de la selección nacional. Estos medallistas que fueron héroes se enfrentan hoy a una cruda realidad. Pese a estrecheces económicas, tragedias inesperadas y el desprecio de sus compañeros, aúnan fuerzas como fuerza operativa especial para enfrentarse a graves delitos con el valor y la destreza de sus tiempos como deportistas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/96M5sQ1wGa9FPbB7k1V2cvKGf01.png",
+                    "icono": "https://image.tmdb.org/t/p/original/DVahZPdWI0TmWIUOqcw5hanHuu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kTQ7sRDZwIDgygWKIrhN4T1BLQD.jpg",
                     "temporadas": [
                         {
                             "nombre": "Temporada 1",
@@ -2266,55 +2399,20 @@
                             "capitulos": [
                                 {
                                     "numero": 1,
-                                    "titulo": "Los miércoles son tristes",
-                                    "url": "http://vedo.wvdbozpfc.com/vod/81CC7496B0BD467BBF7B1B1231AF0139_media.mp4"
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C9797F182A43412A8739CCC7518F832C_media.mp4"
                                 },
                                 {
                                     "numero": 2,
-                                    "titulo": "La tristeza es solitaria",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C1B7394CC6A342C5AF3FF6AF43D4D377_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Tristemente amiga o enemiga",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/31DF3A85A3804A018FAD07E2CAEFCC84_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Qué noche la de ese día",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/68E79B5D52D745BE9725D0BAB63C6AF7_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Quien siembra vientos recoge tristeza",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AF9F89273A944038B7D1185009EF1032_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Hoy por mí, mañana por mí",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E2BFD03AE3FD481AB64287F3B6B3ED30_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Qué triste que todavía no me conozcas",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E8CD58104D24F3C8EB9503D5B47C749_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Una bandada de tristeza",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1A9105C7378C4175AD1503282845381B_media.mp4"
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B88D6D37E1344B35A2E46B9F7D42FD34_media.mp4"
                                 }
                             ]
                         }
                     ],
-                    "tmdb_id": 119051,
-                    "total_seasons": 2
-                }
-            ]
-        },
-        {
-            "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
-            "series": [
+                    "tmdb_id": 231280,
+                    "total_seasons": 1
+                },
                 {
                     "nombre": "Matabot",
                     "genero": "Comedia, Drama, Sci-Fi & Fantasy",
@@ -5401,6 +5499,55 @@
             "nombre": "⭐️⭐️Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Sara, la mujer en las sombras",
+                    "genero": "Misterio, Drama, Crimen",
+                    "descripcion": "La muerte sospechosa de su hijo obliga a una antigua agente secreta a volver a la acción e investigar una serie de delitos que se vuelven cada vez más siniestros.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/66NGxmR6eGzMW3wHu6syaXsJvbR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/13S9UQvi1pvP7ro2zVsOpjjeYow.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cBsAo9icWr0mZBvd4Rc0R4kxnDU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/71634716946640A6B957516F82138F1D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0DCD27F6226E469B9BE3096029792EBE_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3595C4544CFB4D8299D6B684DF9DEA70_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/53EFA9A031774878BD91FE2442BC422D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/28F123D58F46467E8B2EAA820EA74DA1_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/668314E8561147438FE74E53B5210189_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291256,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Las nueve piezas del puzle",
                     "genero": "Crimen, Misterio, Drama",
                     "descripcion": "Una sospechosa y un inspector cooperan para acabar con unos asesinatos relacionados con un puzle.",
@@ -6079,6 +6226,336 @@
                         }
                     ],
                     "tmdb_id": 288913,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Invisible",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Una limpiadora busca desesperadamente a su marido mientras una temible organización criminal desentierra las tragedias de su pasado y acaba empujándola a la violencia.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4i6SRxWR9YILR8szlX0lEn4n19t.png",
+                    "icono": "https://image.tmdb.org/t/p/original/qhUEvkvicvoMXJ8k14SNSxOCg01.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/884qeZrLDSqmxRElt1bZ4p8o4Vw.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84D6B4B34D8846F0809E2B2275120F33_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/EE81A719F7564AD3A1678134BB5A82CA_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32C8C47E81634D11AAAF759AE72E11A2_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CFD54AFB4A2F4A408A6B124D78245AB4_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ABE61FA959A04388B4576E95068331F2_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F3910580FD4F41DBA2999882C7FF3F30_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A063BCF8EF8846D8AECB1616F373E6D1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B988F11991644673BDBCEFDF5680F67C_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/61074B9EE2424A41A73025D7411C7C4C_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/FEBE3653FE11433F8EE76B335F8CB4B3_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/266F61F5829443EFA85A3DCD1D8F74A0_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/F4A61D5583004789A49BF64FD1B5A43C_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 220932,
+                    "total_seasons": 2
+                },
+                {
+                    "nombre": "Narcos",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La verdadera historia de los poderosos y violentos cárteles colombianos sirve de hilo conductor en esta serie dramática de mafiosos de gran realismo.",
+                    "anio": "2015",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9ksHxU8TGvG6qWuGutXcw8GCaph.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Descenso",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0CC928A11E6D43E39FFB9631035A59CD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La espada de Simón Bolívar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2DCDCBE5D3B5410AB9E16080732BE1DF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los hombres de siempre",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/5C7654CC2CAA4F46877DC960AF46A73F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El palacio en llamas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B341642C40FF470B822DB46F07EBBD74_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Habrá un futuro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0131C1DDC1974E18846FD8EC280FD6ED_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Explosivos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9ACAFC25821745F383A71603CF8FB960_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Llorarás lágrimas de sangre",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/9FE7EC4026DD4690898DAAE58ABBF5AC_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La gran mentira",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B02331A68C9E4899951EE10033281596_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La Catedral",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B56220829B6A46D68E193A053F7EB8EB_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Despegue",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4188EEFE03CC43D9BDD349BB23CA268A_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Al fin libre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/026614E25514409F8AECB884C99A98DC_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cambalache",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F15306F9B77A4BBFA5821A25086529D6_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Nuestro hombre en Madrid",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/818C4C5A9061484BACDAB33C0C373128_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El bueno, el malo y el muerto",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/CB1FA18F046447728E92B192C49F0E41_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los enemigos de mi enemigo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EB19BE8831B04B1A91EF4CEC304D7110_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los Pepes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DE42E2D1730A4A4DBCEE339C8ED461E8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Deutschland 93",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C9C42D9F4DAD4540A3890776CCC53C57_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Patrón se queda solo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89B9D3D597CC4DA8A3CD48E4B959A508_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Nuestra finca",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/D3E6B6576D6F4EF9A8579C72B5CE9885_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¡Al fin cayó!",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6A17FE2B7B324C65BF2D5A4E26DF881A_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La estrategia del cabecilla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E663F1A842B844E9903FE621AF0BDBF2_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El KGB de Cali",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/48F829886B004ABD977FA1FE01C890B2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sigue el rastro del dinero",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9CA3D2971B6248DA913D71F5D7C7EA0B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Jaque mate",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/E0E39203C37E4175B6845DC767FE43CB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "MRO",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F167CEAD78AC48309550A9FE3996377C_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "No hay plan perfecto",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/01F75898A90A40C3A21D762755321CEE_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sin salida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A6441F7428C34D2E9F7FA35971DDDC38_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Convivir",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/BDFB5F17463C438D84B23BE1A11F5522_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Todos los hombres del presidente",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/9FAF1EBD05D044ACAA2604FAD417CB55_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "De vuelta a Cali",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/78E93AA177F241B48806681458B59DB3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 63351,
+                    "total_seasons": 3
+                },
+                {
+                    "nombre": "Department Q",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Un poli descarado pero brillante se pone al frente de un nuevo departamento, donde dirige a un grupo de inadaptados que van a trabajar en los casos sin resolver de Edimburgo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rhg4Lsi7FNEHKfJp3YhNSeWMWm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jnDs84n7B7dfUzDepe0VHXXwlas.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wIoxMHbyUJnx5Fm9tI26hIYGI1D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9B9F121F4F1D40D6A1E38F9B8744C756_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7FEEDE0BF109484EA988A885A31E3FA7_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A52C5A9BC41647B7ABA46E88643A9B4D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5EC0246453E46A7A679A92B66B9989E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9C2269574B514E31868CEEA750079455_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DCD9CB6D23624F0BB040507CD442AD3D_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ED74314217384E5A99CEF754F2906436_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F3F504EE2C28410FA54350DE92219EF1_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2D1A4037F89A412EB271D7AB3A8F34B9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245703,
                     "total_seasons": 1
                 }
             ]
@@ -7532,6 +8009,75 @@
                     ],
                     "tmdb_id": 246992,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El Novicio rebelde",
+                    "genero": "Comedia",
+                    "descripcion": "Rogelio, un ladrón, se esconde en la iglesia de su colonia \"El Milagro\" donde es confundido con el nuevo seminarista. Por lo que él sigue el juego usando los refranes callejeros para ganarse a los vecinos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/c7GTNuWM9cSOQ722LpmUDpWJDs4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/2DOENEw8VcFfHCvUDuMH1loKbYb.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/f012MeMvlU8gqiECmrq7yxipEw2.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4C9DE6D74BB849D695D4943D153A10E1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/95CC77368DD54D01B82342CBF67B6624_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/13EAD78121844117A8C4390E2CE2CE1E_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5EE8942A7F74C6185BA48C96FB7AFD6_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D69F56C78E7E4F72A8125173AB5BC34D_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3DFA5C85CB9D44C99A70E8B1C904B0AB_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/81D656CAAE444C86807C801B344F154E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B20A81BEACD34307B48A59390C463D36_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D2B24DB4E4C74DE8A01AC679C42A3BF4_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/988428BD3F9D495C86B0E58BC6BA1897_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291318,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -7862,6 +8408,242 @@
         {
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
+                {
+                    "nombre": "Unicornio salvaje",
+                    "genero": "Drama",
+                    "descripcion": "Un emprendedor en ciernes abre nuevas sendas con el lanzamiento de un servicio de mensajería que atrae nuevas oportunidades y poderosos enemigos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/2gJKtmt55Rt92cvtyelRqgulqFx.png",
+                    "icono": "https://image.tmdb.org/t/p/original/7QeX24363a9AeaZ7UnIpFHDlH1F.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/YI4EbHaGj4CDjA0YcbTUKHvLPt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un gorrión y un gallo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6515D5930D6748049672C6953F4C3E5C_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Nuestro imperio",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/24658B17549C4BD1B1F1A1B50B5554C3_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "A por todas",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/738150A44DAC4306BF1E84195011794F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Thunder contraataca",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A4CCC97C497A40F9B72C700177F0FCC7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Sobrecarga",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4E45D4FA69B147298E5451F6927D6D94_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La última bala",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/6BCB9AD945304FDAB0520E7265C911DE_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El día siguiente",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/B638FF46212F49F5A94DA545330A6C45_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 283776,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Department Q",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Un poli descarado pero brillante se pone al frente de un nuevo departamento, donde dirige a un grupo de inadaptados que van a trabajar en los casos sin resolver de Edimburgo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rhg4Lsi7FNEHKfJp3YhNSeWMWm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jnDs84n7B7dfUzDepe0VHXXwlas.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wIoxMHbyUJnx5Fm9tI26hIYGI1D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9B9F121F4F1D40D6A1E38F9B8744C756_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7FEEDE0BF109484EA988A885A31E3FA7_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A52C5A9BC41647B7ABA46E88643A9B4D_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D5EC0246453E46A7A679A92B66B9989E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9C2269574B514E31868CEEA750079455_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DCD9CB6D23624F0BB040507CD442AD3D_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/ED74314217384E5A99CEF754F2906436_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F3F504EE2C28410FA54350DE92219EF1_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2D1A4037F89A412EB271D7AB3A8F34B9_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245703,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "La mejor hermana",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Chloe se mueve en los círculos más elitistas de Nueva York con su marido abogado Adam y su hijo adolescente Ethan a su lado, mientras su hermana Nicky, distanciada de ella, intenta llegar a fin de mes y mantenerse limpia de drogas. Cuando Adam es brutalmente asesinado, la investigación sacude a toda la familia y saca a la luz secretos que llevaban mucho tiempo enterrados.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oCtjq1OW7nUrQY8Pyq8sbl9Mm6n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cwVT6a6eUzhZdkQB4vPDGdmpacw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/25EBuAv16ZCsnxqJoDx0GwwQoSG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Es mi hermana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5C1C5867E1CF4B93A5961CCD103017A9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuánto cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/61FA9A4294934C549D475359AF7EBEA2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Viene la viuda",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1903ED347F184553805ED7735DB203D6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Gazpacho",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/213441F5DBD6437A9ADEBFCD4002227E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tú pregunta",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88A28E6562AF470F80C77C4E6DA17713_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un apoyo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE650CBD8BCE45D1A34DA8397D758159_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Recuperación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0CE1E4756A7745AAA6B5A0A7F3F0F397_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Ellos en su mundo",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7BEE5EAFFAB847F3914CBCE22E8467D4_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253321,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Legado",
+                    "genero": "Drama",
+                    "descripcion": "Tras una grave enfermedad, un magnate de los medios de comunicación descubre que la gerencia de sus hijos amenaza con destruir su querido emporio… y hará lo que sea para salvarlo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5qhHdfAAPDo0TxZXvTPoU7CX0kn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/P4nFALM1XAfqqIGTrLfR1aq7tS.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/clIn3tF321TcsajGGNoWMGcz0ii.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Volver",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/C76DB9539B0241D49B6984FA70B78BA4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Castigar",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0B3EA2B84EC6473D801D29D2DAA778BC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Negociar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/39F4ED4F31824300A067A556212158A4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Despedir",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/49FFD82976C5425C9F63EE6A88409FFA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Publicar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9B642BD1EB864972A9A1E802B3960C75_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Perdonar",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/890A89BF4BC24F29B15A1918AB523E25_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Luchar",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7FFD3E4E13A0402E99CBA24ED88AC8ED_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Decidir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F61F02508F43454AB3A92DA5CD44DAD2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248716,
+                    "total_seasons": 1
+                },
                 {
                     "nombre": "Franklin",
                     "genero": "Drama, Crimen",
@@ -9818,6 +10600,236 @@
                     ],
                     "tmdb_id": 262878,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Narcos",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "La verdadera historia de los poderosos y violentos cárteles colombianos sirve de hilo conductor en esta serie dramática de mafiosos de gran realismo.",
+                    "anio": "2015",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9ksHxU8TGvG6qWuGutXcw8GCaph.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Descenso",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0CC928A11E6D43E39FFB9631035A59CD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "La espada de Simón Bolívar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2DCDCBE5D3B5410AB9E16080732BE1DF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los hombres de siempre",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/5C7654CC2CAA4F46877DC960AF46A73F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El palacio en llamas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B341642C40FF470B822DB46F07EBBD74_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Habrá un futuro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0131C1DDC1974E18846FD8EC280FD6ED_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Explosivos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9ACAFC25821745F383A71603CF8FB960_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Llorarás lágrimas de sangre",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/9FE7EC4026DD4690898DAAE58ABBF5AC_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La gran mentira",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B02331A68C9E4899951EE10033281596_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "La Catedral",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/B56220829B6A46D68E193A053F7EB8EB_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Despegue",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4188EEFE03CC43D9BDD349BB23CA268A_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Al fin libre",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/026614E25514409F8AECB884C99A98DC_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cambalache",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F15306F9B77A4BBFA5821A25086529D6_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Nuestro hombre en Madrid",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/818C4C5A9061484BACDAB33C0C373128_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El bueno, el malo y el muerto",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/CB1FA18F046447728E92B192C49F0E41_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Los enemigos de mi enemigo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EB19BE8831B04B1A91EF4CEC304D7110_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los Pepes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DE42E2D1730A4A4DBCEE339C8ED461E8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Deutschland 93",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C9C42D9F4DAD4540A3890776CCC53C57_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Patrón se queda solo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89B9D3D597CC4DA8A3CD48E4B959A508_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Nuestra finca",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/D3E6B6576D6F4EF9A8579C72B5CE9885_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¡Al fin cayó!",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6A17FE2B7B324C65BF2D5A4E26DF881A_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La estrategia del cabecilla",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E663F1A842B844E9903FE621AF0BDBF2_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El KGB de Cali",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/48F829886B004ABD977FA1FE01C890B2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Sigue el rastro del dinero",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9CA3D2971B6248DA913D71F5D7C7EA0B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Jaque mate",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/E0E39203C37E4175B6845DC767FE43CB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "MRO",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F167CEAD78AC48309550A9FE3996377C_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "No hay plan perfecto",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/01F75898A90A40C3A21D762755321CEE_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sin salida",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A6441F7428C34D2E9F7FA35971DDDC38_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Convivir",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/BDFB5F17463C438D84B23BE1A11F5522_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Todos los hombres del presidente",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/9FAF1EBD05D044ACAA2604FAD417CB55_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "De vuelta a Cali",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/78E93AA177F241B48806681458B59DB3_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 63351,
+                    "total_seasons": 3
+                },
+                {
+                    "nombre": "Sara, la mujer en las sombras",
+                    "genero": "Misterio, Drama, Crimen",
+                    "descripcion": "La muerte sospechosa de su hijo obliga a una antigua agente secreta a volver a la acción e investigar una serie de delitos que se vuelven cada vez más siniestros.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/66NGxmR6eGzMW3wHu6syaXsJvbR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/13S9UQvi1pvP7ro2zVsOpjjeYow.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cBsAo9icWr0mZBvd4Rc0R4kxnDU.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/71634716946640A6B957516F82138F1D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0DCD27F6226E469B9BE3096029792EBE_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/3595C4544CFB4D8299D6B684DF9DEA70_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/53EFA9A031774878BD91FE2442BC422D_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/28F123D58F46467E8B2EAA820EA74DA1_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/668314E8561147438FE74E53B5210189_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291256,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -10770,6 +11782,227 @@
                     ],
                     "tmdb_id": 158916,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Legado",
+                    "genero": "Drama",
+                    "descripcion": "Tras una grave enfermedad, un magnate de los medios de comunicación descubre que la gerencia de sus hijos amenaza con destruir su querido emporio… y hará lo que sea para salvarlo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5qhHdfAAPDo0TxZXvTPoU7CX0kn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/P4nFALM1XAfqqIGTrLfR1aq7tS.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/clIn3tF321TcsajGGNoWMGcz0ii.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Volver",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/C76DB9539B0241D49B6984FA70B78BA4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Castigar",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/0B3EA2B84EC6473D801D29D2DAA778BC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Negociar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/39F4ED4F31824300A067A556212158A4_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Despedir",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/49FFD82976C5425C9F63EE6A88409FFA_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Publicar",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9B642BD1EB864972A9A1E802B3960C75_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Perdonar",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/890A89BF4BC24F29B15A1918AB523E25_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Luchar",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7FFD3E4E13A0402E99CBA24ED88AC8ED_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Decidir",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F61F02508F43454AB3A92DA5CD44DAD2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248716,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Cuando nadie nos ve",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "Un suicidio ritual y la desaparición de un soldado americano conectan las investigaciones y las vidas de la sargento Gutiérrez y la teniente Castillo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/h3pG2zyJE6OARCbxG858F8i6rd4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/h1gYHnadcTJQJzIuWBdz51mI1M3.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7LhbN2JfTZgt4cdxaHl14pqV9JT.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Domingo de Ramos",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9F035C89668D48F2B0E27949FE7F5279_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Lunes Santo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/94CF49E56D1343BE9D8B5C4EBEEF4AE0_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Martes Santo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DA3F3D42CD074D5494F741B89A37CD43_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Miercoles Santo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/774569C091524304927A2E8390FBFE5F_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El sargento Andrew Taylor",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CD5EA9D7022E485384D2FD6193A16F1F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 229513,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "La mejor hermana",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Chloe se mueve en los círculos más elitistas de Nueva York con su marido abogado Adam y su hijo adolescente Ethan a su lado, mientras su hermana Nicky, distanciada de ella, intenta llegar a fin de mes y mantenerse limpia de drogas. Cuando Adam es brutalmente asesinado, la investigación sacude a toda la familia y saca a la luz secretos que llevaban mucho tiempo enterrados.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oCtjq1OW7nUrQY8Pyq8sbl9Mm6n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cwVT6a6eUzhZdkQB4vPDGdmpacw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/25EBuAv16ZCsnxqJoDx0GwwQoSG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Es mi hermana",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5C1C5867E1CF4B93A5961CCD103017A9_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuánto cielo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/61FA9A4294934C549D475359AF7EBEA2_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Viene la viuda",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1903ED347F184553805ED7735DB203D6_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Gazpacho",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/213441F5DBD6437A9ADEBFCD4002227E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tú pregunta",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/88A28E6562AF470F80C77C4E6DA17713_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un apoyo",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/AE650CBD8BCE45D1A34DA8397D758159_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Recuperación",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0CE1E4756A7745AAA6B5A0A7F3F0F397_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Ellos en su mundo",
+                                    "url": "http://vedo.wvdbozpfc.com/vod/7BEE5EAFFAB847F3914CBCE22E8467D4_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253321,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "El Mal invisible",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "A finales de abril de 2020, en pleno confinamiento por la COVID-19, las autoridades detuvieron a un hombre acusado de asesinar uno tras otro a varios indigentes en las calles de Barcelona. Siempre siguiendo los mismos patrones: siempre mientras dormían y siempre con una brutalidad extrema. Los agentes de homicidios encargados de la investigación, su entorno personal más cercano y quienes se ven obligados a convivir en las calles de Barcelona sin posibilidad de huir de ningún mal son los personajes principales de la historia.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/lWAeHxwcwikvkEZmJKpT568jjDX.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uBYLbDab3IMTNFALAyvpTwbsN7h.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Estado de alarma",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E086FB4DAC7D4AD2A02574301FA9044A_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre invisible",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A0A2CC44580E40EBBE476A429B2FB507_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El tercer hombre",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/4CE004B99D1545C791DA54D373CDBF04_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Operación sleepers",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/F615EB7A5344424881AE095D3CE16123_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "La noche del cazador",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7F11D926427A45E8BE2B10A17C3A563A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "La cacería",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/A816A3840C8F46BAB0F8D3F4BEF0D4E8_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La muerte de un ciclista",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/2AEC74DB3E4F4093B0016E609B6318B8_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Rebeca",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D35FCB00E8464C4C812C19A25CE3AFD2_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 251407,
+                    "total_seasons": 1
                 }
             ]
         }

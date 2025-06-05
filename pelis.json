@@ -942,6 +942,18 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
+            },
+            {
+                "name": "Sikandar",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431517.ts",
+                "icono": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bNKRRx5KzuyILXUvV7Xr8SYNVYg.png",
+                "descripcion": "Un hombre valiente se enfrenta a una poderosa red de corrupción, desafiando el status quo y luchando por los derechos de la gente común en una nación presa de la injusticia.",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "133 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -9073,6 +9073,65 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Doc",
+                    "genero": "Drama",
+                    "descripcion": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/yT1KPoclKvUCL1UPaMiurfoIKJi.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8rGnY4OnI7h7WK4SpTLUfDXE7vz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nZnzeTBrOHZ9LOSJX8MOGgtGIpA.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Si no empiezas bien...",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430469.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "...Inténtalo de nuevo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430470.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El primer día",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430471.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un pequeño paso",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430472.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un día muy intenso",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430473.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Y con sentimiento",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430474.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Secretos y mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430475.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El hombre propone",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430476.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255055,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Unicornio salvaje",
                     "genero": "Drama",
                     "descripcion": "Un emprendedor en ciernes abre nuevas sendas con el lanzamiento de un servicio de mensajería que atrae nuevas oportunidades y poderosos enemigos.",
@@ -11493,65 +11552,6 @@
                         }
                     ],
                     "tmdb_id": 291256,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Doc",
-                    "genero": "Drama",
-                    "descripcion": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/yT1KPoclKvUCL1UPaMiurfoIKJi.png",
-                    "icono": "https://image.tmdb.org/t/p/original/8rGnY4OnI7h7WK4SpTLUfDXE7vz.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nZnzeTBrOHZ9LOSJX8MOGgtGIpA.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Si no empiezas bien...",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430469.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "...Inténtalo de nuevo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430470.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "El primer día",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430471.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Un pequeño paso",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430472.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Un día muy intenso",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430473.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Y con sentimiento",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430474.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Secretos y mentiras",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430475.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "El hombre propone",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430476.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 255055,
                     "total_seasons": 1
                 }
             ]

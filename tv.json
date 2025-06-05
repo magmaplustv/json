@@ -1222,16 +1222,9 @@
             },
             {
                 "name": "DIRECTV SPORTS 2",
-                "url": "http://magmaplayer.com/stream/secure/BGxmKmZkBI8kBQRhBGRhBQDhAQEsZGp0AwZ5.m3u8",
+                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181837",
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                }
+                "type": "HLS"
             },
             {
                 "name": "DIRECTV SPORTS PLUS",
@@ -3474,7 +3467,7 @@
             },
             {
                 "name": "EVENTOS1 TIGO FULL HD",
-               "url": "https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "url": "https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
                 "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg",
@@ -3486,7 +3479,7 @@
             },
             {
                 "name": "EVENTOS 2 TIGO FULL HD",
-           "url": "https://sam-py-edge02.tigo.com.py/ccur-session/c0407ce31d094f44a37bc78d8bad2d0517488070560531b65a320aeed11ebae01d90082191a3cm5YocASvNuvpXkjB7GO5vANF/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "url": "https://sam-py-edge02.tigo.com.py/ccur-session/c0407ce31d094f44a37bc78d8bad2d0517488070560531b65a320aeed11ebae01d90082191a3cm5YocASvNuvpXkjB7GO5vANF/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
                 "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg",

@@ -4544,6 +4544,75 @@
                     ],
                     "tmdb_id": 288055,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Four Grid Braves",
+                    "genero": "Animación, Comedia, Action & Adventure",
+                    "descripcion": "En el año 952 del calendario Cattelan, en la parte norte del Continente Central, el Rey Demonio Crodeen y los Cuatro Reyes Celestiales de la Raza Demonio llevaron al Ejército del Rey Demonio a atacar el Reino Cattelan. Cuando la guerra estaba en su apogeo, el valiente humano Zhide Dove entró solo en la ciudad del rey demonio, derrotó a los Cuatro Reyes Celestiales y mató al rey demonio Crodin. Zhide originalmente pensó que este sería el final de la guerra entre humanos y demonios, pero no esperaba que los problemas llegaran a la puerta uno tras otro, y Zhide descubrió el secreto detrás del Reino Cattelan.",
+                    "anio": "2023",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/hkNZwSpscq9AdKMYGpWp0sF359l.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fA9yHyUDkZJruf15vTrP8gGSn9Z.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431316.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431317.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431287.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431288.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431289.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431290.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431291.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431292.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431293.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431294.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 213424,
+                    "total_seasons": 1
                 }
             ]
         },

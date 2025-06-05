@@ -4,6 +4,30 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Chespirito: Sin querer queriendo",
+                    "genero": "Drama",
+                    "descripcion": "La historia de Roberto Gómez Bolaños, el hombre que transformó su anhelo de hacer reír en un legado universal. Desde su infancia hasta su consagración en las décadas de los 50 a los 80, esta biografía íntima nos revela cómo un joven soñador encontró su lugar en la naciente industria televisiva, creando personajes inolvidables cargados de ternura y humor. Pero detrás del genio que hizo reír al mundo entero, hubo también un ser humano en constante búsqueda de amor y reconocimiento, dispuesto a sacrificarlo todo por permanecer en el corazón de su audiencia.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/dASDr3Nix1OC6ZSm5pAzhjxzNoE.png",
+                    "icono": "https://image.tmdb.org/t/p/original/8oIQgw29NCd8EIazLetxHAHzdg7.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tb5AiSdpH5rP9Zf3YMUjZkKIUxn.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E8D226C08C504568BA1757ED056A07A1_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 279060,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "El Mal invisible",
                     "genero": "Crimen, Drama, Misterio",
                     "descripcion": "A finales de abril de 2020, en pleno confinamiento por la COVID-19, las autoridades detuvieron a un hombre acusado de asesinar uno tras otro a varios indigentes en las calles de Barcelona. Siempre siguiendo los mismos patrones: siempre mientras dormían y siempre con una brutalidad extrema. Los agentes de homicidios encargados de la investigación, su entorno personal más cercano y quienes se ven obligados a convivir en las calles de Barcelona sin posibilidad de huir de ningún mal son los personajes principales de la historia.",
@@ -2377,30 +2401,6 @@
                         }
                     ],
                     "tmdb_id": 280043,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Chespirito: Sin querer queriendo",
-                    "genero": "Drama",
-                    "descripcion": "La historia de Roberto Gómez Bolaños, el hombre que transformó su anhelo de hacer reír en un legado universal. Desde su infancia hasta su consagración en las décadas de los 50 a los 80, esta biografía íntima nos revela cómo un joven soñador encontró su lugar en la naciente industria televisiva, creando personajes inolvidables cargados de ternura y humor. Pero detrás del genio que hizo reír al mundo entero, hubo también un ser humano en constante búsqueda de amor y reconocimiento, dispuesto a sacrificarlo todo por permanecer en el corazón de su audiencia.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/dASDr3Nix1OC6ZSm5pAzhjxzNoE.png",
-                    "icono": "https://image.tmdb.org/t/p/original/8oIQgw29NCd8EIazLetxHAHzdg7.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tb5AiSdpH5rP9Zf3YMUjZkKIUxn.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E8D226C08C504568BA1757ED056A07A1_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 279060,
                     "total_seasons": 1
                 }
             ]

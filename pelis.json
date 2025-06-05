@@ -4279,6 +4279,18 @@
         "name": "⭐️Prime Video⭐️",
         "samples": [
             {
+                "name": "La Dinastía de la espada",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431518.ts",
+                "icono": "https://image.tmdb.org/t/p/original/kowCKRIO1xws2USrgWaPYdTZzYO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8Xcm1TIyrGv5ebdK1K89YDisd6c.jpg",
+                "iconpng": "",
+                "descripcion": "Dos jóvenes están en una aventura para recuperar la famosa espada de nueve anillos, un tesoro que les dejó el emperador de la dinastía Song a su familia.",
+                "anio": "2025",
+                "genero": "Acción, Aventura",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Como una ola en el mar",
                 "url": "http://vedo.wvdbozpfc.com/vod/0607A5CEBAAB43CE8C51C436BD9D2E68_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/drCotB9bXfRvBIwptYPIBZjsFnE.jpg",
@@ -4889,18 +4901,6 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
                 "iconpng": ""
-            },
-            {
-                "name": "La Dinastía de la espada",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431518.ts",
-                "icono": "https://image.tmdb.org/t/p/original/kowCKRIO1xws2USrgWaPYdTZzYO.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8Xcm1TIyrGv5ebdK1K89YDisd6c.jpg",
-                "iconpng": "",
-                "descripcion": "Dos jóvenes están en una aventura para recuperar la famosa espada de nueve anillos, un tesoro que les dejó el emperador de la dinastía Song a su familia.",
-                "anio": "2025",
-                "genero": "Acción, Aventura",
-                "duracion": "90 min",
-                "type": "PELICULA"
             }
         ]
     },

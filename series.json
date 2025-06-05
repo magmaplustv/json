@@ -6035,6 +6035,75 @@
             "nombre": "⭐️⭐️Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Clase letal",
+                    "genero": "Drama, Crimen, Action & Adventure",
+                    "descripcion": "Sigue a un adolescente desilusionado que fue reclutado en una escuela secundaria para asesinos. Mantener su código moral mientras sobrevive a un plan de estudios despiadado, camarillas sociales viciosas y sus propias incertidumbres adolescentes puede resultar fatal.",
+                    "anio": "2019",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6gbowvuLELSdt98m41bTfp89kMn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/u2GSiPazSXpyNQz0yymOUCUm944.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hsjONsbQhbqnwwFNKsLX0KNiv8p.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Juventud Reagan",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431007.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Ruido, ruido, ruido",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431008.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Nido de víboras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431009.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Gente espejo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431010.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Saudade",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431011.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Mártir con estigmas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431012.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Alzamiento",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431013.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Medidas drásticas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431014.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Los niños del agujero negro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431015.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Hundidos con California",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431016.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 75663,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Sara, la mujer en las sombras",
                     "genero": "Misterio, Drama, Crimen",
                     "descripcion": "La muerte sospechosa de su hijo obliga a una antigua agente secreta a volver a la acción e investigar una serie de delitos que se vuelven cada vez más siniestros.",
@@ -7151,75 +7220,6 @@
                         }
                     ],
                     "tmdb_id": 236429,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Clase letal",
-                    "genero": "Drama, Crimen, Action & Adventure",
-                    "descripcion": "Sigue a un adolescente desilusionado que fue reclutado en una escuela secundaria para asesinos. Mantener su código moral mientras sobrevive a un plan de estudios despiadado, camarillas sociales viciosas y sus propias incertidumbres adolescentes puede resultar fatal.",
-                    "anio": "2019",
-                    "iconPng": "https://image.tmdb.org/t/p/original/6gbowvuLELSdt98m41bTfp89kMn.png",
-                    "icono": "https://image.tmdb.org/t/p/original/u2GSiPazSXpyNQz0yymOUCUm944.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hsjONsbQhbqnwwFNKsLX0KNiv8p.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Juventud Reagan",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431007.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Ruido, ruido, ruido",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431008.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Nido de víboras",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431009.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Gente espejo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431010.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Saudade",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431011.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Mártir con estigmas",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431012.ts"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Alzamiento",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431013.ts"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Medidas drásticas",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431014.ts"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Los niños del agujero negro",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431015.ts"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Hundidos con California",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431016.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 75663,
                     "total_seasons": 1
                 }
             ]

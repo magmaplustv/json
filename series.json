@@ -7024,6 +7024,65 @@
                     ],
                     "tmdb_id": 245703,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Al Filo Del Deber",
+                    "genero": "Crimen, Drama, Action & Adventure",
+                    "descripcion": "Emocionante drama policiaco que nos sube a un coche patrulla de la Policía de Long Beach. A través de la agente formadora Traci Harmon y el novato Alex Diaz veremos cómo las dificultades del trabajo afectan a la condición humana. Harmon abrirá los ojos gracias a un chico de la calle, y Diaz aprenderá que ser policía no es blanco o negro, tiene matices grises.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7dJwtatYyGHZb74GJyGk9Sc5Smv.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5SIryao4EUW9SdYrjnNBfirZV45.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/dIN52QR6EY2o0nq5TWHoZHP0cmQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430810.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Leyes del universo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430811.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Al sur del paraíso",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430812.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Olvidado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430813.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "No soy tu salvador",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430814.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Mujer de L. Á.",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430815.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Máquina de guerra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430816.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cómo se conquistó el Oeste",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/430817.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 236429,
+                    "total_seasons": 1
                 }
             ]
         },

@@ -344,6 +344,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Tierras perdidas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431516.ts",
+                "icono": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gyasKnWyeoPvL7q3Opaod8GKcUu.png",
+                "descripcion": "Basada en el relato de George R. R. Martin. Una reina (Amara Okereke), desesperada por encontrar la felicidad en el amor, envía a la poderosa bruja Gray Alys (Milla Jovovich) a las Tierras Perdidas, en busca de un poder mágico que permite a una persona transformarse en un hombre lobo. Con el misterioso cazador Boyce (Dave Bautista), que la apoya en la lucha contra criaturas oscuras y despiadadas, Gray deambula por un mundo inquietante y peligroso. Pero solo ella sabe que, cada deseo que se concede, tiene consecuencias inimaginables.",
+                "anio": "2025",
+                "genero": "Acción, Fantasía, Aventura",
+                "duracion": "102 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Kiff Lore of the Ring Light",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C6FB9FF4136C4C179F643C86C914C649_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/efqeK11WdXNkiOz7FkyrUCJZvwv.jpg",
@@ -930,18 +942,6 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
-            },
-            {
-                "name": "Tierras perdidas",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431516.ts",
-                "icono": "https://image.tmdb.org/t/p/original/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gyasKnWyeoPvL7q3Opaod8GKcUu.png",
-                "descripcion": "Basada en el relato de George R. R. Martin. Una reina (Amara Okereke), desesperada por encontrar la felicidad en el amor, envía a la poderosa bruja Gray Alys (Milla Jovovich) a las Tierras Perdidas, en busca de un poder mágico que permite a una persona transformarse en un hombre lobo. Con el misterioso cazador Boyce (Dave Bautista), que la apoya en la lucha contra criaturas oscuras y despiadadas, Gray deambula por un mundo inquietante y peligroso. Pero solo ella sabe que, cada deseo que se concede, tiene consecuencias inimaginables.",
-                "anio": "2025",
-                "genero": "Acción, Fantasía, Aventura",
-                "duracion": "102 min",
-                "type": "PELICULA"
             }
         ]
     },

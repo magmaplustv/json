@@ -3693,6 +3693,12 @@
                 "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
             },
             {
+                "name": "VTV+ PLUS opc2",
+                "url": "http://liketv.pro:80/live/NovaBoxtv504/JWJNnMCeFU/8721.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
+            },
+            {
                 "name": "TV Ciudad Uruguay",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd",
                 "type": "CLEARKEY",
@@ -3738,12 +3744,6 @@
                 "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181835",
                 "type": "HLS",
                 "icono": "https://pbs.twimg.com/profile_images/1389297875469877250/_Rgj0-YU_400x400.jpg"
-            },
-            {
-                "name": "VTV+ PLUS opc2",
-                "url": "http://liketv.pro:80/live/NovaBoxtv504/JWJNnMCeFU/8721.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/7HNRN1S/Logo-VTV-Plus-nuevo.png"
             }
         ]
     },

@@ -6102,6 +6102,80 @@
                     ],
                     "tmdb_id": 76479,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Obtuve una habilidad para hacer trampa en otro mundo y también me volví incomparable en el mundo",
+                    "genero": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+                    "descripcion": "Una puerta misteriosa está abierta, invitando a un niño que ha sido brutalmente acosado toda su vida a dar un valiente paso hacia lo desconocido. Por otro lado, encuentra un tesoro de artefactos invaluables y un mundo tan lleno de magia como de monstruos. Sin embargo, la revelación más impactante es que puede traer consigo lo que quiera cuando regrese a la Tierra. No pasará mucho tiempo antes de que esta doble vida lo cambie para siempre...",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8A0moIgq2WrugiI6buNincKVEtQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/50OsbGp6AWw4za2aAM82vKburcg.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ir al otro mundo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431570.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431573.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431574.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431575.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431576.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431577.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431578.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431579.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431580.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431571.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431572.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 208493,
+                    "total_seasons": 2
                 }
             ]
         },

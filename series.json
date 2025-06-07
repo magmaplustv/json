@@ -7526,6 +7526,65 @@
                     ],
                     "tmdb_id": 236429,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El largo río de las almas",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Mickey es una agente de policía que patrulla las calles de un vecindario de Filadelfia que sufre el impacto de la crisis de los opioides. Mickey se preocupa por su hermana Kacey, una adicta que desaparece justo en el momento en que se suceden una serie de asesinatos. Obsesionada por encontrar al culpable y a Kacey antes de que sea demasiado tarde, Mickey comprende que su historia personal podría estar vinculada al caso.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ubhHwVkfhaXXOWrKlrLRFk2hedL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/4kEEQstySzaft3mziORkUfgpncU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xXgFEvZL0k7ac3hu8xsvaCJlU8D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Esas chicas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431604.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Déjame entrar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431605.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Madre loba",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431606.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Punto ciego",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431607.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "A dónde vas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431608.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Hereditario",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431609.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Diablo equivocado, asunto equivocado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431610.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Expiación",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431611.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 244628,
+                    "total_seasons": 1
                 }
             ]
         },

@@ -9073,6 +9073,35 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Suits LA",
+                    "genero": "Drama",
+                    "descripcion": "Un antiguo fiscal federal de Nueva York se ha reinventado a sí mismo representando a los clientes más poderosos de Los Ángeles. Pero su bufete está en crisis y, para sobrevivir, debe asumir un papel que despreció durante toda su carrera.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4Sn4HWzsAPnWhzDUAZEafM0zSoG.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ljAdFwDLQLlOBIwheKmAdcUS0HM.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401884.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401885.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259453,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Doc",
                     "genero": "Drama",
                     "descripcion": "La doctora Amy Elias, que pierde la memoria durante un accidente de coche. Debe volver a ser interna y reconstruir de algún modo su vida a partir de los pedazos que le quedan.",
@@ -11488,35 +11517,6 @@
                         }
                     ],
                     "tmdb_id": 291256,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Suits LA",
-                    "genero": "Drama",
-                    "descripcion": "Un antiguo fiscal federal de Nueva York se ha reinventado a sí mismo representando a los clientes más poderosos de Los Ángeles. Pero su bufete está en crisis y, para sobrevivir, debe asumir un papel que despreció durante toda su carrera.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/4Sn4HWzsAPnWhzDUAZEafM0zSoG.png",
-                    "icono": "https://image.tmdb.org/t/p/original/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ljAdFwDLQLlOBIwheKmAdcUS0HM.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401884.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401885.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 259453,
                     "total_seasons": 1
                 }
             ]

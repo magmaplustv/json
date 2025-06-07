@@ -12412,6 +12412,55 @@
                     ],
                     "tmdb_id": 244628,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Rompehielos",
+                    "genero": "Drama",
+                    "descripcion": "Sigue las desapariciones de una tripulación a bordo de un barco varado en las heladas aguas de Finlandia. Durante una misión de rescate, los guardacostas Sanna Tanner (Jessica Grabowsky) y Joonas Kapanen (Mikko Leppilampi) quedan atrapados en un rompehielos a causa de una fuerte tormenta. Al llegar al barco, descubren un cuerpo congelado atado a un respiradero, y a un grupo de supervivientes con un comportamiento hermético y paranoico. Mientras espera a que pase la tormenta y tras perder a su compañero Joonas en las aguas heladas, Sanna trata de averiguar qué sucedió en el rompehielos antes de su llegada, pero parece que todos tienen algo que ocultar. Cuando los miembros de la tripulación empiezan a desaparecer en extrañas circunstancias, un antiguo cuento popular sobre espíritus vengativos perdidos en el mar empieza a cobrar vida, sumergiendo a la guardacostas en una carrera a contrarreloj para resolver el misterio antes de convertirse en la próxima víctima.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/vWZkD1PQlNHec5X5aceMbZCuZxB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hzbnTZGxyZolPEil40OtgkOpGIK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El primer día",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431628.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Solsticio de invierno",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431629.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La noche más larga",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431630.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Navidad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431631.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Nocturna",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431632.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El último día",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431633.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 284146,
+                    "total_seasons": 1
                 }
             ]
         },

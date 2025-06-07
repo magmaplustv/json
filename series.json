@@ -9479,6 +9479,60 @@
                     ],
                     "tmdb_id": 112738,
                     "total_seasons": 5
+                },
+                {
+                    "nombre": "Su majestad",
+                    "genero": "Comedia",
+                    "descripcion": "Cuando se ve salpicado por un escándalo financiero, el rey Alfonso XIV decide apartarse de la primera línea pública durante unos meses. Pero alguien debe quedarse al frente de la institución. No hay más alternativa que su única hija, Pilar. Ahora la princesa tendrá que demostrarle al país que no es la irresponsable, vaga e inútil que todos creen. Lo que pasa es que igual tienen razón.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/nLZGgyL7Gl2CdlrBHb3nTTgBNhM.png",
+                    "icono": "https://image.tmdb.org/t/p/original/oYz66iyll5q5yImMnzVkvUOxBho.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gzNKeXtIOrv6mxBgw0Sh4plo8Ud.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Infanta terrible",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431634.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bufón",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431635.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Guillotina",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431636.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Dúplex",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431637.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Richie",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431638.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "¡Viva Pilar!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431639.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Reina",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431640.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246929,
+                    "total_seasons": 1
                 }
             ]
         },

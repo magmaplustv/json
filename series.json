@@ -6335,65 +6335,6 @@
                     "total_seasons": 5
                 },
                 {
-                    "nombre": "Rey lobo",
-                    "genero": "Animación, Action & Adventure, Kids, Sci-Fi & Fantasy",
-                    "descripcion": "Un chico normal llega a la edad adulta y descubre que es el último de una larga saga de hombres lobo y el heredero del trono en esta increíble serie de aventuras.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/vPuamyJG8ssIGp0HMZ3g42A9u5n.png",
-                    "icono": "https://image.tmdb.org/t/p/original/sKncI0Rcv8FB8UugAO9a138x98R.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El resurgir del lobo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431627.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Brackenholme",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431626.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "El animal enjaulado",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431620.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "El bosque Wyrmwood",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431621.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Regreso a Motley",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431622.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "El Maelstrom",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431623.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Encadenado",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431624.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "La caída del león",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431625.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 231727,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Paradis City",
                     "genero": "Sci-Fi & Fantasy",
                     "descripcion": "En un futuro próximo, las zonas más vulnerables de Suecia están amuralladas y regidas por leyes especiales. La ministra del Interior es secuestrada en una de ellas, Paradis City, y la agente Fredrika recluta a Emir, exluchador de MMA condenado a cadena perpetua. Si no logra infiltrarse en Paradis City y encontrar a la ministra, no podrá volver a ver a su hija.",

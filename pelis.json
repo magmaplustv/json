@@ -3,6 +3,18 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
+                "name": "Mazel Tov",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431968.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/j8EORyEJyVk7wSyUoy0bb4lVkuu.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hwShDVdN23QUKj7s8yvlqGn7oog.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6tECaKK8hpoICkXT3BzqoQx3xBO.png",
+                "descripcion": "Cuando Darío Roitman regresa de los Estados Unidos a Argentina para asistir a una boda familiar y un Bat Mitzvah, se enfrenta a un inesperado giro del destino: la muerte de su padre. Lo que comienza como un viaje planeado para reuniones festivas se convierte en una montaña rusa emocional llena de viejas heridas, rivalidades entre hermanos y momentos hilarantes que sólo una familia puede ofrecer.  Entre el dolor y la celebración, los Roitman intentarán encontrar un equilibrio entre tradición y reconciliación, demostrando que el amor familiar, aunque imperfecto, siempre prevalece.",
+                "anio": "2025",
+                "genero": "Drama, Comedia",
+                "duracion": "97 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El Exorcismo de Georgetown",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405664.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ioQCdjn2YPfAJMfJlgzNdXgYZrr.jpg",
@@ -336,18 +348,6 @@
                 "anio": "2024",
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Mazel Tov",
-                "url": "http://vedo.wvdbozpfc.com/vod/345E6B8B0D8A4D9E9B5743AE0C2FAA43_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/j8EORyEJyVk7wSyUoy0bb4lVkuu.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hwShDVdN23QUKj7s8yvlqGn7oog.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6tECaKK8hpoICkXT3BzqoQx3xBO.png",
-                "descripcion": "Cuando Darío Roitman regresa de los Estados Unidos a Argentina para asistir a una boda familiar y un Bat Mitzvah, se enfrenta a un inesperado giro del destino: la muerte de su padre. Lo que comienza como un viaje planeado para reuniones festivas se convierte en una montaña rusa emocional llena de viejas heridas, rivalidades entre hermanos y momentos hilarantes que sólo una familia puede ofrecer.  Entre el dolor y la celebración, los Roitman intentarán encontrar un equilibrio entre tradición y reconciliación, demostrando que el amor familiar, aunque imperfecto, siempre prevalece.",
-                "anio": "2025",
-                "genero": "Drama, Comedia",
-                "duracion": "97 min",
                 "type": "PELICULA"
             }
         ]

@@ -4151,131 +4151,6 @@
         ]
     },
     {
-        "name": "⭐️Hbo/Max⭐️",
-        "samples": [
-            {
-                "name": "Supervillanos: la investigación",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una exploración en profundidad de los supervillanos a lo largo de la historia de los cómics, este documental francés se enfoca en las complejas motivaciones, orígenes y moral detrás de estos personajes siniestros pero fascinantes.",
-                "anio": "2023",
-                "duracion": "63 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
-            },
-            {
-                "name": "Tenet",
-                "url": "http://vedo.wvdbozpfc.com/vod/075A6DDED702407A8CC14DB0BCF9D691_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
-                "anio": "2020",
-                "duracion": "155 min",
-                "genero": "Acción, Suspense, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
-            },
-            {
-                "name": "Parásitos",
-                "url": "http://vedo.wvdbozpfc.com/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-                "anio": "2019",
-                "duracion": "132 min",
-                "genero": "Comedia, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-            },
-            {
-                "name": "Escapada de espanto",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Terror, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
-            },
-            {
-                "name": "El profesor de esgrima",
-                "url": "http://vedo.wvdbozpfc.com/vod/16E422C0CB324C059E155E32DF545453_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zjM9ig1myJepw3zNlW75YKLVTBh.jpg",
-                "type": "PELICULA",
-                "descripcion": "París, 1887. En una sociedad en rápida evolución, el duelo es el último lugar donde uno puede defender su honor. Clément Lacaze, carismático maestro de esgrima, se encuentra atrapado en una espiral de violencia destructiva. Conoce a Marie-Rose Astié, una feminista adelantada a su tiempo, y decide enseñarle el complejo arte del duelo. Enfrentarán provocaciones y se unirán para defender su respectivo honor.",
-                "anio": "2023",
-                "duracion": "100 min",
-                "genero": "Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j8ndWRvcIGhmTyDeBNeCakH4Xdr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/3iPTgKK1SjfiXYsdACxGzzlYUgZ.png"
-            },
-            {
-                "name": "La estafa (Bad Education)",
-                "url": "http://vedo.wvdbozpfc.com/vod/59535D5B7EBA43D6AE711493E1490DDD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5dDudXVz3WbzOM1QfclGMvluOZ9.jpg",
-                "type": "PELICULA",
-                "descripcion": "Frank Tassone (Hugh Jackman) es uno de los gerentes más destacados del distrito escolar de Roslyn, que vive para asegurarse que la educación de los alumnos sea la mejor que estos puedan recibir. De forma paralela, se lucra personalmente con los fondos públicos para vivir una vida llena de lujos.",
-                "anio": "2019",
-                "duracion": "108 min",
-                "genero": "Drama, Crimen, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fqMVYlO02NDa4EbCxbpsp3ZSA4a.png"
-            },
-            {
-                "name": "Eternamente enamorados",
-                "url": "http://vedo.wvdbozpfc.com/vod/DC1F6D1A9C674610A6928CD7185CE998_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/AmcoCfKMLgPYtCXrmzz1wgtSYO9.jpg",
-                "type": "PELICULA",
-                "descripcion": "Drama ambientado en irlanda sobre Joan y Tom, un veterano matrimonio que se enfrenta a un gran impacto emocional cuando a ella la diagnostican cáncer de mama.",
-                "anio": "2019",
-                "duracion": "92 min",
-                "genero": "Drama, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/gR53G1Esy6O3I6U0YTNcRgJfFyO.png"
-            },
-            {
-                "name": "Pie Pequeño",
-                "url": "vod/B9000D565279480187362AFEB074ABA9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8DIRqjOa2vjpLt8Ek8XIzjYggYM.jpg",
-                "type": "PELICULA",
-                "descripcion": "\"Smallfoot\" da un giro a la leyenda de Bigfoot cuando un Yeti joven y listo se encuentra con algo que pensaba que no existía: un ser humano. La noticia de este \"humano\" le trae la fama y la oportunidad de conseguir a la chica de sus sueños. Asimismo, provoca una conmoción en la sencilla comunidad de Yetis al preguntarse qué otras cosas pueden existir más allá de su aldea nevada.",
-                "anio": "2018",
-                "duracion": "96 min",
-                "genero": "Familia, Animación, Aventura, Fantasía, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zIVHIKljz7pFB8Es9U2n8xaUvDm.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pJEyATcqXDxNqZiQNhKgpghHbfS.png"
-            },
-            {
-                "name": "Ganamos al Dream Team",
-                "url": "http://vedo.wvdbozpfc.com/vod/298C183CD742492AA5435980433F4999_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6EcJkjNtYW7BoTVNoiRMFp7yDsa.jpg",
-                "type": "PELICULA",
-                "descripcion": "La historia de un grupo de jugadores de baloncesto que recibieron la tarea de preparar al \"equipo de ensueño\" para su debut olímpico en 1992.",
-                "anio": "2025",
-                "duracion": "83 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d6KQNVZDRLKbfVIZF4ayebrGL0f.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/OcKQWkaRMesRKYpuahBsZVjpkS.png"
-            },
-            {
-                "name": "Un día perfecto",
-                "url": "http://vedo.wvdbozpfc.com/vod/497B6E2CDE114AF29B736B864F73BC0D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/Pyy7GZbKTcK8xNvkCIK2aI3uXt.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sanbilbao, 2056. Un hombre desempleado acaba de ganar la lotería y se dispone a salir de su apartamento para cobrar el premio. Pero al haber agotado el crédito de su tarjeta, el ordenador que maneja su casa se lo impide",
-                "anio": "1998",
-                "duracion": "19 min",
-                "genero": "",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            }
-        ]
-    },
-    {
         "name": "⭐️Prime Video⭐️",
         "samples": [
             {
@@ -4900,6 +4775,131 @@
                 "duracion": "114 min",
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
+                "iconpng": ""
+            }
+        ]
+    },
+    {
+        "name": "⭐️Hbo/Max⭐️",
+        "samples": [
+            {
+                "name": "Supervillanos: la investigación",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169008.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kxbSLMjpJ6mYr33m3nyv37iKqe6.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una exploración en profundidad de los supervillanos a lo largo de la historia de los cómics, este documental francés se enfoca en las complejas motivaciones, orígenes y moral detrás de estos personajes siniestros pero fascinantes.",
+                "anio": "2023",
+                "duracion": "63 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qXMuGxiyTyis6jAHGTPMeGu6UPc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gerZ9FjfgQgjDsdmu7PCLw5wdmJ.png"
+            },
+            {
+                "name": "Tenet",
+                "url": "http://vedo.wvdbozpfc.com/vod/075A6DDED702407A8CC14DB0BCF9D691_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jFAi1Uv3JjNPEgjKuneG5mBlAvA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
+                "anio": "2020",
+                "duracion": "155 min",
+                "genero": "Acción, Suspense, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
+            },
+            {
+                "name": "Parásitos",
+                "url": "http://vedo.wvdbozpfc.com/vod/F5135FF7BB014F8B996D1AF13527600B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+                "anio": "2019",
+                "duracion": "132 min",
+                "genero": "Comedia, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+            },
+            {
+                "name": "Escapada de espanto",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167330.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Terror, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
+            },
+            {
+                "name": "El profesor de esgrima",
+                "url": "http://vedo.wvdbozpfc.com/vod/16E422C0CB324C059E155E32DF545453_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zjM9ig1myJepw3zNlW75YKLVTBh.jpg",
+                "type": "PELICULA",
+                "descripcion": "París, 1887. En una sociedad en rápida evolución, el duelo es el último lugar donde uno puede defender su honor. Clément Lacaze, carismático maestro de esgrima, se encuentra atrapado en una espiral de violencia destructiva. Conoce a Marie-Rose Astié, una feminista adelantada a su tiempo, y decide enseñarle el complejo arte del duelo. Enfrentarán provocaciones y se unirán para defender su respectivo honor.",
+                "anio": "2023",
+                "duracion": "100 min",
+                "genero": "Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j8ndWRvcIGhmTyDeBNeCakH4Xdr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3iPTgKK1SjfiXYsdACxGzzlYUgZ.png"
+            },
+            {
+                "name": "La estafa (Bad Education)",
+                "url": "http://vedo.wvdbozpfc.com/vod/59535D5B7EBA43D6AE711493E1490DDD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5dDudXVz3WbzOM1QfclGMvluOZ9.jpg",
+                "type": "PELICULA",
+                "descripcion": "Frank Tassone (Hugh Jackman) es uno de los gerentes más destacados del distrito escolar de Roslyn, que vive para asegurarse que la educación de los alumnos sea la mejor que estos puedan recibir. De forma paralela, se lucra personalmente con los fondos públicos para vivir una vida llena de lujos.",
+                "anio": "2019",
+                "duracion": "108 min",
+                "genero": "Drama, Crimen, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fqMVYlO02NDa4EbCxbpsp3ZSA4a.png"
+            },
+            {
+                "name": "Eternamente enamorados",
+                "url": "http://vedo.wvdbozpfc.com/vod/DC1F6D1A9C674610A6928CD7185CE998_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/AmcoCfKMLgPYtCXrmzz1wgtSYO9.jpg",
+                "type": "PELICULA",
+                "descripcion": "Drama ambientado en irlanda sobre Joan y Tom, un veterano matrimonio que se enfrenta a un gran impacto emocional cuando a ella la diagnostican cáncer de mama.",
+                "anio": "2019",
+                "duracion": "92 min",
+                "genero": "Drama, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xVr2AyekvqO0DwJg8VwZNaQi5Ji.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gR53G1Esy6O3I6U0YTNcRgJfFyO.png"
+            },
+            {
+                "name": "Pie Pequeño",
+                "url": "vod/B9000D565279480187362AFEB074ABA9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8DIRqjOa2vjpLt8Ek8XIzjYggYM.jpg",
+                "type": "PELICULA",
+                "descripcion": "\"Smallfoot\" da un giro a la leyenda de Bigfoot cuando un Yeti joven y listo se encuentra con algo que pensaba que no existía: un ser humano. La noticia de este \"humano\" le trae la fama y la oportunidad de conseguir a la chica de sus sueños. Asimismo, provoca una conmoción en la sencilla comunidad de Yetis al preguntarse qué otras cosas pueden existir más allá de su aldea nevada.",
+                "anio": "2018",
+                "duracion": "96 min",
+                "genero": "Familia, Animación, Aventura, Fantasía, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zIVHIKljz7pFB8Es9U2n8xaUvDm.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pJEyATcqXDxNqZiQNhKgpghHbfS.png"
+            },
+            {
+                "name": "Ganamos al Dream Team",
+                "url": "http://vedo.wvdbozpfc.com/vod/298C183CD742492AA5435980433F4999_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6EcJkjNtYW7BoTVNoiRMFp7yDsa.jpg",
+                "type": "PELICULA",
+                "descripcion": "La historia de un grupo de jugadores de baloncesto que recibieron la tarea de preparar al \"equipo de ensueño\" para su debut olímpico en 1992.",
+                "anio": "2025",
+                "duracion": "83 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d6KQNVZDRLKbfVIZF4ayebrGL0f.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/OcKQWkaRMesRKYpuahBsZVjpkS.png"
+            },
+            {
+                "name": "Un día perfecto",
+                "url": "http://vedo.wvdbozpfc.com/vod/497B6E2CDE114AF29B736B864F73BC0D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/Pyy7GZbKTcK8xNvkCIK2aI3uXt.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sanbilbao, 2056. Un hombre desempleado acaba de ganar la lotería y se dispone a salir de su apartamento para cobrar el premio. Pero al haber agotado el crédito de su tarjeta, el ordenador que maneja su casa se lo impide",
+                "anio": "1998",
+                "duracion": "19 min",
+                "genero": "",
+                "iconoHorizontal": "",
                 "iconpng": ""
             }
         ]

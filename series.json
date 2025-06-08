@@ -6647,6 +6647,45 @@
                     ],
                     "tmdb_id": 231727,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Paradis City",
+                    "genero": "Sci-Fi & Fantasy",
+                    "descripcion": "En un futuro próximo, las zonas más vulnerables de Suecia están amuralladas y regidas por leyes especiales. La ministra del Interior es secuestrada en una de ellas, Paradis City, y la agente Fredrika recluta a Emir, exluchador de MMA condenado a cadena perpetua. Si no logra infiltrarse en Paradis City y encontrar a la ministra, no podrá volver a ver a su hija.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/3uRixeu2MPzge8webXaTIOKgg2b.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3CrHCDiioO1Vs966B25bqgtjEVr.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431600.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431597.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431598.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431599.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 283296,
+                    "total_seasons": 1
                 }
             ]
         },

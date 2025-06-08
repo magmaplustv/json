@@ -10255,55 +10255,6 @@
                     "total_seasons": 3
                 },
                 {
-                    "nombre": "Sara, la mujer en las sombras",
-                    "genero": "Misterio, Drama, Crimen",
-                    "descripcion": "La muerte sospechosa de su hijo obliga a una antigua agente secreta a volver a la acción e investigar una serie de delitos que se vuelven cada vez más siniestros.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/66NGxmR6eGzMW3wHu6syaXsJvbR.png",
-                    "icono": "https://image.tmdb.org/t/p/original/13S9UQvi1pvP7ro2zVsOpjjeYow.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/cBsAo9icWr0mZBvd4Rc0R4kxnDU.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431455.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431456.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431457.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431458.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431459.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431460.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 291256,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Nadie nos va a extrañar",
                     "genero": "Drama, Comedia",
                     "descripcion": "Son los años 90 y cinco pringados dirigen un negocio ilegal en su instituto: venden trabajos y deberes a sus compañeros. La ventaja es que nadie sospecha nunca de los empollones. El negocio les reporta dinero y popularidad, pero las hormonas y una muerte inesperada amenazan con estropearlo todo. Si el negocio se acaba, su futuro y su amistad corren peligro.",

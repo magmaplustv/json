@@ -2613,6 +2613,70 @@
                     ],
                     "tmdb_id": 280043,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Department Q",
+                    "genero": "Crimen, Drama, Misterio",
+                    "descripcion": "Un poli descarado pero brillante se pone al frente de un nuevo departamento, donde dirige a un grupo de inadaptados que van a trabajar en los casos sin resolver de Edimburgo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rhg4Lsi7FNEHKfJp3YhNSeWMWm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jnDs84n7B7dfUzDepe0VHXXwlas.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/wIoxMHbyUJnx5Fm9tI26hIYGI1D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431117.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431118.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431119.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431120.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431121.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431122.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431123.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431124.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431125.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245703,
+                    "total_seasons": 1
                 }
             ]
         },

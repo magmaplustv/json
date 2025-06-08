@@ -11681,65 +11681,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "ACI: Alta Capacidad Intelectual",
-                    "genero": "Comedia, Misterio, Crimen, Familia",
-                    "descripcion": "Caótica, temperamental, inmanejable y la única capaz de resolver cualquier crimen, así es Morgane Alvaro, una chica de 38 años con 3 hijos de dos padres diferentes y con un comportamiento exuberante que puede sacar de sus casillas a todo el mundo en cualquier momento.",
-                    "anio": "2021",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/bXsxfLs8DOeS7bkOOm7YlYTfusV.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9pfsZNNmqGGGwBgrjt9oUgam4Cz.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Viento del oeste",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431593.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Costumbre malgache",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431594.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Venda en los ojos",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431589.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Phyllobates terribilis",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431590.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "De tal palo, tal astilla",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431595.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Hepatitis y soja",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431596.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Cóctel Molotov",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431591.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Hombre de poca fe",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431592.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 112738,
-                    "total_seasons": 5
-                },
-                {
                     "nombre": "Department Q",
                     "genero": "Crimen, Drama, Misterio",
                     "descripcion": "Un poli descarado pero brillante se pone al frente de un nuevo departamento, donde dirige a un grupo de inadaptados que van a trabajar en los casos sin resolver de Edimburgo.",

@@ -4905,101 +4905,6 @@
         ]
     },
     {
-        "name": "⭐️Disney⭐️",
-        "samples": [
-            {
-                "name": "Ultraman: El ascenso",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405658.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1JF1rvvmiU90QlTDNajNiySPkIt.png",
-                "descripcion": "Una estrella del deporte vuelve a casa a regañadientes para seguir los pasos de su padre y convertirse en Ultraman, el héroe encargado de proteger Tokio de unos monstruos gigantes.",
-                "anio": "2024",
-                "genero": "Animación, Ciencia ficción, Familia, Acción",
-                "duracion": "116 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Los Simpsons: The Past and the Furious",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168304.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cHQef5ohvTtiG53h04NSsVPoSJ5.jpg",
-                "type": "PELICULA"
-            },
-            {
-                "name": "O'Dessa",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168333.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg",
-                "type": "PELICULA",
-                "descripcion": "O'Dessa es una ópera rock emplazada en un futuro posapocalíptico sobre una chica de campo que emprende la búsqueda de una reliquia familiar. El viaje la lleva a una ciudad peligrosa donde debe recurrir al poder del destino y la música para salvar el alma de su amor verdadero.",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Música, Drama, Ciencia ficción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7z2lSLmiJ5jNeYCoXmton86BapN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pUJUloUc2blGR9av1R7sPN0rMWp.png"
-            },
-            {
-                "name": "Mientras Cupido no está",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuenta la historia de Mirtha del Cañón (Dolores Heredia), quien es una brillante empresaria que se enfrenta a su hijo Bartolo (Vadhir Derbez) a fin de que éste siente cabeza, trabaje y forme una familia. Es con estas intenciones que la afamada arquitecta, con la ayuda de su asistente personal Alan (Manuel Vega) y Mary su ama de llaves (Antonia San Juan) organizarán una estrategia poco convencional para encontrar a la persona que se gane el corazón de Bartolo.",
-                "anio": "2025",
-                "duracion": "84 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v5EE8wkX6bSWNuTSEPRVmXuac4J.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eOcrqGMKXqHcAxoWJ4XaTaKf5KN.png"
-            },
-            {
-                "name": "Una muerte silenciosa",
-                "url": "http://vedo.wvdbozpfc.com/vod/BF5C35E549BC45A3AE7AEAC6CD74E880_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
-                "type": "PELICULA",
-                "descripcion": "En las profundidades de la Patagonia de los años 80, un guía de caza se topa con un espeluznante crimen en el que está implicada su sobrina, lo que le obliga a investigar y a enfrentarse a los inquietantes secretos de aquellos oscuros años en su búsqueda de justicia.",
-                "anio": "2025",
-                "duracion": "93 min",
-                "genero": "Crimen, Drama, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5zVa0nkfygTcyNMlezxA7tAcuBL.jpg",
-                "iconpng": ""
-            },
-            {
-                "name": "Another You",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168780.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
-                "type": "PELICULA",
-                "descripcion": "Mümtaz y Derya están condenados a vivir sus últimos momentos cada día en la piel de otra persona.",
-                "anio": "2025",
-                "duracion": "111 min",
-                "genero": "Comedia, Romance",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j4oYX4LgNnoRYHnkafGYeyVLULi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/thiMiYIVcowc1T34mS2rChaKp70.png"
-            },
-            {
-                "name": "Alexander y el viaje terrible, horrible, espantoso, horroroso",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405197.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
-                "type": "PELICULA",
-                "descripcion": "El viaje de Alexander y su familia a Ciudad de México sale mal, cuando descubren una maldición.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Comedia, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4MlFvMcvKR5vLoREuobBzndTKeF.png"
-            },
-            {
-                "name": "Mesa de regalos",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167335.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",
-                "type": "PELICULA",
-                "descripcion": "Nicolás y Antonia son dos amigos inseparables que están lejos de la estabilidad emocional y profesional que todos sus conocidos han alcanzado. Tras asistir a innumerables bodas, idean un plan tan audaz como ingenioso: ¡financiar sus sueños organizando su propia boda falsa! Anuncian su \"amor secreto\", planean una gran celebración y, en el momento crucial, Antonia dejará a Nicolás plantado en el altar. Confiados en que el escándalo disuadirá a los invitados de reclamar sus regalos, planean repartirse el botín. Sin embargo, surgen sentimientos inesperados que podrían complicar su brillante plan.",
-                "anio": "2025",
-                "duracion": "89 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k50zwn8Gs4f999ezuVAL2WXLv5x.jpg",
-                "iconpng": ""
-            }
-        ]
-    },
-    {
         "name": "⭐️Accion⭐️",
         "samples": [
             {
@@ -5715,6 +5620,101 @@
                 "genero": "Acción, Comedia",
                 "duracion": "112 min",
                 "type": "PELICULA"
+            }
+        ]
+    },
+    {
+        "name": "⭐️Disney⭐️",
+        "samples": [
+            {
+                "name": "Ultraman: El ascenso",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405658.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wdUnHg8bOmTkHzkvxSY9sCeqJ6q.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1JF1rvvmiU90QlTDNajNiySPkIt.png",
+                "descripcion": "Una estrella del deporte vuelve a casa a regañadientes para seguir los pasos de su padre y convertirse en Ultraman, el héroe encargado de proteger Tokio de unos monstruos gigantes.",
+                "anio": "2024",
+                "genero": "Animación, Ciencia ficción, Familia, Acción",
+                "duracion": "116 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Los Simpsons: The Past and the Furious",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168304.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cHQef5ohvTtiG53h04NSsVPoSJ5.jpg",
+                "type": "PELICULA"
+            },
+            {
+                "name": "O'Dessa",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168333.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg",
+                "type": "PELICULA",
+                "descripcion": "O'Dessa es una ópera rock emplazada en un futuro posapocalíptico sobre una chica de campo que emprende la búsqueda de una reliquia familiar. El viaje la lleva a una ciudad peligrosa donde debe recurrir al poder del destino y la música para salvar el alma de su amor verdadero.",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Música, Drama, Ciencia ficción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7z2lSLmiJ5jNeYCoXmton86BapN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pUJUloUc2blGR9av1R7sPN0rMWp.png"
+            },
+            {
+                "name": "Mientras Cupido no está",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/170982.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuenta la historia de Mirtha del Cañón (Dolores Heredia), quien es una brillante empresaria que se enfrenta a su hijo Bartolo (Vadhir Derbez) a fin de que éste siente cabeza, trabaje y forme una familia. Es con estas intenciones que la afamada arquitecta, con la ayuda de su asistente personal Alan (Manuel Vega) y Mary su ama de llaves (Antonia San Juan) organizarán una estrategia poco convencional para encontrar a la persona que se gane el corazón de Bartolo.",
+                "anio": "2025",
+                "duracion": "84 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v5EE8wkX6bSWNuTSEPRVmXuac4J.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eOcrqGMKXqHcAxoWJ4XaTaKf5KN.png"
+            },
+            {
+                "name": "Una muerte silenciosa",
+                "url": "http://vedo.wvdbozpfc.com/vod/BF5C35E549BC45A3AE7AEAC6CD74E880_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dfxVkV5vFZmgnR2zzoj6virotwB.jpg",
+                "type": "PELICULA",
+                "descripcion": "En las profundidades de la Patagonia de los años 80, un guía de caza se topa con un espeluznante crimen en el que está implicada su sobrina, lo que le obliga a investigar y a enfrentarse a los inquietantes secretos de aquellos oscuros años en su búsqueda de justicia.",
+                "anio": "2025",
+                "duracion": "93 min",
+                "genero": "Crimen, Drama, Misterio, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5zVa0nkfygTcyNMlezxA7tAcuBL.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Another You",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/168780.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
+                "type": "PELICULA",
+                "descripcion": "Mümtaz y Derya están condenados a vivir sus últimos momentos cada día en la piel de otra persona.",
+                "anio": "2025",
+                "duracion": "111 min",
+                "genero": "Comedia, Romance",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j4oYX4LgNnoRYHnkafGYeyVLULi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/thiMiYIVcowc1T34mS2rChaKp70.png"
+            },
+            {
+                "name": "Alexander y el viaje terrible, horrible, espantoso, horroroso",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405197.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg",
+                "type": "PELICULA",
+                "descripcion": "El viaje de Alexander y su familia a Ciudad de México sale mal, cuando descubren una maldición.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Comedia, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4MlFvMcvKR5vLoREuobBzndTKeF.png"
+            },
+            {
+                "name": "Mesa de regalos",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/167335.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg",
+                "type": "PELICULA",
+                "descripcion": "Nicolás y Antonia son dos amigos inseparables que están lejos de la estabilidad emocional y profesional que todos sus conocidos han alcanzado. Tras asistir a innumerables bodas, idean un plan tan audaz como ingenioso: ¡financiar sus sueños organizando su propia boda falsa! Anuncian su \"amor secreto\", planean una gran celebración y, en el momento crucial, Antonia dejará a Nicolás plantado en el altar. Confiados en que el escándalo disuadirá a los invitados de reclamar sus regalos, planean repartirse el botín. Sin embargo, surgen sentimientos inesperados que podrían complicar su brillante plan.",
+                "anio": "2025",
+                "duracion": "89 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k50zwn8Gs4f999ezuVAL2WXLv5x.jpg",
+                "iconpng": ""
             }
         ]
     },

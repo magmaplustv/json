@@ -2870,35 +2870,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "Buen chico",
-                    "genero": "Crimen, Comedia, Action & Adventure, Drama",
-                    "descripcion": "Tras 11 años, la Policía de Insung acoge a antiguos deportistas de la selección nacional. Estos medallistas que fueron héroes se enfrentan hoy a una cruda realidad. Pese a estrecheces económicas, tragedias inesperadas y el desprecio de sus compañeros, aúnan fuerzas como fuerza operativa especial para enfrentarse a graves delitos con el valor y la destreza de sus tiempos como deportistas.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/96M5sQ1wGa9FPbB7k1V2cvKGf01.png",
-                    "icono": "https://image.tmdb.org/t/p/original/DVahZPdWI0TmWIUOqcw5hanHuu.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/kTQ7sRDZwIDgygWKIrhN4T1BLQD.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431453.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431454.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 231280,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Matabot",
                     "genero": "Comedia, Drama, Sci-Fi & Fantasy",
                     "descripcion": "En un futuro tecnológico, un robot de seguridad rebelde consigue en secreto voluntad propia. Para no llamar la atención, se une a regañadientes a una nueva misión. Debe proteger a unos científicos en un planeta peligroso... aunque solo quiere ver culebrones.",

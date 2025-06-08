@@ -10363,65 +10363,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "La franquicia",
-                    "genero": "Comedia",
-                    "descripcion": "Un equipo optimista se encuentra atrapado en el disfuncional, disparatado y alegre infierno de las franquicias de cine de superhéroes.",
-                    "anio": "2024",
-                    "iconPng": "https://image.tmdb.org/t/p/original/w5sVwGin542zPGFkWCkBA9b1kJp.png",
-                    "icono": "https://image.tmdb.org/t/p/original/ikqZFo86jGxjd19ZtxeXvLTJ2bc.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5bkxQ4fXDMhfF8CAToNxmz0gC7O.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Escena 31A: Tecto se reúne con Ojo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431647.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Escena 36: El martillo neumático invisible",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431648.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Escena 54: Lilac Ghost",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431649.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Escena 83: Entra el Gargajos",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431650.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Escena 16: La escena del hospital de Eric",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431651.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Escena 110: Bautismo de fuego",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431652.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Escena 113: El puente",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431653.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Escena 117: La muerte de Ojo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431654.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 216619,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Department Q",
                     "genero": "Crimen, Drama, Misterio",
                     "descripcion": "Un poli descarado pero brillante se pone al frente de un nuevo departamento, donde dirige a un grupo de inadaptados que van a trabajar en los casos sin resolver de Edimburgo.",

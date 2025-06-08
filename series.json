@@ -171,40 +171,6 @@
                     "total_seasons": 1
                 },
                 {
-                    "nombre": "La ciudad de los Celtics",
-                    "genero": "Documental",
-                    "descripcion": "CELTICS CITY narra la historia, el impacto cultural y la extraordinaria historia de la franquicia más ganadora y legendaria de la NBA, los Boston Celtics, actuales campeones de la NBA en 2024. La serie contiene archivos extensos e inéditos y más de 80 entrevistas a leyendas pasadas y presentes de los Boston Celtics, desde Bob Cousy y Larry Bird hasta Jayson Tatum y Jaylen Brown.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/us8Fv6N53bRq5KrPIPhwynUav33.png",
-                    "icono": "https://image.tmdb.org/t/p/original/m6eGpz3Bu8eSYYomtUvwUsDZW0z.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hD5Pzt3xhJrk36FQGmuIAUK6lFx.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431612.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431613.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431614.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 276553,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "El largo río de las almas",
                     "genero": "Drama, Crimen",
                     "descripcion": "Mickey es una agente de policía que patrulla las calles de un vecindario de Filadelfia que sufre el impacto de la crisis de los opioides. Mickey se preocupa por su hermana Kacey, una adicta que desaparece justo en el momento en que se suceden una serie de asesinatos. Obsesionada por encontrar al culpable y a Kacey antes de que sea demasiado tarde, Mickey comprende que su historia personal podría estar vinculada al caso.",

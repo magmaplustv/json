@@ -4166,6 +4166,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Angèle",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432540.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/b9ldOOvwImdHfsDqZ4sIwRqcK2n.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/AdaR2NjYkK0pgyUdwPLYDJImPGl.jpg",
+                "iconpng": "",
+                "descripcion": "estrella del pop belga Angèle reflexiona sobre su vida y la esperanza de que ella encuentra el equilibrio en medio de las lágrimas, alegrías y la soledad de la fama. Contada con sus propias palabras.",
+                "anio": "2021",
+                "genero": "Documental, Música",
+                "duracion": "84 min",
+                "type": "PELICULA"
             }
         ]
     },

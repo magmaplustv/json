@@ -2041,6 +2041,45 @@
                     ],
                     "tmdb_id": 231727,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Una buena familia americana",
+                    "genero": "Drama",
+                    "descripcion": "Esta serie dramática, contada desde varios puntos de vista para tratar de plasmar todas las perspectivas, prejuicios y traumas, está inspirada por la inquietante historia de una pareja del Medio Oeste estadounidense que adopta a una niña con un tipo de enanismo raro. Sin embargo, conforme va creciendo junto a sus hijos biológicos, van aflorando misterios sobre ella y su historia, y empiezan a sospechar poco a poco que quizá no es quien dice ser.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3Fn9vgpoJKtjX1gh6YI7SfXUegY.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jN4x0pgxKD0cWayIfySPhsopXIp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jkyjkLuKxKa2PXaTcPDfrBUHxi8.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Casi una súplica",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426171.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Quítate los nervios",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426172.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Plagado de fantasmas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426173.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "En blanco y negro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426174.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 207411,
+                    "total_seasons": 1
                 }
             ]
         },

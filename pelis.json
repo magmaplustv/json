@@ -3298,6 +3298,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Odio, de Dani Rovira",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432541.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/d7rumAlTcFuNdqolUQDH9ZdjQcA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/czF37zcbZUqAaBakSYFo7D7Esxl.jpg",
+                "iconpng": "",
+                "descripcion": "Sobre el escenario del Teatro del Soho de Málaga, el actor Dani Rovira aporta su visión más sincera, delirante y sin filtros sobre el ser humano en estos tiempos.",
+                "anio": "2021",
+                "genero": "Comedia",
+                "duracion": "82 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Parchís: El Documental",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432542.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/vutHT0se3PfPUgprEvdLMWNBnOG.jpg",
@@ -4153,18 +4165,6 @@
                 "anio": "2024",
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Odio, de Dani Rovira",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432541.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/d7rumAlTcFuNdqolUQDH9ZdjQcA.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/czF37zcbZUqAaBakSYFo7D7Esxl.jpg",
-                "iconpng": "",
-                "descripcion": "Sobre el escenario del Teatro del Soho de Málaga, el actor Dani Rovira aporta su visión más sincera, delirante y sin filtros sobre el ser humano en estos tiempos.",
-                "anio": "2021",
-                "genero": "Comedia",
-                "duracion": "82 min",
                 "type": "PELICULA"
             }
         ]

@@ -37,6 +37,18 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "EVENTOS HD 4",
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://scontent.feze9-1.fna.fbcdn.net/v/t39.30808-6/504151185_122112666104876109_2926387772218388974_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHUvbSSPxR56MdIuAdn63X2FM9uqCs8mcwUz26oKzyZzKqbGf7rPF2PcjaoYfYut1C_idhOXaO-TL1LydX-xSgn&_nc_ohc=Am02aWRX4RwQ7kNvwHZ0r5g&_nc_oc=AdlZbSTqMNEGYtSr0GiEfDBhbcOgbExfkPKiRC6c15XxeUNSfc1ivDdE1IKl-0KWMtI7PnoyMBtlMuXbBpID1RBA&_nc_zt=23&_nc_ht=scontent.feze9-1.fna&_nc_gid=xYvZq2Hu30GHSZJHuaoP6w&oh=00_AfLiCd7abFJNlSiKaXAidDk0qD2SPq4DlfMH-pZniQOehA&oe=6845573D",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=87bfded2bdfbd3ad9dce4d30b2739fd1&key=e80b0d66d60fa0a2d24d8b36055a6fef",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

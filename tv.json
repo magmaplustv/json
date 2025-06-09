@@ -19,7 +19,7 @@
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://scontent.feze9-1.fna.fbcdn.net/v/t39.30808-6/504151185_122112666104876109_2926387772218388974_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHUvbSSPxR56MdIuAdn63X2FM9uqCs8mcwUz26oKzyZzKqbGf7rPF2PcjaoYfYut1C_idhOXaO-TL1LydX-xSgn&_nc_ohc=Am02aWRX4RwQ7kNvwHZ0r5g&_nc_oc=AdlZbSTqMNEGYtSr0GiEfDBhbcOgbExfkPKiRC6c15XxeUNSfc1ivDdE1IKl-0KWMtI7PnoyMBtlMuXbBpID1RBA&_nc_zt=23&_nc_ht=scontent.feze9-1.fna&_nc_gid=xYvZq2Hu30GHSZJHuaoP6w&oh=00_AfLiCd7abFJNlSiKaXAidDk0qD2SPq4DlfMH-pZniQOehA&oe=6845573D",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0900ce66b82de0fd07aa8f12a48f29a2&key=e5556dba688fda637374ab5c87d7cda6",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar",

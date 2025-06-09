@@ -2139,6 +2139,75 @@
                     ],
                     "tmdb_id": 231727,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Pulso",
+                    "genero": "Drama",
+                    "descripcion": "Un grupo de residentes de Urgencias lidia con sus problemas laborales y personales en un hospital de Miami sacudido por una polémica acusación.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pMdUgird42mUkDjtIpXOouJU7TL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uGKTDr8ruc4IHGsEZ8wSQZpy2eN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/52RLQclQ6XHiu6QiSKAwb58TmCs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Abby",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431961.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Tiempo a solas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431956.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Luz",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431962.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los tratas y a la calle",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431959.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "No es nada personal",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431960.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Homestead",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431963.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Decisiones",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431957.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El retiro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431964.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El último turno",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431958.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Kennedy",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431965.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 247784,
+                    "total_seasons": 1
                 }
             ]
         },

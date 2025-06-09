@@ -2717,18 +2717,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Animal",
-                "url": "http://vedo.wvdbozpfc.com/vod/6F7021F5684643C29E619C39BFB47486_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/dL44SbXxd4arcHeM7KiukuVmeIm.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2023",
-                "duracion": "201 min",
-                "genero": "Acción, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aM0QC0EmfPD84AtjGIv2UJ9yu6J.png"
-            },
-            {
                 "name": "Kamchatka",
                 "url": "http://vedo.wvdbozpfc.com/vod/31DD630AED3142368E38C7B95905B8D2_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/raielLvbmZw1SUTOWHVNciXcDHU.jpg",
@@ -2739,6 +2727,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/asUFlz7i668CzNhILo8YWFYKGmf.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Animal",
+                "url": "http://vedo.wvdbozpfc.com/vod/6F7021F5684643C29E619C39BFB47486_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dL44SbXxd4arcHeM7KiukuVmeIm.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2023",
+                "duracion": "201 min",
+                "genero": "Acción, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aM0QC0EmfPD84AtjGIv2UJ9yu6J.png"
             },
             {
                 "name": "Mi obra maestra",

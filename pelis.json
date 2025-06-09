@@ -4082,6 +4082,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ohana: El tesoro de Hawái",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432551.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ssH5cbbIfrndZIzPZA7Q3VktMDr.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yImmxRokQ48PD49ughXdpKTAsAU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aHVVnXV2ZKAqOTqt8ocFAUgqcsy.png",
+                "descripcion": "Mientras veranean en la isla de Oahu, dos hermanos de Brooklyn descubren un diario con la ubicación de un tesoro. Este hallazgo es el comienzo de una aventura épica, en la que hacen nuevos amigos y conectan con sus raíces hawaianas.",
+                "anio": "2021",
+                "genero": "Aventura, Acción, Comedia, Familia",
+                "duracion": "123 min",
+                "type": "PELICULA"
             }
         ]
     },

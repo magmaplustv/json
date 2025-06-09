@@ -4202,6 +4202,18 @@
                 "genero": "Comedia, Acción, Crimen",
                 "duracion": "88 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi gran amiga Ana Frank",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432535.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dwJd22yNMpjbMBKjgtm251BVqV1.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/giutn8OjG6WPQ7eqlk9PoJQyCae.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/KoSnRixjp40ZM66t319agt3IoT.png",
+                "descripcion": "Basada en la amistad real entre Ana Frank y Hannah Goslar: desde el Ámsterdam ocupado por los nazis hasta su desgarrador reencuentro en un campo de concentración.",
+                "anio": "2021",
+                "genero": "Historia, Bélica, Drama",
+                "duracion": "103 min",
+                "type": "PELICULA"
             }
         ]
     },

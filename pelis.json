@@ -8810,18 +8810,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Master Z: El Legado de Ip Man",
-                "url": "http://vedo.wvdbozpfc.com/vod/17BB6486B75046499772A1BD91079353_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5SvIKrP3q1i3A8C99YPRgjSrNed.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5z45jC9MqJzQYjYnzs6Ap1RGXDX.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eYtWohYCYlcVpEyRVZ046tiyzV8.png",
-                "descripcion": "Tras su derrota ante el Maestro Ip, Cheung Tin Chi intenta ganarse la vida con su hijo pequeño en Hong Kong, sirviendo mesas en un bar que atiende a expatriados. Pero no pasa mucho tiempo antes de que la mezcla de extranjeros, dinero y líderes de la tríada lo atraigan nuevamente a la lucha.",
-                "anio": "2018",
-                "genero": "Acción, Crimen, Drama",
-                "duracion": "107 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Flash Point",
                 "url": "http://vedo.wvdbozpfc.com/vod/27B49CFB7B624AC7B8A14D274224A44A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8VWokrUlmmrdTW7QildsIBXNn3a.jpg",
@@ -8831,6 +8819,18 @@
                 "anio": "2007",
                 "genero": "Acción",
                 "duracion": "88 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Master Z: El Legado de Ip Man",
+                "url": "http://vedo.wvdbozpfc.com/vod/17BB6486B75046499772A1BD91079353_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5SvIKrP3q1i3A8C99YPRgjSrNed.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5z45jC9MqJzQYjYnzs6Ap1RGXDX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eYtWohYCYlcVpEyRVZ046tiyzV8.png",
+                "descripcion": "Tras su derrota ante el Maestro Ip, Cheung Tin Chi intenta ganarse la vida con su hijo pequeño en Hong Kong, sirviendo mesas en un bar que atiende a expatriados. Pero no pasa mucho tiempo antes de que la mezcla de extranjeros, dinero y líderes de la tríada lo atraigan nuevamente a la lucha.",
+                "anio": "2018",
+                "genero": "Acción, Crimen, Drama",
+                "duracion": "107 min",
                 "type": "PELICULA"
             },
             {

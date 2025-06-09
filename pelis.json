@@ -3298,6 +3298,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Eva y Beba",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432539.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/pq4rA88q0DZk4K4wqH41j64mrna.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wkDj5vVbMDgVqtLrv1FH8zQJQro.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ssDp9RXwlDC0FfxOKN1Ot9IaO4Q.png",
+                "descripcion": "Eva y Beba nunca se imaginaron que serían amigas. Beba es ruidosa, dinámica y no le teme a nada; Eva, tranquila, detallista y observadora. Pero una aventura les revela que, aunque sean totalmente opuestas, pueden ser las mejores amigas.",
+                "anio": "2022",
+                "genero": "Familia, Aventura, Comedia",
+                "duracion": "58 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Angèle",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432540.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/b9ldOOvwImdHfsDqZ4sIwRqcK2n.jpg",
@@ -4177,18 +4189,6 @@
                 "anio": "2024",
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Eva y Beba",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432539.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/pq4rA88q0DZk4K4wqH41j64mrna.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wkDj5vVbMDgVqtLrv1FH8zQJQro.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ssDp9RXwlDC0FfxOKN1Ot9IaO4Q.png",
-                "descripcion": "Eva y Beba nunca se imaginaron que serían amigas. Beba es ruidosa, dinámica y no le teme a nada; Eva, tranquila, detallista y observadora. Pero una aventura les revela que, aunque sean totalmente opuestas, pueden ser las mejores amigas.",
-                "anio": "2022",
-                "genero": "Familia, Aventura, Comedia",
-                "duracion": "58 min",
                 "type": "PELICULA"
             }
         ]

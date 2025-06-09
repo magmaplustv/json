@@ -3986,6 +3986,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Piratas: El último tesoro de la corona",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432559.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/mKEAPVLX4RhCNHDleEIlnBe0fDm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwpw1veVNW2Sls5sGbA9mqMYN49.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/An3qXp4qBmH5Ffjb7RNrurz0ocn.png",
+                "descripcion": "Una gran batalla naval entre piratas, bandidos y pioneros que buscan una foca que desapareció en el ataque de una ballena antes de la fundación de la dinastía Joseon.",
+                "anio": "2022",
+                "genero": "Acción, Aventura, Comedia, Fantasía",
+                "duracion": "126 min",
+                "type": "PELICULA"
             }
         ]
     },

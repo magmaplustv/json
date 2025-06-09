@@ -2383,6 +2383,18 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "El Gourmet",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://elgourmet.com/wp-content/themes/elgourmet/assets/img/icons/logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },

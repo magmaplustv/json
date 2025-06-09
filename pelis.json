@@ -4190,6 +4190,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Coffee & Kareem",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432538.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fsIIv6QKDlqrVyGGkouMah4D4ir.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9nLiA8HCZCDKPLVYJKLLVJpbVGq.jpg",
+                "iconpng": "",
+                "descripcion": "Kareem Manning es una niña de 12 años que contrata a un criminal para asustar al nuevo novio de su madre, el oficial de policía James Coffee. Cuando las circunstancias se tuercen, ambos tendrán que colaborar para detener al mafioso más peligroso de la ciudad de Detroit.",
+                "anio": "2020",
+                "genero": "Comedia, Acción, Crimen",
+                "duracion": "88 min",
+                "type": "PELICULA"
             }
         ]
     },

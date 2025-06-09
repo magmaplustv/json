@@ -3998,6 +3998,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi primer beso 3",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432550.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jdD6Rd8XMXPFZmCXLKWPthd1HsV.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oOZM1C3wZtsZtdidVgEazeas7U4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5EmAfTnUq7DRwfcz5VIOUyQn4bD.png",
+                "descripcion": "Es el verano antes de que Elle se dirija a la universidad y tiene que tomar una decisión secreta. Elle ha sido aceptada en Harvard, donde se está matriculando su novio Noah, y también en Berkeley, donde se dirige su mejor amiga Lee. ¿Qué camino debería elegir?",
+                "anio": "2021",
+                "genero": "Romance, Comedia",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     },

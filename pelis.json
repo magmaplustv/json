@@ -3298,6 +3298,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Hay alguien en tu casa",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432553.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fHugh1QUl5llrdlTCF4UOaRy0BH.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rCzYrGstiybMwDPcZlePAN7IWBh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aK6wPmKLU3Qy4NOCApOkVgRHPqq.png",
+                "descripcion": "Una clase de estudiantes que se gradúan en el instituto de Osborne ven cómo un misterioso asesino enmascarado comienza a exponer el secreto más oscuro de cada uno de ellos. Sólo un grupo de adolescentes externos al campo pueden detener la masacre... Antes de que sus propios secretos sean expuestos ante el mundo entero. Adaptación de la novela de Stephanie Perkins.",
+                "anio": "2021",
+                "genero": "Terror, Misterio",
+                "duracion": "86 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Gladbeck: El drama de los rehenes",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432554.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k8Oxbl6vSyXszDSDly2QDHN8Phm.jpg",
@@ -4057,18 +4069,6 @@
                 "anio": "2024",
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Hay alguien en tu casa",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432553.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fHugh1QUl5llrdlTCF4UOaRy0BH.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rCzYrGstiybMwDPcZlePAN7IWBh.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aK6wPmKLU3Qy4NOCApOkVgRHPqq.png",
-                "descripcion": "Una clase de estudiantes que se gradúan en el instituto de Osborne ven cómo un misterioso asesino enmascarado comienza a exponer el secreto más oscuro de cada uno de ellos. Sólo un grupo de adolescentes externos al campo pueden detener la masacre... Antes de que sus propios secretos sean expuestos ante el mundo entero. Adaptación de la novela de Stephanie Perkins.",
-                "anio": "2021",
-                "genero": "Terror, Misterio",
-                "duracion": "86 min",
                 "type": "PELICULA"
             }
         ]

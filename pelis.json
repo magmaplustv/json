@@ -4094,6 +4094,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Work It: Al ritmo de los sueños",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432549.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6aOcDJKODkryJozfzW6qvcu5NvF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oAcV4179Kdpvb2xk9TtS8Ewrp8q.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/g2ilGuS9d30YYbKzDq74jpUnPFJ.png",
+                "descripcion": "La brillante pero torpe Quinn tiene 18 años y está decidida a convertirse en una bailarina competitiva para entrar en Duke. Protagonizada por Sabrina Carpenter.",
+                "anio": "2020",
+                "genero": "Comedia, Música",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     },

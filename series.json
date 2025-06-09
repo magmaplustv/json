@@ -10508,6 +10508,65 @@
                     ],
                     "tmdb_id": 280890,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Morir de placer",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "Cuando le diagnostican a Molly cáncer de mama metastásico en estadio 4, decide dejar a su marido y empieza a explorar el alcance y la complejidad de sus deseos sexuales por primera vez en su vida, con el apoyo de su mejor amiga, Nikki.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/khTUPzHTlyjFSI7gnlBaSqkYpZY.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fWSvQpY8TOIb0AEE6eaknRDRmYB.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Refresco dietético del bueno",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432004.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Masturbarse es importante",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432005.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los sentimientos pueden amplificarse",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432006.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ponerse arriba es una habilidad sagrada",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432007.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mi mascota",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432008.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Felices fiestas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432009.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ernie, me matas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432010.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "No es tan grave",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432011.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 241405,
+                    "total_seasons": 1
                 }
             ]
         },

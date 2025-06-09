@@ -4,6 +4,55 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Karma",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Un fatídico accidente entrelaza las vidas de seis personas en esta historia de karma y misterio, en la que todos se deben enfrentar a sus propias verdades y oscuros lazos.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/kqy7XGzkHovjEr9373rR8gPU9GC.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jXkWlIIFbkk0npBAykXz6I0R6s3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El hombre con deudas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432012.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El hombre que se deshizo de un cadáver",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432013.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Los perversos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432014.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "La mujer atrapada en su pasado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432015.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un tiempo atrás",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432016.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Karma",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432017.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 233686,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Morir de placer",
                     "genero": "Drama, Comedia",
                     "descripcion": "Cuando le diagnostican a Molly cáncer de mama metastásico en estadio 4, decide dejar a su marido y empieza a explorar el alcance y la complejidad de sus deseos sexuales por primera vez en su vida, con el apoyo de su mejor amiga, Nikki.",
@@ -2266,55 +2315,6 @@
                         }
                     ],
                     "tmdb_id": 231727,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Karma",
-                    "genero": "Crimen, Drama",
-                    "descripcion": "Un fatídico accidente entrelaza las vidas de seis personas en esta historia de karma y misterio, en la que todos se deben enfrentar a sus propias verdades y oscuros lazos.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/kqy7XGzkHovjEr9373rR8gPU9GC.png",
-                    "icono": "https://image.tmdb.org/t/p/original/kFx0FD0Cgns9OThcSkAmWYcnYzu.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/jXkWlIIFbkk0npBAykXz6I0R6s3.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El hombre con deudas",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432012.ts"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "El hombre que se deshizo de un cadáver",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432013.ts"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Los perversos",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432014.ts"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "La mujer atrapada en su pasado",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432015.ts"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Un tiempo atrás",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432016.ts"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Karma",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432017.ts"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 233686,
                     "total_seasons": 1
                 }
             ]

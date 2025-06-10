@@ -1230,6 +1230,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "2073",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432696.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/721p2lNSGp2iSlUUukZwCzEKrnn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/50ayQ1NhSPlPlindLqkWwB62UCN.png",
+                "descripcion": "Un viajero del tiempo arriesga su vida para cambiar el curso de la historia y salvar el futuro de la humanidad.",
+                "anio": "2024",
+                "genero": "Suspense, Ciencia ficción",
+                "duracion": "83 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "El señor de los anillos: La guerra de los Rohirrim",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405526.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg",
@@ -2421,18 +2433,6 @@
                 "anio": "2024",
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "2073",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432696.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/721p2lNSGp2iSlUUukZwCzEKrnn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/50ayQ1NhSPlPlindLqkWwB62UCN.png",
-                "descripcion": "",
-                "anio": "2024",
-                "genero": "Suspense, Ciencia ficción",
-                "duracion": "83 min",
                 "type": "PELICULA"
             }
         ]

@@ -3334,6 +3334,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Oni-Goroshi: Ciudad de los demonios",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432647.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un asesino a sueldo retirado no se detiene ante nada para vengarse de los enmascarados que han tomado la ciudad tras inculparlo de matar a su propia familia y darlo por muerto.",
+                "anio": "2025",
+                "duracion": "106 min",
+                "genero": "Acción, Crimen, Fantasía, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hNNkbUDmAc9rf2ksWFhHBlqsReN.png"
+            },
+            {
                 "name": "Por el mal camino",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432659.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg",
@@ -4106,18 +4118,6 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4uRVAQUgOOePIkEj7D0CPDVSQXr.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uiBdAHLx3CxgkrqX0jW95m2aLZ7.png"
-            },
-            {
-                "name": "Oni-Goroshi: Ciudad de los demonios",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405186.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un asesino a sueldo retirado no se detiene ante nada para vengarse de los enmascarados que han tomado la ciudad tras inculparlo de matar a su propia familia y darlo por muerto.",
-                "anio": "2025",
-                "duracion": "106 min",
-                "genero": "Acción, Crimen, Fantasía, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hNNkbUDmAc9rf2ksWFhHBlqsReN.png"
             },
             {
                 "name": "La culpa no es mía",

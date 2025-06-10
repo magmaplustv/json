@@ -4262,6 +4262,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "K.O.",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432768.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bsrhm3rlE4Wzv9f5ZTxcNxaMz29.jpg",
+                "iconpng": "",
+                "descripcion": "Un exluchador debe encontrar al hijo de un rival al que mató por accidente hace años y se enfrenta a una violenta banda criminal en Marsella.",
+                "anio": "2025",
+                "genero": "Acción, Drama, Aventura",
+                "duracion": "84 min",
+                "type": "PELICULA"
             }
         ]
     },

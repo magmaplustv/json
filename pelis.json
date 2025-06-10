@@ -9635,6 +9635,18 @@
                 "genero": "Comedia, Drama",
                 "duracion": "91 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La tutoría (Armand)",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432767.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dma9qqtkhDKhJjd17VolDPjvBWz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yC26uOPaXcyAj44nXsw4jGIuHSj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dQYwSDcfftEoVswuofA7nJmbRHQ.png",
+                "descripcion": "Armand, un niño de 6 años es acusado de traspasar ciertos límites con su amigo y compañero de clase Jon. Nadie sabe exactamente lo que ha ocurrido, así que la dirección del colegio convoca a los padres para discutir el tema, desencadenando un agitado conflicto que pondrá sobre la mesa cuestiones como la sexualidad en la infancia, la culpabilidad o la complejidad de las zonas grises que existen entre la violencia y el juego.",
+                "anio": "2024",
+                "genero": "Drama, Suspense",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },

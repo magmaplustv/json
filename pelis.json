@@ -356,6 +356,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Rosario",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432674.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d5aBTObiUzqGZMohXtQKY4FMGvb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/b0SvCEq4YGugT6exKGQEWYasad0.png",
+                "descripcion": "Rosario, una exitosa corredora de bolsa en Wall Street, se ve obligada a pasar la noche con el cuerpo de su abuela Griselda que ha muerto abruptamente. Mientras espera que llegue la ambulancia y su padre Oscar, una fuerte tormenta de nieve la atrapa dentro del departamento de Griselda, rodeada de vecinos hostiles, incluido Joe el vigilante. A medida que la noche avanza, fuerzas sobrenaturales, retorcidas y amenazantes que han poseído el cadáver de Griselda, y comienza el ataque a Rosario. Ahora, el objetivo de una maldición familiar y mortal que abarca generaciones, Rosario debe luchar contra todo, con lo que sabe sobre su pasado para salvarse a sí misma y su alma en un intento desesperado de romper el mal.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "88 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Sikandar",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431517.ts",
                 "icono": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
@@ -966,18 +978,6 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
-            },
-            {
-                "name": "Rosario",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432674.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d5aBTObiUzqGZMohXtQKY4FMGvb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/b0SvCEq4YGugT6exKGQEWYasad0.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Terror",
-                "duracion": "88 min",
-                "type": "PELICULA"
             }
         ]
     },

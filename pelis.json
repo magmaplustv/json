@@ -7334,18 +7334,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Saw IV",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430982.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/owzhppFoegtjAkEhyxQhRtgPl96.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3lrNJ5jNqKq9UpQrXo8FNFzyoE4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bbFrjuWGmZxZYmpwWdVPCtxjMfi.png",
-                "descripcion": "A pesar de la muerte de Jigsaw, y para salvar la vida de dos de sus colegas, el teniente Rigg se ve obligado a participar en un nuevo juego, que promete ponerlo a prueba hasta el límite.",
-                "anio": "2007",
-                "genero": "Terror, Suspense, Crimen",
-                "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Hacksaw",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430975.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wAdtyIswPTwmVp0b5MOEKi94Qxg.jpg",
@@ -7355,6 +7343,18 @@
                 "anio": "2020",
                 "genero": "Terror",
                 "duracion": "70 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Saw IV",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430982.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/owzhppFoegtjAkEhyxQhRtgPl96.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3lrNJ5jNqKq9UpQrXo8FNFzyoE4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bbFrjuWGmZxZYmpwWdVPCtxjMfi.png",
+                "descripcion": "A pesar de la muerte de Jigsaw, y para salvar la vida de dos de sus colegas, el teniente Rigg se ve obligado a participar en un nuevo juego, que promete ponerlo a prueba hasta el límite.",
+                "anio": "2007",
+                "genero": "Terror, Suspense, Crimen",
+                "duracion": "93 min",
                 "type": "PELICULA"
             },
             {

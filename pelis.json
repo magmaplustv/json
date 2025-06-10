@@ -3322,6 +3322,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Por el mal camino",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432659.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg",
+                "type": "PELICULA",
+                "descripcion": "Emilie es una caótica madre soltera en horas bajas que le pide ayuda a su hermano… y este tiene una idea genial: participar en una maratón de esquí de fondo.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/j93kYRzcsm5C9O2wV0XLKZD4rl5.png"
+            },
+            {
                 "name": "iRehén",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432664.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
@@ -4046,18 +4058,6 @@
                 "genero": "Romance, Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/lFz7HFWLmBVoa7kITzWEsT9tsEL.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/bFQ9V81zrG3fT6WZYG02RkNccoe.png"
-            },
-            {
-                "name": "Por el mal camino",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169714.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg",
-                "type": "PELICULA",
-                "descripcion": "Emilie es una caótica madre soltera en horas bajas que le pide ayuda a su hermano… y este tiene una idea genial: participar en una maratón de esquí de fondo.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/j93kYRzcsm5C9O2wV0XLKZD4rl5.png"
             },
             {
                 "name": "La chica más hermosa del mundo",

@@ -6675,18 +6675,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/3zD0kTgBGBsp5Bo5joyqI1ASSGW.png"
             },
             {
-                "name": "Earwig y la bruja",
-                "url": "http://vedo.wvdbozpfc.com/vod/A197BFAB20C448BBB7C9141C553EB333_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Earwig tiene diez años, vive en el orfanato San Morwald y no quiere marcharse de allí. Para ahuyentar a posibles padres adoptivos, utiliza sus poderes mágicos. Sin embargo, un día aparecerán Bella Yaga y Mandrágora, dos extraños y espeluznantes personajes que conseguirán adoptarla. La joven Earwig descubrirá que Bella Yaga es una poderosa bruja y se convertirá en su aprendiz.",
-                "anio": "2021",
-                "duracion": "82 min",
-                "genero": "Animación, Fantasía, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/t9YEokkCYAIWPmI4jNP57JZUhq9.png"
-            },
-            {
                 "name": "Cómo entrenar a tu dragón",
                 "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
@@ -6697,6 +6685,18 @@
                 "genero": "Acción, Familia, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
+            },
+            {
+                "name": "Earwig y la bruja",
+                "url": "http://vedo.wvdbozpfc.com/vod/A197BFAB20C448BBB7C9141C553EB333_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oH7XpfTSKZ2Uwn30yHnkBsnfVFQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Earwig tiene diez años, vive en el orfanato San Morwald y no quiere marcharse de allí. Para ahuyentar a posibles padres adoptivos, utiliza sus poderes mágicos. Sin embargo, un día aparecerán Bella Yaga y Mandrágora, dos extraños y espeluznantes personajes que conseguirán adoptarla. La joven Earwig descubrirá que Bella Yaga es una poderosa bruja y se convertirá en su aprendiz.",
+                "anio": "2021",
+                "duracion": "82 min",
+                "genero": "Animación, Fantasía, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/t9YEokkCYAIWPmI4jNP57JZUhq9.png"
             },
             {
                 "name": "Bright: Alma de samurái",

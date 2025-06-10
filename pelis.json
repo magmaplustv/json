@@ -9785,6 +9785,18 @@
         "name": "⭐️Comedia⭐️",
         "samples": [
             {
+                "name": "Un dolor real",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432670.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/vWU2KEMssv8IFVUVkeN2rIOQLB.jpg",
+                "type": "PELICULA",
+                "descripcion": "Dos primos viajan a Polonia tras la muerte de su abuela para ver de dónde vienen y acaban uniéndose a una gira sobre el Holocausto.",
+                "anio": "2024",
+                "duracion": "90 min",
+                "genero": "Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nGC3ZkXEcjGbqAAonS1xn6gaNpb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hLu9HjNna8rfNvvFizqfsMm4WfY.png"
+            },
+            {
                 "name": "Chica conoce a chico",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432676.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kxRjfgZHj7nsa7aBqm6qato2b70.jpg",
@@ -10023,18 +10035,6 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7t4ze1cWi3Cb7OdnuDcooDme6qo.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/pj4mI0h6NF8cyQDICeNpiE1OLNg.png"
-            },
-            {
-                "name": "A Real Pain",
-                "url": "http://vedo.wvdbozpfc.com/vod/92BA580C27D8424FA3235212B03AA5C6_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vWU2KEMssv8IFVUVkeN2rIOQLB.jpg",
-                "type": "PELICULA",
-                "descripcion": "Dos primos viajan a Polonia tras la muerte de su abuela para ver de dónde vienen y acaban uniéndose a una gira sobre el Holocausto.",
-                "anio": "2024",
-                "duracion": "90 min",
-                "genero": "Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nGC3ZkXEcjGbqAAonS1xn6gaNpb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hLu9HjNna8rfNvvFizqfsMm4WfY.png"
             },
             {
                 "name": "Pequeño pero matón",

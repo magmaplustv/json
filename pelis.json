@@ -3586,18 +3586,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Parchís: El Documental",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432542.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/vutHT0se3PfPUgprEvdLMWNBnOG.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/btzZiNGQDDIkeaNwJZ9v8K89vn3.jpg",
-                "iconpng": "",
-                "descripcion": "Parchís fue el grupo infantil más popular de España entre 1979 y 1985. Un fenómeno social, un gran éxito, millones de ventas de discos, giras por todo el mundo, varias películas. Pero ¿cómo experimentaron sus miembros semejante triunfo? ¿Cómo vivieron personalmente su precoz transición de la infancia a la edad adulta?",
-                "anio": "2019",
-                "genero": "Documental, Música",
-                "duracion": "105 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Elisa y Marcela",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432544.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/q55eMaSitp2UlbMrb5TXhsNWGt2.jpg",
@@ -3607,6 +3595,18 @@
                 "anio": "2019",
                 "genero": "Drama, Romance",
                 "duracion": "125 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Parchís: El Documental",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432542.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vutHT0se3PfPUgprEvdLMWNBnOG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/btzZiNGQDDIkeaNwJZ9v8K89vn3.jpg",
+                "iconpng": "",
+                "descripcion": "Parchís fue el grupo infantil más popular de España entre 1979 y 1985. Un fenómeno social, un gran éxito, millones de ventas de discos, giras por todo el mundo, varias películas. Pero ¿cómo experimentaron sus miembros semejante triunfo? ¿Cómo vivieron personalmente su precoz transición de la infancia a la edad adulta?",
+                "anio": "2019",
+                "genero": "Documental, Música",
+                "duracion": "105 min",
                 "type": "PELICULA"
             },
             {

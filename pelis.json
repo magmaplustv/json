@@ -3310,6 +3310,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Mi lista de deseos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432680.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/a3IFeDHSCIkMLmoBzaOcD60BOoR.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando su madre la envía a una misión para completar su lista de deseos de la adolescencia, una joven desvela secretos familiares, encuentra el amor... y se redescubre.",
+                "anio": "2025",
+                "duracion": "123 min",
+                "genero": "Romance, Comedia, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mCw1ZFyv8OYOcCrnpseJ9vh53Nt.png"
+            },
+            {
                 "name": "Mala influencia",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432684.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg",
@@ -3902,18 +3914,6 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jnHokqP4eYNubhr9Nohwm4j7GsY.jpg",
                 "iconpng": ""
-            },
-            {
-                "name": "Mi lista de deseos",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/169031.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/a3IFeDHSCIkMLmoBzaOcD60BOoR.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando su madre la envía a una misión para completar su lista de deseos de la adolescencia, una joven desvela secretos familiares, encuentra el amor... y se redescubre.",
-                "anio": "2025",
-                "duracion": "123 min",
-                "genero": "Romance, Comedia, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/mCw1ZFyv8OYOcCrnpseJ9vh53Nt.png"
             },
             {
                 "name": "Estado eléctrico",

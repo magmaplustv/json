@@ -7368,6 +7368,18 @@
                 "genero": "Terror, Misterio, Suspense",
                 "duracion": "89 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La chica de la aguja",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432700.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aU3p3NC3btVtLnA8LVI48asdlfI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xPPBElHCcNQ7H3aXdLptykKxyZ1.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/98kIOi2DQw7oRx8KseZ6x3tHeWD.png",
+                "descripcion": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+                "anio": "2024",
+                "genero": "Drama, Historia",
+                "duracion": "123 min",
+                "type": "PELICULA"
             }
         ]
     },

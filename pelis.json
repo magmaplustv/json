@@ -1009,6 +1009,18 @@
         "name": "⭐️Estrenos CAM 2025🎥",
         "samples": [
             {
+                "name": "La Evaluación",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432652.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
+                "type": "PELICULA",
+                "descripcion": "En un futuro cercano, en el que está estrictamente controlado tener hijos, los siete días de evaluación de una pareja para poder ser padres se convierten en una pesadilla psicológica, que les obliga a cuestionarse los principios básicos de su sociedad y lo que significa ser humanos.",
+                "anio": "2025",
+                "duracion": "115 min",
+                "genero": "Ciencia ficción, Drama, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/96w2p3xKIgvuSTJsNVnvNFqOhPJ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hHlrciHPjGUh087f0kmJtjRJSUq.png"
+            },
+            {
                 "name": "Lilo y Stitch",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430550.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg",
@@ -1199,18 +1211,6 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bY90Kcw4avzuhW6x78nBBJ6Ksv.jpg",
                 "iconpng": ""
-            },
-            {
-                "name": "La Evaluación",
-                "url": "http://vedo.wvdbozpfc.com/vod/CD74587245304F8C8115F26190633E0E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
-                "type": "PELICULA",
-                "descripcion": "En un futuro cercano, en el que está estrictamente controlado tener hijos, los siete días de evaluación de una pareja para poder ser padres se convierten en una pesadilla psicológica, que les obliga a cuestionarse los principios básicos de su sociedad y lo que significa ser humanos.",
-                "anio": "2025",
-                "duracion": "115 min",
-                "genero": "Ciencia ficción, Drama, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/96w2p3xKIgvuSTJsNVnvNFqOhPJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hHlrciHPjGUh087f0kmJtjRJSUq.png"
             },
             {
                 "name": "Novocaine",

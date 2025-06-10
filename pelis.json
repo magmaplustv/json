@@ -349,6 +349,18 @@
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Invencible: Un niño fuera de serie",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432656.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/epEorIcbWjuLqd4dgRWYffpazIR.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w93509Dz3Cq5hwlQ1UE9IpTNV5T.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wZQoAOQEsOjl4MXExtTsyvv5io6.png",
+                "descripcion": "Cuando Scott y Teresa LeRette se enteran de que su hijo Austin es autista y padece la enfermedad de los huesos de cristal, al principio se preocupan por su futuro. Pero con la creciente fe de Scott y el increíble espíritu de Austin, se vuelven inquebrantables y encuentran alegría, gratitud y valentía incluso en los momentos más difíciles.",
+                "anio": "2025",
+                "genero": "Familia, Drama",
+                "duracion": "108 min",
+                "type": "PELICULA"
             }
         ]
     },

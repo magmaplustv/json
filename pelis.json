@@ -9165,18 +9165,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Azrael",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405789.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5FzFpmoZ4sJZXimbiXlRAA8SvEa.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dZc6qBAGg4vL6Gu6t4g39uAXM8Y.png",
-                "descripcion": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean.",
-                "anio": "2024",
-                "genero": "Acción, Terror, Suspense",
-                "duracion": "86 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "El misterio de Salem's Lot",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405581.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
@@ -9186,6 +9174,18 @@
                 "anio": "2024",
                 "genero": "Terror",
                 "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Azrael",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405789.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5FzFpmoZ4sJZXimbiXlRAA8SvEa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dZc6qBAGg4vL6Gu6t4g39uAXM8Y.png",
+                "descripcion": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean.",
+                "anio": "2024",
+                "genero": "Acción, Terror, Suspense",
+                "duracion": "86 min",
                 "type": "PELICULA"
             },
             {

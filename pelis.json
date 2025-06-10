@@ -6747,18 +6747,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/vZibX3cIJICUb1TXIEQQ71S6K7J.png"
             },
             {
-                "name": "El Arco Mágico",
-                "url": "http://vedo.wvdbozpfc.com/vod/F7A51A852DF64E67A4465A2785070ADD_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ngu7BkIewxtknFb2jsIA1wxZ0oD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Biografía del famoso y controvertido compositor italiano Niccolo Paganini (1782-1840).",
-                "anio": "1946",
-                "duracion": "106 min",
-                "genero": "Música, Drama, Romance",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "La Patrulla Canina: La película",
                 "url": "http://vedo.wvdbozpfc.com/vod/F1F25AC7CBE1402DB36EBF9E3C25AA62_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
@@ -6769,6 +6757,18 @@
                 "genero": "Familia, Comedia, Aventura, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/wI5JxVzmXS6WrJNzr8i8JZXCGQN.png"
+            },
+            {
+                "name": "El Arco Mágico",
+                "url": "http://vedo.wvdbozpfc.com/vod/F7A51A852DF64E67A4465A2785070ADD_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ngu7BkIewxtknFb2jsIA1wxZ0oD.jpg",
+                "type": "PELICULA",
+                "descripcion": "Biografía del famoso y controvertido compositor italiano Niccolo Paganini (1782-1840).",
+                "anio": "1946",
+                "duracion": "106 min",
+                "genero": "Música, Drama, Romance",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Moana",

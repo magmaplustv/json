@@ -2482,6 +2482,18 @@
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Voces de libertad",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432775.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yCuph6GHSgRNpNYnkrxrXkyj6k5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6p0ZlZW4wp7nUOGEZgO6lxyswdi.jpg",
+                "iconpng": "",
+                "descripcion": "Ambientada en los tumultuosos años 60 en la radio checoslovaca. La historia se centra en un grupo de periodistas que lo arriesgan todo para proporcionar noticias independientes en medio de la censura estatal y el acoso de la policía secreta.",
+                "anio": "2024",
+                "genero": "Suspense, Drama, Historia",
+                "duracion": "131 min",
+                "type": "PELICULA"
             }
         ]
     },

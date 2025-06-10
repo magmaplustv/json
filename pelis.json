@@ -2458,6 +2458,18 @@
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "The Luckiest Man in America",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432629.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zQm5ogvBCQJpktZZohRJZsWrC01.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pOb60fWDLdvoaGmNIFPkEXoQvfE.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Drama, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

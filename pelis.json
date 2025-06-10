@@ -966,6 +966,18 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
+            },
+            {
+                "name": "Rosario",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432674.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mYK7OYW4w2ZujE8B8GGnVYZWHYD.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d5aBTObiUzqGZMohXtQKY4FMGvb.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/b0SvCEq4YGugT6exKGQEWYasad0.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "88 min",
+                "type": "PELICULA"
             }
         ]
     },

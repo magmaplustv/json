@@ -3322,6 +3322,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "iRehén",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432664.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un hombre armado atraca una tienda Apple en el centro de Ámsterdam y a la policía le toca resolver una situación delicada.",
+                "anio": "2025",
+                "duracion": "100 min",
+                "genero": "Suspense, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uL46cOIcmtIAvIIZK7LFu6zwY4r.png"
+            },
+            {
                 "name": "Mi lista de deseos",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432680.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/a3IFeDHSCIkMLmoBzaOcD60BOoR.jpg",
@@ -3782,18 +3794,6 @@
                 "genero": "Acción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kFXtAwJYbRTqiyQpE9kDc8qEP3X.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/k3793GScNnpJG2T1a3vJ7nUeygX.png"
-            },
-            {
-                "name": "iRehén",
-                "url": "http://vedo.wvdbozpfc.com/vod/08D743CB70024228AAFFF61E1A30B04D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un hombre armado atraca una tienda Apple en el centro de Ámsterdam y a la policía le toca resolver una situación delicada.",
-                "anio": "2025",
-                "duracion": "100 min",
-                "genero": "Suspense, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uL46cOIcmtIAvIIZK7LFu6zwY4r.png"
             },
             {
                 "name": "Pangolín: El viaje de Kulu",

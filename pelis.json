@@ -9009,18 +9009,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5KhdkdUtBTD1NP9YezXbpl1BnTY.png"
             },
             {
-                "name": "Susurros Mortales 2",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405742.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "112 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
-            },
-            {
                 "name": "Terrifier",
                 "url": "http://vedo.wvdbozpfc.com/vod/136700A6724D4A71A6078B852D5252D8_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg",
@@ -9031,6 +9019,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ri8rWRF6jZc9nqiCPpGpWZJ8Cxj.png"
+            },
+            {
+                "name": "Susurros Mortales 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405742.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "112 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
             },
             {
                 "name": "Juega Conmigo",

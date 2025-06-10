@@ -6639,18 +6639,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jLJlDUl1yHisrCdwWW7RkYqlLQC.png"
             },
             {
-                "name": "Barbie en El campamento de princesas",
-                "url": "http://vedo.wvdbozpfc.com/vod/1943B44A4699488F9DEBFDB0D926DEB0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/55NspwnwJuMhj9nFAOBs3YyUiZH.jpg",
-                "type": "PELICULA",
-                "descripcion": "¡Disponte a rockear! En este alegre musical, Barbie es la Princesa Courtney, una princesa moderna cuyo mundo queda hecho un lío cuando cambia su vida por la de Erika, una famosa estrella del rock. Dos mundos muy diferentes chocan cuando por confusión mandan a la Princesa Courtney al Campamento Pop y a Erika al Campamento Real. Mientras los líderes de los campamentos rivales tratan de deshacer el malentendido, tanto Courtney como Erika aprenden a adaptarse a mundos tan distintos y a divertirse y hacer nuevos e inesperados amigos. Cuando las chicas descubren que ambos campamentos están a punto de ser clausurados, han de aprovechar sus diferencias, encontrar sus verdaderas voces y unirse para una despedida épica que demuestra que todo es posible cuando sueñas con alcanzar lo imposible.",
-                "anio": "2015",
-                "duracion": "84 min",
-                "genero": "Animación, Música, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4nOShZSE5V5MWZgZs4NjDcDHiSo.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/3zD0kTgBGBsp5Bo5joyqI1ASSGW.png"
-            },
-            {
                 "name": "Bob Esponja: Un héroe fuera del agua",
                 "url": "http://vedo.wvdbozpfc.com/vod/2DD8E61AC5674484B354FDE62812E2A1_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/z5aphafm6OEcAq4jwOs5Ml9F384.jpg",
@@ -6661,6 +6649,18 @@
                 "genero": "Familia, Comedia, Aventura, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/6eGYsTJvTf2R38YO0NlnqdsaZu0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
+            },
+            {
+                "name": "Barbie en El campamento de princesas",
+                "url": "http://vedo.wvdbozpfc.com/vod/1943B44A4699488F9DEBFDB0D926DEB0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/55NspwnwJuMhj9nFAOBs3YyUiZH.jpg",
+                "type": "PELICULA",
+                "descripcion": "¡Disponte a rockear! En este alegre musical, Barbie es la Princesa Courtney, una princesa moderna cuyo mundo queda hecho un lío cuando cambia su vida por la de Erika, una famosa estrella del rock. Dos mundos muy diferentes chocan cuando por confusión mandan a la Princesa Courtney al Campamento Pop y a Erika al Campamento Real. Mientras los líderes de los campamentos rivales tratan de deshacer el malentendido, tanto Courtney como Erika aprenden a adaptarse a mundos tan distintos y a divertirse y hacer nuevos e inesperados amigos. Cuando las chicas descubren que ambos campamentos están a punto de ser clausurados, han de aprovechar sus diferencias, encontrar sus verdaderas voces y unirse para una despedida épica que demuestra que todo es posible cuando sueñas con alcanzar lo imposible.",
+                "anio": "2015",
+                "duracion": "84 min",
+                "genero": "Animación, Música, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4nOShZSE5V5MWZgZs4NjDcDHiSo.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3zD0kTgBGBsp5Bo5joyqI1ASSGW.png"
             },
             {
                 "name": "Aviones: Equipo de rescate",

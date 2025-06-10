@@ -3334,6 +3334,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Inheritance",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432636.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando el patriarca de una poderosa familia asociada con vínculos políticos muere,  deja a su hija al frente de la estabilidad económica familiar. Su responsabilidad es doble, dado que  ya ha  desaparecido  su padre, le han confesado un terrible secreto, así como una herencia maligna que amenaza con destruir tanto su vida, como la de todo el mundo que tiene a su alrededor.",
+                "anio": "2020",
+                "duracion": "115 min",
+                "genero": "Drama, Misterio, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b8EeJnKkjatM3b0dvWpQOKNf0vN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/etrtzy17JJ4gfBApci0odllbsBO.png"
+            },
+            {
                 "name": "Oni-Goroshi: Ciudad de los demonios",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432647.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
@@ -4166,18 +4178,6 @@
                 "genero": "Acción, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uAI8VFHkcNJnApaznde5lVbtfVH.png"
-            },
-            {
-                "name": "Inheritance",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405168.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando el patriarca de una poderosa familia asociada con vínculos políticos muere,  deja a su hija al frente de la estabilidad económica familiar. Su responsabilidad es doble, dado que  ya ha  desaparecido  su padre, le han confesado un terrible secreto, así como una herencia maligna que amenaza con destruir tanto su vida, como la de todo el mundo que tiene a su alrededor.",
-                "anio": "2020",
-                "duracion": "115 min",
-                "genero": "Drama, Misterio, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/b8EeJnKkjatM3b0dvWpQOKNf0vN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/etrtzy17JJ4gfBApci0odllbsBO.png"
             },
             {
                 "name": "Dhoom Dhaam",

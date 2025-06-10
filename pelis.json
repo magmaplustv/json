@@ -3346,6 +3346,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Harta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432769.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wvr3Nh8TALWbmATrnlNg5Vhf6d3.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eVFgaFQBoje99XeWSve9WNF1Vf9.png",
+                "descripcion": "¿Cuál será la gota que colme el vaso? Un día devastador lleva al límite a una madre soltera y trabajadora, y la empuja a cometer un impactante acto de desesperación.",
+                "anio": "2025",
+                "genero": "Suspense, Drama",
+                "duracion": "105 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "K.O.",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432768.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg",
@@ -4273,18 +4285,6 @@
                 "anio": "2024",
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Harta",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432769.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wvr3Nh8TALWbmATrnlNg5Vhf6d3.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eVFgaFQBoje99XeWSve9WNF1Vf9.png",
-                "descripcion": "¿Cuál será la gota que colme el vaso? Un día devastador lleva al límite a una madre soltera y trabajadora, y la empuja a cometer un impactante acto de desesperación.",
-                "anio": "2025",
-                "genero": "Suspense, Drama",
-                "duracion": "105 min",
                 "type": "PELICULA"
             }
         ]

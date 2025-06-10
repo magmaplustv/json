@@ -4298,6 +4298,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Loco Por Ella",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432774.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6PbSSN2BT22ZMsMaD7m8cGaqk3L.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xG78aDL4gPLx2HDcuqkABuknP5l.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "100 min",
+                "type": "PELICULA"
             }
         ]
     },

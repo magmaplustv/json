@@ -9587,6 +9587,18 @@
                 "genero": "Comedia, Drama",
                 "duracion": "91 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "A Different Man",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432694.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/x8nynAOohBR0fWp8TEVtdr34jzo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xSqaVqkbeSaPmeEyurWBaTSkgL9.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4HrGdxV3scuPE0Jv4gE9Foaki7k.png",
+                "descripcion": "El ambicioso actor neoyorquino Edward se somete a una intervención quirúrgica radical para transformar drásticamente su aspecto. Como resultado, muchas cosas cambian en su vida y, sin embargo, todo sigue perturbadoramente igual. Aunque haya cambiado exteriormente y pueda empezar una nueva vida, sigue siendo quien es y no quien quiere ser. Entonces se pierde el papel de su vida y su nuevo rostro de ensueño se convierte en una pesadilla.",
+                "anio": "2024",
+                "genero": "Comedia, Drama",
+                "duracion": "112 min",
+                "type": "PELICULA"
             }
         ]
     },

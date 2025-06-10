@@ -13,6 +13,18 @@
                 "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/181835",
                 "type": "HLS",
                 "icono": "https://www.ole.com.ar/2025/06/09/ByNVO-3YW_1290x760__1.jpg"
+            },
+            {
+                "name": "Argentina Vs Colombia",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://www.ole.com.ar/2025/06/08/Ebg6a_eJ7_1290x760__1.jpg",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

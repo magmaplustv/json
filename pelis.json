@@ -356,6 +356,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Revelación",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432639.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un pastor que cree en las revelaciones divinas y un detective atormentado por las visiones investigan el caso de una persona desaparecida, que saca a la luz sus propios demonios.",
+                "anio": "2025",
+                "duracion": "122 min",
+                "genero": "Suspense, Crimen, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
+            },
+            {
                 "name": "La Evaluación",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432652.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/rCGwGWI4a2EaNQCyTe4vDfoiMtk.jpg",
@@ -894,18 +906,6 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hlfyEitcmizL4AEYhcbqpXWklLK.jpg",
                 "iconpng": ""
-            },
-            {
-                "name": "Revelación",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405214.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un pastor que cree en las revelaciones divinas y un detective atormentado por las visiones investigan el caso de una persona desaparecida, que saca a la luz sus propios demonios.",
-                "anio": "2025",
-                "duracion": "122 min",
-                "genero": "Suspense, Crimen, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/471VaS0vQxVANAi6AjJUOl70V4c.png"
             },
             {
                 "name": "Rescate Implacable",

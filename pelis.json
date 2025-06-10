@@ -3778,18 +3778,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Lo que le falta a esta estrella",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96016A1CC553439BA258E4E3BAB14A70_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f2tgUFZC6TKqQDshRBW19zvmk7X.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eqLhqN0YfvKwih68O3ViGWgY2Ap.png",
-                "descripcion": "La inmensidad del espacio infinito separa a dos amantes cuando una astronauta abandona la Tierra rumbo a Marte en este romance de animación que recorre todo el cosmos.",
-                "anio": "2025",
-                "genero": "Animación, Romance, Ciencia ficción",
-                "duracion": "96 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La Viuda Negra",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/82F236FECE0F497E9283C525E0A61476_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uuabL0qp3zygLDEjImbPiWR9j2e.jpg",
@@ -3799,6 +3787,18 @@
                 "anio": "2025",
                 "genero": "Suspense, Misterio",
                 "duracion": "120 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Lo que le falta a esta estrella",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96016A1CC553439BA258E4E3BAB14A70_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f2tgUFZC6TKqQDshRBW19zvmk7X.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eqLhqN0YfvKwih68O3ViGWgY2Ap.png",
+                "descripcion": "La inmensidad del espacio infinito separa a dos amantes cuando una astronauta abandona la Tierra rumbo a Marte en este romance de animación que recorre todo el cosmos.",
+                "anio": "2025",
+                "genero": "Animación, Romance, Ciencia ficción",
+                "duracion": "96 min",
                 "type": "PELICULA"
             },
             {

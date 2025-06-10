@@ -3310,6 +3310,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Nonnas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432689.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tras la muerte de su madre, un hombre lo arriesga todo y decide honrarla abriendo un restaurante italiano donde abuelas de verdad toman el mando en la cocina.",
+                "anio": "2025",
+                "duracion": "114 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png"
+            },
+            {
                 "name": "Extraterritorial",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432690.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg",
@@ -3644,18 +3656,6 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fMPpkOUiu8d19H5PFe30sYhlavB.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4QBfS6BCeJOObdcIewXlsKXHiQ7.png"
-            },
-            {
-                "name": "Nonnas",
-                "url": "http://vedo.wvdbozpfc.com/vod/4887ED79B4D6468AAB2C4719531D71DC_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tras la muerte de su madre, un hombre lo arriesga todo y decide honrarla abriendo un restaurante italiano donde abuelas de verdad toman el mando en la cocina.",
-                "anio": "2025",
-                "duracion": "114 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png"
             },
             {
                 "name": "Baila, Vini",

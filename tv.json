@@ -1,7 +1,14 @@
 [
     {
         "name": "⚽ ELIMINATORIAS 2025⚽",
-        "samples": []
+        "samples": [
+            {
+                "name": "Bolivia Vs Chile",
+                "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/614190.ts",
+                "type": "HLS",
+                "icono": "https://www.ole.com.ar/2025/06/09/96fRmllX8_1290x760__1.jpg"
+            }
+        ]
     },
     {
         "name": "🎶EVENTOS M+ PLUS HD 🎶⚽",

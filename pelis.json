@@ -2422,6 +2422,18 @@
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "2073",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432696.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/721p2lNSGp2iSlUUukZwCzEKrnn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/50ayQ1NhSPlPlindLqkWwB62UCN.png",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Suspense, Ciencia ficción",
+                "duracion": "83 min",
+                "type": "PELICULA"
             }
         ]
     },

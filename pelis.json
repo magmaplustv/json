@@ -6039,6 +6039,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/k50zwn8Gs4f999ezuVAL2WXLv5x.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Predator: Asesino de asesinos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432770.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qHDsrBZJRx6ZCO4tocFh3gnbosU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/a3F9cXjRH488qcOqFmFZwqawBMU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bwNt35kwuoK7T1VdRThDbGVBp7H.png",
+                "descripcion": "Esta antología original de animación narra las aventuras de tres de los guerreros más fieros de la historia de la humanidad: una saqueadora vikinga que guía a su hijo en su sangrienta búsqueda de la venganza, un ninja del Japón feudal que se enfrenta a su hermano samurái en una brutal batalla por la sucesión y un piloto de la Segunda Guerra Mundial que surca los cielos para investigar una amenaza extraterrestre contra los Aliados.",
+                "anio": "2025",
+                "genero": "Animación, Ciencia ficción, Acción",
+                "duracion": "85 min",
+                "type": "PELICULA"
             }
         ]
     },

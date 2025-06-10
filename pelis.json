@@ -4305,6 +4305,18 @@
         "name": "⭐️Prime Video⭐️",
         "samples": [
             {
+                "name": "La balada de la isla",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432773.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4s51WZv8UCJlaPkmDgSTNxl4a4l.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1nn7nCFRTKeWOXbtjrFxfSvf1EI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/figE7y9hBHqxfN1p7rGROuWXISZ.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Comedia, Drama, Música",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Until Dawn: Noche de terror",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432648.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/myNjx5DRj6UvROSlV6t4FuvcTLm.jpg",
@@ -4915,18 +4927,6 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
                 "iconpng": ""
-            },
-            {
-                "name": "The Ballad of Wallis Island",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432773.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4s51WZv8UCJlaPkmDgSTNxl4a4l.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1nn7nCFRTKeWOXbtjrFxfSvf1EI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/figE7y9hBHqxfN1p7rGROuWXISZ.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Comedia, Drama, Música",
-                "duracion": "100 min",
-                "type": "PELICULA"
             }
         ]
     },

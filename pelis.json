@@ -5783,6 +5783,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "112 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Este amor sí que duele",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432643.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iWChxwtgFFpKdhIdW797hmFzQoz.png",
+                "descripcion": "Marvin Gable, un agente inmobiliario que trabaja en un barrio a las afueras de Milwaukee, recibe un sobre rojo de Rose, una antigua cómplice a la que daba por muerta y se verá de nuevo arrastrado a un mundo de francotiradores implacables plagado de traiciones y eventos inmobiliarios convertidos en trampas letales.",
+                "anio": "2025",
+                "genero": "Acción, Comedia, Romance",
+                "duracion": "83 min",
+                "type": "PELICULA"
             }
         ]
     },

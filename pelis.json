@@ -356,6 +356,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Kayara. La guerrera del imperio Inca",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432777.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/A1DSh29atQjLZCVCddMyGw1mbM8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hJXsJkQC8F3bgUTfsD402uj2Ewf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/1BkvbxGuT02IKOrT95KciqRcwBn.png",
+                "descripcion": "Una joven inca, apasionada por el trabajo de los mensajeros Chasqui, sueña con unirse a este grupo exclusivo de hombres encargados de llevar mensajes a lo largo del vasto Imperio Inca. Desafiando las estrictas normas de género y las tradiciones de su sociedad, la joven lucha contra las expectativas impuestas y enfrenta numerosos obstáculos en su búsqueda por cumplir su ambición. A pesar de las adversidades, su determinación y coraje la impulsan a romper barreras y a demostrar que su lugar está en el corazón del imperio.",
+                "anio": "2025",
+                "genero": "Aventura, Animación, Familia",
+                "duracion": "81 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Amateur",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432776.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg",
@@ -1038,18 +1050,6 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
-            },
-            {
-                "name": "Kayara. La guerrera del imperio Inca",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432777.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/A1DSh29atQjLZCVCddMyGw1mbM8.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hJXsJkQC8F3bgUTfsD402uj2Ewf.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/1BkvbxGuT02IKOrT95KciqRcwBn.png",
-                "descripcion": "Una joven inca, apasionada por el trabajo de los mensajeros Chasqui, sueña con unirse a este grupo exclusivo de hombres encargados de llevar mensajes a lo largo del vasto Imperio Inca. Desafiando las estrictas normas de género y las tradiciones de su sociedad, la joven lucha contra las expectativas impuestas y enfrenta numerosos obstáculos en su búsqueda por cumplir su ambición. A pesar de las adversidades, su determinación y coraje la impulsan a romper barreras y a demostrar que su lugar está en el corazón del imperio.",
-                "anio": "2025",
-                "genero": "Aventura, Animación, Familia",
-                "duracion": "81 min",
-                "type": "PELICULA"
             }
         ]
     },

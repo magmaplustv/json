@@ -6441,18 +6441,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/mb34rpLNTctV7FwGEKgLzdPMv8d.png"
             },
             {
-                "name": "Shreketefeliz Navidad",
-                "url": "http://vedo.wvdbozpfc.com/vod/4DDF61F50D5F412DA1956C36D89F837A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/3G2Xs4lKCkhTcechHSu85o7auXr.jpg",
-                "type": "PELICULA",
-                "descripcion": "Justo cuando Shrek pensaba que, por fin, podría sentarse, relajarse en su ciénaga y disfrutar de su recién ampliada familia... llega la Navidad. Es Nochebuena y todo el mundo está feliz, excepto Shrek. En estas fechas, el ogro no es precisamente la viva imagen de la alegría. A pesar de todo y aunque sólo sea por Fiona y los bebés, intenta contagiarse del espíritu navideño y promete a su mujer una gran sorpresa navideña. Después del éxito de la tercera secuela de \"Shrek\", se estrenó en televisión esta producción de animación de media hora de duración que se centra en el gruñón ogro y su pandilla. Adaptada a la época navideña, la cinta contó con los mismos dobladores que en la saga cinematográfica: Mike Myers, Eddie Murphy y Cameron Díaz en la versión original; y las voces de Cruz y Raya en la española. El internacional Antonio Banderas realiza un doblete interpretando en ambos idiomas al carismático Gato con Botas.",
-                "anio": "2007",
-                "duracion": "30 min",
-                "genero": "Aventura, Animación, Comedia, Fantasía, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5lUaKCo9ypmXbuVeZqKQ9gm8zk4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5ezkoxJJ1p2FPdnOkkg6ju0i3aK.png"
-            },
-            {
                 "name": "Los pingüinos de Madagascar",
                 "url": "http://vedo.wvdbozpfc.com/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
@@ -6463,6 +6451,18 @@
                 "genero": "Familia, Animación, Aventura, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2QMgoiDlTmrO9FngZft8GgZ2SbX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
+            },
+            {
+                "name": "Shreketefeliz Navidad",
+                "url": "http://vedo.wvdbozpfc.com/vod/4DDF61F50D5F412DA1956C36D89F837A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3G2Xs4lKCkhTcechHSu85o7auXr.jpg",
+                "type": "PELICULA",
+                "descripcion": "Justo cuando Shrek pensaba que, por fin, podría sentarse, relajarse en su ciénaga y disfrutar de su recién ampliada familia... llega la Navidad. Es Nochebuena y todo el mundo está feliz, excepto Shrek. En estas fechas, el ogro no es precisamente la viva imagen de la alegría. A pesar de todo y aunque sólo sea por Fiona y los bebés, intenta contagiarse del espíritu navideño y promete a su mujer una gran sorpresa navideña. Después del éxito de la tercera secuela de \"Shrek\", se estrenó en televisión esta producción de animación de media hora de duración que se centra en el gruñón ogro y su pandilla. Adaptada a la época navideña, la cinta contó con los mismos dobladores que en la saga cinematográfica: Mike Myers, Eddie Murphy y Cameron Díaz en la versión original; y las voces de Cruz y Raya en la española. El internacional Antonio Banderas realiza un doblete interpretando en ambos idiomas al carismático Gato con Botas.",
+                "anio": "2007",
+                "duracion": "30 min",
+                "genero": "Aventura, Animación, Comedia, Fantasía, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5lUaKCo9ypmXbuVeZqKQ9gm8zk4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5ezkoxJJ1p2FPdnOkkg6ju0i3aK.png"
             },
             {
                 "name": "Tom y Jerry: Rapidos y Peludo",

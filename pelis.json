@@ -1254,6 +1254,18 @@
         "name": "⭐️Estrenos 2024⭐️",
         "samples": [
             {
+                "name": "The Luckiest Man in America",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432629.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zQm5ogvBCQJpktZZohRJZsWrC01.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pOb60fWDLdvoaGmNIFPkEXoQvfE.png",
+                "descripcion": "Mayo de 1984. Un camionero de helados en paro entra en el concurso Press Your Luck guardando un secreto: la clave para ganar dinero sin fin. Pero su racha ganadora se ve amenazada cuando los desconcertados ejecutivos descubren sus verdaderas motivaciones.",
+                "anio": "2025",
+                "genero": "Drama, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La patasola",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432633.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/8hAi3I6vxlqtLqvcmP0sRktvNwA.jpg",
@@ -2457,18 +2469,6 @@
                 "anio": "2024",
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "The Luckiest Man in America",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432629.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zQm5ogvBCQJpktZZohRJZsWrC01.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pOb60fWDLdvoaGmNIFPkEXoQvfE.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Drama, Suspense",
-                "duracion": "90 min",
                 "type": "PELICULA"
             }
         ]

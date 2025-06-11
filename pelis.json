@@ -5102,18 +5102,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Espíritus en el Bosque",
-                "url": "http://vedo.wvdbozpfc.com/vod/D3A21E35413B44FA83DEDFE17DA59D12_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/fkohwexP83W1WSY0oomIYMGldfy.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9JD5I9MH1ZNsDfDiLX7ZHkGRDjC.jpg",
-                "iconpng": "",
-                "descripcion": "Samantha, una adolescente adoptada, intentará salvar a su hermana adoptiva y demostrar que hay un impostor sobrenatural en su nueva familia.",
-                "anio": "2018",
-                "genero": "Terror",
-                "duracion": "92 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Poseído",
                 "url": "http://vedo.wvdbozpfc.com/vod/62A4D1ECB69B4A5E8B18784D19906B1E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fHN1jFP5oyTkDuj23OsRqFSfmUQ.jpg",
@@ -5123,6 +5111,18 @@
                 "anio": "2019",
                 "genero": "Terror",
                 "duracion": "",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Espíritus en el Bosque",
+                "url": "http://vedo.wvdbozpfc.com/vod/D3A21E35413B44FA83DEDFE17DA59D12_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fkohwexP83W1WSY0oomIYMGldfy.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9JD5I9MH1ZNsDfDiLX7ZHkGRDjC.jpg",
+                "iconpng": "",
+                "descripcion": "Samantha, una adolescente adoptada, intentará salvar a su hermana adoptiva y demostrar que hay un impostor sobrenatural en su nueva familia.",
+                "anio": "2018",
+                "genero": "Terror",
+                "duracion": "92 min",
                 "type": "PELICULA"
             },
             {

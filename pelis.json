@@ -9709,18 +9709,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Chabuca",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405577.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/olmMIqztS1ClgqFixpbEGoAS2Qy.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wtCCDl3wxHMPmbB60geBsr0WQbZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8cKecU5Crmir9swUvAEFMm1VUhI.png",
-                "descripcion": "La historia de la vida de Ernesto Pimentel, criado con humildad tras perder a su madre, lo inspira a crear el personaje icónico La Chola Chabuca, una figura andina que cautiva a todo el Perú con sus faldas coloridas y su buen humor.",
-                "anio": "2024",
-                "genero": "Drama, Romance",
-                "duracion": "113 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Una parte de ti",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405528.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/eV9Zm2z7fd6VvgnqvnVUQ6QVxb4.jpg",
@@ -9730,6 +9718,18 @@
                 "anio": "2024",
                 "genero": "Drama",
                 "duracion": "101 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Chabuca",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405577.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/olmMIqztS1ClgqFixpbEGoAS2Qy.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wtCCDl3wxHMPmbB60geBsr0WQbZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8cKecU5Crmir9swUvAEFMm1VUhI.png",
+                "descripcion": "La historia de la vida de Ernesto Pimentel, criado con humildad tras perder a su madre, lo inspira a crear el personaje icónico La Chola Chabuca, una figura andina que cautiva a todo el Perú con sus faldas coloridas y su buen humor.",
+                "anio": "2024",
+                "genero": "Drama, Romance",
+                "duracion": "113 min",
                 "type": "PELICULA"
             },
             {

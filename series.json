@@ -4993,6 +4993,55 @@
                     ],
                     "tmdb_id": 62687,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El Eternauta",
+                    "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "descripcion": "Cuando una nieve tóxica mata a millones de personas, Juan Salvo y un grupo de supervivientes de Buenos Aires deben combatir una amenaza invisible de otro mundo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/n1khm5vSwmps3xUd3UWufT3wikQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432786.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432781.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432782.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432783.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432784.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432785.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 226362,
+                    "total_seasons": 1
                 }
             ]
         },

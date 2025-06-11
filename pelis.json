@@ -3988,18 +3988,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/jWq69FzSABwWg3A1nHGAylNwCWw.png"
             },
             {
-                "name": "Pánico en el tren bala",
-                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
-                "type": "PELICULA",
-                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
-                "anio": "2025",
-                "duracion": "134 min",
-                "genero": "Acción, Suspense, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
-            },
-            {
                 "name": "A prueba",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171060.ts",
                 "icono": "https://image.tmdb.org/t/p/original/cXgBHj3g0aLH5OWbgZJpNX7zMhT.jpg",
@@ -4010,6 +3998,18 @@
                 "genero": "Drama, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/eExaW68UXzJMDQP9Ekyc3wn9h1Z.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/9mVFQqZPALoyztL8YjfV9RARcoZ.png"
+            },
+            {
+                "name": "Pánico en el tren bala",
+                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
+                "type": "PELICULA",
+                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
+                "anio": "2025",
+                "duracion": "134 min",
+                "genero": "Acción, Suspense, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
             },
             {
                 "name": "La madre de las estafas",

@@ -3682,18 +3682,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Centinela",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432556.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oz60oMLIyZfkww0y4AiZ5uTNRqL.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eTgQlyIQH0nA5BsmYpvCzSPAorg.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/wbajUlwCi1OASIqHvJJeBF2WtHF.svg",
-                "descripcion": "Enviada a casa tras una traumática misión de combate, una soldado francesa de élite usa sus habilidades letales para dar caza al hombre que agredió a su hermana.",
-                "anio": "2021",
-                "genero": "Suspense, Acción, Drama",
-                "duracion": "80 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Hay alguien en tu casa",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432553.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fHugh1QUl5llrdlTCF4UOaRy0BH.jpg",
@@ -3703,6 +3691,18 @@
                 "anio": "2021",
                 "genero": "Terror, Misterio",
                 "duracion": "86 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Centinela",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432556.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oz60oMLIyZfkww0y4AiZ5uTNRqL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eTgQlyIQH0nA5BsmYpvCzSPAorg.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wbajUlwCi1OASIqHvJJeBF2WtHF.svg",
+                "descripcion": "Enviada a casa tras una traumática misión de combate, una soldado francesa de élite usa sus habilidades letales para dar caza al hombre que agredió a su hermana.",
+                "anio": "2021",
+                "genero": "Suspense, Acción, Drama",
+                "duracion": "80 min",
                 "type": "PELICULA"
             },
             {

@@ -9165,18 +9165,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El río de la muerte",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405814.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/cVrVthlGie7bnW5ex8SjLyeiebO.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
-                "iconpng": "",
-                "descripcion": "Cuatro piragüistas se equivocan de río y se adentran en una selva habitada por una tribu de caníbales despiadados.",
-                "anio": "2024",
-                "genero": "Terror, Suspense",
-                "duracion": "86 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Azrael",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405789.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
@@ -9185,6 +9173,18 @@
                 "descripcion": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean.",
                 "anio": "2024",
                 "genero": "Acción, Terror, Suspense",
+                "duracion": "86 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El río de la muerte",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405814.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cVrVthlGie7bnW5ex8SjLyeiebO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
+                "iconpng": "",
+                "descripcion": "Cuatro piragüistas se equivocan de río y se adentran en una selva habitada por una tribu de caníbales despiadados.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
                 "duracion": "86 min",
                 "type": "PELICULA"
             },

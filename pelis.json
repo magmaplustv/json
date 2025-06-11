@@ -9045,18 +9045,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
             },
             {
-                "name": "Regresión",
-                "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
-                "type": "PELICULA",
-                "descripcion": "La historia comienza con una mujer que viaja en un tren, desorientada y con amnesia. A la vez que la protagonista, iremos descubriendo el infierno que ha vivido en los últimos meses.",
-                "anio": "2013",
-                "duracion": "",
-                "genero": "",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "El Juego de la Botella",
                 "url": "http://vedo.wvdbozpfc.com/vod/4389DDA78AAC4727B3DB4D4D8AEBC026_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/knZo3KnD7mT4aXwLDbYyQw7ZA8Z.jpg",
@@ -9067,6 +9055,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xTRnlDvGPXKI81zAXpZDT1J8i4Y.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5GxU9WVcTodN9XIMBaWnoaEJ6KB.png"
+            },
+            {
+                "name": "Regresión",
+                "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
+                "type": "PELICULA",
+                "descripcion": "La historia comienza con una mujer que viaja en un tren, desorientada y con amnesia. A la vez que la protagonista, iremos descubriendo el infierno que ha vivido en los últimos meses.",
+                "anio": "2013",
+                "duracion": "",
+                "genero": "",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Ghost Game",

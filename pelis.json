@@ -6711,18 +6711,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/tTsn31IwokRVsmxzLYYM2DdpPY1.png"
             },
             {
-                "name": "Cómo entrenar a tu dragón",
-                "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-                "anio": "2025",
-                "duracion": "125 min",
-                "genero": "Acción, Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
-            },
-            {
                 "name": "Coco",
                 "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
@@ -6733,6 +6721,18 @@
                 "genero": "Familia, Animación, Música, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "duracion": "125 min",
+                "genero": "Acción, Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
             },
             {
                 "name": "La Patrulla Canina: La película",

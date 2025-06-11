@@ -10892,6 +10892,65 @@
                     ],
                     "tmdb_id": 241405,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Machos de verdad",
+                    "genero": "Comedia",
+                    "descripcion": "En la Roma actual, cuatro hombres tienen que lidiar con un mundo cambiante en cuanto a las dinámicas de género.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9sOrXZVG4BjJ2FXjqaDf2AE0kZ1.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lYH4sK2M1H7waVSTcsxCpEiSNjO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/y70oo98ILJfDP5SStaaByel7qnc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432807.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432808.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432809.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432810.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432811.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432812.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432813.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432814.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 255650,
+                    "total_seasons": 1
                 }
             ]
         },

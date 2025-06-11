@@ -9685,18 +9685,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Hachiko",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405822.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/sT5SHjXlrKZwSbcvi70dmoDEHms.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sptxlzXJA1t1oWrtAv3t88cKkB2.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/94dJhuebt7E7iZNC1Ori6RH4Nsg.png",
-                "descripcion": "Hachiko (Batong) es un lindo perro pastor chino. Conoce a su dueño Chen Jingxiu entre la gran multitud y se convierte en miembro de la familia Chen. Con el paso del tiempo, la casa que alguna vez fue hermosa ya no está allí, pero Batong espera y espera, sabiendo que su destino está estrechamente ligado a su familia.",
-                "anio": "2023",
-                "genero": "Drama, Familia",
-                "duracion": "124 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Un Viaje Al Corazón",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405556.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/hiVxWksFOe8MqXUvRHdCLJEivAh.jpg",
@@ -9706,6 +9694,18 @@
                 "anio": "2024",
                 "genero": "Drama, Suspense",
                 "duracion": "117 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Hachiko",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405822.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sT5SHjXlrKZwSbcvi70dmoDEHms.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/sptxlzXJA1t1oWrtAv3t88cKkB2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/94dJhuebt7E7iZNC1Ori6RH4Nsg.png",
+                "descripcion": "Hachiko (Batong) es un lindo perro pastor chino. Conoce a su dueño Chen Jingxiu entre la gran multitud y se convierte en miembro de la familia Chen. Con el paso del tiempo, la casa que alguna vez fue hermosa ya no está allí, pero Batong espera y espera, sabiendo que su destino está estrechamente ligado a su familia.",
+                "anio": "2023",
+                "genero": "Drama, Familia",
+                "duracion": "124 min",
                 "type": "PELICULA"
             },
             {

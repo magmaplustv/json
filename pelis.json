@@ -7334,18 +7334,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Saw II",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430980.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aqCRAr4VrS9h7LWUR9pMzqBuxnL.png",
-                "descripcion": "Un detective y su equipo deben rescatar a 8 personas encerradas en una fábrica por el retorcido asesino en serie conocido como Jigsaw.",
-                "anio": "2005",
-                "genero": "Terror",
-                "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Saw X",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430988.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/nzVkXj1IX0BNoYzpTVogtkcCStf.jpg",
@@ -7355,6 +7343,18 @@
                 "anio": "2023",
                 "genero": "Terror, Misterio, Suspense",
                 "duracion": "118 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Saw II",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430980.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aqCRAr4VrS9h7LWUR9pMzqBuxnL.png",
+                "descripcion": "Un detective y su equipo deben rescatar a 8 personas encerradas en una fábrica por el retorcido asesino en serie conocido como Jigsaw.",
+                "anio": "2005",
+                "genero": "Terror",
+                "duracion": "93 min",
                 "type": "PELICULA"
             },
             {

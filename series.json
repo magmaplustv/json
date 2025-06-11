@@ -5205,6 +5205,125 @@
                     ],
                     "tmdb_id": 208493,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Dragon Ball Daima",
+                    "genero": "Animación, Action & Adventure, Comedia, Sci-Fi & Fantasy",
+                    "descripcion": "Misteriosamente transformados en mini versiones de sí mismos, Goku y sus amigos viajan al Reino de los Demonios para descubrir la verdad y encontrar una cura.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/HFAyXFb8VpdJCXZPylKo3jtNT8.png",
+                    "icono": "https://image.tmdb.org/t/p/original/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Conspiración",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401403.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Glorio",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401404.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Daima",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401405.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Cotorra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401406.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Panzy",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401407.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Rayo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401408.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Collar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/378732.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Tamagami",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/379548.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Ladrones",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/380544.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Océano",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/382312.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Leyenda",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/383931.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Verdadera fuerza",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/384663.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Sorpresa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/389637.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Tabú",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/390000.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Tercer Ojo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/391415.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Degesu",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401409.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Gomah",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401410.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "El despertar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/394860.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Traición",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/396320.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Al máximo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400276.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 236994,
+                    "total_seasons": 1
                 }
             ]
         },

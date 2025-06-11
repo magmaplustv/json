@@ -7771,18 +7771,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Pobres criaturas",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405763.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/63xFGsznEPcmWY4aVVlaqoCTBtu.png",
-                "descripcion": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
-                "anio": "2023",
-                "genero": "Ciencia ficción, Romance, Comedia",
-                "duracion": "141 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Pared con pared",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405559.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg",
@@ -7792,6 +7780,18 @@
                 "anio": "2024",
                 "genero": "Romance, Comedia",
                 "duracion": "98 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Pobres criaturas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405763.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/63xFGsznEPcmWY4aVVlaqoCTBtu.png",
+                "descripcion": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
+                "anio": "2023",
+                "genero": "Ciencia ficción, Romance, Comedia",
+                "duracion": "141 min",
                 "type": "PELICULA"
             },
             {

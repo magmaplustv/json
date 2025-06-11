@@ -3622,18 +3622,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "A mil kilómetros de la Navidad",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432546.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rhlIBgCF1zviBR4igbxfxnGkaGj.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/9c0ABCkzlLHhTs44iNJqQKLl1Y.png",
-                "descripcion": "Un auditor que odia profundamente la Navidad va a trabajar a un pueblo. Y allí conoce a una mujer que se propone cambiar su opinión sobre las fiestas.",
-                "anio": "2021",
-                "genero": "Comedia, Romance, Familia",
-                "duracion": "102 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Work It: Al ritmo de los sueños",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432549.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6aOcDJKODkryJozfzW6qvcu5NvF.jpg",
@@ -3643,6 +3631,18 @@
                 "anio": "2020",
                 "genero": "Comedia, Música",
                 "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "A mil kilómetros de la Navidad",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432546.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rhlIBgCF1zviBR4igbxfxnGkaGj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9c0ABCkzlLHhTs44iNJqQKLl1Y.png",
+                "descripcion": "Un auditor que odia profundamente la Navidad va a trabajar a un pueblo. Y allí conoce a una mujer que se propone cambiar su opinión sobre las fiestas.",
+                "anio": "2021",
+                "genero": "Comedia, Romance, Familia",
+                "duracion": "102 min",
                 "type": "PELICULA"
             },
             {

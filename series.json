@@ -4,6 +4,75 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Sneaky Links: Dating After Dark",
+                    "genero": "Reality",
+                    "descripcion": "",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/mGf6wW0yWhq9vyKyZUrc3svmQnZ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3j1P0fHYgY7XB7HpqB7bx54R9fb.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432829.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432830.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432825.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432831.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432832.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432826.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432827.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432833.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432834.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432828.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259354,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Sin límites",
                     "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure, Comedia",
                     "descripcion": "Basada en la película del mismo nombre; este drama sigue a Brian Finch, quien decubre el poder de la misteriosa droga NZT y es coaccionado por el FBI para que use sus extraordinarias habilidades cognitivas para solventar complejos casos.",
@@ -1600,75 +1669,6 @@
                         }
                     ],
                     "tmdb_id": 246992,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Sneaky Links: Dating After Dark",
-                    "genero": "Reality",
-                    "descripcion": "",
-                    "anio": "2025",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/mGf6wW0yWhq9vyKyZUrc3svmQnZ.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/3j1P0fHYgY7XB7HpqB7bx54R9fb.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432829.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432830.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432825.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432831.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432832.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432826.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432827.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432833.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Episodio 9",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432834.mp4"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Episodio 10",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432828.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 259354,
                     "total_seasons": 1
                 },
                 {

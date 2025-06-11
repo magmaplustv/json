@@ -3826,18 +3826,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Thunderbirds: La élite de la Fuerza Aérea de EE. UU.",
-                "url": "http://vedo.wvdbozpfc.com/vod/0D9FF1A9C3314446A6C55975B44E1ACF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hsJtBhMxNDGzW5KcQ9qz3EQGnEt.jpg",
-                "type": "PELICULA",
-                "descripcion": "En este documental, los Thunderbirds, pilotos de élite de las Fuerzas Aéreas, demuestran una excepcional habilidad, confianza y valentía durante un entrenamiento de alto riesgo.",
-                "anio": "2025",
-                "duracion": "91 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/q1MB7lJGCjJghpAw1nRxNHYhSW4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/75Uq6OTM3asDXHVx8ZjZXK8pmtK.png"
-            },
-            {
                 "name": "Fuera de pista 2",
                 "url": "http://vedo.wvdbozpfc.com/vod/A12D20B85A6244FEB19CA9985CE8BC9D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/krqg1n92cs0NNvkjMtiyFwHeZrx.jpg",
@@ -3848,6 +3836,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/fMPpkOUiu8d19H5PFe30sYhlavB.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4QBfS6BCeJOObdcIewXlsKXHiQ7.png"
+            },
+            {
+                "name": "Thunderbirds: La élite de la Fuerza Aérea de EE. UU.",
+                "url": "http://vedo.wvdbozpfc.com/vod/0D9FF1A9C3314446A6C55975B44E1ACF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hsJtBhMxNDGzW5KcQ9qz3EQGnEt.jpg",
+                "type": "PELICULA",
+                "descripcion": "En este documental, los Thunderbirds, pilotos de élite de las Fuerzas Aéreas, demuestran una excepcional habilidad, confianza y valentía durante un entrenamiento de alto riesgo.",
+                "anio": "2025",
+                "duracion": "91 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/q1MB7lJGCjJghpAw1nRxNHYhSW4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/75Uq6OTM3asDXHVx8ZjZXK8pmtK.png"
             },
             {
                 "name": "Baila, Vini",

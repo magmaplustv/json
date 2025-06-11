@@ -6591,18 +6591,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/x97Rz20wHUtarM5TXaRKlPwz7YY.png"
             },
             {
-                "name": "Antz (Hormigaz)",
-                "url": "http://vedo.wvdbozpfc.com/vod/4850BC847E2E494CBD89FC452621807F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
-                "type": "PELICULA",
-                "descripcion": "Z-4196 es tan sólo una neurótica hormiga obrera macho, una más entre sus millones de hermanas. Después de bailar con la princesa Bala, se enamora de ella, pero se trata de un amor imposible. Convence, sin embargo, a un amigo para que le ceda su puesto en un desfile militar para poder estar cerca de la princesa. La excavación de un nuevo túnel es supervisada por el general Mandible, una hormiga ambiciosa que convence a la reina de la necesidad de enviar al batallón del hormiguero a la guerra contra las termitas. Y en ese batallón se encuentra el asustadizo y cobarde Z...",
-                "anio": "1998",
-                "duracion": "83 min",
-                "genero": "Familia, Animación, Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jLosCbIbF5GJArUu9V80Peddv7H.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6BqaTF5fVBcYoiPZgUnGfmy4LAb.png"
-            },
-            {
                 "name": "Angry Birds: La película",
                 "url": "http://vedo.wvdbozpfc.com/vod/BF8482E737F9428F8795092C8A96FDC4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
@@ -6613,6 +6601,18 @@
                 "genero": "Animación, Aventura, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/l9jEItb8GRyhZfny92QeqpCeOu.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sJt2yOemHkDP3Gz8Emv8wxh4ejw.png"
+            },
+            {
+                "name": "Antz (Hormigaz)",
+                "url": "http://vedo.wvdbozpfc.com/vod/4850BC847E2E494CBD89FC452621807F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
+                "type": "PELICULA",
+                "descripcion": "Z-4196 es tan sólo una neurótica hormiga obrera macho, una más entre sus millones de hermanas. Después de bailar con la princesa Bala, se enamora de ella, pero se trata de un amor imposible. Convence, sin embargo, a un amigo para que le ceda su puesto en un desfile militar para poder estar cerca de la princesa. La excavación de un nuevo túnel es supervisada por el general Mandible, una hormiga ambiciosa que convence a la reina de la necesidad de enviar al batallón del hormiguero a la guerra contra las termitas. Y en ese batallón se encuentra el asustadizo y cobarde Z...",
+                "anio": "1998",
+                "duracion": "83 min",
+                "genero": "Familia, Animación, Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jLosCbIbF5GJArUu9V80Peddv7H.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6BqaTF5fVBcYoiPZgUnGfmy4LAb.png"
             },
             {
                 "name": "Bob Esponja: Un héroe fuera del agua",

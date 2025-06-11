@@ -7418,18 +7418,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "La liberación",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405800.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/3lWDYiLxVhb7G9jBNDtsLwsyowy.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cYbl3kSTRpT5S7toZgYvT5Pc6uQ.png",
-                "descripcion": "Ebony Jackson, una madre soltera, se muda con su familia para empezar desde cero, sin saber que en su nueva casa ya habita un malvado ente.",
-                "anio": "2024",
-                "genero": "Terror, Suspense",
-                "duracion": "112 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Apartamento 7A",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405801.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg",
@@ -7439,6 +7427,18 @@
                 "anio": "2024",
                 "genero": "Terror, Suspense",
                 "duracion": "106 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "La liberación",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405800.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/3lWDYiLxVhb7G9jBNDtsLwsyowy.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cYbl3kSTRpT5S7toZgYvT5Pc6uQ.png",
+                "descripcion": "Ebony Jackson, una madre soltera, se muda con su familia para empezar desde cero, sin saber que en su nueva casa ya habita un malvado ente.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "112 min",
                 "type": "PELICULA"
             },
             {

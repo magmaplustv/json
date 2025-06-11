@@ -2601,6 +2601,55 @@
             "nombre": "⭐️⭐️Acción⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Citadel: Diana",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Milán, 2030: Diana Cavalieri es una agente doble del sindicato secreto Citadel, infiltrada en Manticore, la agencia rival que destruyó Citadel ocho años antes. Atrapada en el frente enemigo, Diana podría abandonar para siempre la agencia, pero debe decidir si confía en un inesperado aliado: el heredero de Manticore Italia, Edo Zani.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7mkcgriIy6VMwq28zQP06pSOjEU.png",
+                    "icono": "https://image.tmdb.org/t/p/original/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xsKGPcEnwTPI2CS3OrBVIEUzi1E.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Dividir en dos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401416.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Guerra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401417.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Juntos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401418.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Los Zani",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401419.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Ataque",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401420.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Júpiter",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401421.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 214032,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Clase letal",
                     "genero": "Drama, Crimen, Action & Adventure",
                     "descripcion": "Sigue a un adolescente desilusionado que fue reclutado en una escuela secundaria para asesinos. Mantener su código moral mientras sobrevive a un plan de estudios despiadado, camarillas sociales viciosas y sus propias incertidumbres adolescentes puede resultar fatal.",
@@ -3740,55 +3789,6 @@
                         }
                     ],
                     "tmdb_id": 229711,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Citadel: Diana",
-                    "genero": "Action & Adventure, Drama",
-                    "descripcion": "Milán, 2030: Diana Cavalieri es una agente doble del sindicato secreto Citadel, infiltrada en Manticore, la agencia rival que destruyó Citadel ocho años antes. Atrapada en el frente enemigo, Diana podría abandonar para siempre la agencia, pero debe decidir si confía en un inesperado aliado: el heredero de Manticore Italia, Edo Zani.",
-                    "anio": "2024",
-                    "iconPng": "https://image.tmdb.org/t/p/original/7mkcgriIy6VMwq28zQP06pSOjEU.png",
-                    "icono": "https://image.tmdb.org/t/p/original/3iYf2GHc2jA6eBH2gMXXVJIKGt0.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xsKGPcEnwTPI2CS3OrBVIEUzi1E.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Dividir en dos",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401416.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Guerra",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401417.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Juntos",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401418.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Los Zani",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401419.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Ataque",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401420.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Júpiter",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401421.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 214032,
                     "total_seasons": 1
                 }
             ]

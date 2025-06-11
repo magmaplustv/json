@@ -9072,6 +9072,65 @@
                     ],
                     "tmdb_id": 241883,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Beauty in Black",
+                    "genero": "Drama",
+                    "descripcion": "El destino de una stripper da un vuelco cuando se cruza con una rica familia disfuncional que maneja un emporio de cosmética y un retorcido negocio de tráfico de personas.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3T9SX0tA6VqIrQCNuO5B7gGxyF5.png",
+                    "icono": "https://image.tmdb.org/t/p/original/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Que lluevan billetes",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401447.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bailando con papá",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401448.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Las consecuencias",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401449.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Un asunto de familia",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401450.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Hilos sueltos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401451.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Bang, bang",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401452.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Igualdad de condiciones",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401453.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Karma mortal",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401454.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246246,
+                    "total_seasons": 2
                 }
             ]
         },

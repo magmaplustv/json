@@ -14484,6 +14484,65 @@
                     ],
                     "tmdb_id": 62687,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Legado",
+                    "genero": "Drama",
+                    "descripcion": "Tras una grave enfermedad, un magnate de los medios de comunicación descubre que la gerencia de sus hijos amenaza con destruir su querido emporio… y hará lo que sea para salvarlo.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5qhHdfAAPDo0TxZXvTPoU7CX0kn.png",
+                    "icono": "https://image.tmdb.org/t/p/original/P4nFALM1XAfqqIGTrLfR1aq7tS.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/clIn3tF321TcsajGGNoWMGcz0ii.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Volver",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432799.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Castigar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432800.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Negociar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432801.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Despedir",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432802.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Publicar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432803.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Perdonar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432804.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Luchar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432805.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Decidir",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432806.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 248716,
+                    "total_seasons": 1
                 }
             ]
         },

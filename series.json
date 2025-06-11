@@ -4016,6 +4016,232 @@
                     ],
                     "tmdb_id": 229711,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Kung Fu",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Una joven adolescente estadounidense de ascendencia china decide dejar la universidad para aventurarse a vivir una nueva vida en un monasterio chino. Sin embargo, cuando regresa a su pueblo natal y descubre que está plagado de crimen y corrupción, emplea las artes marciales y la filosofía Shaolin para proteger su comunidad y tratar de ajusticiar a los criminales. Todo ellos mientras busca al asesino de su maestro Shaolin, que ahora la ha puesto a ella en su diana.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ns1J8Ya0NswDONzQCduLOQBQoCR.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ynpI9lvBe2gbNkH3a764xOeMajO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/63yio6YOnEv31yXjIvQp2T9OtVs.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425978.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Silencio",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425979.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Paciencia",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425984.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Mano",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425985.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Santuario",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425986.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Ira",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425987.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Orientación",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425988.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Destino",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425989.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Aislamiento",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425990.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Decisión",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425991.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Apego",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425992.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Sacrificio",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425993.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Transformación",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425994.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Año del Tigre (primera parte)",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425995.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "El Año del Tigre (segunda parte)",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425996.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La campana",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425997.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Clementina",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425998.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Reunión",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425999.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Jyu Sa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426000.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "El alquimista",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426001.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Revelación",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426002.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El enclave",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426003.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Destrucción",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426004.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Línea de sangre",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426005.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Alianza",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426006.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "La fuente",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426007.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Shifu",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426008.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Riesgo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426009.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La brújula",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426010.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Armonía",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426011.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Cosecha",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426012.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Rescate",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426013.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Malvados",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426014.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Traición",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426015.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El arquitecto",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426016.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Alias",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426017.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "El cetro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426018.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Pérdida",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426019.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Comienzo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/426020.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 114165,
+                    "total_seasons": 3
                 }
             ]
         },

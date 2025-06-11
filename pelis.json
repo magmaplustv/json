@@ -6723,18 +6723,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/tTsn31IwokRVsmxzLYYM2DdpPY1.png"
             },
             {
-                "name": "Coco",
-                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
-                "anio": "2017",
-                "duracion": "109 min",
-                "genero": "Familia, Animación, Música, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
-            },
-            {
                 "name": "La Patrulla Canina: La película",
                 "url": "http://vedo.wvdbozpfc.com/vod/F1F25AC7CBE1402DB36EBF9E3C25AA62_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
@@ -6745,6 +6733,18 @@
                 "genero": "Familia, Comedia, Aventura, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/wI5JxVzmXS6WrJNzr8i8JZXCGQN.png"
+            },
+            {
+                "name": "Coco",
+                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+                "anio": "2017",
+                "duracion": "109 min",
+                "genero": "Familia, Animación, Música, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
             },
             {
                 "name": "Bob Esponja: Un héroe al rescate",

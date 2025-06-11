@@ -6711,18 +6711,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1ugewUbld74lYQH85VuAGFqV49f.png"
             },
             {
-                "name": "Coco",
-                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
-                "anio": "2017",
-                "duracion": "109 min",
-                "genero": "Familia, Animación, Música, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
-            },
-            {
                 "name": "El jinete del dragón",
                 "url": "http://vedo.wvdbozpfc.com/vod/41064EE317ED4FF4A20FE2C6370F4605_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/g8TTuBZFSFzQLTyP92XE1I9WVVC.jpg",
@@ -6733,6 +6721,18 @@
                 "genero": "Animación, Familia, Aventura, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/494bVeWKJ3DlCRHQu7kaPyskou9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tTsn31IwokRVsmxzLYYM2DdpPY1.png"
+            },
+            {
+                "name": "Coco",
+                "url": "http://vedo.wvdbozpfc.com/vod/DCE39BE95A0C40889B3189F3CA0E0F97_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+                "anio": "2017",
+                "duracion": "109 min",
+                "genero": "Familia, Animación, Música, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png"
             },
             {
                 "name": "La Patrulla Canina: La película",

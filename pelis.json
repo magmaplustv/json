@@ -9153,18 +9153,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/iiss10zFigU9UrIG5tLoZL0fEbH.png"
             },
             {
-                "name": "El río de la muerte",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405814.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/cVrVthlGie7bnW5ex8SjLyeiebO.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
-                "iconpng": "",
-                "descripcion": "Cuatro piragüistas se equivocan de río y se adentran en una selva habitada por una tribu de caníbales despiadados.",
-                "anio": "2024",
-                "genero": "Terror, Suspense",
-                "duracion": "86 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "El misterio de Salem's Lot",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405581.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
@@ -9174,6 +9162,18 @@
                 "anio": "2024",
                 "genero": "Terror",
                 "duracion": "113 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El río de la muerte",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405814.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cVrVthlGie7bnW5ex8SjLyeiebO.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
+                "iconpng": "",
+                "descripcion": "Cuatro piragüistas se equivocan de río y se adentran en una selva habitada por una tribu de caníbales despiadados.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "86 min",
                 "type": "PELICULA"
             },
             {

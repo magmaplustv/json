@@ -6938,6 +6938,172 @@
             "nombre": "⭐️⭐️Comedia⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Madre solo hay dos",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Después de darse cuenta de que sus bebés fueron intercambiados al nacer, dos mujeres desarrollan un plan para adaptarse a sus nuevas vidas, creando una familia única y peculiar.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/3vzBpEvXKCehl6RrEpYmVmLbnyQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/tQhQPIO85lIEbodo9qkGrWVNg0r.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eAZtz2ydxBaHtJw3J42Gdy2DSpc.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Chin-chan-pú",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402046.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Bienvenidas a casa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402047.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Dinámicas familiares",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402048.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Paternidad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402049.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mi familia no es perfecta",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402050.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Dating",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402051.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Tiempo de calidad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402052.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402053.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "El Bautizo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402054.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402055.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402056.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402057.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402058.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402059.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402060.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402061.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402062.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402063.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402064.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402065.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402066.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402067.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402068.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402069.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402070.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402071.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402072.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 115857,
+                    "total_seasons": 3
+                },
+                {
                     "nombre": "Nadie quiere esto",
                     "genero": "Comedia, Drama",
                     "descripcion": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
@@ -8477,172 +8643,6 @@
                     ],
                     "tmdb_id": 241405,
                     "total_seasons": 1
-                },
-                {
-                    "nombre": "Madre solo hay dos",
-                    "genero": "Comedia, Drama",
-                    "descripcion": "Después de darse cuenta de que sus bebés fueron intercambiados al nacer, dos mujeres desarrollan un plan para adaptarse a sus nuevas vidas, creando una familia única y peculiar.",
-                    "anio": "2021",
-                    "iconPng": "https://image.tmdb.org/t/p/original/3vzBpEvXKCehl6RrEpYmVmLbnyQ.png",
-                    "icono": "https://image.tmdb.org/t/p/original/tQhQPIO85lIEbodo9qkGrWVNg0r.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/eAZtz2ydxBaHtJw3J42Gdy2DSpc.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Chin-chan-pú",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402046.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Bienvenidas a casa",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402047.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Dinámicas familiares",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402048.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Paternidad",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402049.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Mi familia no es perfecta",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402050.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Dating",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402051.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Tiempo de calidad",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402052.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Mentiras",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402053.mkv"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "El Bautizo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402054.mkv"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402055.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402056.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402057.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402058.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402059.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402060.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402061.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402062.mkv"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 3",
-                            "numero_temporada": 3,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402063.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402064.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402065.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402066.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402067.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402068.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402069.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402070.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Episodio 9",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402071.mp4"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Episodio 10",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/402072.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 115857,
-                    "total_seasons": 3
                 }
             ]
         },

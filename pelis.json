@@ -7430,18 +7430,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Apartamento 7A",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405801.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wDpSSSPp8FQQ7oLYgDSeNDj40IZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/9Q9OsI61Wl45fZQUpnUAdwwhakT.png",
-                "descripcion": "Una joven bailarina en apuros se ve arrastrada por fuerzas oscuras cuando una peculiar pareja de ancianos con buenos contactos le promete una oportunidad de alcanzar la fama. Año 1965, Nueva York. ¿Qué sucedió en el apartamento antes de que Rosemary llegara a vivir? Una bailarina en dificultades es arrastrada a fuerzas oscuras por una pareja extraña que le promete la fama. Precuela de \"La semilla del diablo\".",
-                "anio": "2024",
-                "genero": "Terror, Suspense",
-                "duracion": "106 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La liberación",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405800.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3lWDYiLxVhb7G9jBNDtsLwsyowy.jpg",
@@ -7451,6 +7439,18 @@
                 "anio": "2024",
                 "genero": "Terror, Suspense",
                 "duracion": "112 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Apartamento 7A",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405801.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wtaO2t1CDWkCJPwTgt2XErTVTeW.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wDpSSSPp8FQQ7oLYgDSeNDj40IZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9Q9OsI61Wl45fZQUpnUAdwwhakT.png",
+                "descripcion": "Una joven bailarina en apuros se ve arrastrada por fuerzas oscuras cuando una peculiar pareja de ancianos con buenos contactos le promete una oportunidad de alcanzar la fama. Año 1965, Nueva York. ¿Qué sucedió en el apartamento antes de que Rosemary llegara a vivir? Una bailarina en dificultades es arrastrada a fuerzas oscuras por una pareja extraña que le promete la fama. Precuela de \"La semilla del diablo\".",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "106 min",
                 "type": "PELICULA"
             },
             {

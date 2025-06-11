@@ -6771,18 +6771,6 @@
                 "iconpng": ""
             },
             {
-                "name": "La era de hielo: Las aventuras de Buck",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115251.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/wdiMAU3KgGlomdTYhqtNn3Uulfs.jpg",
-                "type": "PELICULA",
-                "descripcion": "Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido.",
-                "anio": "2022",
-                "duracion": "82 min",
-                "genero": "Animación, Comedia, Familia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qw02SUqrrdTjAOPCFJBPyKaVf4z.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/owmRLUcLEXHOnPM9rxSbLsoqR34.png"
-            },
-            {
                 "name": "Moana",
                 "url": "http://vedo.wvdbozpfc.com/vod/36E0B781D2644CCEA52F2BF3A4040C46_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
@@ -6793,6 +6781,18 @@
                 "genero": "Drama, Película de TV",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/bpePOhe9aLg8v7eiTN5sHD02JES.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "La era de hielo: Las aventuras de Buck",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/115251.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wdiMAU3KgGlomdTYhqtNn3Uulfs.jpg",
+                "type": "PELICULA",
+                "descripcion": "Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido.",
+                "anio": "2022",
+                "duracion": "82 min",
+                "genero": "Animación, Comedia, Familia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qw02SUqrrdTjAOPCFJBPyKaVf4z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/owmRLUcLEXHOnPM9rxSbLsoqR34.png"
             },
             {
                 "name": "Pixeles",

@@ -3622,18 +3622,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Una Navidad no tan padre",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432547.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/rBYBDWymgwKHrILlSLdR2d04RzS.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3vkpM0Ao1CXpwFiXsSSm1CgDfn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cKxT2BtVO74OPAwWyd7UChTflmz.png",
-                "descripcion": "Un viaje en familia a la playa da paso a la locura cuando Servando y Alicia (la tozuda tía de Alma) se embarcan en una competición para ver quién controla la Navidad.",
-                "anio": "2021",
-                "genero": "Comedia",
-                "duracion": "87 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Ohana: El tesoro de Hawái",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432551.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/ssH5cbbIfrndZIzPZA7Q3VktMDr.jpg",
@@ -3643,6 +3631,18 @@
                 "anio": "2021",
                 "genero": "Aventura, Acción, Comedia, Familia",
                 "duracion": "123 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Una Navidad no tan padre",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432547.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rBYBDWymgwKHrILlSLdR2d04RzS.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3vkpM0Ao1CXpwFiXsSSm1CgDfn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cKxT2BtVO74OPAwWyd7UChTflmz.png",
+                "descripcion": "Un viaje en familia a la playa da paso a la locura cuando Servando y Alicia (la tozuda tía de Alma) se embarcan en una competición para ver quién controla la Navidad.",
+                "anio": "2021",
+                "genero": "Comedia",
+                "duracion": "87 min",
                 "type": "PELICULA"
             },
             {

@@ -9427,6 +9427,18 @@
         "name": "⭐️Drama⭐️",
         "samples": [
             {
+                "name": "Vermiglio",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432838.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jVd5lH1wbYqEY8YEoT4nbPpZXhB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mxfUKewelcGm61cN9Yx5lYzCMze.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9oLpsVw1db9aldcJ6BShBSH7atF.png",
+                "descripcion": "Drama de época ambientado en un remoto pueblo de montaña de los Alpes italianos a finales de la Segunda Guerra Mundial. La historia nos adentra en la familia del maestro local y nos muestra cómo la llegada de un soldado desertor alterará su vida y conducirá a todos sus miembros a un destino inesperado.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "119 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La tutoría (Armand)",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432767.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/dma9qqtkhDKhJjd17VolDPjvBWz.jpg",
@@ -9790,18 +9802,6 @@
                 "anio": "2023",
                 "genero": "Comedia, Drama",
                 "duracion": "91 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Vermiglio",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432838.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/jVd5lH1wbYqEY8YEoT4nbPpZXhB.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mxfUKewelcGm61cN9Yx5lYzCMze.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/9oLpsVw1db9aldcJ6BShBSH7atF.png",
-                "descripcion": "Drama de época ambientado en un remoto pueblo de montaña de los Alpes italianos a finales de la Segunda Guerra Mundial. La historia nos adentra en la familia del maestro local y nos muestra cómo la llegada de un soldado desertor alterará su vida y conducirá a todos sus miembros a un destino inesperado.",
-                "anio": "2024",
-                "genero": "Drama",
-                "duracion": "119 min",
                 "type": "PELICULA"
             }
         ]

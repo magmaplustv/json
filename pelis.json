@@ -6699,18 +6699,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1ugewUbld74lYQH85VuAGFqV49f.png"
             },
             {
-                "name": "Cómo entrenar a tu dragón",
-                "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-                "anio": "2025",
-                "duracion": "125 min",
-                "genero": "Acción, Familia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
-            },
-            {
                 "name": "El jinete del dragón",
                 "url": "http://vedo.wvdbozpfc.com/vod/41064EE317ED4FF4A20FE2C6370F4605_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/g8TTuBZFSFzQLTyP92XE1I9WVVC.jpg",
@@ -6721,6 +6709,18 @@
                 "genero": "Animación, Familia, Aventura, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/494bVeWKJ3DlCRHQu7kaPyskou9.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/tTsn31IwokRVsmxzLYYM2DdpPY1.png"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://vedo.wvdbozpfc.com/vod/02922DE755794A05BD9B01EA7C90D3D8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "duracion": "125 min",
+                "genero": "Acción, Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8N6ez1aioGovPxLxp6vcF4mDBpZ.png"
             },
             {
                 "name": "Coco",

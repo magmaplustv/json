@@ -3874,12 +3874,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/6A0OjUMXOtnxE61HPAahyri0bno.png"
             },
             {
-                "name": "Un matrimonio mortal en Carolina del Norte (2025)",
-                "url": "http://vedo.wvdbozpfc.com/vod/B043756853A14B26BDCF46754A38BD3E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1vclDcrv2kpfh5JudhN3AQJQfbj.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La más fan",
                 "url": "http://vedo.wvdbozpfc.com/vod/5E36603C996647CB9D517C133B618505_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",
@@ -3890,6 +3884,12 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/iznPd7PLnCBA1G50M4DuA9wvCIy.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Un matrimonio mortal en Carolina del Norte (2025)",
+                "url": "http://vedo.wvdbozpfc.com/vod/B043756853A14B26BDCF46754A38BD3E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1vclDcrv2kpfh5JudhN3AQJQfbj.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "La bala perdida 3",

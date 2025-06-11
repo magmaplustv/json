@@ -4975,6 +4975,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Empezar de nuevo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432835.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4I0OOU9ALso0fjavHJRkXjUFMZo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/x1MiX7zp3vBUKONBfvW3v5cnHK2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/m0wb5r4apGtQA4QlxtUb600YtTL.png",
+                "descripcion": "True Brandywine (Wyatt Russell) es un jinete de caballos salvajes que se aferra a su decadente carrera en el rodeo. Cuando queda atrapado en una inesperada tormenta de nieve, deberá enfrentarse a heridas, enfermedades y un frío implacable. Mientras lucha por sobrevivir enfrentará las decisiones vitales que lo llevaron a su precaria situación.",
+                "anio": "2025",
+                "genero": "Western, Drama",
+                "duracion": "104 min",
+                "type": "PELICULA"
             }
         ]
     },

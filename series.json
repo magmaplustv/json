@@ -11176,6 +11176,584 @@
                     ],
                     "tmdb_id": 158902,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Dinastía",
+                    "genero": "Drama, Soap",
+                    "descripcion": "Los Carrington y los Colby se disputan el control de su fortuna (y de sus hijos) en este remake actualizado del gran clásico de la televisión.",
+                    "anio": "2017",
+                    "iconPng": "https://image.tmdb.org/t/p/original/pFjglX2YwbbfogHh32VakoffjRr.png",
+                    "icono": "https://image.tmdb.org/t/p/original/rVQ35erLIoV8hyh7lIKAMiChmOO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/bq6AcviGsBmynArhhCpLkR8YN6U.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Apenas te he reconocido",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401455.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Escúpelo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401456.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La culpa es para personas inseguras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401457.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tan privado como un circo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401458.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Golfa empresarial",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401459.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Solo existo para mí",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401460.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Algo de tu propia medicina",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401461.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Las mejores cosas de la vida",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401462.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Mezquindades",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401463.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Una tarántula bien vestida",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401464.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "No respondo ante ningún hombre",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401465.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Promesas que no puedas cumplir",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401466.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Nada más que problemas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401467.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "El evangelio según Blake Carrington",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401468.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Nuestro turno",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401469.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Pobre niña rica",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401470.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Alexis entra en escena",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401471.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "No times a una timadora",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401472.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Usar o ser usado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401473.mp4"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Una frase del pasado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401474.mp4"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Pequeña zorra vulgar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401475.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Empezar de cero",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401476.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Todo lo bueno tiene un final",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401528.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Nave de víboras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401529.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El mayordomo lo hizo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401530.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Copos de nieve en el infierno",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401531.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Reina de copas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401532.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Esa bruja",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401533.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Una plaga temporal",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401534.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Un instinto real para irse a la yugular",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401535.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Una loca",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401536.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Humor para champaña",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401537.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "No soporto verte",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401538.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Juegos sucios",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401539.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Incluso los gusanos procrean",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401540.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Dice la leyenda parisina…",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401541.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Sobreprotección maternal",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401542.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Hombres miserables e ingratos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401543.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "¿Qué tan hipócrita puedes ser?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401544.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "La vida es una mascarada",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401545.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Esta enfermedad que tengo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401546.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Una nueva señora en la ciudad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401547.mkv"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Más fuerte que el dinero",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401548.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Engaños, celos y mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401549.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Cargo de conciencia",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401552.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Con prudencia no se ganan guerras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401553.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Caza de fantasmas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401554.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Desesperación",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401555.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "¿Mamá? Estoy en La Mirage",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401556.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un viejo recuerdo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401557.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Sin pelos en la lengua",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401558.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El espectacular juicio de Blake Carrington",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401559.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Espero que el caviar no esté quemado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401560.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¿Ahogando penas?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401561.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Una herida incurable",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401562.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Frentes de batalla",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401563.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Para ti, todo es blanco o negro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401564.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "La madrastra malvada",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401565.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "En un árbol",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401566.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "¿La próxima operación corre a cuenta de la casa?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401567.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "La reina de Internet",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401568.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "En brazos de un cura",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401569.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Robin Hood al rescate",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401570.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Esa desafortunada cena",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401571.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Los votos son sagrados",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401572.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Las consecuencias",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401573.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Todo el mundo adora a los Carrington",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401574.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Nuevas esperanzas, un nuevo comienzo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401575.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una charla entre padre e hija",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401576.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La fiesta de cumpleaños",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401577.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Una insana y triste vendetta",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401578.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Justicia también para los ricos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401579.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Siento fastidiarte los recuerdos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401580.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Un foro público para sus mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401581.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Cualquier cosa antes que aceptar la realidad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401582.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Vete a salvar a otra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401583.mp4"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "No necesito terapia",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401584.mp4"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Ella vive en un ático espectacular",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401585.mp4"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Llegan los británicos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401586.mp4"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Las estrellas te hacen sonreír",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401587.mp4"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Un buen matrimonio en todos los sentidos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401588.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Todo tiene una pinta estupenda, Joseph",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401589.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Tantas mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401590.mkv"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Asuntos de estado y asuntos del corazón",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401591.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Lleno de manipulaciones y engaños",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401592.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 5",
+                            "numero_temporada": 5,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401621.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401622.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401623.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401624.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401625.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401626.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401627.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401628.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401629.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401630.mkv"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401631.mkv"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Episodio 12",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401632.mkv"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Episodio 13",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401633.mkv"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Episodio 14",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401634.mkv"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Episodio 15",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401635.mkv"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Episodio 16",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401636.mkv"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Episodio 17",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401637.mkv"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Episodio 18",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401638.mkv"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "Episodio 19",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401639.mkv"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Episodio 20",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401640.mkv"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "Episodio 21",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401641.mkv"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "Episodio 22",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401642.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 72002,
+                    "total_seasons": 5
                 }
             ]
         },

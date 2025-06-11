@@ -9057,18 +9057,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
             },
             {
-                "name": "Regresión",
-                "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
-                "type": "PELICULA",
-                "descripcion": "La historia comienza con una mujer que viaja en un tren, desorientada y con amnesia. A la vez que la protagonista, iremos descubriendo el infierno que ha vivido en los últimos meses.",
-                "anio": "2013",
-                "duracion": "",
-                "genero": "",
-                "iconoHorizontal": "",
-                "iconpng": ""
-            },
-            {
                 "name": "Ghost Game",
                 "url": "http://vedo.wvdbozpfc.com/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
@@ -9079,6 +9067,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
+            },
+            {
+                "name": "Regresión",
+                "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
+                "type": "PELICULA",
+                "descripcion": "La historia comienza con una mujer que viaja en un tren, desorientada y con amnesia. A la vez que la protagonista, iremos descubriendo el infierno que ha vivido en los últimos meses.",
+                "anio": "2013",
+                "duracion": "",
+                "genero": "",
+                "iconoHorizontal": "",
+                "iconpng": ""
             },
             {
                 "name": "Y al séptimo día",

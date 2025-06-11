@@ -3976,18 +3976,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4i7qPHk5CJqPZe3Tu1pXv7rTD9F.png"
             },
             {
-                "name": "Pánico en el tren bala",
-                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
-                "type": "PELICULA",
-                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
-                "anio": "2025",
-                "duracion": "134 min",
-                "genero": "Acción, Suspense, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
-            },
-            {
                 "name": "El atentado de Oklahoma City, Terror en EE.UU.",
                 "url": "http://vedo.wvdbozpfc.com/vod/5CD4EE8CDD8847DD8C29CA4217791EC9_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1n7CuKBshPOBtWFg5xomRr19Ydt.jpg",
@@ -3998,6 +3986,18 @@
                 "genero": "Documental, Crimen",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xfq3xAl856lI6WcaNmkEflxGDfX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jWq69FzSABwWg3A1nHGAylNwCWw.png"
+            },
+            {
+                "name": "Pánico en el tren bala",
+                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
+                "type": "PELICULA",
+                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
+                "anio": "2025",
+                "duracion": "134 min",
+                "genero": "Acción, Suspense, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
             },
             {
                 "name": "A prueba",

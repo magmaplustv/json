@@ -4000,18 +4000,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4i7qPHk5CJqPZe3Tu1pXv7rTD9F.png"
             },
             {
-                "name": "Pánico en el tren bala",
-                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
-                "type": "PELICULA",
-                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
-                "anio": "2025",
-                "duracion": "134 min",
-                "genero": "Acción, Suspense, Crimen, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
-            },
-            {
                 "name": "Lo mejor del mundo",
                 "url": "http://vedo.wvdbozpfc.com/vod/D2A90FDF322D4525A74AC3973EF1C072_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
@@ -4022,6 +4010,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzAYt3mJ0vZIf8VcQogW9PSLFAN.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Pánico en el tren bala",
+                "url": "http://vedo.wvdbozpfc.com/vod/7FE1F1AC5F6E4833A594B7AD17C6DE0B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xzIt4P1rc0apYYnWswqUzR4kcX2.jpg",
+                "type": "PELICULA",
+                "descripcion": "El pánico cunde en un tren bala hacia Tokio que explotará si viaja por debajo de 100 km/h y las autoridades emprenden una carrera contrarreloj para salvar a los pasajeros.",
+                "anio": "2025",
+                "duracion": "134 min",
+                "genero": "Acción, Suspense, Crimen, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/Zes06xI18u47pblwRGTtqRm0R8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cWuTzkqkQf1UzK49hmpEniTZWhQ.png"
             },
             {
                 "name": "Chicos de hielo en el trópico",

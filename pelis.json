@@ -9069,18 +9069,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Ghost Game",
-                "url": "http://vedo.wvdbozpfc.com/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "86 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
-            },
-            {
                 "name": "Y al séptimo día",
                 "url": "http://vedo.wvdbozpfc.com/vod/20537D5B1F304878A2B90C4C79CB6C9E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bQwGSuaE5nbkEHwp1zZ2kT4eaOi.jpg",
@@ -9091,6 +9079,18 @@
                 "genero": "Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/xH23sRbfMtwZ2oBtBf607VUNrGt.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/yXVRwVGeMeKndfN9KIJUZpOPe1N.png"
+            },
+            {
+                "name": "Ghost Game",
+                "url": "http://vedo.wvdbozpfc.com/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "86 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
             },
             {
                 "name": "El exorcismo de Dios",

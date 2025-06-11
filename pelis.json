@@ -6591,18 +6591,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1oaLcOs2GGT6SjWZy1eMwvRNRdF.png"
             },
             {
-                "name": "Angry Birds: La película",
-                "url": "http://vedo.wvdbozpfc.com/vod/BF8482E737F9428F8795092C8A96FDC4_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
-                "type": "PELICULA",
-                "descripcion": "Basada en la saga de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.",
-                "anio": "2016",
-                "duracion": "97 min",
-                "genero": "Animación, Aventura, Comedia, Familia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l9jEItb8GRyhZfny92QeqpCeOu.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sJt2yOemHkDP3Gz8Emv8wxh4ejw.png"
-            },
-            {
                 "name": "Bolt",
                 "url": "http://vedo.wvdbozpfc.com/vod/204AEC6B5D844B95B22F4B549DFE2A5A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
@@ -6613,6 +6601,18 @@
                 "genero": "Animación, Familia, Aventura, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/x97Rz20wHUtarM5TXaRKlPwz7YY.png"
+            },
+            {
+                "name": "Angry Birds: La película",
+                "url": "http://vedo.wvdbozpfc.com/vod/BF8482E737F9428F8795092C8A96FDC4_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
+                "type": "PELICULA",
+                "descripcion": "Basada en la saga de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.",
+                "anio": "2016",
+                "duracion": "97 min",
+                "genero": "Animación, Aventura, Comedia, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/l9jEItb8GRyhZfny92QeqpCeOu.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sJt2yOemHkDP3Gz8Emv8wxh4ejw.png"
             },
             {
                 "name": "Astérix y los Vikingos",

@@ -8349,6 +8349,75 @@
                     ],
                     "tmdb_id": 241405,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Nadie quiere esto",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9zJieuSr4YS4K6toGmbHyBEeknO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nBTHgPc49OGwSf3GiYdQ9sileSn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xG5TbIDNjM6GKOcK7kFARNnf8KX.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401422.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Una shiksa entra en un templo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401423.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Aura de tomar una decisión",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401424.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El destructor",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401425.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Mi amiga Joanne",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401426.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Grimita",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401427.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La novia de",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401428.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "La caja de Rebecca",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401429.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Mi Bina",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401430.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Infiltradas en el Bat Mitzvá",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401431.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250923,
+                    "total_seasons": 2
                 }
             ]
         },

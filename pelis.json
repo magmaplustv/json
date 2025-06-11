@@ -3916,18 +3916,6 @@
                 "iconpng": ""
             },
             {
-                "name": "Karol G: Mañana fue muy bonito",
-                "url": "http://vedo.wvdbozpfc.com/vod/C0C6054494BE44BE8CFAFCCFB1B5B6C8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
-                "type": "PELICULA",
-                "descripcion": "Karol G descorre el telón de su ascenso al estrellato mientras navega por una gira de estadios con entradas agotadas, creando nueva música y lanzando un nuevo álbum.",
-                "anio": "2025",
-                "duracion": "108 min",
-                "genero": "Música, Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
-            },
-            {
                 "name": "El Ladrón de joyas",
                 "url": "http://vedo.wvdbozpfc.com/vod/C1F392B7E53B45F78500467583411B4D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9e7ZPLbyVV1JvIVu7yNECXnTwXR.jpg",
@@ -3938,6 +3926,18 @@
                 "genero": "Acción, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kFXtAwJYbRTqiyQpE9kDc8qEP3X.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/k3793GScNnpJG2T1a3vJ7nUeygX.png"
+            },
+            {
+                "name": "Karol G: Mañana fue muy bonito",
+                "url": "http://vedo.wvdbozpfc.com/vod/C0C6054494BE44BE8CFAFCCFB1B5B6C8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
+                "type": "PELICULA",
+                "descripcion": "Karol G descorre el telón de su ascenso al estrellato mientras navega por una gira de estadios con entradas agotadas, creando nueva música y lanzando un nuevo álbum.",
+                "anio": "2025",
+                "duracion": "108 min",
+                "genero": "Música, Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
             },
             {
                 "name": "Pangolín: El viaje de Kulu",

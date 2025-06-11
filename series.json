@@ -11058,6 +11058,65 @@
                     ],
                     "tmdb_id": 250923,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Nemesis",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La fiscal Sylvia van Maele y Lars van Deurnen, del Servicio de Información e Investigación Fiscal, unen fuerzas para hacer frente a los delitos financieros: una red oculta de empresas pantalla, documentos con pistas que no llevan a ninguna parte y la infracción de las normas fiscales internacionales. Cuando los límites entre la vida personal y profesional de Sylvia se desmoronan, tendrá que fiarse en su intuición para sobrevivir.",
+                    "anio": "2024",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/j55GCDHOO62l2nYw4OGFSSzX9Kd.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1TFCivekGNNaLR2t1JmLSe5ULhN.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "¿Dónde está mi dinero?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401439.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Normas de la casa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401440.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ciudadano Martin",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401441.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Suma cero",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401442.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Luchar contra el crimen",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401443.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Je Maintiendrai",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401444.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Maginot",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401445.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Memoria activa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/401446.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 158902,
+                    "total_seasons": 1
                 }
             ]
         },

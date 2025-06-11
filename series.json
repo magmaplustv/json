@@ -2819,6 +2819,65 @@
                     ],
                     "tmdb_id": 231727,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El Pacificador",
+                    "genero": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+                    "descripcion": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ianuh6vnXBeKaHldDLibxy3lOBZ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sO7UWFvYT9N2ODltfbxJFYyHKeG.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un truño ideal",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400890.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mejores amigos, para nunca",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400891.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Goff mejor que uno",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400892.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Se hace cipote al andar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400893.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Chimpi Lerendi",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400894.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Lamento después de leer",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400895.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Deja de dragonear mi corazón por todos lados",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400896.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Esto se avaca",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400897.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 110492,
+                    "total_seasons": 2
                 }
             ]
         },

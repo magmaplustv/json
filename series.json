@@ -4,6 +4,75 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "1883",
+                    "genero": "Drama, Western",
+                    "descripcion": "Precuela de la serie 'Yellowstone', que sigue la historia de la familia Dutton en un viaje hacia el oeste a través de las Grandes Llanuras, para ir hacia el último bastión de la indómita América, durante el año 1883.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iiq4SWXg7tl3nuWs2sfXFr9MEDQ.png",
+                    "icono": "https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "1883",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400983.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Detrás de nosotros, un acantilado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400984.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Río",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400985.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El Cruce",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400986.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Colmillos de Libertad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400987.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Aburriendo al Diablo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400978.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Cabello Amarillo Relámpago",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400979.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El Llanto de la Rendición",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400980.mkv"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Nubes de Carreras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400981.mkv"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Este no es tu cielo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400982.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 118357,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Solo Leveling",
                     "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
                     "descripcion": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
@@ -2749,75 +2818,6 @@
                         }
                     ],
                     "tmdb_id": 231727,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "1883",
-                    "genero": "Drama, Western",
-                    "descripcion": "Precuela de la serie 'Yellowstone', que sigue la historia de la familia Dutton en un viaje hacia el oeste a través de las Grandes Llanuras, para ir hacia el último bastión de la indómita América, durante el año 1883.",
-                    "anio": "2021",
-                    "iconPng": "https://image.tmdb.org/t/p/original/iiq4SWXg7tl3nuWs2sfXFr9MEDQ.png",
-                    "icono": "https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "1883",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400983.mkv"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Detrás de nosotros, un acantilado",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400984.mkv"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Río",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400985.mkv"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "El Cruce",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400986.mkv"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Colmillos de Libertad",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400987.mkv"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Aburriendo al Diablo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400978.mkv"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Cabello Amarillo Relámpago",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400979.mkv"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "El Llanto de la Rendición",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400980.mkv"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Nubes de Carreras",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400981.mkv"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Este no es tu cielo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400982.mkv"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 118357,
                     "total_seasons": 1
                 }
             ]

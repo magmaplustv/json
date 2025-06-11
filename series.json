@@ -5728,6 +5728,45 @@
                     ],
                     "tmdb_id": 127532,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "En la victoria o en la derrota",
+                    "genero": "Animación, Drama, Familia, Comedia",
+                    "descripcion": "Se acerca la final del campeonato, y ocho personajes se enfrentan a las malas jugadas de la vida.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/7hpESaCrPKj4L0JQdrHbJ5XRxMO.png",
+                    "icono": "https://image.tmdb.org/t/p/original/sp54jkorVJHQ52WE5U7rbNjGnrC.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/z7XReN4NVoAjAFTJ4XLpZ0l43o0.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La hija del entrenador",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400772.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Árbitro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400773.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Pedorreta",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400774.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Pickle",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/400775.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 114500,
+                    "total_seasons": 1
                 }
             ]
         },

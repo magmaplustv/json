@@ -6615,18 +6615,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
             },
             {
-                "name": "Antz (Hormigaz)",
-                "url": "http://vedo.wvdbozpfc.com/vod/4850BC847E2E494CBD89FC452621807F_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
-                "type": "PELICULA",
-                "descripcion": "Z-4196 es tan sólo una neurótica hormiga obrera macho, una más entre sus millones de hermanas. Después de bailar con la princesa Bala, se enamora de ella, pero se trata de un amor imposible. Convence, sin embargo, a un amigo para que le ceda su puesto en un desfile militar para poder estar cerca de la princesa. La excavación de un nuevo túnel es supervisada por el general Mandible, una hormiga ambiciosa que convence a la reina de la necesidad de enviar al batallón del hormiguero a la guerra contra las termitas. Y en ese batallón se encuentra el asustadizo y cobarde Z...",
-                "anio": "1998",
-                "duracion": "83 min",
-                "genero": "Familia, Animación, Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jLosCbIbF5GJArUu9V80Peddv7H.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6BqaTF5fVBcYoiPZgUnGfmy4LAb.png"
-            },
-            {
                 "name": "Arlo, el chico caimán",
                 "url": "http://vedo.wvdbozpfc.com/vod/4EBBCD322B044E7981028AAC21151C52_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oOQMJM7G2W8v2AEK722k8welIJY.jpg",
@@ -6637,6 +6625,18 @@
                 "genero": "Animación, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hNCGEGCg65c1qI0kWs1eVsvP0Y0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jLJlDUl1yHisrCdwWW7RkYqlLQC.png"
+            },
+            {
+                "name": "Antz (Hormigaz)",
+                "url": "http://vedo.wvdbozpfc.com/vod/4850BC847E2E494CBD89FC452621807F_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
+                "type": "PELICULA",
+                "descripcion": "Z-4196 es tan sólo una neurótica hormiga obrera macho, una más entre sus millones de hermanas. Después de bailar con la princesa Bala, se enamora de ella, pero se trata de un amor imposible. Convence, sin embargo, a un amigo para que le ceda su puesto en un desfile militar para poder estar cerca de la princesa. La excavación de un nuevo túnel es supervisada por el general Mandible, una hormiga ambiciosa que convence a la reina de la necesidad de enviar al batallón del hormiguero a la guerra contra las termitas. Y en ese batallón se encuentra el asustadizo y cobarde Z...",
+                "anio": "1998",
+                "duracion": "83 min",
+                "genero": "Familia, Animación, Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jLosCbIbF5GJArUu9V80Peddv7H.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6BqaTF5fVBcYoiPZgUnGfmy4LAb.png"
             },
             {
                 "name": "Aviones: Equipo de rescate",

@@ -3574,18 +3574,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Elisa y Marcela",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432544.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/q55eMaSitp2UlbMrb5TXhsNWGt2.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yxfWuiH3qfAiV4GSHEhXz7uC8sk.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/3SCoMBvmJSNw51PJI0iXvgQNC4N.png",
-                "descripcion": "1885: Elisa y Marcela se conocen en la escuela donde ambas trabajan. Lo que comienza siendo una cercana relación de amistad se convierte en una relación amorosa que deben mantener en secreto. Los padres de Marcela sospechan de ella y la mandan al extranjero por unos años. Cuando vuelve, su reencuentro con Elisa es mágico y deciden comenzar una vida juntas. Comienzan a estar en el punto de mira de todos los cotilleos y deciden trazar un plan: Elisa se irá de la ciudad y volverá disfrazada de hombre para poder casarse con Marcela, pero nada será sencillo para este amor prohibido.",
-                "anio": "2019",
-                "genero": "Drama, Romance",
-                "duracion": "125 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Odio, de Dani Rovira",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432541.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/d7rumAlTcFuNdqolUQDH9ZdjQcA.jpg",
@@ -3595,6 +3583,18 @@
                 "anio": "2021",
                 "genero": "Comedia",
                 "duracion": "82 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Elisa y Marcela",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432544.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/q55eMaSitp2UlbMrb5TXhsNWGt2.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yxfWuiH3qfAiV4GSHEhXz7uC8sk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/3SCoMBvmJSNw51PJI0iXvgQNC4N.png",
+                "descripcion": "1885: Elisa y Marcela se conocen en la escuela donde ambas trabajan. Lo que comienza siendo una cercana relación de amistad se convierte en una relación amorosa que deben mantener en secreto. Los padres de Marcela sospechan de ella y la mandan al extranjero por unos años. Cuando vuelve, su reencuentro con Elisa es mágico y deciden comenzar una vida juntas. Comienzan a estar en el punto de mira de todos los cotilleos y deciden trazar un plan: Elisa se irá de la ciudad y volverá disfrazada de hombre para poder casarse con Marcela, pero nada será sencillo para este amor prohibido.",
+                "anio": "2019",
+                "genero": "Drama, Romance",
+                "duracion": "125 min",
                 "type": "PELICULA"
             },
             {

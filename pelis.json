@@ -9129,18 +9129,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/rSLFEDxf5jCj4PmzkXaZ72XQLKk.png"
             },
             {
-                "name": "La monja II",
-                "url": "http://vedo.wvdbozpfc.com/vod/3426D2175216485086CC56CA25968D0A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg",
-                "type": "PELICULA",
-                "descripcion": "En 1956 en Francia, un sacerdote es asesinado y parece que un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con una fuerza demoníaca.",
-                "anio": "2023",
-                "duracion": "110 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aX3Od8NVLgM7pMYgRpTPkwSrbSC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iiss10zFigU9UrIG5tLoZL0fEbH.png"
-            },
-            {
                 "name": "Mamá",
                 "url": "http://vedo.wvdbozpfc.com/vod/D60C98F471484DB58CACA9709633AA53_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
@@ -9151,6 +9139,18 @@
                 "genero": "Drama, Terror",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/s1NdMdAruPQVpkI9URRSzSw8ur7.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "La monja II",
+                "url": "http://vedo.wvdbozpfc.com/vod/3426D2175216485086CC56CA25968D0A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg",
+                "type": "PELICULA",
+                "descripcion": "En 1956 en Francia, un sacerdote es asesinado y parece que un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con una fuerza demoníaca.",
+                "anio": "2023",
+                "duracion": "110 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aX3Od8NVLgM7pMYgRpTPkwSrbSC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iiss10zFigU9UrIG5tLoZL0fEbH.png"
             },
             {
                 "name": "El misterio de Salem's Lot",

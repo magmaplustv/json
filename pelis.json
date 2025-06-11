@@ -6519,18 +6519,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/c25H7wQntj4oy6dhPg65Ak1og43.png"
             },
             {
-                "name": "Agencia Secreta de Control Mágico",
-                "url": "http://vedo.wvdbozpfc.com/vod/F330556050534827953C47A6D1DDEF4C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg",
-                "type": "PELICULA",
-                "descripcion": "La Agencia del Control de Magia envía a sus dos mejores agentes, Hansel y Gretel, a luchar contra la bruja de la Casa del Pan de Jengibre.",
-                "anio": "2021",
-                "duracion": "104 min",
-                "genero": "Animación, Comedia, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png"
-            },
-            {
                 "name": "Tu Nombre",
                 "url": "http://vedo.wvdbozpfc.com/vod/C5F70050FA50427F9C49D545754A820A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
@@ -6541,6 +6529,18 @@
                 "genero": "Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/g5VoVgw8H0b5K1VktAJ1OGwCTay.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Agencia Secreta de Control Mágico",
+                "url": "http://vedo.wvdbozpfc.com/vod/F330556050534827953C47A6D1DDEF4C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg",
+                "type": "PELICULA",
+                "descripcion": "La Agencia del Control de Magia envía a sus dos mejores agentes, Hansel y Gretel, a luchar contra la bruja de la Casa del Pan de Jengibre.",
+                "anio": "2021",
+                "duracion": "104 min",
+                "genero": "Animación, Comedia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tzJZaglq1hR7RS35BKG68Xz7KY0.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png"
             },
             {
                 "name": "Albert",

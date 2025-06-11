@@ -6471,18 +6471,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Ben 10: La destrucción de los aliens",
-                "url": "http://vedo.wvdbozpfc.com/vod/B39DE01DC135441196E8E345D7998D4C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
-                "type": "PELICULA",
-                "descripcion": "En Ben 10: La destrucción de los aliens Ben tiene 10 años y tras regresar a casa de sus vacaciones de verano, su vida se convierte en una locura: agobiado por su profesor, perseguido por los matones del colegio, castigado por sus padres y encima con un Omnitrix roto ¡que le borra sus deberes! Ben caza al vuelo la oportunidad de escapar de todo esto explorando la galaxia con su amigo alienígena Tetrax. Sin embargo, pronto regresa a la Tierra de manera accidentada y convertido en alien, ¡y no puede volver a su forma humana!",
-                "anio": "2012",
-                "duracion": "69 min",
-                "genero": "Animación, Ciencia ficción, Familia, Acción, Película de TV",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cSMMrcFXHsnieG78TXOZwUx5GFa.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5IzTK9v4udlCjfpSVoi7D3UXGzB.png"
-            },
-            {
                 "name": "Trolls 2: Gira mundial",
                 "url": "http://vedo.wvdbozpfc.com/vod/FE9779EE3DE944C986EA9F0808DA12FC_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
@@ -6493,6 +6481,18 @@
                 "genero": "Familia, Animación, Comedia, Fantasía, Aventura, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
+            },
+            {
+                "name": "Ben 10: La destrucción de los aliens",
+                "url": "http://vedo.wvdbozpfc.com/vod/B39DE01DC135441196E8E345D7998D4C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
+                "type": "PELICULA",
+                "descripcion": "En Ben 10: La destrucción de los aliens Ben tiene 10 años y tras regresar a casa de sus vacaciones de verano, su vida se convierte en una locura: agobiado por su profesor, perseguido por los matones del colegio, castigado por sus padres y encima con un Omnitrix roto ¡que le borra sus deberes! Ben caza al vuelo la oportunidad de escapar de todo esto explorando la galaxia con su amigo alienígena Tetrax. Sin embargo, pronto regresa a la Tierra de manera accidentada y convertido en alien, ¡y no puede volver a su forma humana!",
+                "anio": "2012",
+                "duracion": "69 min",
+                "genero": "Animación, Ciencia ficción, Familia, Acción, Película de TV",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cSMMrcFXHsnieG78TXOZwUx5GFa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5IzTK9v4udlCjfpSVoi7D3UXGzB.png"
             },
             {
                 "name": "Robots",

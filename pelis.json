@@ -7346,18 +7346,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Saw II",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430980.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aqCRAr4VrS9h7LWUR9pMzqBuxnL.png",
-                "descripcion": "Un detective y su equipo deben rescatar a 8 personas encerradas en una fábrica por el retorcido asesino en serie conocido como Jigsaw.",
-                "anio": "2005",
-                "genero": "Terror",
-                "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Saw IV",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430982.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/owzhppFoegtjAkEhyxQhRtgPl96.jpg",
@@ -7366,6 +7354,18 @@
                 "descripcion": "A pesar de la muerte de Jigsaw, y para salvar la vida de dos de sus colegas, el teniente Rigg se ve obligado a participar en un nuevo juego, que promete ponerlo a prueba hasta el límite.",
                 "anio": "2007",
                 "genero": "Terror, Suspense, Crimen",
+                "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Saw II",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430980.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aqCRAr4VrS9h7LWUR9pMzqBuxnL.png",
+                "descripcion": "Un detective y su equipo deben rescatar a 8 personas encerradas en una fábrica por el retorcido asesino en serie conocido como Jigsaw.",
+                "anio": "2005",
+                "genero": "Terror",
                 "duracion": "93 min",
                 "type": "PELICULA"
             },

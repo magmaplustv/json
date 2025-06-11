@@ -8578,18 +8578,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
             },
             {
-                "name": "Historia de pastores",
-                "url": "http://vedo.wvdbozpfc.com/vod/5B398A2999C949128AD33A871C5179F7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nrMM5hhQVuud5Or1TaXCAbmIfkr.jpg",
-                "type": "PELICULA",
-                "descripcion": "Altiplano de Granada, año 2027. Entre ovejas, ruinas y drones, una estudiante y dos pastores se encuentran, se visitan y se conectan alrededor de la historia de un cortijo que aparece y desaparece.",
-                "anio": "2024",
-                "duracion": "80 min",
-                "genero": "Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mr6WQoDFQX3B7I3ureOuA93JxY3.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "El Proyecto Adam",
                 "url": "http://vedo.wvdbozpfc.com/vod/77132EBF0D8C41ECA0B0635E2992F37D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/k5waciRFMN5bwudDrgFLffoAorm.jpg",
@@ -8600,6 +8588,18 @@
                 "genero": "Aventura, Ciencia ficción, Acción, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nURceh6rHmRZ0cDAN6H16eS0KCv.png"
+            },
+            {
+                "name": "Historia de pastores",
+                "url": "http://vedo.wvdbozpfc.com/vod/5B398A2999C949128AD33A871C5179F7_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nrMM5hhQVuud5Or1TaXCAbmIfkr.jpg",
+                "type": "PELICULA",
+                "descripcion": "Altiplano de Granada, año 2027. Entre ovejas, ruinas y drones, una estudiante y dos pastores se encuentran, se visitan y se conectan alrededor de la historia de un cortijo que aparece y desaparece.",
+                "anio": "2024",
+                "duracion": "80 min",
+                "genero": "Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mr6WQoDFQX3B7I3ureOuA93JxY3.jpg",
+                "iconpng": ""
             },
             {
                 "name": "El Oso Yogui",

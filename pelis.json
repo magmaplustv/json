@@ -7394,18 +7394,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Saw VII",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430985.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bXECndnt2fetBsopdQvsI3Cv970.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4jWLnjBjgUynIkDOIOLAtL3mgbS.png",
-                "descripcion": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
-                "anio": "2010",
-                "genero": "Terror, Crimen",
-                "duracion": "90 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Las desapariciones",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405802.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
@@ -7415,6 +7403,18 @@
                 "anio": "2024",
                 "genero": "Suspense, Terror, Crimen, Misterio",
                 "duracion": "111 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Saw VII",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430985.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bXECndnt2fetBsopdQvsI3Cv970.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4jWLnjBjgUynIkDOIOLAtL3mgbS.png",
+                "descripcion": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
+                "anio": "2010",
+                "genero": "Terror, Crimen",
+                "duracion": "90 min",
                 "type": "PELICULA"
             },
             {

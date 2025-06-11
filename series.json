@@ -5413,6 +5413,95 @@
                     ],
                     "tmdb_id": 236994,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Solo Leveling",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+                    "descripcion": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/soogvWTvbW2YVpZwUz0SgPBKiVa.png",
+                    "icono": "https://image.tmdb.org/t/p/original/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Ya estoy acostumbrado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214774.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Si tuviera otra oportunidad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214775.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Es como un videojuego",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214776.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Tengo que hacerme más fuerte",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214777.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un muy buen trato",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214778.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Comienza la verdadera caza",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214779.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Veamos hasta dónde puedo llegar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214780.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Esto es frustrante",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214781.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Has estado ocultando tus habilidades",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214782.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "¿Qué es esto, un pícnic?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214783.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Un caballero defendiendo un trono vacío",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214784.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Surge",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/214785.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "No eres de rango E, ¿verdad?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/332480.mkv"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": []
+                        }
+                    ],
+                    "tmdb_id": 127532,
+                    "total_seasons": 1
                 }
             ]
         },

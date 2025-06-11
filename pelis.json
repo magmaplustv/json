@@ -6807,18 +6807,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/owmRLUcLEXHOnPM9rxSbLsoqR34.png"
             },
             {
-                "name": "LEGO DC: ¡Shazam! Magia y monstruos",
-                "url": "http://vedo.wvdbozpfc.com/vod/FB9415BBDBFA441985B49729987D86FF_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
-                "type": "PELICULA",
-                "descripcion": "¡Ya es hora de que la Liga de la Justicia tome nota de Shazam! (Sean Astin), pero unirse al mejor equipo de superhéroes del mundo es mucho más difícil cuando todos se han convertido en niños. LEGO DC: ¡Shazam! Magic and Monsters le enseñará a Billy Batson las virtudes de la confianza mientras el héroe lucha contra Mr. Mind y Black Adam.",
-                "anio": "2020",
-                "duracion": "81 min",
-                "genero": "Familia, Aventura, Animación, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mwJqenycCK0jCLgIz8dHTidd7Xw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dWhcjYTug9ciq1lajWkbUNQ15db.png"
-            },
-            {
                 "name": "El árbol de los deseos",
                 "url": "http://vedo.wvdbozpfc.com/vod/1BC6B0ADFBA747AA90DC01DFEB58862A_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/7Q63UlYIRnmLx7ovwS1SjQP0Yd6.jpg",
@@ -6829,6 +6817,18 @@
                 "genero": "Animación, Familia, Aventura, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jZ6NrikuKX1Wby0EeT91BVDv45o.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/ntGUPRdDKZYznDy4baPiag3JedG.png"
+            },
+            {
+                "name": "LEGO DC: ¡Shazam! Magia y monstruos",
+                "url": "http://vedo.wvdbozpfc.com/vod/FB9415BBDBFA441985B49729987D86FF_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
+                "type": "PELICULA",
+                "descripcion": "¡Ya es hora de que la Liga de la Justicia tome nota de Shazam! (Sean Astin), pero unirse al mejor equipo de superhéroes del mundo es mucho más difícil cuando todos se han convertido en niños. LEGO DC: ¡Shazam! Magic and Monsters le enseñará a Billy Batson las virtudes de la confianza mientras el héroe lucha contra Mr. Mind y Black Adam.",
+                "anio": "2020",
+                "duracion": "81 min",
+                "genero": "Familia, Aventura, Animación, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/mwJqenycCK0jCLgIz8dHTidd7Xw.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dWhcjYTug9ciq1lajWkbUNQ15db.png"
             },
             {
                 "name": "El gato galactico y el hechizo del tiempo",

@@ -9057,18 +9057,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/5GxU9WVcTodN9XIMBaWnoaEJ6KB.png"
             },
             {
-                "name": "Ghost Game",
-                "url": "http://vedo.wvdbozpfc.com/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2024",
-                "duracion": "86 min",
-                "genero": "Terror, Suspense",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
-            },
-            {
                 "name": "Regresión",
                 "url": "http://vedo.wvdbozpfc.com/vod/EE09AA41B13A462698A394583C699061_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg",
@@ -9079,6 +9067,18 @@
                 "genero": "",
                 "iconoHorizontal": "",
                 "iconpng": ""
+            },
+            {
+                "name": "Ghost Game",
+                "url": "http://vedo.wvdbozpfc.com/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2024",
+                "duracion": "86 min",
+                "genero": "Terror, Suspense",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
             },
             {
                 "name": "Y al séptimo día",

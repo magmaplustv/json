@@ -6579,18 +6579,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/indmotrl83pJaroHTNcaFa7zToK.png"
             },
             {
-                "name": "Bolt",
-                "url": "http://vedo.wvdbozpfc.com/vod/204AEC6B5D844B95B22F4B549DFE2A5A_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
-                "type": "PELICULA",
-                "descripcion": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
-                "anio": "2008",
-                "duracion": "96 min",
-                "genero": "Animación, Familia, Aventura, Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/x97Rz20wHUtarM5TXaRKlPwz7YY.png"
-            },
-            {
                 "name": "Angry Birds: La película",
                 "url": "http://vedo.wvdbozpfc.com/vod/BF8482E737F9428F8795092C8A96FDC4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg",
@@ -6601,6 +6589,18 @@
                 "genero": "Animación, Aventura, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/l9jEItb8GRyhZfny92QeqpCeOu.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sJt2yOemHkDP3Gz8Emv8wxh4ejw.png"
+            },
+            {
+                "name": "Bolt",
+                "url": "http://vedo.wvdbozpfc.com/vod/204AEC6B5D844B95B22F4B549DFE2A5A_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+                "type": "PELICULA",
+                "descripcion": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
+                "anio": "2008",
+                "duracion": "96 min",
+                "genero": "Animación, Familia, Aventura, Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/x97Rz20wHUtarM5TXaRKlPwz7YY.png"
             },
             {
                 "name": "Bob Esponja: Un héroe fuera del agua",

@@ -4358,6 +4358,18 @@
                 "genero": "Acción, Comedia",
                 "duracion": "109 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "¡Viva la vida!",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432839.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kaHiddZ1XTK7YuSu8Aq8dCtmlKu.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xcn6qi32YAoT0jZZj7TGAJhzrIQ.jpg",
+                "iconpng": "",
+                "descripcion": "Un collar del pasado lleva a Jéssica a recorrer Israel en un viaje decisivo marcado por giros familiares, amor inesperado y la búsqueda del sentido de la vida.",
+                "anio": "2025",
+                "genero": "Comedia, Drama, Romance",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     },

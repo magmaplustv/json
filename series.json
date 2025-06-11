@@ -3105,6 +3105,65 @@
                     ],
                     "tmdb_id": 253321,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La mejor hermana",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Chloe se mueve en los círculos más elitistas de Nueva York con su marido abogado Adam y su hijo adolescente Ethan a su lado, mientras su hermana Nicky, distanciada de ella, intenta llegar a fin de mes y mantenerse limpia de drogas. Cuando Adam es brutalmente asesinado, la investigación sacude a toda la familia y saca a la luz secretos que llevaban mucho tiempo enterrados.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/oCtjq1OW7nUrQY8Pyq8sbl9Mm6n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cwVT6a6eUzhZdkQB4vPDGdmpacw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/25EBuAv16ZCsnxqJoDx0GwwQoSG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Es mi hermana",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432791.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Cuánto cielo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432792.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Viene la viuda",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432793.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Gazpacho",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432794.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Tú pregunta",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432795.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Un apoyo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432796.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Recuperación",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432797.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Ellos en su mundo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432798.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253321,
+                    "total_seasons": 1
                 }
             ]
         },

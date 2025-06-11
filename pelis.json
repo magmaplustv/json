@@ -6819,18 +6819,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ntGUPRdDKZYznDy4baPiag3JedG.png"
             },
             {
-                "name": "Daphne & Velma",
-                "url": "http://vedo.wvdbozpfc.com/vod/A9EC6D7CE5CB461EB67EF689E8981952_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
-                "type": "PELICULA",
-                "descripcion": "Daphne y Velma son estudiantes de secundaria que se reúnen cuando sospechan que sus compañeros están siendo convertidos en zombis o drones sin mente.",
-                "anio": "2018",
-                "duracion": "75 min",
-                "genero": "Comedia, Terror, Acción, Crimen",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gQP5eRO2h2PZCzDRiP7pQlQwwwU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/mX8cb74SusMa9luWUP6sJEEAcL5.png"
-            },
-            {
                 "name": "LEGO DC: ¡Shazam! Magia y monstruos",
                 "url": "http://vedo.wvdbozpfc.com/vod/FB9415BBDBFA441985B49729987D86FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
@@ -6841,6 +6829,18 @@
                 "genero": "Familia, Aventura, Animación, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/mwJqenycCK0jCLgIz8dHTidd7Xw.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dWhcjYTug9ciq1lajWkbUNQ15db.png"
+            },
+            {
+                "name": "Daphne & Velma",
+                "url": "http://vedo.wvdbozpfc.com/vod/A9EC6D7CE5CB461EB67EF689E8981952_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg",
+                "type": "PELICULA",
+                "descripcion": "Daphne y Velma son estudiantes de secundaria que se reúnen cuando sospechan que sus compañeros están siendo convertidos en zombis o drones sin mente.",
+                "anio": "2018",
+                "duracion": "75 min",
+                "genero": "Comedia, Terror, Acción, Crimen",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gQP5eRO2h2PZCzDRiP7pQlQwwwU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mX8cb74SusMa9luWUP6sJEEAcL5.png"
             },
             {
                 "name": "El gato galactico y el hechizo del tiempo",

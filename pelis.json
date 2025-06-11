@@ -3670,18 +3670,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Gladbeck: El drama de los rehenes",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432554.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/k8Oxbl6vSyXszDSDly2QDHN8Phm.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ugdryGVwOCSE4ic2A3vud8dv8qy.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pHlHsqibFxP5u2wMbbyJC6CLOVf.png",
-                "descripcion": "En agosto de 1988, dos asaltantes armados mantienen a raya a la policía alemana por 54 horas en una dramática toma de rehenes que terminó en un tiroteo y tres muertes.",
-                "anio": "2022",
-                "genero": "Documental",
-                "duracion": "91 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Hay alguien en tu casa",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432553.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/fHugh1QUl5llrdlTCF4UOaRy0BH.jpg",
@@ -3691,6 +3679,18 @@
                 "anio": "2021",
                 "genero": "Terror, Misterio",
                 "duracion": "86 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Gladbeck: El drama de los rehenes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432554.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/k8Oxbl6vSyXszDSDly2QDHN8Phm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ugdryGVwOCSE4ic2A3vud8dv8qy.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pHlHsqibFxP5u2wMbbyJC6CLOVf.png",
+                "descripcion": "En agosto de 1988, dos asaltantes armados mantienen a raya a la policía alemana por 54 horas en una dramática toma de rehenes que terminó en un tiroteo y tres muertes.",
+                "anio": "2022",
+                "genero": "Documental",
+                "duracion": "91 min",
                 "type": "PELICULA"
             },
             {

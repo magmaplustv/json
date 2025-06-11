@@ -3790,18 +3790,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Viaje de fin de curso: Mallorca",
-                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EF9645D6FB4E4E9D9070C9B4EAE643C6_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/A8E8EqXqETV8ggPiOkHjaBU8H9N.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z5caDtY3tn6rwbzB8iIA8PFCqYN.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lfRYbQjSTPFDZpXtnElrh1vf0Vm.png",
-                "descripcion": "2021. Tras pasar un año de confinamiento, un grupo de estudiantes de bachillerato y sus dos profesoras inician un viaje de fin de curso a Mallorca. Este planazo supone la última oportunidad que tienen de estar todos juntos, recuperar el tiempo perdido, poder divertirse como nunca lo han hecho y despedir está loca etapa de sus vidas. Sin embargo, un nuevo brote de coronavirus trunca todos sus planes y les obliga a quedarse encerrados en las habitaciones del hotel. Más de 50 alumnos, 2 profesoras, un hotel y muchos, muchos minibares… ¿Qué podría salir mal?",
-                "anio": "2025",
-                "genero": "Comedia",
-                "duracion": "115 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La Viuda Negra",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/82F236FECE0F497E9283C525E0A61476_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/uuabL0qp3zygLDEjImbPiWR9j2e.jpg",
@@ -3811,6 +3799,18 @@
                 "anio": "2025",
                 "genero": "Suspense, Misterio",
                 "duracion": "120 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Viaje de fin de curso: Mallorca",
+                "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EF9645D6FB4E4E9D9070C9B4EAE643C6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/A8E8EqXqETV8ggPiOkHjaBU8H9N.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z5caDtY3tn6rwbzB8iIA8PFCqYN.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lfRYbQjSTPFDZpXtnElrh1vf0Vm.png",
+                "descripcion": "2021. Tras pasar un año de confinamiento, un grupo de estudiantes de bachillerato y sus dos profesoras inician un viaje de fin de curso a Mallorca. Este planazo supone la última oportunidad que tienen de estar todos juntos, recuperar el tiempo perdido, poder divertirse como nunca lo han hecho y despedir está loca etapa de sus vidas. Sin embargo, un nuevo brote de coronavirus trunca todos sus planes y les obliga a quedarse encerrados en las habitaciones del hotel. Más de 50 alumnos, 2 profesoras, un hotel y muchos, muchos minibares… ¿Qué podría salir mal?",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "115 min",
                 "type": "PELICULA"
             },
             {

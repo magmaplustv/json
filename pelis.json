@@ -3766,18 +3766,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Corazón delator",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431975.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gcLh20gTCsYQIBS73sFzxKRa65m.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/d8SyvgSYWfSalhi9HIFKoNbGr49.png",
-                "descripcion": "Un amor que trasciende la muerte. Juan Manuel, un empresario frío, recibe el corazón de Pedro, un hombre humilde. Al investigar el origen de su donante, conoce a Valeria, la viuda, y se enamora de ella. Ocultando su identidad, lucha por salvar el barrio de Pedro, sin revelar que en su pecho late su corazón.",
-                "anio": "2025",
-                "genero": "Romance, Drama",
-                "duracion": "89 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Lo que le falta a esta estrella",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/96016A1CC553439BA258E4E3BAB14A70_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
@@ -3787,6 +3775,18 @@
                 "anio": "2025",
                 "genero": "Animación, Romance, Ciencia ficción",
                 "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Corazón delator",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/431975.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gcLh20gTCsYQIBS73sFzxKRa65m.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/d8SyvgSYWfSalhi9HIFKoNbGr49.png",
+                "descripcion": "Un amor que trasciende la muerte. Juan Manuel, un empresario frío, recibe el corazón de Pedro, un hombre humilde. Al investigar el origen de su donante, conoce a Valeria, la viuda, y se enamora de ella. Ocultando su identidad, lucha por salvar el barrio de Pedro, sin revelar que en su pecho late su corazón.",
+                "anio": "2025",
+                "genero": "Romance, Drama",
+                "duracion": "89 min",
                 "type": "PELICULA"
             },
             {

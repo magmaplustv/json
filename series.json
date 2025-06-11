@@ -14715,6 +14715,50 @@
                     ],
                     "tmdb_id": 246992,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sirenas",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Preocupada por el nivel de intimidad en la relación entre su hermana y su jefa multimillonaria, una mujer normal busca respuestas en una lujosa villa junto al mar.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/gDqTj8PRCYTrsqrBz6oM40flLyA.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1TzDuPhuThqMq0RudPXES1qXiMp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/nFOufr0IvCtMLyTleHOrtyj0htv.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Exilio",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432820.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Garras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432821.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Monstruo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432822.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Perséfone",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432823.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Canto de sirenas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432824.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 246992,
+                    "total_seasons": 1
                 }
             ]
         },

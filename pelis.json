@@ -3850,18 +3850,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/4QBfS6BCeJOObdcIewXlsKXHiQ7.png"
             },
             {
-                "name": "La calle del terror: La reina del baile",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430618.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/udAUZyViDFMGN72PYthH83LVBlO.jpg",
-                "type": "PELICULA",
-                "descripcion": "¿Quién será la reina del baile de 1988 del instituto Shadyside? La competencia de la discreta Lori es feroz incluso antes de que alguien empiece a matar a las candidatas.",
-                "anio": "2025",
-                "duracion": "90 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qspghhpOyaBGgZDJoCbV2o9WNMU.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/6A0OjUMXOtnxE61HPAahyri0bno.png"
-            },
-            {
                 "name": "Baila, Vini",
                 "url": "http://vedo.wvdbozpfc.com/vod/9EA89E6F146546049C02ED856419174F_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg",
@@ -3872,6 +3860,18 @@
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qQ9i4mO2GrUFR3gLWjf8J6s3Wf3.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/72SiqX4eemC0dBqSbt6KLAR8gAR.png"
+            },
+            {
+                "name": "La calle del terror: La reina del baile",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430618.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/udAUZyViDFMGN72PYthH83LVBlO.jpg",
+                "type": "PELICULA",
+                "descripcion": "¿Quién será la reina del baile de 1988 del instituto Shadyside? La competencia de la discreta Lori es feroz incluso antes de que alguien empiece a matar a las candidatas.",
+                "anio": "2025",
+                "duracion": "90 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qspghhpOyaBGgZDJoCbV2o9WNMU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6A0OjUMXOtnxE61HPAahyri0bno.png"
             },
             {
                 "name": "Un matrimonio mortal en Carolina del Norte (2025)",

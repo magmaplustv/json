@@ -3892,18 +3892,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
             },
             {
-                "name": "Karol G: Mañana fue muy bonito",
-                "url": "http://vedo.wvdbozpfc.com/vod/C0C6054494BE44BE8CFAFCCFB1B5B6C8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
-                "type": "PELICULA",
-                "descripcion": "Karol G descorre el telón de su ascenso al estrellato mientras navega por una gira de estadios con entradas agotadas, creando nueva música y lanzando un nuevo álbum.",
-                "anio": "2025",
-                "duracion": "108 min",
-                "genero": "Música, Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
-            },
-            {
                 "name": "La rosa de Versalles",
                 "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
@@ -3914,6 +3902,18 @@
                 "genero": "Animación, Romance, Drama, Historia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
+            },
+            {
+                "name": "Karol G: Mañana fue muy bonito",
+                "url": "http://vedo.wvdbozpfc.com/vod/C0C6054494BE44BE8CFAFCCFB1B5B6C8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
+                "type": "PELICULA",
+                "descripcion": "Karol G descorre el telón de su ascenso al estrellato mientras navega por una gira de estadios con entradas agotadas, creando nueva música y lanzando un nuevo álbum.",
+                "anio": "2025",
+                "duracion": "108 min",
+                "genero": "Música, Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
             },
             {
                 "name": "La más fan",

@@ -7815,6 +7815,135 @@
                     ],
                     "tmdb_id": 110492,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Sin límites",
+                    "genero": "Sci-Fi & Fantasy, Drama, Action & Adventure, Comedia",
+                    "descripcion": "Basada en la película del mismo nombre; este drama sigue a Brian Finch, quien decubre el poder de la misteriosa droga NZT y es coaccionado por el FBI para que use sus extraordinarias habilidades cognitivas para solventar complejos casos.",
+                    "anio": "2015",
+                    "iconPng": "https://image.tmdb.org/t/p/original/4sYPnBHBKGJeuFaGOcc1R5RLMKm.png",
+                    "icono": "https://image.tmdb.org/t/p/original/l5BERaKn3ozRTLhoylIiNwMDvax.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/5jrncO35yqeYjcv7GiCh27qxRR1.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431018.ts"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¡Placa! ¡Arma!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431019.ts"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "La leyenda de Marcos Ramos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431020.ts"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Página 44",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431021.ts"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Crisis de personalidad",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431022.ts"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Los efectos secundarios pueden incluir...",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431023.ts"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "La operación encubierta de Brian Finch",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431024.ts"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Cuando los piratas piratean a los piratas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431025.ts"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "¡Sede central!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431026.ts"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Brad-zilla",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431027.ts"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Aquí tienes a Brian puesto de drogas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431028.ts"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "El asesinato de Eddie Morra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431029.ts"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Detenedme antes de que vuelva a abrazar",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431030.ts"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "Los fundamentos del arte de retratar desnudos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431031.ts"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "¡Infiltrado!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431032.ts"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Sands, Agente de Morra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431033.ts"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Encuentros",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431034.ts"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Bezgranichnyy",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431035.ts"
+                                },
+                                {
+                                    "numero": 19,
+                                    "titulo": "El desayuno de un perro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431036.ts"
+                                },
+                                {
+                                    "numero": 20,
+                                    "titulo": "Hola, me llamo Rebeca Harris",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431037.ts"
+                                },
+                                {
+                                    "numero": 21,
+                                    "titulo": "¡Final! Primera parte",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431038.ts"
+                                },
+                                {
+                                    "numero": 22,
+                                    "titulo": "¡Final! Segunda parte",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431039.ts"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 62687,
+                    "total_seasons": 1
                 }
             ]
         },

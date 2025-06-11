@@ -3862,12 +3862,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/72SiqX4eemC0dBqSbt6KLAR8gAR.png"
             },
             {
-                "name": "Un matrimonio mortal en Carolina del Norte (2025)",
-                "url": "http://vedo.wvdbozpfc.com/vod/B043756853A14B26BDCF46754A38BD3E_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/1vclDcrv2kpfh5JudhN3AQJQfbj.jpg",
-                "type": "PELICULA"
-            },
-            {
                 "name": "La calle del terror: La reina del baile",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430618.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/udAUZyViDFMGN72PYthH83LVBlO.jpg",
@@ -3878,6 +3872,12 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/qspghhpOyaBGgZDJoCbV2o9WNMU.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/6A0OjUMXOtnxE61HPAahyri0bno.png"
+            },
+            {
+                "name": "Un matrimonio mortal en Carolina del Norte (2025)",
+                "url": "http://vedo.wvdbozpfc.com/vod/B043756853A14B26BDCF46754A38BD3E_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/1vclDcrv2kpfh5JudhN3AQJQfbj.jpg",
+                "type": "PELICULA"
             },
             {
                 "name": "La bala perdida 3",

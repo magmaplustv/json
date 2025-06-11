@@ -8602,18 +8602,6 @@
                 "iconpng": ""
             },
             {
-                "name": "El Oso Yogui",
-                "url": "http://vedo.wvdbozpfc.com/vod/CECA4805A5B94DD2803CCD37346CE451_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
-                "type": "PELICULA",
-                "descripcion": "Adaptación al cine de la famosa serie infantil -en una mezcla de cine de animación y personajes reales-. Una directora de documentales viaja al Parque Jellystone para filmar un proyecto. Allí no tardará en encontrarse con el Oso Yogui, su inseparable amio Boo-Boo y el guardabosques Smith",
-                "anio": "2010",
-                "duracion": "80 min",
-                "genero": "Comedia, Familia, Animación, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fpiFjIRVMrkbaWjlbJPeZKEXG44.png"
-            },
-            {
                 "name": "Vengadores: Endgame",
                 "url": "http://vedo.wvdbozpfc.com/vod/49F716F429914DF0986443580E71CCB4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
@@ -8624,6 +8612,18 @@
                 "genero": "Aventura, Ciencia ficción, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
+            },
+            {
+                "name": "El Oso Yogui",
+                "url": "http://vedo.wvdbozpfc.com/vod/CECA4805A5B94DD2803CCD37346CE451_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
+                "type": "PELICULA",
+                "descripcion": "Adaptación al cine de la famosa serie infantil -en una mezcla de cine de animación y personajes reales-. Una directora de documentales viaja al Parque Jellystone para filmar un proyecto. Allí no tardará en encontrarse con el Oso Yogui, su inseparable amio Boo-Boo y el guardabosques Smith",
+                "anio": "2010",
+                "duracion": "80 min",
+                "genero": "Comedia, Familia, Animación, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fpiFjIRVMrkbaWjlbJPeZKEXG44.png"
             },
             {
                 "name": "El reino animal",

@@ -4,6 +4,45 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Kun por Agüero",
+                    "genero": "Documental",
+                    "descripcion": "Presenta imágenes inéditas y entrevistas exclusivas con Messi, Guardiola, Otamendi e Ibai Llanos, siguiendo el viaje de Kun Agüero desde sus primeros días hasta el estrellato del fútbol mundial, su vínculo con su padre y el retiro relacionado con el corazón.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/y27fxExVvXM0Lz9BHNNipWfqjDI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/obelg5o4E2Rn9xtwnFLkAKNYkV9.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432787.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432788.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432789.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432790.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 289163,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Sneaky Links: Dating After Dark",
                     "genero": "Reality",
                     "descripcion": "",
@@ -1728,45 +1767,6 @@
                         }
                     ],
                     "tmdb_id": 255810,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Kun por Agüero",
-                    "genero": "Documental",
-                    "descripcion": "Presenta imágenes inéditas y entrevistas exclusivas con Messi, Guardiola, Otamendi e Ibai Llanos, siguiendo el viaje de Kun Agüero desde sus primeros días hasta el estrellato del fútbol mundial, su vínculo con su padre y el retiro relacionado con el corazón.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/y27fxExVvXM0Lz9BHNNipWfqjDI.png",
-                    "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/obelg5o4E2Rn9xtwnFLkAKNYkV9.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432787.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432788.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432789.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/432790.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 289163,
                     "total_seasons": 1
                 },
                 {

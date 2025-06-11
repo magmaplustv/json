@@ -3880,18 +3880,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Karol G: Mañana fue muy bonito",
-                "url": "http://vedo.wvdbozpfc.com/vod/C0C6054494BE44BE8CFAFCCFB1B5B6C8_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
-                "type": "PELICULA",
-                "descripcion": "Karol G descorre el telón de su ascenso al estrellato mientras navega por una gira de estadios con entradas agotadas, creando nueva música y lanzando un nuevo álbum.",
-                "anio": "2025",
-                "duracion": "108 min",
-                "genero": "Música, Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
-            },
-            {
                 "name": "La bala perdida 3",
                 "url": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
@@ -3902,6 +3890,18 @@
                 "genero": "Acción, Crimen, Suspense, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
+            },
+            {
+                "name": "Karol G: Mañana fue muy bonito",
+                "url": "http://vedo.wvdbozpfc.com/vod/C0C6054494BE44BE8CFAFCCFB1B5B6C8_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg",
+                "type": "PELICULA",
+                "descripcion": "Karol G descorre el telón de su ascenso al estrellato mientras navega por una gira de estadios con entradas agotadas, creando nueva música y lanzando un nuevo álbum.",
+                "anio": "2025",
+                "duracion": "108 min",
+                "genero": "Música, Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
             },
             {
                 "name": "La rosa de Versalles",

@@ -3880,18 +3880,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "La bala perdida 3",
-                "url": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
-                "type": "PELICULA",
-                "descripcion": "Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad.",
-                "anio": "2025",
-                "duracion": "112 min",
-                "genero": "Acción, Crimen, Suspense, Drama",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
-            },
-            {
                 "name": "La más fan",
                 "url": "http://vedo.wvdbozpfc.com/vod/5E36603C996647CB9D517C133B618505_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/aBGsAVaeFhcKmLLvf6JGgjXKtz5.jpg",
@@ -3902,6 +3890,18 @@
                 "genero": "Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/iznPd7PLnCBA1G50M4DuA9wvCIy.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "La bala perdida 3",
+                "url": "http://vedo.wvdbozpfc.com/vod/E7E7D4CC2F6F4622B42029BA0186755D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg",
+                "type": "PELICULA",
+                "descripcion": "Lino, que acaba de salir de la cárcel, solo tiene un objetivo: vengar a Charas. Acompañado de Julia, se lanza tras Areski, quien ha vuelto a Francia sin saber que el comandante Resz y su equipo también lo acechan. Lo que sigue es una persecución frenética, con alianzas que penden de un hilo y enfrentamientos sin tregua. En este nuevo capítulo, viejos enemigos deben unir fuerzas contra un adversario común para sobrevivir y descubrir la verdad.",
+                "anio": "2025",
+                "duracion": "112 min",
+                "genero": "Acción, Crimen, Suspense, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lK506MlcPSzd858KoKsx3PZtZqj.png"
             },
             {
                 "name": "Karol G: Mañana fue muy bonito",

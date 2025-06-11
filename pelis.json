@@ -6627,18 +6627,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
             },
             {
-                "name": "Astérix y los Vikingos",
-                "url": "http://vedo.wvdbozpfc.com/vod/69208731B23E4D479F4B8B4A4FC3B557_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/tuBDjGCBeDq4ypT58yfDMGaPOIb.jpg",
-                "type": "PELICULA",
-                "descripcion": "La pequeña aldea gala va a recibir a Gudúrix, el sobrino del jefe, que ha encomendado a Astérix y Obélix la misión de convertirlo en un hombre hecho y derecho. Pero, a pesar de sus aires de superioridad, este adolescente de Lutecia no es más que un cobarde redomado, y el entrenamiento de choque al que lo someterán no parece que vaya a cambiar mucho las cosas. Mientras, los vikingos desembarcan en la Galia dispuestos a encontrar a un «campeón del miedo» que, tal y como les ha prometido su mago, sea capaz de enseñarles a volar, ya que, según él, «el miedo da alas». Cuando los vikingos raptan a Gudúrix se desata la catástrofe. Astérix y Obélix deberán hacer lo imposible por encontrarlo. Mientras se lanzan hacia el Gran Norte en busca de su joven protegido, éste, que se ha visto implicado contra su voluntad en un infame complot, conoce a la bella e intrépida Abba y se da cuenta de que el amor puede tener el mismo efecto que un puñetazo. ¡Todo un choque de culturas!",
-                "anio": "2006",
-                "duracion": "78 min",
-                "genero": "Familia, Animación, Comedia, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ohcDvA5DfIuOrID3ZqsGQNv3AsI.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bHHvQTBrXcXkQoIH3Nd2gHtvQtG.png"
-            },
-            {
                 "name": "Arlo, el chico caimán",
                 "url": "http://vedo.wvdbozpfc.com/vod/4EBBCD322B044E7981028AAC21151C52_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/oOQMJM7G2W8v2AEK722k8welIJY.jpg",
@@ -6649,6 +6637,18 @@
                 "genero": "Animación, Comedia, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/hNCGEGCg65c1qI0kWs1eVsvP0Y0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jLJlDUl1yHisrCdwWW7RkYqlLQC.png"
+            },
+            {
+                "name": "Astérix y los Vikingos",
+                "url": "http://vedo.wvdbozpfc.com/vod/69208731B23E4D479F4B8B4A4FC3B557_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/tuBDjGCBeDq4ypT58yfDMGaPOIb.jpg",
+                "type": "PELICULA",
+                "descripcion": "La pequeña aldea gala va a recibir a Gudúrix, el sobrino del jefe, que ha encomendado a Astérix y Obélix la misión de convertirlo en un hombre hecho y derecho. Pero, a pesar de sus aires de superioridad, este adolescente de Lutecia no es más que un cobarde redomado, y el entrenamiento de choque al que lo someterán no parece que vaya a cambiar mucho las cosas. Mientras, los vikingos desembarcan en la Galia dispuestos a encontrar a un «campeón del miedo» que, tal y como les ha prometido su mago, sea capaz de enseñarles a volar, ya que, según él, «el miedo da alas». Cuando los vikingos raptan a Gudúrix se desata la catástrofe. Astérix y Obélix deberán hacer lo imposible por encontrarlo. Mientras se lanzan hacia el Gran Norte en busca de su joven protegido, éste, que se ha visto implicado contra su voluntad en un infame complot, conoce a la bella e intrépida Abba y se da cuenta de que el amor puede tener el mismo efecto que un puñetazo. ¡Todo un choque de culturas!",
+                "anio": "2006",
+                "duracion": "78 min",
+                "genero": "Familia, Animación, Comedia, Aventura",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ohcDvA5DfIuOrID3ZqsGQNv3AsI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bHHvQTBrXcXkQoIH3Nd2gHtvQtG.png"
             },
             {
                 "name": "Aviones: Equipo de rescate",

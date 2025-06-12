@@ -9948,18 +9948,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/qIKSANlQkqRVoNGkXlsC8wVgL55.png"
             },
             {
-                "name": "Yo soy Bruce Lee",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430859.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qdkbMj0LBF3zhjLtpA49VpYzrYX.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/fy7mHu4vNxfaX6sFlw76UYPwxOD.png",
-                "descripcion": "Documental que recoge la vida de Bruce Lee, una de las mayores leyendas de las artes marciales. El especial cuenta con la participación de familiares, amigos y personalidades del cine y el deporte como Mickey Rourke o Kobe Bryant.",
-                "anio": "2012",
-                "genero": "Documental",
-                "duracion": "94 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Back to Black",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405727.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/jvyh8wjpFNiv5Jg3axoHz7jpJYU.jpg",
@@ -9969,6 +9957,18 @@
                 "anio": "2024",
                 "genero": "Música, Historia, Drama",
                 "duracion": "122 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Yo soy Bruce Lee",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430859.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qdkbMj0LBF3zhjLtpA49VpYzrYX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/fy7mHu4vNxfaX6sFlw76UYPwxOD.png",
+                "descripcion": "Documental que recoge la vida de Bruce Lee, una de las mayores leyendas de las artes marciales. El especial cuenta con la participación de familiares, amigos y personalidades del cine y el deporte como Mickey Rourke o Kobe Bryant.",
+                "anio": "2012",
+                "genero": "Documental",
+                "duracion": "94 min",
                 "type": "PELICULA"
             },
             {

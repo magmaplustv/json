@@ -10946,6 +10946,40 @@
                     ],
                     "tmdb_id": 289163,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "El caso Air Cocaine: Traficantes de altura",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "En 2013, interceptan en Punta Cana 700 kg de cocaína y arrestan a cuatro franceses que para nada encajan en el perfil de un traficante. ¿Quién estuvo detrás de la redada?",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wdhdkgpRANyYR3xvHTaoXmw9TNI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/lEY2kCKmCbBPMwAiUFG4wi1PEh8.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/ceuc2V5QdHJL2Pte6xJ5cYzHElY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433388.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433389.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433390.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291583,
+                    "total_seasons": 1
                 }
             ]
         },

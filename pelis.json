@@ -3525,6 +3525,18 @@
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "مسامير جونيورMasameer Junior",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433387.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bqDgk6QtczItLivxaRoeOWLlqiE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1a32xxTmx2UjYi782kbtSikJw0F.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/n9SBPMbsu8zUQVMOc8BiQs1fo05.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Animación, Comedia, Aventura, Acción",
+                "duracion": "71 min",
+                "type": "PELICULA"
             }
         ]
     },

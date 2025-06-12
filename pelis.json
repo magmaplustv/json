@@ -6292,18 +6292,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Street Fighter II: La película",
-                "url": "http://vedo.wvdbozpfc.com/vod/42E86A8287554841AD3A5F2FB34CEAC9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Shadowlaw, sindicato del crimen organizado que trafica con drogas y armas por todo el mundo, se está consolidando como una amenaza mundial para todos los gobiernos democráticos de la tierra, alcanzando unos niveles de terrorismo internacional cada vez más preocupantes para la estabilidad mundial. Una investigación de la Interpol, liderada por Chun-Li y Guile, tiende como objetivo desvelar la base paramilitar desde donde se organizan los atentados terroristas de Shadowlaw, para posteriormente eliminarla bajo un ataque sorpresa. Para llevar a cabo la misión cuenta con Ryu, uno de los mejores luchadores de artes marciales del mundo. Por desgracia, su mejor amigo, Ken, ha sido capturado por Shadowlaw y convertido en un poderoso y fiel servidor... Adaptación libre del videojuego \"Street Fighter II\".",
-                "anio": "1994",
-                "duracion": "98 min",
-                "genero": "Animación, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/46HeRbztMTv4yfGfFzch0vciYZ7.png"
-            },
-            {
                 "name": "Los pingüinos de Madagascar",
                 "url": "http://vedo.wvdbozpfc.com/vod/0962BD4DCAFC4D8DBAC79DDF2967B5FF_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
@@ -6314,6 +6302,18 @@
                 "genero": "Familia, Animación, Aventura, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/2QMgoiDlTmrO9FngZft8GgZ2SbX.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
+            },
+            {
+                "name": "Street Fighter II: La película",
+                "url": "http://vedo.wvdbozpfc.com/vod/42E86A8287554841AD3A5F2FB34CEAC9_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/gX2YGHzmT3paqco4ap2sPk46DsQ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Shadowlaw, sindicato del crimen organizado que trafica con drogas y armas por todo el mundo, se está consolidando como una amenaza mundial para todos los gobiernos democráticos de la tierra, alcanzando unos niveles de terrorismo internacional cada vez más preocupantes para la estabilidad mundial. Una investigación de la Interpol, liderada por Chun-Li y Guile, tiende como objetivo desvelar la base paramilitar desde donde se organizan los atentados terroristas de Shadowlaw, para posteriormente eliminarla bajo un ataque sorpresa. Para llevar a cabo la misión cuenta con Ryu, uno de los mejores luchadores de artes marciales del mundo. Por desgracia, su mejor amigo, Ken, ha sido capturado por Shadowlaw y convertido en un poderoso y fiel servidor... Adaptación libre del videojuego \"Street Fighter II\".",
+                "anio": "1994",
+                "duracion": "98 min",
+                "genero": "Animación, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/46HeRbztMTv4yfGfFzch0vciYZ7.png"
             },
             {
                 "name": "Shreketefeliz Navidad",

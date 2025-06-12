@@ -548,18 +548,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Capitán América: Brave New World",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405193.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png",
-                "descripcion": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
-                "anio": "2025",
-                "genero": "Acción, Suspense, Ciencia ficción",
-                "duracion": "119 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "A Working Man",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405219.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8jrIVxlydAdFmHpBGmKpv2DPIWJ.jpg",
@@ -569,6 +557,18 @@
                 "anio": "2025",
                 "genero": "Acción, Crimen, Suspense",
                 "duracion": "116 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Capitán América: Brave New World",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405193.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/v1ZqN0k7prhjkSANsiqbzJT5UkU.png",
+                "descripcion": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+                "anio": "2025",
+                "genero": "Acción, Suspense, Ciencia ficción",
+                "duracion": "119 min",
                 "type": "PELICULA"
             },
             {

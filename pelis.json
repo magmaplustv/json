@@ -9912,18 +9912,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Píxel a Píxel: Crónicas del Videojuego Español",
-                "url": "http://vedo.wvdbozpfc.com/vod/7E238DE8255C48CBB773B11F467A73F0_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/ssZAabf429GkOPpii9Ihyf5ZmAn.jpg",
-                "type": "PELICULA",
-                "descripcion": "Documental sobre la historia del videojuego español desde sus inicios con las primeras recreativas, la etapa célebre de los 80 con lanzamientos como La Pulga o compañías como Made in Spain, Opera, Topo Soft o Dinamic, y el desarrollo de la industria posterior con compañías como Pyro, Rebel Act Studios, Mercury, Tequila, Tha Game Kitchen y tantas otras.",
-                "anio": "2025",
-                "duracion": "94 min",
-                "genero": "Documental",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/beUPGRoDdujDsuYJOuvwFDYYq5p.jpg",
-                "iconpng": ""
-            },
-            {
                 "name": "Andrés Iniesta: el héroe inesperado",
                 "url": "http://vedo.wvdbozpfc.com/vod/57B70BE6B8EC4C479547FF6BD67B7B56_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/b1rVIl8DMtcJh2adu2SER4x3D3v.jpg",
@@ -9933,6 +9921,18 @@
                 "duracion": "86 min",
                 "genero": "Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rwitJY4j9H2GTJCSGRuhJKKNQyM.jpg",
+                "iconpng": ""
+            },
+            {
+                "name": "Píxel a Píxel: Crónicas del Videojuego Español",
+                "url": "http://vedo.wvdbozpfc.com/vod/7E238DE8255C48CBB773B11F467A73F0_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ssZAabf429GkOPpii9Ihyf5ZmAn.jpg",
+                "type": "PELICULA",
+                "descripcion": "Documental sobre la historia del videojuego español desde sus inicios con las primeras recreativas, la etapa célebre de los 80 con lanzamientos como La Pulga o compañías como Made in Spain, Opera, Topo Soft o Dinamic, y el desarrollo de la industria posterior con compañías como Pyro, Rebel Act Studios, Mercury, Tequila, Tha Game Kitchen y tantas otras.",
+                "anio": "2025",
+                "duracion": "94 min",
+                "genero": "Documental",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/beUPGRoDdujDsuYJOuvwFDYYq5p.jpg",
                 "iconpng": ""
             },
             {

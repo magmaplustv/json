@@ -4653,18 +4653,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/xPLWsCrcle7SNHd1IQlKAYJ59tA.png"
             },
             {
-                "name": "Desconectados 2: Reconectados",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432701.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "103 min",
-                "genero": "Comedia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/2Rz5hzBn5PZVpUnYXmJLUOR2XBt.png"
-            },
-            {
                 "name": "Algo Azul",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405173.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg",
@@ -4675,6 +4663,18 @@
                 "genero": "Romance, Comedia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/ym6yZnCzfFraQkzstBsfnvAx8Xq.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Desconectados 2: Reconectados",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432701.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2025",
+                "duracion": "103 min",
+                "genero": "Comedia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/2Rz5hzBn5PZVpUnYXmJLUOR2XBt.png"
             },
             {
                 "name": "Borderline",

@@ -7370,18 +7370,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Saw X",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430988.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/nzVkXj1IX0BNoYzpTVogtkcCStf.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lyk8p9fW7xYN4AxZ22Q2kaITfhP.png",
-                "descripcion": "Entre los acontecimientos de \"Saw\" y \"Saw II\", un enfermo y desesperado John Kramer viaja a México para someterse a un tratamiento médico arriesgado y experimental con la esperanza de encontrar una cura para su cáncer, pero descubre que todo forma parte de una operación con el fin de estafar a  los más desesperados.",
-                "anio": "2023",
-                "genero": "Terror, Misterio, Suspense",
-                "duracion": "118 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Saw IV",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430982.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/owzhppFoegtjAkEhyxQhRtgPl96.jpg",
@@ -7391,6 +7379,18 @@
                 "anio": "2007",
                 "genero": "Terror, Suspense, Crimen",
                 "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Saw X",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430988.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nzVkXj1IX0BNoYzpTVogtkcCStf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lyk8p9fW7xYN4AxZ22Q2kaITfhP.png",
+                "descripcion": "Entre los acontecimientos de \"Saw\" y \"Saw II\", un enfermo y desesperado John Kramer viaja a México para someterse a un tratamiento médico arriesgado y experimental con la esperanza de encontrar una cura para su cáncer, pero descubre que todo forma parte de una operación con el fin de estafar a  los más desesperados.",
+                "anio": "2023",
+                "genero": "Terror, Misterio, Suspense",
+                "duracion": "118 min",
                 "type": "PELICULA"
             },
             {

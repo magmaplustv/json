@@ -1734,18 +1734,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/niP0a873863IwLrQU0cCrRAINbj.png"
             },
             {
-                "name": "Mufasa: El rey león",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406175.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
-                "type": "PELICULA",
-                "descripcion": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
-                "anio": "2024",
-                "duracion": "118 min",
-                "genero": "Aventura, Familia, Animación",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/dA8P5sURCCNGNucmnrCRN6zSvij.png"
-            },
-            {
                 "name": "Zorro y Liebre salvan el bosque",
                 "url": "http://vedo.wvdbozpfc.com/vod/90FA0BE5D5754404A39631B47325CBD4_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zEwqKPeG3BMZRWJEirP6YHVkpVK.jpg",
@@ -1756,6 +1744,18 @@
                 "genero": "Animación, Aventura, Familia",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4sHXKmoUZan9oGFFHSUADGVza6p.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Mufasa: El rey león",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406175.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+                "type": "PELICULA",
+                "descripcion": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+                "anio": "2024",
+                "duracion": "118 min",
+                "genero": "Aventura, Familia, Animación",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dA8P5sURCCNGNucmnrCRN6zSvij.png"
             },
             {
                 "name": "Vengador Implacable",

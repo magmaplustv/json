@@ -2549,6 +2549,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Los niños de Masameer",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433387.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bqDgk6QtczItLivxaRoeOWLlqiE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1a32xxTmx2UjYi782kbtSikJw0F.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/n9SBPMbsu8zUQVMOc8BiQs1fo05.png",
+                "descripcion": "Tras una detestable lección sobre mala conducta, tres pequeños revoltosos de seis años emprenden la búsqueda de una «buena obra», pero desatan el caos a cada paso.",
+                "anio": "2025",
+                "genero": "Animación, Comedia, Aventura, Acción",
+                "duracion": "71 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Nuestros tiempos",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433384.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/t0XyRsfjnxznZb803hXtleSXhtG.jpg",
@@ -3524,18 +3536,6 @@
                 "anio": "2024",
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "مسامير جونيورMasameer Junior",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433387.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bqDgk6QtczItLivxaRoeOWLlqiE.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1a32xxTmx2UjYi782kbtSikJw0F.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/n9SBPMbsu8zUQVMOc8BiQs1fo05.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Animación, Comedia, Aventura, Acción",
-                "duracion": "71 min",
                 "type": "PELICULA"
             }
         ]

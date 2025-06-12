@@ -488,18 +488,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Kiff Lore of the Ring Light",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432763.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/efqeK11WdXNkiOz7FkyrUCJZvwv.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uFOw4HdEf8I4Uw3Q2md7IJf6WXr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/indtvS2P8hAeMUMV9igrCMVnPnI.png",
-                "descripcion": "Kiff y sus amigos se embarcan en una aventura para destruir un anillo de luz de inmenso poder.",
-                "anio": "2025",
-                "genero": "Animación, Aventura, Comedia, Fantasía, Familia, Música",
-                "duracion": "23 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Destino final: Lazos de sangre",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
@@ -510,6 +498,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
+            },
+            {
+                "name": "Kiff Lore of the Ring Light",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432763.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/efqeK11WdXNkiOz7FkyrUCJZvwv.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uFOw4HdEf8I4Uw3Q2md7IJf6WXr.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/indtvS2P8hAeMUMV9igrCMVnPnI.png",
+                "descripcion": "Kiff y sus amigos se embarcan en una aventura para destruir un anillo de luz de inmenso poder.",
+                "anio": "2025",
+                "genero": "Animación, Aventura, Comedia, Fantasía, Familia, Música",
+                "duracion": "23 min",
+                "type": "PELICULA"
             },
             {
                 "name": "Shadow Force",

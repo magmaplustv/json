@@ -2100,18 +2100,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/dBOtMMLbTgjQw3FVv7nCCPinjiO.png"
             },
             {
-                "name": "Cacería Sangrienta",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406206.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un grupo de jóvenes activistas decide hacer una declaración ambiental vandalizando una tienda de artículos para el hogar justo cuando la tienda está por cerrar. Pero su plan sale terriblemente mal cuando quedan atrapados dentro y deben enfrentarse a un guardia de seguridad trastornado con una pasión macabra por la caza primitiva. A medida que la noche se llena de violencia y terror, los adolescentes se encuentran en una lucha desesperada por sus vidas.",
-                "anio": "2024",
-                "duracion": "90 min",
-                "genero": "Terror, Suspense, Acción",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/jsNakCUCwDjpklhNghsuqvlK7PM.png"
-            },
-            {
                 "name": "Anora",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406181.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/tZCrWnyN4zEtJiFem5TFoYT8nxI.jpg",
@@ -2122,6 +2110,18 @@
                 "genero": "Drama, Comedia, Romance",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
+            },
+            {
+                "name": "Cacería Sangrienta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406206.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kI24vnBopz6GPXdXWdQzc4GTRVZ.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un grupo de jóvenes activistas decide hacer una declaración ambiental vandalizando una tienda de artículos para el hogar justo cuando la tienda está por cerrar. Pero su plan sale terriblemente mal cuando quedan atrapados dentro y deben enfrentarse a un guardia de seguridad trastornado con una pasión macabra por la caza primitiva. A medida que la noche se llena de violencia y terror, los adolescentes se encuentran en una lucha desesperada por sus vidas.",
+                "anio": "2024",
+                "duracion": "90 min",
+                "genero": "Terror, Suspense, Acción",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jsNakCUCwDjpklhNghsuqvlK7PM.png"
             },
             {
                 "name": "Babygirl",

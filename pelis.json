@@ -2537,6 +2537,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Nuestros tiempos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433384.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/t0XyRsfjnxznZb803hXtleSXhtG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dD14o9KJDbmuJ80z4vKdVnQ0zks.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4oGqDfnnUS1zMohEArqoHBZLZgc.png",
+                "descripcion": "El hallazgo científico de Nora y Héctor les permite viajar en el tiempo desde 1966 hasta 2025. Mientras él lucha por adaptarse, ella florece... pero ¿a qué precio?",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Romance, Comedia",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Titán: La tragedia de OceanGate",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433383.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg",
@@ -3500,18 +3512,6 @@
                 "anio": "2024",
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Nuestros tiempos",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433384.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/t0XyRsfjnxznZb803hXtleSXhtG.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dD14o9KJDbmuJ80z4vKdVnQ0zks.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4oGqDfnnUS1zMohEArqoHBZLZgc.png",
-                "descripcion": "El hallazgo científico de Nora y Héctor les permite viajar en el tiempo desde 1966 hasta 2025. Mientras él lucha por adaptarse, ella florece... pero ¿a qué precio?",
-                "anio": "2025",
-                "genero": "Ciencia ficción, Romance, Comedia",
-                "duracion": "90 min",
                 "type": "PELICULA"
             }
         ]

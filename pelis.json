@@ -2530,6 +2530,18 @@
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Lo que quisimos ser",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433385.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zSzA0H1Ya9edqXAsIMFJ7F1rwle.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/94XP0x2rNguP68H7PB0LiN4zdoK.jpg",
+                "iconpng": "",
+                "descripcion": "Una historia de amor original: la de un hombre y una mujer que por años se encuentran todos los viernes en un mismo café para contarse y crear una historia entre ellos de lo que hubiesen deseado llegar a ser si la realidad no se hubiera entrometido con sus sueños. Dos, que, a través de sus encuentros, se enamoran profundamente, pero eligen proteger del mundo exterior la pactada relación hecha de a ratos de cada uno de sus viernes.",
+                "anio": "2024",
+                "genero": "Drama, Comedia, Romance",
+                "duracion": "84 min",
+                "type": "PELICULA"
             }
         ]
     },

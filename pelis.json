@@ -9081,18 +9081,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/1CTwWOwoCKVHo7ZmBFDLiwcJzzr.png"
             },
             {
-                "name": "Juega Conmigo",
-                "url": "http://vedo.wvdbozpfc.com/vod/23E6A1D54D474A6A8E74B99691640332_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
-                "type": "PELICULA",
-                "descripcion": "Sofía, una joven insegura, comienza a trabajar en una casa cuidando a dos hermanos de carácter problemático, que le harán su estancia sumamente difícil. Sin embargo, durante una noche en que los padres están ausentes, los niños serán acosados por una entidad demoníaca y Sofía tendrá que tomar parte en un terrorífico juego para intentar salvarlos.",
-                "anio": "2021",
-                "duracion": "80 min",
-                "genero": "Terror",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jST0q4EMty2kYyggxxwvsjpHPOs.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
-            },
-            {
                 "name": "Ghost Game",
                 "url": "http://vedo.wvdbozpfc.com/vod/323FF60D9241447BA4179DF8753EF891_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bampgK31QFyaNHQXmCnQ2m3VLvT.jpg",
@@ -9103,6 +9091,18 @@
                 "genero": "Terror, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/unGzxLzmxNKh3HrmPKXjFEvKxur.png"
+            },
+            {
+                "name": "Juega Conmigo",
+                "url": "http://vedo.wvdbozpfc.com/vod/23E6A1D54D474A6A8E74B99691640332_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg",
+                "type": "PELICULA",
+                "descripcion": "Sofía, una joven insegura, comienza a trabajar en una casa cuidando a dos hermanos de carácter problemático, que le harán su estancia sumamente difícil. Sin embargo, durante una noche en que los padres están ausentes, los niños serán acosados por una entidad demoníaca y Sofía tendrá que tomar parte en un terrorífico juego para intentar salvarlos.",
+                "anio": "2021",
+                "duracion": "80 min",
+                "genero": "Terror",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jST0q4EMty2kYyggxxwvsjpHPOs.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ph8hfjZ9zWEO2SHPnuD9bKxK9PD.png"
             },
             {
                 "name": "Regresión",

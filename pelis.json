@@ -500,18 +500,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Shadow Force",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432765.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v67tbCB03CMcJRWit8CS7JdJp6.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/pbID1LtsgnquZfM4pL2Zy9NtxXH.png",
-                "descripcion": "Con una recompensa por sus cabezas, la pareja formada por Omar Sy y Kerry Washington, huye con su hijo para escapar de su antigua organización: una unidad de operaciones en la sombra que ha sido enviada para liquidarlos.",
-                "anio": "2025",
-                "genero": "Acción, Suspense, Drama",
-                "duracion": "103 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Destino final: Lazos de sangre",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/430548.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
@@ -522,6 +510,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
+            },
+            {
+                "name": "Shadow Force",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432765.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v67tbCB03CMcJRWit8CS7JdJp6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/pbID1LtsgnquZfM4pL2Zy9NtxXH.png",
+                "descripcion": "Con una recompensa por sus cabezas, la pareja formada por Omar Sy y Kerry Washington, huye con su hijo para escapar de su antigua organización: una unidad de operaciones en la sombra que ha sido enviada para liquidarlos.",
+                "anio": "2025",
+                "genero": "Acción, Suspense, Drama",
+                "duracion": "103 min",
+                "type": "PELICULA"
             },
             {
                 "name": "El Contador 2",

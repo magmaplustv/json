@@ -2537,6 +2537,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Titán: La tragedia de OceanGate",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433383.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUCGp7TlntRm6WZyflAUsg6zSw7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/tvf6ZAT09uGT6rKAqKf3rwbt8nq.png",
+                "descripcion": "El submarino Titán de OceanGate implosionó en 2023 durante una inmersión a los restos del Titanic. Este documental narra cómo una visión ambiciosa acabó en tragedia.",
+                "anio": "2025",
+                "genero": "Documental, Drama",
+                "duracion": "111 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "¡Viva la vida!",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432839.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kaHiddZ1XTK7YuSu8Aq8dCtmlKu.jpg",
@@ -3488,18 +3500,6 @@
                 "anio": "2024",
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Titán: La tragedia de OceanGate",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433383.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dUCGp7TlntRm6WZyflAUsg6zSw7.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tvf6ZAT09uGT6rKAqKf3rwbt8nq.png",
-                "descripcion": "El submarino Titán de OceanGate implosionó en 2023 durante una inmersión a los restos del Titanic. Este documental narra cómo una visión ambiciosa acabó en tragedia.",
-                "anio": "2025",
-                "genero": "Documental, Drama",
-                "duracion": "111 min",
                 "type": "PELICULA"
             }
         ]

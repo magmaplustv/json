@@ -7034,18 +7034,6 @@
                 "iconpng": "https://image.tmdb.org/t/p/w500/aetolJMLL87C3nuTeQfXI3JWBE0.png"
             },
             {
-                "name": "Paranormal Activity 3",
-                "url": "http://vedo.wvdbozpfc.com/vod/89A3BC1045D3412FAB49829101610B5C_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2mgtnguCilTT7OtSURCWWE65iWr.jpg",
-                "type": "PELICULA",
-                "descripcion": "Tercera entrega de la saga Paranormal Activity. Se remonta hasta 1988, cuando las hermanas Katie y Kristi eran solo unas niñas y tienen su primer encuentro con lo sobrenatural.",
-                "anio": "2011",
-                "duracion": "83 min",
-                "genero": "Terror, Misterio",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dXhOCL2Sl6qeXrv1nebzJKCj4jC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lEzhcaKfbc2UqloGQIbpxTTDaNe.png"
-            },
-            {
                 "name": "The Boy: La maldición de Brahms",
                 "url": "http://vedo.wvdbozpfc.com/vod/68A493A9564F4AF8AA65064637B7537E_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/llOwkKApB9mtirnCq10bYJOJt0D.jpg",
@@ -7056,6 +7044,18 @@
                 "genero": "Terror, Misterio, Suspense",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jeiVmutYPZyQRSYk7OvyWENGIrA.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jUhAHKdxYljtUGAdyS8p3cbG0y8.png"
+            },
+            {
+                "name": "Paranormal Activity 3",
+                "url": "http://vedo.wvdbozpfc.com/vod/89A3BC1045D3412FAB49829101610B5C_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2mgtnguCilTT7OtSURCWWE65iWr.jpg",
+                "type": "PELICULA",
+                "descripcion": "Tercera entrega de la saga Paranormal Activity. Se remonta hasta 1988, cuando las hermanas Katie y Kristi eran solo unas niñas y tienen su primer encuentro con lo sobrenatural.",
+                "anio": "2011",
+                "duracion": "83 min",
+                "genero": "Terror, Misterio",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dXhOCL2Sl6qeXrv1nebzJKCj4jC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lEzhcaKfbc2UqloGQIbpxTTDaNe.png"
             },
             {
                 "name": "La huérfana",

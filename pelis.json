@@ -8244,18 +8244,6 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Baki Hanma vs. Kengan Ashura",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405767.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/npqKtCydaOCrPBKVsSNoGfLVD14.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/lsT1MSKJrKzTQkPYChbbHTfWB6o.png",
-                "descripcion": "¡Llega el combate definitivo! Los luchadores más fieros de ‘Baki Hanma’ y ‘Kengan Ashura’ se enfrentan en este «crossover» de artes marciales sin precedentes.",
-                "anio": "2024",
-                "genero": "Animación, Acción, Fantasía",
-                "duracion": "60 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405707.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",
@@ -8265,6 +8253,18 @@
                 "anio": "2024",
                 "genero": "Animación, Ciencia ficción, Acción",
                 "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Baki Hanma vs. Kengan Ashura",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405767.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/npqKtCydaOCrPBKVsSNoGfLVD14.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lsT1MSKJrKzTQkPYChbbHTfWB6o.png",
+                "descripcion": "¡Llega el combate definitivo! Los luchadores más fieros de ‘Baki Hanma’ y ‘Kengan Ashura’ se enfrentan en este «crossover» de artes marciales sin precedentes.",
+                "anio": "2024",
+                "genero": "Animación, Acción, Fantasía",
+                "duracion": "60 min",
                 "type": "PELICULA"
             }
         ]

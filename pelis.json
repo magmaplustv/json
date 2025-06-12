@@ -5035,6 +5035,18 @@
                 "genero": "Comedia, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/90s8Bj0lWL06PW7Whncib6TuHgf.jpg",
                 "iconpng": ""
+            },
+            {
+                "name": "Deep Cover: Actores encubiertos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433386.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3J631ynJoF07Yi5dmAkgh2FQzMv.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rVl2MDUbv5GbLfKTHUR9hKp0EAC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ktjANFyyJKOfklqWJuOVpPvKTCz.png",
+                "descripcion": "Kat es una profesora de teatro de improvisación que empieza a preguntarse si ha dejado pasar su oportunidad de triunfar. Cuando un policía encubierto le ofrece el papel de su vida, Kat recluta a dos de sus alumnos para infiltrarse en el mundo criminal londinense haciéndose pasar por peligrosos delincuentes.",
+                "anio": "2025",
+                "genero": "Acción, Comedia, Crimen",
+                "duracion": "100 min",
+                "type": "PELICULA"
             }
         ]
     },

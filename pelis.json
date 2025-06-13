@@ -11102,6 +11102,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "88 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Viernes 13",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433538.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/27ok919eWXU41dsiOnKIjQ7DHRX.png",
+                "descripcion": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida.",
+                "anio": "1980",
+                "genero": "Terror",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     }

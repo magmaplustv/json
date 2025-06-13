@@ -10862,6 +10862,18 @@
                 "genero": "Terror, Misterio",
                 "duracion": "116 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Scream 4",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433650.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iUTq54gSisd43xyX6LG9zUHeIE3.png",
+                "descripcion": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+                "anio": "2011",
+                "genero": "Terror, Misterio",
+                "duracion": "111 min",
+                "type": "PELICULA"
             }
         ]
     }

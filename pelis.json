@@ -11006,6 +11006,18 @@
                 "genero": "Aventura, Fantasía, Familia, Drama",
                 "duracion": "95 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La historia interminable II: El siguiente capítulo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433643.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bmxZK2By8BsHrfGOlEERIX4TYRA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/22328gc644F4pZn30nWPPUo4I93.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bT0bJ0y6OhilHCwc1YjHsY9M8xn.png",
+                "descripcion": "Continuación de las aventuras del joven Bastian Bux. En esta ocasión Bastian, agobiado por su situación en su vida real, recurre de nuevo al libro mágico.",
+                "anio": "1990",
+                "genero": "Familia, Fantasía, Aventura, Drama",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     }

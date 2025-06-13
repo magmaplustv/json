@@ -10730,6 +10730,65 @@
                     ],
                     "tmdb_id": 246992,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "An!ela",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Cuando su adinerado esposo la deja en la calle, una esnob de la alta sociedad de Varsovia se ve obligada a usar la única habilidad de sobrevivencia que le queda: su agudo ingenio.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/dcQsD6mUUchYQ0OCFUE6pnTp5xR.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/d6nMDQNCasWz82w50XNRIQoLBeA.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433392.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433393.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433394.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433395.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433396.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433397.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433398.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/433399.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 288915,
+                    "total_seasons": 1
                 }
             ]
         },

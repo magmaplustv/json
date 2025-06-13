@@ -11090,6 +11090,18 @@
                 "genero": "Aventura, Acción, Fantasía",
                 "duracion": "141 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Viernes 13. 7ª parte: Sangre nueva",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433513.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/bFKwI7IsGyrC8QmaIPfiGt1gENP.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3KO6cs5qighEoA98CFo1u26hqh7.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vCgOTtUS5oYvXJf7CxikMODo6t5.png",
+                "descripcion": "Desde que el maníaco homicida Jason Voorhees quedó atrapado en unas cadenas al fondo del lago Crystal, el campamento de verano más cercano no ha sufrido ningún altercado... ni asesinatos. Pero una de las campistas, Tina Shepherd, puede ver el futuro y hacer levitar objetos. Su médico conoce los peligros de la telequinesia, pero tiene más interés en aprovecharse de ella que en ayudarla. Y ahora es demasiado tarde. Sin querer, Tina ha liberado a Jason de su tumba acuosa, y el baño de sangre está a punto de empezar",
+                "anio": "1988",
+                "genero": "Terror, Suspense",
+                "duracion": "88 min",
+                "type": "PELICULA"
             }
         ]
     }

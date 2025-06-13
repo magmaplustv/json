@@ -11114,6 +11114,18 @@
                 "genero": "Terror",
                 "duracion": "95 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Viernes 13. 6ª parte: Jason vive",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433774.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/93tvkTtV6tQQiYhxhij9tuODNOq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cOhRyuo3xJc0L5AshhpNJyv7r0k.png",
+                "descripcion": "De pequeño logró hacer algo que supuso el fin de cuantos lo intentaron: mató a Jason Vorhees, el terrible criminal que aterrorizó a los habitantes de Cristal Lake. Y ahora, años más tarde, Tommy se siente atormentado por el miedo de que no esté realmente muerto. Así que Tommy y un amigo van al cementerio y excavan la tumba de Jason. Desgraciadamente para Tommy (y más aún para su amigo), en lugar de encontrar un cadáver descomponiéndose, descubren que Jason se ha conservado a la perfección",
+                "anio": "1986",
+                "genero": "Terror, Suspense",
+                "duracion": "86 min",
+                "type": "PELICULA"
             }
         ]
     }

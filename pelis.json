@@ -3524,6 +3524,18 @@
                 "genero": "Drama",
                 "duracion": "103 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tyler Rake",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433793.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cNu6VozUfD9jjQUjGuGBRoMlpYA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7toVrwnmtSY7JuoHFXIf2mwUdgu.png",
+                "descripcion": "Tyler Rake, un intrépido mercenario que ofrece sus servicios en el mercado negro, emprende una peligrosa misión cuando es contratado para rescatar al hijo secuestrado de un señor del crimen de Bombay.",
+                "anio": "2020",
+                "genero": "Acción, Suspense",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },

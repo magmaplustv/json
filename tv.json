@@ -1779,6 +1779,12 @@
                 "url": "https://ipanel.instream.audio/8004/stream",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "Lu5am",
+                "url": "https://lu5am.com/en-vivo/",
+                "type": "HLS",
+                "icono": ""
             }
         ]
     },

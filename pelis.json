@@ -11030,6 +11030,18 @@
                 "genero": "Familia, Fantasía, Aventura, Comedia",
                 "duracion": "95 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Piratas del Caribe: En el fin del mundo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433511.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qvfBqKrcarW0NoLoH41zsErtoAJ.png",
+                "descripcion": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo...",
+                "anio": "2007",
+                "genero": "Aventura, Fantasía, Acción",
+                "duracion": "168 min",
+                "type": "PELICULA"
             }
         ]
     }

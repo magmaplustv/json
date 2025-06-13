@@ -10874,6 +10874,18 @@
                 "genero": "Terror, Misterio",
                 "duracion": "111 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433512.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/rJwpYgQWfebnNnIIKSUTUx3sBc4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aTXhYyxx23AGWAqrkrs1fNGhgSO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/b3W3Yqm7FGiNC1TFtkiJ3i6BJF4.png",
+                "descripcion": "La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
+                "anio": "1999",
+                "genero": "Aventura, Acción, Ciencia ficción",
+                "duracion": "131 min",
+                "type": "PELICULA"
             }
         ]
     }

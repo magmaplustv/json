@@ -1072,6 +1072,18 @@
                 "name": "Cómo entrenar a tu dragón",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433805.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg",
+                "type": "PELICULA",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "duracion": "125 min",
+                "genero": "Acción, Familia, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433805.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
                 "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
@@ -1295,18 +1307,6 @@
                 "genero": "Documental, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qk3jMgmSx2NcoyVbry6Ggf4WY5Z.png"
-            },
-            {
-                "name": "Thunderbolts*",
-                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/502971.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un grupo de supervillanos y antihéroes van en misiones para el gobierno. Basado en la serie de cómics del mismo nombre.",
-                "anio": "2025",
-                "duracion": "127 min",
-                "genero": "Acción, Ciencia ficción, Aventura",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nkUqSWsy1pfXjqta8UTNEA4FwcX.png"
             }
         ]
     },

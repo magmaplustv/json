@@ -10715,5 +10715,22 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "⭐️Sagas⭐️",
+        "samples": [
+            {
+                "name": "Rocky",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433789.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8ZIc49i7tS49HY0b1KmxtkiWesi.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+                "descripcion": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
+                "anio": "1976",
+                "genero": "Drama",
+                "duracion": "119 min",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

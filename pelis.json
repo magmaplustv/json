@@ -10970,6 +10970,18 @@
                 "genero": "Aventura, Acción, Ciencia ficción",
                 "duracion": "121 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433507.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qvo0g1yeQnYoCcXctSHI4mkoFMc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png",
+                "descripcion": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
+                "anio": "2014",
+                "genero": "Ciencia ficción, Aventura, Suspense",
+                "duracion": "123 min",
+                "type": "PELICULA"
             }
         ]
     }

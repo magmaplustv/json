@@ -11150,6 +11150,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "100 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Viernes 13, 2ª parte",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433613.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/n2D3JuHNBTZENynVlj0vuBILykG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/aUOmyzc73sNtDen2WjjhsCRk3fw.png",
+                "descripcion": "Alice, superviviente de la tragedia del campamento de Crystal Lake, muere asesinada en su apartamento. Cinco años más tarde, un grupo de jóvenes aparece en el escenario de las macabras muertes, que aparentemente ha recuperado la normalidad, para realizar un curso de entrenamiento. Cuando el grupo se separa empieza de nuevo el implacable ritual sangriento. Paul, el líder del grupo, y su novia Ginny vuelven al campo para descubrir la masacre y también al autor de los crímenes, un Jason milagrosamente vivo pero terriblemente deformado y sediento de venganza.",
+                "anio": "1981",
+                "genero": "Terror, Suspense",
+                "duracion": "87 min",
+                "type": "PELICULA"
             }
         ]
     }

@@ -10994,6 +10994,18 @@
                 "genero": "Acción, Aventura, Ciencia ficción",
                 "duracion": "137 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La historia interminable",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433632.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rXAJUv3QfGxIEo8pVAjRPS58paB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bRLFmgRN5CYjKsb8IQvPCJnZyQZ.png",
+                "descripcion": "Bastián Baltasar Bux es un niño de once años que descubre en una antigua librería un libro titulado “La historia interminable”, el cual posee poderes mágicos. Esa magia hace que el mismo Bastián se convierta en un héroe de esa historia que parece no terminarse nunca, en la que se unirá a Atreyu, otro niño, con el objetivo de salvar al mundo de fantasía.Escondido en el desván de su colegio, Bastián devora durante las horas de clase este enigmático libro, que relata la destrucción de todo un mundo lleno de fantasía. Una especie de \"Nada\" misteriosa destruye todo el país y a todas las criaturas que lo habitan. A medida que avanza en su lectura, Bastián se da cuenta de que la salvación de Fantasía depende de él; de que consiga entrar en el libro.",
+                "anio": "1984",
+                "genero": "Aventura, Fantasía, Familia, Drama",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     }

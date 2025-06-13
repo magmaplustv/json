@@ -9810,6 +9810,18 @@
         "name": "⭐️Biografias / Documentales⭐️",
         "samples": [
             {
+                "name": "Sube a mi nube",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434055.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9oKUCYTsIlQFMiJWJqctdYndEwM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h3nPHhCIGA20N0wWn8Ws6YIYTtv.jpg",
+                "iconpng": "",
+                "descripcion": "La historia de Nubeluz, un programa infantil de los años 90, y de cómo revolucionó la televisión peruana.",
+                "anio": "2024",
+                "genero": "Drama, Historia",
+                "duracion": "110 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Descalzos",
                 "url": "http://vddgcoud02.gd34fdldh.xyz/vod/1F68DE3720264F9A86BD199BF4EC53BD_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/8zPUPI9wOwvLX9iiEpJjiA3VbxG.jpg",
@@ -9981,18 +9993,6 @@
                 "anio": "2024",
                 "genero": "Documental, Música",
                 "duracion": "77 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Sube a mi nube",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434055.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/9oKUCYTsIlQFMiJWJqctdYndEwM.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h3nPHhCIGA20N0wWn8Ws6YIYTtv.jpg",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2024",
-                "genero": "Drama, Historia",
-                "duracion": "110 min",
                 "type": "PELICULA"
             }
         ]

@@ -3442,6 +3442,18 @@
         "name": "⚡️Pedidos 2025⭐️",
         "samples": [
             {
+                "name": "Digimon Tamers: El Expreso Digimon Fugitivo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434013.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5d4ALnB0lZWkOIMujohfTjuoq1D.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5a6r0mFYYyfdAWKR8SPj6xB7IDs.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4aZ65QhqI5fo5Q5ldce5idBu58P.png",
+                "descripcion": "En Digimon Tamers: El Expreso Digimon Fugitivo, los jóvenes protagonistas se embarcan en una emocionante aventura a bordo de un tren misterioso que aparece en el mundo real. Este tren no es ordinario, ya que es capaz de viajar entre dimensiones, llevando a los Tamers a enfrentarse a nuevos y poderosos Digimon mientras intentan regresar a casa. La película combina acción, amistad y valentía en un viaje inolvidable.",
+                "anio": "2002",
+                "genero": "Animación",
+                "duracion": "30 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "EL CASCANUECES ROYAL OPERA HOUSE DE LONDRES",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/406196.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/yUUInYivQBKJjlOZoFxlm4zpJIz.jpg",
@@ -3475,18 +3487,6 @@
                 "anio": "2016",
                 "genero": "Acción, Crimen, Drama, Suspense",
                 "duracion": "92 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Digimon Tamers: El Expreso Digimon Fugitivo",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434013.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/5d4ALnB0lZWkOIMujohfTjuoq1D.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5a6r0mFYYyfdAWKR8SPj6xB7IDs.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4aZ65QhqI5fo5Q5ldce5idBu58P.png",
-                "descripcion": "",
-                "anio": "2002",
-                "genero": "Animación",
-                "duracion": "30 min",
                 "type": "PELICULA"
             }
         ]

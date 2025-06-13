@@ -11078,6 +11078,18 @@
                 "genero": "Aventura, Fantasía, Acción",
                 "duracion": "143 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Piratas del Caribe: En mareas misteriosas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433765.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/2oOARbiV871kCC27FyKBmYwOM3G.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ujiQflWydWCq1nPgKD8x1t3pFAW.png",
+                "descripcion": "Cuando Jack Sparrow vuelve a encontrarse con una mujer a la que había conocido años atrás, no está seguro de si se trata de amor o si ella es una estafadora sin escrúpulos que lo está utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Venganza de la Reina Ana, el barco del temible pirata Barbanegra, que lo obliga a unirse a su tripulación, lo que le hará vivir una inesperada aventura en la que no sabe quién le inspira más miedo si Barbanegra o esa mujer que regresa del pasado.",
+                "anio": "2011",
+                "genero": "Aventura, Acción, Fantasía",
+                "duracion": "141 min",
+                "type": "PELICULA"
             }
         ]
     }

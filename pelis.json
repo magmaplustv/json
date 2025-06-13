@@ -1069,6 +1069,18 @@
         "name": "⭐️Estrenos CAM 2025🎥",
         "samples": [
             {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433805.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "genero": "Acción, Familia, Fantasía",
+                "duracion": "125 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "La huella del mal",
                 "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171071.ts",
                 "icono": "https://image.tmdb.org/t/p/original/o410zKXtZYy2vVBcQJPxzOc9KYc.jpg",
@@ -1295,18 +1307,6 @@
                 "genero": "Acción, Ciencia ficción, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nkUqSWsy1pfXjqta8UTNEA4FwcX.png"
-            },
-            {
-                "name": "Cómo entrenar a tu dragón",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433805.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
-                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
-                "anio": "2025",
-                "genero": "Acción, Familia, Fantasía",
-                "duracion": "125 min",
-                "type": "PELICULA"
             }
         ]
     },

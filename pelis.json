@@ -2554,6 +2554,18 @@
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi yo adulta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434016.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/e6AcxsoQny1iqsEVbrR1IjmDZpA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wE05Qj1AiKhQoLoi1ZKv7HZIPSy.png",
+                "descripcion": "Elliott Labrant, a quien su futuro yo le ha aconsejado que no se enamore, está segura de que puede hacerlo después de recibir el consejo. Hasta que conoce al chico del que le advirtió su yo mayor.",
+                "anio": "2024",
+                "genero": "Comedia, Drama",
+                "duracion": "89 min",
+                "type": "PELICULA"
             }
         ]
     },

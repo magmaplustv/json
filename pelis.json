@@ -359,6 +359,18 @@
                 "name": "Mensaje en una botella",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434015.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una sommelier descubre un método para enviarse mensajes al pasado y lo usa para corregir una mala decisión. Sin embargo, su presente cambia de forma inesperada, llevándola a una realidad aún peor. Al intentar enmendar el error, las consecuencias se vuelven catastróficas. Desesperada, recurre una y otra vez al mecanismo, atrapándose en un ciclo donde cada intento por arreglar su vida y la de quienes la rodean la aleja más de la realidad que anhela.",
+                "anio": "2025",
+                "duracion": "126 min",
+                "genero": "Comedia, Fantasía, Drama",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4Ty6kJOr6P2pXYNt0FfoR78ptle.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5vQkG4vU9ci7BdMX3oxpzYxC6Jw.png"
+            },
+            {
+                "name": "Mensaje en una botella",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434015.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/4Ty6kJOr6P2pXYNt0FfoR78ptle.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/5vQkG4vU9ci7BdMX3oxpzYxC6Jw.png",
                 "descripcion": "Una sommelier descubre un método para enviarse mensajes al pasado y lo usa para corregir una mala decisión. Sin embargo, su presente cambia de forma inesperada, llevándola a una realidad aún peor. Al intentar enmendar el error, las consecuencias se vuelven catastróficas. Desesperada, recurre una y otra vez al mecanismo, atrapándose en un ciclo donde cada intento por arreglar su vida y la de quienes la rodean la aleja más de la realidad que anhela.",
@@ -1062,18 +1074,6 @@
                 "genero": "Animación, Familia, Comedia, Aventura",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/w1SjvuBifhtFwe3BSssXXFyV6bk.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/kIiK0wKZL9LAX6Z27XdJPrL3B2v.png"
-            },
-            {
-                "name": "Isla de perros",
-                "url": "http://vedo.wvdbozpfc.com/vod/CAFB07B718F84A59BBD701D7470771BE_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki. Un brote de gripe canina se propaga, por eso, el Mayor Kabayashi dicta una orden de emergencia decretando la cuarentena. Isla Basura es el lugar donde se evacua a todos los perros. Allí, un grupo de aterradores perros alfa, encabezados por Chief, han perdido toda esperanza de volver con sus dueños. Hasta que un día aparece Atari, un niño de 12 años, sobrino del malvado Mayor, que llega hasta la isla pilotando un avión. Su objetivo es buscar a su perro Spots. Esté donde esté, el niño y la manada perruna lo encontrarán.",
-                "anio": "2018",
-                "duracion": "101 min",
-                "genero": "Aventura, Comedia, Animación",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
             }
         ]
     },

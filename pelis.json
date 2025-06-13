@@ -1050,6 +1050,18 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
+            },
+            {
+                "name": "Clown in a Cornfield",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433391.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FLzVS8AlhyAMSgzcsZukCKG15c.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ejCg6KQtpcw1fPuhe2yzwNS2i3Y.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Misterio, Suspense",
+                "duracion": "96 min",
+                "type": "PELICULA"
             }
         ]
     },

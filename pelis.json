@@ -356,6 +356,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Clown in a Cornfield",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433391.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FLzVS8AlhyAMSgzcsZukCKG15c.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ejCg6KQtpcw1fPuhe2yzwNS2i3Y.png",
+                "descripcion": "Quinn y su padre acaban de mudarse a la tranquila ciudad de Kettle Springs con la esperanza de empezar de cero. En su lugar, descubre una comunidad fracturada que ha atravesado tiempos difíciles tras el incendio de la preciada fábrica de sirope de maíz Baypen. Mientras los lugareños discuten entre sí y las tensiones se desbordan, una figura siniestra y sonriente emerge de los campos de maíz para limpiar el pueblo de sus cargas, víctima sangrienta a víctima. La verdadera diversión comienza cuando el payaso Frendo sale a jugar.",
+                "anio": "2025",
+                "genero": "Terror, Misterio, Suspense",
+                "duracion": "96 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Amateur",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432776.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg",
@@ -1050,18 +1062,6 @@
                 "genero": "Aventura, Comedia, Animación",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/4Fo7dC0UFnITPmKT9wBm92rOLvo.png"
-            },
-            {
-                "name": "Clown in a Cornfield",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433391.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8FLzVS8AlhyAMSgzcsZukCKG15c.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/ejCg6KQtpcw1fPuhe2yzwNS2i3Y.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Terror, Misterio, Suspense",
-                "duracion": "96 min",
-                "type": "PELICULA"
             }
         ]
     },

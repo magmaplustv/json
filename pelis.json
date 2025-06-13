@@ -11054,6 +11054,18 @@
                 "genero": "Aventura, Acción, Fantasía",
                 "duracion": "129 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Piratas del Caribe: El cofre del hombre muerto",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433555.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xvGm4FFJs6IDChZp491IbFVNHEw.png",
+                "descripcion": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+                "anio": "2006",
+                "genero": "Aventura, Fantasía, Acción",
+                "duracion": "151 min",
+                "type": "PELICULA"
             }
         ]
     }

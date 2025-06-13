@@ -11042,6 +11042,18 @@
                 "genero": "Aventura, Fantasía, Acción",
                 "duracion": "168 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Piratas del Caribe: La venganza de Salazar",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433523.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/AookkwjZfWdigGtaEwy5IfOnBku.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/taST6lDDKdkqQ2nkFBSF3C72TTx.png",
+                "descripcion": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares.",
+                "anio": "2017",
+                "genero": "Aventura, Acción, Fantasía",
+                "duracion": "129 min",
+                "type": "PELICULA"
             }
         ]
     }

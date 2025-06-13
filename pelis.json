@@ -11018,6 +11018,18 @@
                 "genero": "Familia, Fantasía, Aventura, Drama",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La historia interminable III: Las aventuras de Bastian",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433540.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/aQtQZwYsJxGnSk5dqLqnIuyNgov.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/leuav0ikW74sCZyuthKyvcKYVMP.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/6ai4dfzNGe2ggbsWHDFgITlGMJK.png",
+                "descripcion": "El deseo de Bastian de tener un hermano o hermana se convierte finalmente en realidad cuando su padre anuncia que se va a volver a casar. Desafortunadamente, Bastian no congenia con su hermanastra Nicole. Sus problemas aumentan cuando se convierte en víctima de Los Bestias, una banda de fanfarrones de su nuevo colegio. Ocultándose de ellos en la biblioteca del colegio, Bastian encuentra por casualidad su libro preferido, -La historia interminable-, se esconde en un cuarto oscuro y pide el deseo de regresar a Fantasía. Desconcertados por su desaparición, Los Bestias deciden abandonar su búsqueda, pero descubren el libro en el suelo. Slip, el líder de la pandilla, comienza a leerlo y se da cuenta del poder que posee.",
+                "anio": "1994",
+                "genero": "Familia, Fantasía, Aventura, Comedia",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     }

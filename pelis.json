@@ -9982,6 +9982,18 @@
                 "genero": "Documental, Música",
                 "duracion": "77 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sube a mi nube",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434055.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/9oKUCYTsIlQFMiJWJqctdYndEwM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h3nPHhCIGA20N0wWn8Ws6YIYTtv.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2024",
+                "genero": "Drama, Historia",
+                "duracion": "110 min",
+                "type": "PELICULA"
             }
         ]
     },

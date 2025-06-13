@@ -3536,6 +3536,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "116 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Regreso al futuro",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433660.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/k3naCOK9ZQ5Mc7HhfHKN3zyray9.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png",
+                "descripcion": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+                "anio": "1985",
+                "genero": "Aventura, Comedia, Ciencia ficción",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },

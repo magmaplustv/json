@@ -10778,6 +10778,18 @@
                 "genero": "Drama",
                 "duracion": "105 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Rocky Balboa",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433689.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8oN30JAimKk2LcLOusSYpGvMPgG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9mwMaNeeqPXJviKk2UKLxFm9vUW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qBqW8TT2dnY0bYq1rZtOW7c27HG.png",
+                "descripcion": "Corre el año 2005 y el campeón Mason Dixon no encuentra un rival a su altura en un boxeo devaluado. Han pasado 30 años desde que Rocky Balboa (Sylvester Stallone), un hombre sin futuro, tuvo un golpe de suerte que le brindó la oportunidad de boxear y llegar a enfrentarse en el cuadrilátero contra el campeón de entonces, Apollo Creed. El coraje y perseverancia de Rocky, tanto en la vida como en el cuadrilátero, brindó esperanza a millones de personas. Ahora, la gloria del que fue bicampeón del mundo ya se ha ido, y Rocky se pasa las tardes contando viejas historias a los clientes de su restaurante Adrian's, que lleva el nombre de su ya fallecida esposa, por quien guarda un silencioso luto. Su hijo (Milo Ventimiglia) no desea pasar tiempo con él; se encuentra demasiado ocupado tratando de vivir su propia vida. El tiempo y los golpes han hecho más humilde a Rocky y en su corazón, él todavía es un luchador.",
+                "anio": "2006",
+                "genero": "Drama",
+                "duracion": "102 min",
+                "type": "PELICULA"
             }
         ]
     }

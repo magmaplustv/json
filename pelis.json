@@ -10910,6 +10910,18 @@
                 "genero": "Aventura, Acción, Ciencia ficción",
                 "duracion": "136 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Star Wars: Los últimos Jedi",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433577.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dNnb4KXe3NRKM3I4b5V58T03YHR.png",
+                "descripcion": "La malvada Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+                "anio": "2017",
+                "genero": "Aventura, Acción, Ciencia ficción",
+                "duracion": "150 min",
+                "type": "PELICULA"
             }
         ]
     }

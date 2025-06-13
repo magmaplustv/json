@@ -10850,6 +10850,18 @@
                 "genero": "Terror, Misterio",
                 "duracion": "122 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Scream 3",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433502.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jihXxHQXjzkcWU8ZfVgN8ntpvf5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wkqfrcS97zJ7frm8oeBngTqXGO3.png",
+                "descripcion": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
+                "anio": "2000",
+                "genero": "Terror, Misterio",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     }

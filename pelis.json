@@ -11162,6 +11162,18 @@
                 "genero": "Terror, Suspense",
                 "duracion": "87 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Viernes 13, parte III",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433628.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dtEkXmWPRwja6CtwPFcVpuMb7tW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/qfp1jEEVeCv7X89SnYtzKE4QNeZ.png",
+                "descripcion": "Un idílico verano va a convertirse en la peor de las pesadillas para otro grupo de despreocupados jóvenes de vacaciones. Ignorando el legado de sangre del campamento de Crystal Lake, uno por uno van siendo víctimas del maníaco Jason, que los acecha en cada momento.",
+                "anio": "1982",
+                "genero": "Terror, Suspense",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     }

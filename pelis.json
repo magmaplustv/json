@@ -10898,6 +10898,18 @@
                 "genero": "Aventura, Acción, Ciencia ficción",
                 "duracion": "124 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Star Wars: El despertar de la fuerza",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433551.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k6EOrckWFuz7I4z4wiRwz8zsj4H.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mVu2PLWfwXqieRr5F3T61eX1f5k.png",
+                "descripcion": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+                "anio": "2015",
+                "genero": "Aventura, Acción, Ciencia ficción",
+                "duracion": "136 min",
+                "type": "PELICULA"
             }
         ]
     }

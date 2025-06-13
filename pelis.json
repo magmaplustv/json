@@ -10982,6 +10982,18 @@
                 "genero": "Ciencia ficción, Aventura, Suspense",
                 "duracion": "123 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los Juegos del Hambre: Sinsajo - Parte 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433532.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9zWWAL8LciOBXvAArLn9mtGvRzQ.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/vxhnQ8AisOER6bUTa4Qb3qDDXiW.png",
+                "descripcion": "La última entrega de 'Los Juegos del Hambre' nos muestra a una nación en guerra, en la que Katniss se enfrenta con uñas y dientes al presidente Snow. Con la ayuda de algunos amigos, entre ellos Gale, Finnick y Peeta, arriesgará la vida para salir del Distrito 13 y eliminar al presidente Snow.",
+                "anio": "2015",
+                "genero": "Acción, Aventura, Ciencia ficción",
+                "duracion": "137 min",
+                "type": "PELICULA"
             }
         ]
     }

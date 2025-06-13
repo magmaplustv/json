@@ -3512,6 +3512,18 @@
                 "genero": "Comedia, Drama, Romance",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Marea alta",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433796.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/8vZWDEudoKakmVlCxfga5Pj7mgz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/weGP8HmjYP96Lzk1ipUeh1aIZPK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kEg23QAEy44m8Ijzw9tS5NsoeeO.png",
+                "descripcion": "Laura pasa unos días en su casa de playa sola, supervisando la construcción de un deck. Tras la misteriosa desaparición del encargado de las reformas, de a poco se ve rodeada –y acosada- por los trabajadores, en un clima de creciente tensión.",
+                "anio": "2020",
+                "genero": "Drama",
+                "duracion": "103 min",
+                "type": "PELICULA"
             }
         ]
     },

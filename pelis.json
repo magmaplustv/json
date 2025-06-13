@@ -3500,6 +3500,18 @@
                 "genero": "Acción, Animación",
                 "duracion": "75 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi novia de mentira",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433791.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zXdLiH2H3Ze4lzMXWB4gw6ZlbHI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kXwm3nfiLGjlbxdOfYcZ963TWuc.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jnUW07MsRkSsVuauoZLAXCIyJ7H.png",
+                "descripcion": "Eddie y Amber deciden organizar una relación para evitar que todos especulen sobre su sexualidad. Eddie está ansioso por seguir a su padre en el ejército, mientras que Amber sueña con mudarse al centro liberal de Londres. El plan parece sólido, pero a medida que su arreglo comienza a desmoronarse, la negación de Eddie se hace más profunda cuando Amber se da cuenta de que un futuro peligroso le espera a su mejor amiga a menos que ella intervenga.",
+                "anio": "2020",
+                "genero": "Comedia, Drama, Romance",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     },

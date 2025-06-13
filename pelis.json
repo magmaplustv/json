@@ -3476,6 +3476,18 @@
                 "genero": "Acción, Crimen, Drama, Suspense",
                 "duracion": "92 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Digimon Tamers: El Expreso Digimon Fugitivo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434013.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/5d4ALnB0lZWkOIMujohfTjuoq1D.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/5a6r0mFYYyfdAWKR8SPj6xB7IDs.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4aZ65QhqI5fo5Q5ldce5idBu58P.png",
+                "descripcion": "",
+                "anio": "2002",
+                "genero": "Animación",
+                "duracion": "30 min",
+                "type": "PELICULA"
             }
         ]
     },

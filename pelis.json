@@ -10814,6 +10814,18 @@
                 "genero": "Aventura, Comedia, Ciencia ficción",
                 "duracion": "116 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Regreso al futuro III",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433535.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yamBr3ihlWFF9jh3oOODSvjDY2e.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/R7CCAaWeyYu15jtXHAjEDejGY1.png",
+                "descripcion": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+                "anio": "1990",
+                "genero": "Aventura, Comedia, Ciencia ficción",
+                "duracion": "118 min",
+                "type": "PELICULA"
             }
         ]
     }

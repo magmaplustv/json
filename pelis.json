@@ -10826,6 +10826,18 @@
                 "genero": "Aventura, Comedia, Ciencia ficción",
                 "duracion": "118 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Scream",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433504.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png",
+                "descripcion": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+                "anio": "1996",
+                "genero": "Crimen, Terror, Misterio",
+                "duracion": "111 min",
+                "type": "PELICULA"
             }
         ]
     }

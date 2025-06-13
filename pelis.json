@@ -10838,6 +10838,18 @@
                 "genero": "Crimen, Terror, Misterio",
                 "duracion": "111 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Scream 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433739.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kFFPrFxVHj9DWzDA6h0CqFlUEOW.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rNqfOqFYpSCeSq2YC5pY8F80Yz4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/jdAAwDh8O7IxvU7gO3pFpDQeXCf.png",
+                "descripcion": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película \"Stab\" (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
+                "anio": "1997",
+                "genero": "Terror, Misterio",
+                "duracion": "122 min",
+                "type": "PELICULA"
             }
         ]
     }

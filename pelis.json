@@ -3507,6 +3507,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "La rosa de Versalles",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432580.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
+                "type": "PELICULA",
+                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
+                "anio": "2025",
+                "duracion": "113 min",
+                "genero": "Animación, Romance, Drama, Historia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
+            },
+            {
                 "name": "Los niños de Masameer",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433387.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/bqDgk6QtczItLivxaRoeOWLlqiE.jpg",
@@ -4075,18 +4087,6 @@
                 "genero": "Música, Documental",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/kpyXnnyO7UiK7FZFHJ5Ae7DRAIF.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/nC8Pwxy3lG6qgmiqxIxRUYWy8Cu.png"
-            },
-            {
-                "name": "La rosa de Versalles",
-                "url": "http://vedo.wvdbozpfc.com/vod/0C58E87882864FD89396DF053D10225B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/As2UKY4gNYS4w2U2ViGUdzTI472.jpg",
-                "type": "PELICULA",
-                "descripcion": "En una época revolucionaria, María Antonieta y Oscar François de Jarjayes, que se encarga de protegerla, se enfrentan a decisiones difíciles al asumir su papel en la sociedad.",
-                "anio": "2025",
-                "duracion": "113 min",
-                "genero": "Animación, Romance, Drama, Historia",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/uM2mvhtfzaWuinfAmnqIMAiP2Nt.png"
             },
             {
                 "name": "El Ladrón de joyas",

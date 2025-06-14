@@ -11311,6 +11311,18 @@
                 "genero": "Aventura, Historia",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La Biblia... en su principio",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429868.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/xWUsRixHHgwePHux6Mk9HqyN9Ko.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+                "iconpng": "",
+                "descripcion": "Cuenta los primeros 22 capítulos del Génesis: la creación del mundo, la expulsión del hombre del Paraíso Terrenal, la expansión del Pueblo de Dios por la faz de la Tierra, el Diluvio Universal o la destrucción de Sodoma y Gomorra.",
+                "anio": "1966",
+                "genero": "Aventura, Historia, Drama",
+                "duracion": "175 min",
+                "type": "PELICULA"
             }
         ]
     }

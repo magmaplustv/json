@@ -11395,6 +11395,18 @@
                 "genero": "Drama",
                 "duracion": "92 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Daniel, un Hombre de Fe",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429857.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tnilxWbvYCI08Ktl6oxVtCYb7RH.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rdtVFqzFZgPBHLACz1MnxGcSlsN.jpg",
+                "iconpng": "",
+                "descripcion": "Si tuvieras que elegir al profeta de la Biblia que más te inspira, ¿cuál sería?  Todos fueron y son una pieza fundamental para revelarnos el plan integral de Dios, Daniel es uno de ellos. Su historia es inspiradora, su carácter, su constancia, su obediencia y su relación íntima con el Señor lo convirtieron en un hombre justo que vivió en medio de una metrópoli corrompida, esta es la historia que cuenta la película Daniel, un hombre de fe.  En el año 605 a.C. Babilonia tomó Judá y sitió a Jerusalén. Debido a su triunfo, Nabucodonosor, el líder principal del imperio, ordenó separar para su reino a los jóvenes hebreos más talentosos que encontraran en Israel, Daniel fue uno de ellos, estuvo en Babilonia alrededor de setenta años, durante los reinados de Nabucodonosor, Belsasar, Darío y Ciro.  En ese lugar impregnado de idolatría, el Dios verdadero lo usó como profeta para su pueblo y para el pueblo que lo conquistó, a quien debió servir todos esos años.",
+                "anio": "2021",
+                "genero": "Familia, Drama, Documental, Historia",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     }

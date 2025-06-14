@@ -2699,8 +2699,13 @@
                 "name": "Más Chic",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": ""
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2W0J_6nvAc-wmYEv_p39f4xW3xFX08bHrfg&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dac8ff1688994efd898222acdd05cafc&key=22fdf97c7233667518258ed16ccb2545",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

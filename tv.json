@@ -3899,6 +3899,12 @@
                 "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/219.m3u8",
                 "type": "HLS",
                 "icono": "https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png"
+            },
+            {
+                "name": "DPelicula Clasico",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/218.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png"
             }
         ]
     }

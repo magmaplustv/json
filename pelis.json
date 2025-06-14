@@ -11383,6 +11383,18 @@
                 "genero": "Drama",
                 "duracion": "180 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Apostol Pedro Y La Ultima Cena",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429859.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/cCLh8qRxUbfE0DrzjnrrLKkl080.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iUvjzYkg4JsaOJ5X1AH7EMVBvDr.jpg",
+                "iconpng": "",
+                "descripcion": "Tres días antes de su ejecución, el anciano apóstol Pedro le cuenta a su carcelero acerca de su tiempo con Jesús.",
+                "anio": "",
+                "genero": "Drama",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     }

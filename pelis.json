@@ -11224,5 +11224,22 @@
                 "type": "PELICULA"
             }
         ]
+    },
+    {
+        "name": "⭐️Religioso⭐️",
+        "samples": [
+            {
+                "name": "Los Diez Mandamientos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429927.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uqSldgssjlJx4kkdvPhTx0V4FoN.png",
+                "descripcion": "Drama bíblico ambientado en el Antiguo Egipto que narra la historia de Moisés, favorito de la familia del faraón, que decide renunciar a su vida de privilegios para conducir a su pueblo, los hebreos esclavizados en Egipto, hacia la libertad.",
+                "anio": "1956",
+                "genero": "Drama, Historia",
+                "duracion": "220 min",
+                "type": "PELICULA"
+            }
+        ]
     }
 ]

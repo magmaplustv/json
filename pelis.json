@@ -11431,6 +11431,18 @@
                 "genero": "Drama, Historia",
                 "duracion": "168 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "León de Judá",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429853.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/dOF8yD82vboFuC0gbJdZtz2JeI8.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4wfEboIK9fbPMP0zbAuxPwxSiTJ.jpg",
+                "iconpng": "",
+                "descripcion": "Sigue las aventuras de un cordero audaz (Judá) y sus amigos estables mientras intentan evitar el sacrificio después de la semana anterior a la crucifixión de Cristo. Es un relato conmovedor de la historia de Pascua vista a través de los ojos de un adorable cerdo (Horace), un caballo de corazón débil (Monty), una rata pedante (Slink), un gallo divagante (Drake), una vaca maternal (Esmay) y un burro oprimido (Jack). Esta magnífica pieza de época con sus conjuntos épicos es una montaña rusa de emociones. Envuelto en el humor, esta búsqueda sigue a los animales desde el establo en Belén hasta el gran templo en Jerusalén y en la ladera del Calvario mientras estos héroes improbables intentan salvar a su amigo.",
+                "anio": "2011",
+                "genero": "Aventura, Animación, Comedia, Familia",
+                "duracion": "87 min",
+                "type": "PELICULA"
             }
         ]
     }

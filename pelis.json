@@ -11287,6 +11287,18 @@
                 "genero": "Drama, Historia",
                 "duracion": "123 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La historia de Josías, un rey que amó a Jehová y odió lo malo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429871.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oWSR0iQi38KSyl0DMuoqhqJmO56.jpg",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "descripcion": "El rey Josías creció en una nación llena de apostasía. Ahora tiene que decidir si seguirá permitiendo las prácticas religiosas falsas o defenderá la adoración verdadera.",
+                "anio": "2019",
+                "genero": "Drama",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     }

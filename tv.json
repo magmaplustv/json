@@ -2694,6 +2694,13 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Más Chic",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": ""
             }
         ]
     },

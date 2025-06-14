@@ -2628,7 +2628,7 @@
                 "name": "Discovery Home And Health",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-Sh9RZyo5DuGNuqa2BIsiVeE17uhnReO6w&s",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

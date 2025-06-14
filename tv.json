@@ -2614,9 +2614,15 @@
             },
             {
                 "name": "National Geographic",
-                "url": "",
-                "type": "HLS",
-                "icono": ""
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

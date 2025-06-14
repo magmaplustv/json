@@ -11407,6 +11407,18 @@
                 "genero": "Familia, Drama, Documental, Historia",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Al lado de Cristo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429855.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hWpHVsItQ1xcPMl3yQMB80yyGfj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/j2leoW4xnFJcJsRc3nMA6tGhVyW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/rs0LjAmXzVF1urSPMnGbGXTQ5Q9.png",
+                "descripcion": "El ladrón penitente es la historia de los dos hombres sin nombre que fueron crucificados junto a Jesús y cómo llegaron a estar junto a él en la cruz ese fatídico día. El ladrón penitente es una historia épica que comienza con el viaje de los magos y su encuentro casual con el joven Dismas y su hermano Jotham en el pesebre de Belén. Poco después, los jóvenes hermanos sufrirán una tragedia atroz que los llevará a ser acogidos por una banda de ladrones con inclinación por la violencia. Allí, conocen a Gestas, otro joven que compartirá su destino. Juntos, en su viaje a la cruz, intentarán dejar atrás su destino. Pero primero, deben sobrevivir a un despiadado centurión romano que amenaza con desatar una terrible venganza contra ellos. En el camino, con frecuencia se cruzan con Jesús y otras figuras bíblicas influyentes. Pero pronto descubrirán que no hay escapatoria del brutal final que les espera a todos en el Gólgota.",
+                "anio": "2021",
+                "genero": "Drama, Fantasía",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     }

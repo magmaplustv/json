@@ -2640,7 +2640,7 @@
                 "name": "E-Entertaiment",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://github.com/masterentertainment/listas/blob/main/logos/ENTMN.png",
+                "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

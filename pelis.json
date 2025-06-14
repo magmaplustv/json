@@ -11251,6 +11251,18 @@
                 "genero": "Drama, Fantasía",
                 "duracion": "104 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Chasing the Star",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429874.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/AoXWuDI4TCrnd6T4XzRw8MlVsHo.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/aW5QkoW1ajjfTjlz6UvUDIkBxkG.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2017",
+                "genero": "Familia, Aventura",
+                "duracion": "96 min",
+                "type": "PELICULA"
             }
         ]
     }

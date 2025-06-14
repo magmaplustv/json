@@ -11347,6 +11347,18 @@
                 "genero": "Familia, Animación",
                 "duracion": "75 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Dios con nosotros",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429864.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/sZPXeEIqt7ziMI2Omm5hNLoAXkj.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1j31k3DZvDp8pBU3qJbjIGTP0qz.jpg",
+                "iconpng": "",
+                "descripcion": "Nació en una humilde oscuridad, pero su familia tuvo que huir para salvarlo de un gobernante celoso. Perdonó los pecados, curó a los enfermos y dio esperanza a los desanimados y oprimidos, sin embargo, fue despreciado y rechazado por muchos. Dijo la verdad incluso cuando era peligroso hacerlo. ¡Voluntariamente dio su vida y luego resucitó, conquistando el poder de la muerte! De La Voz de los Mártires viene Dios con nosotros, anteriormente llamado Jesús: Él vivió entre nosotros. Con una animación mejorada recientemente, es la narración dramática de la vida de Jesucristo vista a través de los ojos del último apóstol sobreviviente, Juan. Viaja con Jesús y encuentra sus milagros, su enseñanza asombrosa y su valentía sin igual.",
+                "anio": "2011",
+                "genero": "Animación, Drama, Fantasía",
+                "duracion": "89 min",
+                "type": "PELICULA"
             }
         ]
     }

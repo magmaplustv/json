@@ -11323,6 +11323,18 @@
                 "genero": "Aventura, Historia, Drama",
                 "duracion": "175 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jose: Hijo amado",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429866.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fVGsgpqsi4x8HCqsCvyAo6XbrB0.jpg",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "descripcion": "La emocionante historia bíblica de José se cuenta en esta película animada en 3D de alta calidad para niños de 5 años en adelante. El joven José es un soñador, consentido por su padre y resentido por sus hermanos mayores que pronto lo venden como esclavo sin el conocimiento de su padre. Ahora cautivo en Egipto, José experimenta humillación, dificultades y encarcelamiento. Pero su fe y su don para interpretar sueños pronto lo llevaron a una posición exaltada en el reino. Cuando sus hermanos vienen pidiendo ayuda, José responde de una manera sorprendente. El programa establece la historia de José en el contexto del plan de Dios para Israel y la venida prometida del Mesías. Demuestra poderosamente la mano soberana de Dios en todas las cosas.",
+                "anio": "2015",
+                "genero": "",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     }

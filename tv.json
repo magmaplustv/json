@@ -2659,6 +2659,13 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Chrome/61.0.3163.100"
                 }
+            },
+            {
+                "name": "Hola! TV",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg",
+                "drm_license_uri": ""
             }
         ]
     },

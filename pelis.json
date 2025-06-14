@@ -11443,6 +11443,18 @@
                 "genero": "Aventura, Animación, Comedia, Familia",
                 "duracion": "87 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Dios no esta muerto",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429848.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qgcoPSP51XWN4i5KuXpkYM1fryn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8pl2t8FvYHHEAT6ly8YtJJWd1bn.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/akiF94gtCpX6KJZ8csLbkVdfW8.png",
+                "descripcion": "Película cristiana sobre un estudiante devoto Josh Wheaton (Shane Harper) que desde su primer día se ve retado por su dogmático profesor de filosofía, el Sr. Radisson (Kevin Sorbo), para probar la existencia de Dios.",
+                "anio": "2014",
+                "genero": "Drama",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     }

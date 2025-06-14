@@ -3923,6 +3923,12 @@
                 "url": "http://45.184.87.142:8000/play/a04u",
                 "type": "HLS",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"
+            },
+            {
+                "name": "DISNEY 2",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/743.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Disney_Channel_2024.png/revision/latest/scale-to-width-down/300?cb=20250205033811"
             }
         ]
     }

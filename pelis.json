@@ -11239,6 +11239,18 @@
                 "genero": "Drama, Historia",
                 "duracion": "220 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Su único hijo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429875.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/1MvQXCBJtC34yI16QS276ZjWKY1.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1rYAFNtu9yKaVInNTirgRr82a0N.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/ksoQU7lWJ1UVsSm2cVWZwTEa6WA.png",
+                "descripcion": "Después de ser llamado por el Señor, la fe de Abraham se pone a prueba en su viaje de tres días para sacrificar a su hijo.",
+                "anio": "2023",
+                "genero": "Drama, Fantasía",
+                "duracion": "104 min",
+                "type": "PELICULA"
             }
         ]
     }

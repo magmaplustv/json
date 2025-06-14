@@ -11371,6 +11371,18 @@
                 "genero": "",
                 "duracion": "105 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Evangelio según San Juan",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429861.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/rKbmbnYfFhgTjGoDU9F4pIhVvKh.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/380aihjywM92ad2hieYAFgXXMoF.jpg",
+                "iconpng": "",
+                "descripcion": "El Evangelio según San Juan es una película épica que narra la vida de Jesús. La película es una adaptación de la palabra de la American Bible Society 's Buena Nueva Biblia . Este largometraje épico de tres horas sigue el Evangelio de Juan con precisión, sin adiciones a la historia de los otros Evangelios ni omisiones de los complejos pasajes del Evangelio.",
+                "anio": "2003",
+                "genero": "Drama",
+                "duracion": "180 min",
+                "type": "PELICULA"
             }
         ]
     }

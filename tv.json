@@ -3666,6 +3666,12 @@
                     "Accept-Encoding": "gzip",
                     "Connection": "Keep-Alive"
                 }
+            },
+            {
+                "name": "GOL PERÚ opc 2",
+                "url": "http://skytvpluzz.xyz:80/live/rodotv/ChhSVdWKm7/980.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png"
             }
         ]
     },

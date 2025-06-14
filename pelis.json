@@ -11229,6 +11229,18 @@
         "name": "⭐️Religioso⭐️",
         "samples": [
             {
+                "name": "Noe",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429873.mkv",
+                "icono": "http://162.55.86.38/Kanrisha/resize?maxw=512&maxh=512&url=s%3A1%3A%2Fimages%2FnvmqclXc1w48FLH5fnteOEdWMZoNkMON87qr2L2Rs7108v78WhYZ1Mn9nwWgOpFcSvC6xr7OGNorzkw9OYnDcKvq3VjS01lvOrnNY1v9SBY.jpg",
+                "iconoHorizontal": "http://162.55.86.38/Kanrisha/resize?maxw=512&maxh=512&url=s%3A1%3A%2Fimages%2FnvmqclXc1w48FLH5fnteOEdWMZoNkMON87qr2L2Rs7108v78WhYZ1Mn9nwWgOpFcSvC6xr7OGNorzkw9OYnDcKvq3VjS01lvOrnNY1v9SBY.jpg",
+                "iconpng": "http://162.55.86.38/Kanrisha/resize?maxw=512&maxh=512&url=s%3A1%3A%2Fimages%2FnvmqclXc1w48FLH5fnteOEdWMZoNkMON87qr2L2Rs7108v78WhYZ1Mn9nwWgOpFcSvC6xr7OGNorzkw9OYnDcKvq3VjS01lvOrnNY1v9SBY.jpg",
+                "descripcion": "",
+                "anio": "1959",
+                "genero": "",
+                "duracion": "",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los Diez Mandamientos",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429927.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/kUfNxdftpiADE92Ch2Z0IRZjwwm.jpg",
@@ -11262,18 +11274,6 @@
                 "anio": "2017",
                 "genero": "Familia, Aventura",
                 "duracion": "96 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Noe",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429873.mkv",
-                "icono": "",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "1959",
-                "genero": "",
-                "duracion": "",
                 "type": "PELICULA"
             }
         ]

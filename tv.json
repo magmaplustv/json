@@ -2769,6 +2769,71 @@
         ]
     },
     {
+        "name": "🎬CANALES CINES VIP",
+        "samples": [
+            {
+                "name": "DPelicula Plus",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/219.m3u8",
+                "type": "HLS",
+                "icono": "https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png"
+            },
+            {
+                "name": "DPelicula Clasico",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/218.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png"
+            },
+            {
+                "name": "Distrito Comedia",
+                "url": "http://liketv.pro:80/live/NovaBoxtv504/JWJNnMCeFU/126461.m3u8",
+                "type": "HLS",
+                "icono": "https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300"
+            },
+            {
+                "name": "Golden Edge",
+                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/256.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
+            },
+            {
+                "name": "Golden Premiere 2",
+                "url": "http://45.184.87.142:8000/play/a04u",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"
+            },
+            {
+                "name": "DISNEY 2",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/743.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Disney_Channel_2024.png/revision/latest/scale-to-width-down/300?cb=20250205033811"
+            },
+            {
+                "name": "CINEMA LEGO MOVIES",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31052.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/46/The_LEGO_Movie_2014.png/revision/latest?cb=20211209223242&path-prefix=es"
+            },
+            {
+                "name": "CINEMA DISNEY PIXAR 1",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31053.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/disneyypixar/images/b/b5/Disney_Cinema.png/revision/latest?cb=20241128064453&path-prefix=es"
+            },
+            {
+                "name": "CINEMA DC COMICS",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31054.ts",
+                "type": "HLS",
+                "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdHy9Cyssw29TtUYnMoT1lHaNf34ARYxWQQXKUU4j_fH63_TiMFOFEWutGOEtP0v9Yb8PDONfLnzlx-GKGLM8GmPUsiQHi6anLVtgwNug_J4p4knkeVn4NM41PYjHnMhl2.png"
+            },
+            {
+                "name": "CINEMA CANTINFLAS",
+                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31068.ts",
+                "type": "HLS",
+                "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdudD1sZ-SQdG5aSJ8sRZ20l4_wgTDX8rnaKJywtBk-mnRUdF88jSltPf6-grkxytM80Vl0FiEoeoS01g9wovievCY44Wlzn19fOoSzPxfDYbzsas0aYLEm3jVFhh1wR5L.png"
+            }
+        ]
+    },
+    {
         "name": "🎬 24/7 RETRO",
         "samples": [
             {
@@ -3888,71 +3953,6 @@
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281215",
                 "type": "HLS",
                 "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png"
-            }
-        ]
-    },
-    {
-        "name": "🎬CANALES CINES VIP",
-        "samples": [
-            {
-                "name": "DPelicula Plus",
-                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/219.m3u8",
-                "type": "HLS",
-                "icono": "https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png"
-            },
-            {
-                "name": "DPelicula Clasico",
-                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/218.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png"
-            },
-            {
-                "name": "Distrito Comedia",
-                "url": "http://liketv.pro:80/live/NovaBoxtv504/JWJNnMCeFU/126461.m3u8",
-                "type": "HLS",
-                "icono": "https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300"
-            },
-            {
-                "name": "Golden Edge",
-                "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/256.m3u8",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
-            },
-            {
-                "name": "Golden Premiere 2",
-                "url": "http://45.184.87.142:8000/play/a04u",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"
-            },
-            {
-                "name": "DISNEY 2",
-                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/743.ts",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Disney_Channel_2024.png/revision/latest/scale-to-width-down/300?cb=20250205033811"
-            },
-            {
-                "name": "CINEMA LEGO MOVIES",
-                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31052.ts",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/4/46/The_LEGO_Movie_2014.png/revision/latest?cb=20211209223242&path-prefix=es"
-            },
-            {
-                "name": "CINEMA DISNEY PIXAR 1",
-                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31053.ts",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/disneyypixar/images/b/b5/Disney_Cinema.png/revision/latest?cb=20241128064453&path-prefix=es"
-            },
-            {
-                "name": "CINEMA DC COMICS",
-                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31054.ts",
-                "type": "HLS",
-                "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdHy9Cyssw29TtUYnMoT1lHaNf34ARYxWQQXKUU4j_fH63_TiMFOFEWutGOEtP0v9Yb8PDONfLnzlx-GKGLM8GmPUsiQHi6anLVtgwNug_J4p4knkeVn4NM41PYjHnMhl2.png"
-            },
-            {
-                "name": "CINEMA CANTINFLAS",
-                "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31068.ts",
-                "type": "HLS",
-                "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdudD1sZ-SQdG5aSJ8sRZ20l4_wgTDX8rnaKJywtBk-mnRUdF88jSltPf6-grkxytM80Vl0FiEoeoS01g9wovievCY44Wlzn19fOoSzPxfDYbzsas0aYLEm3jVFhh1wR5L.png"
             }
         ]
     }

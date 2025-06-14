@@ -11275,6 +11275,18 @@
                 "genero": "Familia, Aventura",
                 "duracion": "96 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Una noche con el rey",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429872.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/q0sA7RPn9bU2DV0s25UL9m8RYwU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7BCg6lPcoCIqTi3fMcvVw2Rc3v4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uNQaTKOhbHE6vUdZmx0kB8V5w2S.png",
+                "descripcion": "Este increíble drama bíblico narra la leyenda valiente e histórica de Hadassah, una huérfana judía con una belleza excepcional que se levanta para convertirse en la reina Ester de Persia y salva a los Judíos persas del genocidio. Al revelar su herencia al rey, Ester frustra el plan del primer ministro para aniquilar a todos los Judíos en el Imperio Persa. El festival anual de Purim es inspirada por su heroísmo.",
+                "anio": "2006",
+                "genero": "Drama, Historia",
+                "duracion": "123 min",
+                "type": "PELICULA"
             }
         ]
     }

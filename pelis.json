@@ -11419,6 +11419,18 @@
                 "genero": "Drama, Fantasía",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Rey de reyes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429853.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/A9NtJy2DyKg2pH7Z46pPVz8WkkU.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/f48vRLX90jlgwg9Ff2fq3ckfFsY.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4tso4gHZgxGqZCbAkalZZ07vmFN.png",
+                "descripcion": "Cuando las legiones de Roma conquistan Palestina, en un establo de un pueblo llamado Belén nace un niño que es adorado por pastores y por tres magos de Oriente que acuden a él guiados por una estrella. Ante el rumor de que ha nacido el Mesías, el rey Herodes ordena asesinar a todos los recién nacidos.",
+                "anio": "1961",
+                "genero": "Drama, Historia",
+                "duracion": "168 min",
+                "type": "PELICULA"
             }
         ]
     }

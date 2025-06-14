@@ -3917,6 +3917,12 @@
                 "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/256.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
+            },
+            {
+                "name": "Golden Premiere 2",
+                "url": "http://45.184.87.142:8000/play/a04u",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"
             }
         ]
     }

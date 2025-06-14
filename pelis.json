@@ -11335,6 +11335,18 @@
                 "genero": "",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Joseph: Rey de los Sueños",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429865.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/A4Xa0kKzsGE8Tl6X2QARdhsAtUg.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/n88p2RDLHfaa3qfOAiWVR5ANeY8.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hgjgHNAUoTclttv1ELwZ47dlyeS.png",
+                "descripcion": "Con su don de la interpretación de los sueños y su abrigo de colores brillantes, José inspira celos en sus hermanos y es vendido como esclavo. Esta narración animada de la historia del libro de Génesis de la Biblia cuenta con animación de primera clase y un trabajo de voz excelente, con Ben Affleck, Mark Hamill y Jody Benson. Sano y sin sermonear, José: Rey de los sueños hará las delicias de toda la familia.",
+                "anio": "2002",
+                "genero": "Familia, Animación",
+                "duracion": "75 min",
+                "type": "PELICULA"
             }
         ]
     }

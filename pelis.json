@@ -11467,6 +11467,18 @@
                 "genero": "Drama",
                 "duracion": "138 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La Biblia: Apocalipsis",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429833.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kuskbDPYZ7yBGoFlVD2fMCwnupQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k3g8IWufvzGV6X20dvICcZhEPDk.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/4zCNQwMNKPyPJR0HBi3MDBZjVZg.png",
+                "descripcion": "Año 90 d.C. Imperio Romano. El emperador Domiciano, como los demás emperadores, exige ser adorado como un dios, pero los cristianos se niegan a reconocer su carácter divino. (FILMAFFINITY)",
+                "anio": "2004",
+                "genero": "Drama, Película de TV",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     }

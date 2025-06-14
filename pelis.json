@@ -11455,6 +11455,18 @@
                 "genero": "Drama",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hijo de Dios",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429842.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/pJ2qK5r3zqXhB0MQxkAmEPZSSXF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/AuMXdzUnN9eaQ4SA3kxyjCfDCJT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bZ56HUEBy7NygVvC7Bpox0MYHXp.png",
+                "descripcion": "El actor portugués Diogo Morgalo, que ya protagonizó la adaptación televisiva “La Biblia” para History Channel, vuelve a encarnar a Jesucristo en esta biografía que cuenta la historia de Jesús de Nazaret desde su nacimiento hasta su resurrección.",
+                "anio": "2014",
+                "genero": "Drama",
+                "duracion": "138 min",
+                "type": "PELICULA"
             }
         ]
     }

@@ -1477,7 +1477,7 @@
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "type": "HLS",
                 "headers": {
-                    "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
+                    "User-Agent": "VLC/3.0.0 LibVLC/3.0.0"
                 }
             },
             {

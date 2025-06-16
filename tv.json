@@ -2309,6 +2309,17 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Novelísima",
+                "url": "http://cdn.sensa.com.ar/bpk-tv/Novelis/default/index_fk.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

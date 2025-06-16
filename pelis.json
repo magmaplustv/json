@@ -11455,6 +11455,18 @@
                 "genero": "Drama, Fantasía",
                 "duracion": "117 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Killing Jesus",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/340405.avi",
+                "icono": "https://image.tmdb.org/t/p/original/1Wr7apWkhqHSdzmxnQuzlKTzdK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/q5CQZRXM5PBMNga9G1cErB6gOs8.jpg",
+                "iconpng": "",
+                "descripcion": "Basado en el libro más vendido por O'Reilly y Martin Dugard, la ‘tv movie’ narra la vida de Jesús de Nazaret a través de la narración de los conflictos políticos, sociales e históricos durante el Imperio Romano que en última instancia condujeron a su muerte.",
+                "anio": "2015",
+                "genero": "Película de TV, Drama, Fantasía",
+                "duracion": "132 min",
+                "type": "PELICULA"
             }
         ]
     }

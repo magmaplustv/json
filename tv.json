@@ -2057,6 +2057,17 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "Mórbido tv",
+                "url": "http://cdn.sensa.com.ar/bpk-tv/Morbido/default/index_fk.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a48e923df0b1783bfa0e82a3c51fc20&key=122676906256fb0154d841936909c57b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

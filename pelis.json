@@ -11485,6 +11485,18 @@
                 "genero": "Película de TV, Drama, Fantasía",
                 "duracion": "132 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "María, madre de Jesús",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435362.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/fqzIkjVMkTK3wJpGEZJHd0yhl41.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nkSpU6fxnPmQCDl70PM3ccEPoHD.jpg",
+                "iconpng": "",
+                "descripcion": "Desde la vida en común de María y José hasta la crucifixión de Jesús. Esta es la historia de una vida llena de dolor y de gozo, la vida de la Virgen María. Después de dar a luz a Jesús, María tuvo que protegerle de Herodes, le vio crecer y enfrentarse a su pueblo proclamándose el Mesías. Finalmente fue testigo de su muerte en la cruz y de su resurrección.",
+                "anio": "1999",
+                "genero": "Drama, Película de TV",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     }

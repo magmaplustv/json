@@ -2964,6 +2964,12 @@
                 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
+            },
+            {
+                "name": "TRACE LATINA",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8",
+                "type": "HLS",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png"
             }
         ]
     },

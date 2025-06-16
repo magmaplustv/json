@@ -2946,7 +2946,12 @@
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png",
-                "drm_license_uri": ""
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

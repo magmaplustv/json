@@ -11199,6 +11199,18 @@
         "name": "⭐️Religioso⭐️",
         "samples": [
             {
+                "name": "La pasión de Cristo",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435361.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/qPSyfz3yzTHXh1s8KRNy5YMNQJL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/zL5LIiSbvKUjDOHcNyUJgeKiav5.png",
+                "descripcion": "Año 33 de nuestra era. En la provincia romana de Judea, un misterioso carpintero llamado Jesús de Nazareth comienza a anunciar la llegada del \"reino de Dios\" y se rodea de un grupo de humildes pescadores: los Apóstoles. Durante siglos, el pueblo judío había esperado la llegada del Mesías - personaje providencial que liberaría su sagrada patria e instauraría un nuevo orden basado en la justicia-. Las enseñanzas de Jesús atraen a una gran multitud de seguidores que lo reconocen como el Mesías. Alarmado por la situación, el Sanedrín, con la ayuda de Judas Iscariote, uno de los doce Apóstoles, arresta a Jesús. Acusado de traición a Roma, Cristo es entregado a Poncio Pilato, quien, para evitar un motín, lo condena a a morir en la cruz como un vulgar criminal.",
+                "anio": "2004",
+                "genero": "Drama",
+                "duracion": "126 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Noe",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429873.mkv",
                 "icono": "https://cocederodecine.wordpress.com/wp-content/uploads/2014/07/wpid-photo-201407180027464.jpg",
@@ -11472,18 +11484,6 @@
                 "anio": "2015",
                 "genero": "Película de TV, Drama, Fantasía",
                 "duracion": "132 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La pasión de Cristo",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435361.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/qPSyfz3yzTHXh1s8KRNy5YMNQJL.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/zL5LIiSbvKUjDOHcNyUJgeKiav5.png",
-                "descripcion": "Año 33 de nuestra era. En la provincia romana de Judea, un misterioso carpintero llamado Jesús de Nazareth comienza a anunciar la llegada del \"reino de Dios\" y se rodea de un grupo de humildes pescadores: los Apóstoles. Durante siglos, el pueblo judío había esperado la llegada del Mesías - personaje providencial que liberaría su sagrada patria e instauraría un nuevo orden basado en la justicia-. Las enseñanzas de Jesús atraen a una gran multitud de seguidores que lo reconocen como el Mesías. Alarmado por la situación, el Sanedrín, con la ayuda de Judas Iscariote, uno de los doce Apóstoles, arresta a Jesús. Acusado de traición a Roma, Cristo es entregado a Poncio Pilato, quien, para evitar un motín, lo condena a a morir en la cruz como un vulgar criminal.",
-                "anio": "2004",
-                "genero": "Drama",
-                "duracion": "126 min",
                 "type": "PELICULA"
             }
         ]

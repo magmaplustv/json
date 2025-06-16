@@ -2958,6 +2958,12 @@
                 "url": "https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+            },
+            {
+                "name": "LA BOCINA LATINA",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
             }
         ]
     },

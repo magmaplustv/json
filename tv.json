@@ -2987,8 +2987,13 @@
                 "name": "MTV 80s",
                 "url": "http://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": ""
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

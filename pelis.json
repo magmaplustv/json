@@ -11443,6 +11443,18 @@
                 "genero": "Drama, Película de TV",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Jesús (La vida pública de Jesús)",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/390151.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fmWdrHyCMnSWgNN12l9UnrIH0Ym.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/AoicJhQgrJWXtFfeIle0lxp1BpD.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eJ1YqHyVvpjCVJWYPu7flF01KHD.png",
+                "descripcion": "Jesús (también conocida como \"La vida pública de Jesús\") es una película de 1979, dirigida por John Krish y Peter Sykes y protagonizada por Brian Deacon como Jesús de Nazaret. Esta película corre a través de la vida de Jesús empezando con su nacimiento y culminando con su ascensión a su hogar celestial. El Evangelio de San Lucas de la Santa Biblia, fue escogido como la base del diálogo y acción para la película. Cinco años de cuidadosa preparación antecedieron la filmación en Israel en los lugares donde se llevaron a cabo los hechos reales en el evangelio. Las escenas son emocionantes y muestran muchos de sus milagros.",
+                "anio": "1979",
+                "genero": "Drama, Fantasía",
+                "duracion": "117 min",
+                "type": "PELICULA"
             }
         ]
     }

@@ -3608,6 +3608,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "116 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Operación U.N.C.L.E.",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435456.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nOSICEZIpShPXmTIETEZ7iuNWcM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1nkEaCMMKMjZ7NdaMBvBHd4wkhd.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cGpGupsOijIqxgUSI4IVHWBqBRh.png",
+                "descripcion": "Guerra fría, años 60. Narra las aventuras de dos agentes secretos que se parecen más de lo que creen: Napoleon Solo, de la CIA, e Illya Kuryakin, del KGB. Ambos se ven obligados a olvidar sus diferencias y formar un equipo cuya misión será poner fin a una misteriosa organización criminal internacional que pretende desestabilizar el frágil equilibrio de poder provocado por la proliferación de las armas nucleares. La hija de un científico alemán desaparecido es la clave para infiltrarse en la organización, encontrar al científico y evitar una catástrofe mundial.",
+                "anio": "2015",
+                "genero": "Comedia, Acción, Aventura",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },

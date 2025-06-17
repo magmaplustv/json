@@ -14743,6 +14743,55 @@
                     ],
                     "tmdb_id": 274980,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Mariliendre",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Meri Román era una reina de la noche gay de Madrid, pero de eso han pasado ya más de 10 años. Ahora, a sus 35, es una diva destronada que vive atormentada por su pasado y aburrida en su mediocre presente. Tras la muerte de su padre, Meri reconecta con su séquito de amigos gays, rememorando su pasado y los temazos musicales que marcaron aquella época, mientras intenta definir su caótica vida y su identidad.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/5w8sO6KKz13YywACw95deoCJZuj.png",
+                    "icono": "https://image.tmdb.org/t/p/original/A1u2RRhLz2Bkr9enHBwNpPe1PxZ.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9HjBRd6VvSz0HOI9buZXbO82xPS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Y yo sigo aquí",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435464.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Lo que te conté mientras te subía la pastilla",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435463.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Lo que pasó, pasó",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435462.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Escondidos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435461.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "No te vistas que es mejor no ir",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435460.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Siempre serás una travesti",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435459.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 250836,
+                    "total_seasons": 1
                 }
             ]
         },

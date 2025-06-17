@@ -3282,6 +3282,50 @@
             "nombre": "⭐️⭐️Acción⭐️⭐️",
             "series": [
                 {
+                    "nombre": "La frontera",
+                    "genero": "Drama, Action & Adventure",
+                    "descripcion": "Año 1987. Un grupo disidente de la banda terrorista ETA planea atentar en París. Solo tres personas, tan incompatibles como complementarias, podrán evitarlo.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/6SKzMXhp5q4yzk3f02QuNTQfv3M.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gSphqI0BhosjOz9DhWbqAEkowQh.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Miedo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435465.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Engaño",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435466.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Traición",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435467.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Dudas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435468.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "De piedra",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435469.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 274980,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Citadel: Diana",
                     "genero": "Action & Adventure, Drama",
                     "descripcion": "Milán, 2030: Diana Cavalieri es una agente doble del sindicato secreto Citadel, infiltrada en Manticore, la agencia rival que destruyó Citadel ocho años antes. Atrapada en el frente enemigo, Diana podría abandonar para siempre la agencia, pero debe decidir si confía en un inesperado aliado: el heredero de Manticore Italia, Edo Zani.",
@@ -4933,50 +4977,6 @@
                         }
                     ],
                     "tmdb_id": 226362,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "La frontera",
-                    "genero": "Drama, Action & Adventure",
-                    "descripcion": "Año 1987. Un grupo disidente de la banda terrorista ETA planea atentar en París. Solo tres personas, tan incompatibles como complementarias, podrán evitarlo.",
-                    "anio": "2025",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/6SKzMXhp5q4yzk3f02QuNTQfv3M.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gSphqI0BhosjOz9DhWbqAEkowQh.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Miedo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435465.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Engaño",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435466.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Traición",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435467.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Dudas",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435468.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "De piedra",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435469.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 274980,
                     "total_seasons": 1
                 }
             ]

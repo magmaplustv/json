@@ -10260,6 +10260,18 @@
         "name": "⭐️Biografias / Documentales⭐️",
         "samples": [
             {
+                "name": "Becoming Madonna",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435472.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/sgcqHx7oHzLTEGxN0kmyA92QlQt.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oZ9aMbL6BMr2UyqPQqO2nc87wTN.jpg",
+                "iconpng": "",
+                "descripcion": "Este documental explora la vida de Madonna, desde su infancia en Michigan hasta convertirse en la estrella del pop más influyente del mundo. A través de entrevistas y fotos inéditas, amigos y familiares cuentan cómo luchó en una industria dominada por hombres, incluyendo el lanzamiento de su controvertido libro 'Sex'.",
+                "anio": "2024",
+                "genero": "Documental, Música",
+                "duracion": "91 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Sube a mi nube",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434055.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/9oKUCYTsIlQFMiJWJqctdYndEwM.jpg",
@@ -10480,18 +10492,6 @@
                 "genero": "Música, Drama",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/sz14KDMes6nZ3KFIyji0z4Dfoii.png"
-            },
-            {
-                "name": "Becoming Madonna",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435472.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sgcqHx7oHzLTEGxN0kmyA92QlQt.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/oZ9aMbL6BMr2UyqPQqO2nc87wTN.jpg",
-                "iconpng": "",
-                "descripcion": "Este documental explora la vida de Madonna, desde su infancia en Michigan hasta convertirse en la estrella del pop más influyente del mundo. A través de entrevistas y fotos inéditas, amigos y familiares cuentan cómo luchó en una industria dominada por hombres, incluyendo el lanzamiento de su controvertido libro 'Sex'.",
-                "anio": "2024",
-                "genero": "Documental, Música",
-                "duracion": "91 min",
-                "type": "PELICULA"
             }
         ]
     },

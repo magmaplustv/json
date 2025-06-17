@@ -7812,6 +7812,18 @@
                 "genero": "Terror, Misterio",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/jzPP78HGkvSrirfl192xCzweFE6.png"
+            },
+            {
+                "name": "Mikaela",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435457.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/jm6lNbpmKcxX6M0pieaKhP6hs3w.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8SaEH4kYCy7JlviyhKtSVsMkt4r.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gMcBOZsHcQUNhLclJe2Gf3xT2BN.png",
+                "descripcion": "Víspera de Reyes. Una tormenta de nieve sin precedentes asola España. En medio del caos de una autopista colapsada, un grupo de atracadores aprovecha la oportunidad para asaltar un furgón blindado. A escasos metros se encuentra Leo (Antonio Resines), un policía en las últimas que no tiene nada que perder. Con la ayuda inesperada de una joven, juntos tratarán de evitar que la banda huya con el botín en una persecución a contrarreloj en medio del temporal.",
+                "anio": "2025",
+                "genero": "Acción, Suspense",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

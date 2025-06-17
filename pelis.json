@@ -7644,6 +7644,18 @@
                 "genero": "Terror, Acción, Ciencia ficción",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Troya",
+                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/185210.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2019",
+                "duracion": "8 min",
+                "genero": "Drama",
+                "iconoHorizontal": "",
+                "iconpng": ""
             }
         ]
     },

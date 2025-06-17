@@ -2590,6 +2590,18 @@
                 "genero": "Animación, Drama, Ciencia ficción",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Blanca Nieves y... sus 7 amantes",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435470.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zypZHfBdnBPuHfNfUbQT5stGKRT.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jxuWi3JDzC8li2mqvq9bf4BHhR5.jpg",
+                "iconpng": "",
+                "descripcion": "Blanca Nieves, tiene como misión entregar un paquete, pero su barco se hunde y naufraga en una isla habitada por siete delincuentes, a quienes tiene que complacer para poder sobrevivir.",
+                "anio": "1980",
+                "genero": "Aventura",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

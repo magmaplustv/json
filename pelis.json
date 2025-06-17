@@ -9857,6 +9857,18 @@
                 "genero": "Comedia, Drama",
                 "duracion": "91 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "MaXXXine",
+                "url": "http://iptvpremium.ink:55577/movie/contenido23f834/72cjDfjfUr7/472764.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qOdR46ymkVXuhnpnL2cBdjqjvnA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/u646t6HQfzAuAaCTIbc6lEaxm6i.svg",
+                "descripcion": "Sigue a Maxine, superviviente de los sangrientos incidentes de X, mientras continúa su viaje hacia la fama para ser actriz en Los Ángeles de la década de 1980.",
+                "anio": "2024",
+                "genero": "Terror, Suspense",
+                "duracion": "103 min",
+                "type": "PELICULA"
             }
         ]
     },

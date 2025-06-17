@@ -356,6 +356,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Bodegón con fantasmas",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435473.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/ipaGA6cLhY2dd4u87EcuH0nwWyn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c8bdRo3a5fhq8Ki4FhuBrjJdiiT.jpg",
+                "iconpng": "",
+                "descripcion": "Rodeados por viñedos y tierras de cereales, los habitantes de un pueblo de La Mancha pasan sus días con normalidad. Unos, los vivos, luchando contra los aprietos de la vida mientras otros, los fantasmas, lidian con los sinsabores de la muerte.",
+                "anio": "2025",
+                "genero": "Comedia, Fantasía",
+                "duracion": "88 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Los Rechazados",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434054.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/xkPrPDAK9a1K3hJCSilT2ApmWqF.jpg",
@@ -1085,18 +1097,6 @@
                 "anio": "2025",
                 "genero": "Familia, Drama, Música",
                 "duracion": "110 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Bodegón con fantasmas",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435473.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/ipaGA6cLhY2dd4u87EcuH0nwWyn.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/c8bdRo3a5fhq8Ki4FhuBrjJdiiT.jpg",
-                "iconpng": "",
-                "descripcion": "Rodeados por viñedos y tierras de cereales, los habitantes de un pueblo de La Mancha pasan sus días con normalidad. Unos, los vivos, luchando contra los aprietos de la vida mientras otros, los fantasmas, lidian con los sinsabores de la muerte.",
-                "anio": "2025",
-                "genero": "Comedia, Fantasía",
-                "duracion": "88 min",
                 "type": "PELICULA"
             }
         ]

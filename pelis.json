@@ -5999,6 +5999,18 @@
                 "genero": "Crimen, Suspense, Acción",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/dNZAN3YNlOT23tIaWlB6EBHVYG7.png"
+            },
+            {
+                "name": "A Working Man",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405219.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8jrIVxlydAdFmHpBGmKpv2DPIWJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png",
+                "descripcion": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+                "anio": "2025",
+                "genero": "Acción, Crimen, Suspense",
+                "duracion": "116 min",
+                "type": "PELICULA"
             }
         ]
     },

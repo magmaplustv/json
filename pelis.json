@@ -8506,6 +8506,18 @@
                 "genero": "Acción, Suspense, Ciencia ficción",
                 "duracion": "119 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La Leyenda de Ochi",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/429708.ts",
+                "icono": "https://image.tmdb.org/t/p/original/duYeqDNcfiu3J22cx83xweEw1FN.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una niña descubre los misterios de la comunicación animal.",
+                "anio": "2025",
+                "duracion": "95 min",
+                "genero": "Fantasía, Aventura, Familia",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/kCFcQGxwgpb5LQXYFBsZxM38a5h.png"
             }
         ]
     },

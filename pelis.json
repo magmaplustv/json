@@ -9027,6 +9027,18 @@
         "name": "⭐️Terror⭐️",
         "samples": [
             {
+                "name": "Play Dead",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435458.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/auV83u71Oy8FCxPNhVQLLOIvfgP.png",
+                "descripcion": "Una mujer se despierta herida en un sótano rodeada de cadáveres. Para sobrevivir, finge estar muerta mientras se desarrolla un grotesco ritual en la casa de arriba.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "72 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Imaginary",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/405568.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/6jrq4lA5KV3oIFnCYGDueSMTENd.jpg",
@@ -9600,18 +9612,6 @@
                 "anio": "2025",
                 "genero": "Terror",
                 "duracion": "88 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Play Dead",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435458.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/auV83u71Oy8FCxPNhVQLLOIvfgP.png",
-                "descripcion": "Una mujer se despierta herida en un sótano rodeada de cadáveres. Para sobrevivir, finge estar muerta mientras se desarrolla un grotesco ritual en la casa de arriba.",
-                "anio": "2025",
-                "genero": "Terror",
-                "duracion": "72 min",
                 "type": "PELICULA"
             }
         ]

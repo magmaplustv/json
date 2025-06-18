@@ -15245,6 +15245,55 @@
                     ],
                     "tmdb_id": 261980,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Los supervivientes",
+                    "genero": "Drama, Misterio",
+                    "descripcion": "Hace quince años, la muerte de tres jóvenes destrozó a este tranquilo pueblo costero. Ahora, la misteriosa muerte de una joven vuelve a sacar el pasado a la luz.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/AlfTyRrOgge5HnWJzPVsIEeF0o4.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cjyR1P2iPKXFXcKB3hRMvlKLoP9.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/6qp185qgY84bK7k5CKkAkivRuIO.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435877.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435878.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435879.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435880.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435881.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435882.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 284605,
+                    "total_seasons": 1
                 }
             ]
         },

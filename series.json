@@ -8165,6 +8165,85 @@
                     ],
                     "tmdb_id": 226362,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "La venganza del sanador",
+                    "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy, Drama, Crimen",
+                    "descripcion": "La historia “fantástica de venganza” se centra en Keyar, un curandero que es usado y desechado por sus compañeros aventureros debido a la premisa de que los curanderos no pueden luchar por su cuenta. Sin embargo, cuando logra la magia curativa definitiva y “cura” el mundo mismo, retrocede cuatro años para rehacer su vida.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vvjqtxBEgvQ9jPFoblkwg8DDThg.png",
+                    "icono": "https://image.tmdb.org/t/p/original/fNj0XTjXX9P8iBTOUHZk5jU0zYH.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/injrIOMNCQv4kTNX6hWa1QlyKoK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435524.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435525.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435526.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435527.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435528.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435529.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435530.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435531.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435532.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435533.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Episodio 11",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435534.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "Episodio 12",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435535.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 99071,
+                    "total_seasons": 1
                 }
             ]
         },

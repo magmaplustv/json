@@ -11059,6 +11059,60 @@
                     ],
                     "tmdb_id": 293786,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Our Unwritten Seoul",
+                    "genero": "Comedia, Drama",
+                    "descripcion": "Hermanas gemelas, cuyas similitudes terminan en su apariencia, intercambian identidades en medio de luchas personales y se embarcan en un viaje para redescubrir el amor y la vida.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9hhLBsrAhKzVcKBkbfMlh5DG41i.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435486.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435487.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435488.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435489.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435490.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435491.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435492.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 261980,
+                    "total_seasons": 1
                 }
             ]
         },

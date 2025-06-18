@@ -8698,6 +8698,18 @@
                 "genero": "Animación, Familia",
                 "duracion": "61 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Cómo entrenar a tu dragón",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435828.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fTpbUIwdsfyIldzYvzQi2K4Icws.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/sQiQw5CDqxBr7SRT53FMHELm9yp.png",
+                "descripcion": "En la escarpada isla de Berk, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón de la Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+                "anio": "2025",
+                "genero": "Acción, Familia, Fantasía",
+                "duracion": "125 min",
+                "type": "PELICULA"
             }
         ]
     },

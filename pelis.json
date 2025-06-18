@@ -4658,6 +4658,18 @@
         "name": "⭐️Prime Video⭐️",
         "samples": [
             {
+                "name": "La profecía del guerrero",
+                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
+                "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un intrépido caballero se enfrenta a un reino mortal para salvar el alma de la Elegida. Enfrentándose a brujas, demonios y enemigos brutales, descubre que su regreso podría desatar el caos y condenar a la humanidad.",
+                "anio": "2025",
+                "duracion": "103 min",
+                "genero": "Terror, Acción, Fantasía",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
+            },
+            {
                 "name": "Deep Cover: Actores encubiertos",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/433386.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/3J631ynJoF07Yi5dmAkgh2FQzMv.jpg",
@@ -4806,18 +4818,6 @@
                 "url": "http://vedo.wvdbozpfc.com/vod/31A949859C0742D5A91731D282812B59_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/zwUdH6L9nxLpe2c9LTWGazvRUj4.jpg",
                 "type": "PELICULA"
-            },
-            {
-                "name": "A Knight's War",
-                "url": "http://digitaltvsv.com:80/movie/Conectplus/10Conectplus/171156.ts",
-                "icono": "https://image.tmdb.org/t/p/original/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2025",
-                "duracion": "103 min",
-                "genero": "Terror, Acción, Fantasía",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
             },
             {
                 "name": "Vidas Paralelas",

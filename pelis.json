@@ -10529,6 +10529,18 @@
                 "genero": "Comedia, Drama, Romance",
                 "duracion": "132 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hombre con H",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435899.mp4",
+                "icono": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
+                "iconoHorizontal": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
+                "iconpng": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
+                "descripcion": "Luego de vivir una niñez de represión, Ney Matogrosso revoluciona los escenarios de Brasil a través de la música, la creatividad y el fuego interior.",
+                "anio": "2025",
+                "genero": "",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     },

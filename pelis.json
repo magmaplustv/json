@@ -7951,6 +7951,18 @@
         "name": "⭐️Romance⭐️",
         "samples": [
             {
+                "name": "La Niña de mis Ojos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435895.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/w360EPoLVUs9ENop1SBHnARMVRZ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rVhoq70ZDDVfeoEPS312PcR5yLE.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/9TSoRp8chWWM2EtbuAHQ2y7LzjV.png",
+                "descripcion": "Un grupo de amigos íntimos de una escuela privada están perdidamente enamorados de Sun-ah, la alumna estrella. El único del grupo que dice no estarlo es Jin-woo, pero él también termina enamorándose de ella.",
+                "anio": "2025",
+                "genero": "Romance, Drama, Comedia",
+                "duracion": "102 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Corazones rotos",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/432766.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kRNQstlmMKUetwiSvBXFuppW1i9.jpg",
@@ -8236,18 +8248,6 @@
                 "anio": "2024",
                 "genero": "Romance, Comedia",
                 "duracion": "90 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "그 시절, 우리가 좋아했던 소녀",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435895.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/w360EPoLVUs9ENop1SBHnARMVRZ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/rVhoq70ZDDVfeoEPS312PcR5yLE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/9TSoRp8chWWM2EtbuAHQ2y7LzjV.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Romance, Drama, Comedia",
-                "duracion": "102 min",
                 "type": "PELICULA"
             }
         ]

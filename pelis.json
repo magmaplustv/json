@@ -10488,6 +10488,18 @@
         "name": "⭐️Biografias / Documentales⭐️",
         "samples": [
             {
+                "name": "Sally: La primera astronauta americana",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435897.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/7MtfJPrAEJlWhFNeW7NOVmSHs4k.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eils3aXwYa9FTA6umqZ1YX7ay0L.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cDAeIZA6bCd8cL9qooHoPalrrFd.png",
+                "descripcion": "La Dra. Sally Ride fue la primera mujer estadounidense en el espacio. A pesar del sexismo en el programa espacial, triunfó e inspiró a muchas niñas y mujeres. Su relación con Tam O’Shaughnessy se mantuvo en secreto hasta su fallecimiento en 2012. El documental de Cristina Costantini rinde homenaje a su vida y legado con imágenes inéditas y testimonios de sus compañeros de viaje. (FIRE!!)",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "103 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Simple Minds: cuando todo es posible",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435475.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/3rZ88ku1sSbdpFvTl4i5KFXx1Bx.jpg",
@@ -10743,18 +10755,6 @@
                 "anio": "2025",
                 "genero": "Documental",
                 "duracion": "80 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Sally: La primera astronauta americana",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435897.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/7MtfJPrAEJlWhFNeW7NOVmSHs4k.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eils3aXwYa9FTA6umqZ1YX7ay0L.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/cDAeIZA6bCd8cL9qooHoPalrrFd.png",
-                "descripcion": "La Dra. Sally Ride fue la primera mujer estadounidense en el espacio. A pesar del sexismo en el programa espacial, triunfó e inspiró a muchas niñas y mujeres. Su relación con Tam O’Shaughnessy se mantuvo en secreto hasta su fallecimiento en 2012. El documental de Cristina Costantini rinde homenaje a su vida y legado con imágenes inéditas y testimonios de sus compañeros de viaje. (FIRE!!)",
-                "anio": "2025",
-                "genero": "Documental",
-                "duracion": "103 min",
                 "type": "PELICULA"
             }
         ]

@@ -368,6 +368,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Agente infiltrado",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435894.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kV1j0KzbNGPz5EUqzUOrVTtDx2u.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jRvhP4AfFnJ03lCQhp1fie7XPSd.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/iN1tD2cAmuaFyQHAFZhwPgaKvJi.png",
+                "descripcion": "Emmanuel intenta infiltrarse en una secta liderada por The Bokushi, que recluta veteranos de guerra con trastorno por estrés postraumático para crear un ejército de Shinjas devotos que empiezan a preocupar al gobierno. Sin éxito, recluta a un exdiscípulo y exmilitar, que acepta usar su conocimiento sobre el enigmático líder mientras intenta vengarse de él por haberle quitado todo lo que tenía.",
+                "anio": "2025",
+                "genero": "Acción, Suspense",
+                "duracion": "87 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Bodegón con fantasmas",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435473.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/ipaGA6cLhY2dd4u87EcuH0nwWyn.jpg",
@@ -1121,18 +1133,6 @@
                 "anio": "2025",
                 "genero": "Acción, Familia, Fantasía",
                 "duracion": "125 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Agente infiltrado",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435894.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kV1j0KzbNGPz5EUqzUOrVTtDx2u.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jRvhP4AfFnJ03lCQhp1fie7XPSd.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/iN1tD2cAmuaFyQHAFZhwPgaKvJi.png",
-                "descripcion": "Emmanuel intenta infiltrarse en una secta liderada por The Bokushi, que recluta veteranos de guerra con trastorno por estrés postraumático para crear un ejército de Shinjas devotos que empiezan a preocupar al gobierno. Sin éxito, recluta a un exdiscípulo y exmilitar, que acepta usar su conocimiento sobre el enigmático líder mientras intenta vengarse de él por haberle quitado todo lo que tenía.",
-                "anio": "2025",
-                "genero": "Acción, Suspense",
-                "duracion": "87 min",
                 "type": "PELICULA"
             }
         ]

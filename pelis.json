@@ -8273,6 +8273,18 @@
                 "genero": "Romance, Comedia",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Wunderschöner",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435898.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/kmO8yiagxx5eDiHz4YQAuhY59qP.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2laIwMw0jIbxSFhbArclr9b1Pjx.jpg",
+                "iconpng": "",
+                "descripcion": "Cuando el político Philipp es grabado con una prostituta, su esposa Nadine queda devastada. Vicky enseña feminismo mientras añora a su pareja distante. Julie sufre abusos sexuales por parte de un compañero del equipo del programa. Sonja y Milan, tras una pelea, acuden a terapia.",
+                "anio": "2025",
+                "genero": "Comedia, Drama, Romance",
+                "duracion": "132 min",
+                "type": "PELICULA"
             }
         ]
     },

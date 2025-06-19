@@ -7992,6 +7992,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "87 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Una ballena",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435954.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9M6OTFwCSohr0rT7cRxlxTkQcq3.jpg",
+                "iconpng": "",
+                "descripcion": "Ingrid, una sicaria con una habilidad especial para infiltrarse y desaparecer sin dejar rastro que proviene de otro mundo, recibe el encargo de Melville para eliminar a un poderoso hombre de negocios que ha llegado a la ciudad y quiere hacerse con el control del puerto.",
+                "anio": "2025",
+                "genero": "Misterio",
+                "duracion": "108 min",
+                "type": "PELICULA"
             }
         ]
     },

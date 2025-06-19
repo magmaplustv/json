@@ -15495,6 +15495,65 @@
                     ],
                     "tmdb_id": 232766,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Traición y Redención",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Seok, una brillante y entusiasta neurocirujana, se reencuentra con Deokhee, el doctor que le arruinó la vida hace años. En su día, los dos tenían una relación muy especial, pero ahora solo se desprecian. Seok está furiosa de que haya vuelto a su vida y jura vengarse.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/rkmfW38Nx2ue2k188fxZKsxR8ev.png",
+                    "icono": "https://image.tmdb.org/t/p/original/nZR53Tr5jqYDMJYe5mV3jnbIIqi.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/7KDcstak3SdXhSpIrPcSSNTlOQS.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435948.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435949.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435950.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435951.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435952.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435953.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/0331CE3948054E6C99B38F8ECF84A9C2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/E5B0C814B2AA420CB1901A6058307727_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 245079,
+                    "total_seasons": 1
                 }
             ]
         },

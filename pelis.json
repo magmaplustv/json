@@ -10457,6 +10457,18 @@
                 "genero": "Romance, Drama, Comedia",
                 "duracion": "102 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La vida ante nosotros",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435896.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/nJEGDayycX8tMy4gBDwjtqahctw.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/h2NZ0rSRutbhwu6MgkGDcKVSWN2.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Drama, Historia, Bélica",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     },

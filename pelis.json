@@ -7189,6 +7189,18 @@
                 "genero": "Drama, Historia, Bélica",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Testamento de juventud",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435825.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/yt0J2mmby3E9Ffnouf6LjR2KiM4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jD0mmfqPRpvJUaPdpLl1vMj38CA.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/8JMZvU8oSJDGATHJvZotnanIflX.png",
+                "descripcion": "Una mujer británica recuerda su juventud durante la Primera Guerra Mundial en este relato autobiográfico de Vera Brittain, ambientado entre 1913 y 1925, ya adaptado para la televisión por la BBC en los años setenta. Justo tras el estallido de la I Guerra Mundial, la joven Vera duda entre sus estudios en Oxford o convertirse en enfermera para ayudar a los heridos en el frente.",
+                "anio": "2015",
+                "genero": "Historia, Drama, Bélica",
+                "duracion": "129 min",
+                "type": "PELICULA"
             }
         ]
     },

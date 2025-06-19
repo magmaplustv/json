@@ -11744,6 +11744,45 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Adolescencia",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Cuando acusan a un chico de 13 años del asesinato de una compañera de clase, su familia, su terapeuta y el inspector al mando se preguntan qué pasó realmente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/l6kinCq7xOtuOB2p5svv2XF4g4b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9SUiZcIuDa8SxwrDsjtm1JEgjR4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435939.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435940.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435941.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435942.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249042,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Mariliendre",
                     "genero": "Comedia, Drama",
                     "descripcion": "Meri Román era una reina de la noche gay de Madrid, pero de eso han pasado ya más de 10 años. Ahora, a sus 35, es una diva destronada que vive atormentada por su pasado y aburrida en su mediocre presente. Tras la muerte de su padre, Meri reconecta con su séquito de amigos gays, rememorando su pasado y los temazos musicales que marcaron aquella época, mientras intenta definir su caótica vida y su identidad.",
@@ -13748,45 +13787,6 @@
                         }
                     ],
                     "tmdb_id": 219246,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Adolescencia",
-                    "genero": "Drama, Crimen",
-                    "descripcion": "Cuando acusan a un chico de 13 años del asesinato de una compañera de clase, su familia, su terapeuta y el inspector al mando se preguntan qué pasó realmente.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/l6kinCq7xOtuOB2p5svv2XF4g4b.png",
-                    "icono": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9SUiZcIuDa8SxwrDsjtm1JEgjR4.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C02A4E33A78C42609DDD30343FCDDE53_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/424D2C6AB8884FD4B852FC73F5831FE9_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "https://vddgcoud02.gd34fdldh.xyz/vod/346804DD320049C2BE42A64F89313E4F_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/C8E0C5C38D00403696D89F17B05403D5_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 249042,
                     "total_seasons": 1
                 },
                 {

@@ -1518,6 +1518,12 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10440.ts",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png"
+            },
+            {
+                "name": "DAZN 1",
+                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10441.ts",
+                "type": "HLS",
+                "icono": "http://cpi4u.com:45862/images/a8629bfc56f0b0561ce0c5fc55b2cd6e.png"
             }
         ]
     },

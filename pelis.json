@@ -3,6 +3,18 @@
         "name": "⚡️Recomendados⚡️",
         "samples": [
             {
+                "name": "Lilo y Stitch",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435955.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png",
+                "descripcion": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+                "anio": "2025",
+                "genero": "Familia, Ciencia ficción, Comedia, Aventura",
+                "duracion": "108 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Una ballena",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435954.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg",
@@ -372,18 +384,6 @@
                 "anio": "2024",
                 "genero": "Acción, Ciencia ficción, Comedia",
                 "duracion": "101 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Lilo y Stitch",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435955.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png",
-                "descripcion": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
-                "anio": "2025",
-                "genero": "Familia, Ciencia ficción, Comedia, Aventura",
-                "duracion": "108 min",
                 "type": "PELICULA"
             }
         ]

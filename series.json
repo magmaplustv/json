@@ -9588,6 +9588,45 @@
                     ],
                     "tmdb_id": 246246,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Adolescencia",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Cuando acusan a un chico de 13 años del asesinato de una compañera de clase, su familia, su terapeuta y el inspector al mando se preguntan qué pasó realmente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/l6kinCq7xOtuOB2p5svv2XF4g4b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9SUiZcIuDa8SxwrDsjtm1JEgjR4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435939.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435940.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435941.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435942.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249042,
+                    "total_seasons": 1
                 }
             ]
         },

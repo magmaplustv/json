@@ -5096,6 +5096,60 @@
                     ],
                     "tmdb_id": 226362,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Sin piedad para nadie",
+                    "genero": "Action & Adventure, Drama",
+                    "descripcion": "Tras cortar lazos con su banda, un antiguo gánster vuelve para descubrir la verdad sobre la muerte de su hermano, pero su búsqueda lo llevará por un camino de venganza sin retorno.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/w6sZeVlcglesRF4jQEbicSqfGlp.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wN2oCVmMh8ey0vh0EfqcGA5X7UI.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435932.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435933.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435934.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435935.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435936.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435937.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435938.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 232766,
+                    "total_seasons": 1
                 }
             ]
         },

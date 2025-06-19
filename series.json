@@ -3100,6 +3100,60 @@
                     ],
                     "tmdb_id": 246992,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Las cuatro estaciones",
+                    "genero": "Comedia",
+                    "descripcion": "La amistad entre tres parejas casadas se pone a prueba cuando una de ellas se divorcia, lo que complica su tradición de hacer escapadas de fin de semana cada tres meses.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/p5V0jGN8wxl02ZeZrp9YZXy7BW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/66FijMY6ztvf4p0kwaQnjWqmgZn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/60zGoqvJzrflQEDiBKNxpZqVLNt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La casa del lago",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435943.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiesta en el jardín",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435944.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Resort ecológico",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435945.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El bar de la playa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435946.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Fin de semana en familia",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435947.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El partido de frisbi",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425311.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Viaje a la nieve",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425312.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 243316,
+                    "total_seasons": 2
                 }
             ]
         },

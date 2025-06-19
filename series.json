@@ -9688,6 +9688,60 @@
                     "total_seasons": 2
                 },
                 {
+                    "nombre": "Las cuatro estaciones",
+                    "genero": "Comedia",
+                    "descripcion": "La amistad entre tres parejas casadas se pone a prueba cuando una de ellas se divorcia, lo que complica su tradición de hacer escapadas de fin de semana cada tres meses.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/p5V0jGN8wxl02ZeZrp9YZXy7BW.png",
+                    "icono": "https://image.tmdb.org/t/p/original/66FijMY6ztvf4p0kwaQnjWqmgZn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/60zGoqvJzrflQEDiBKNxpZqVLNt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "La casa del lago",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435943.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiesta en el jardín",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435944.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Resort ecológico",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435945.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El bar de la playa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435946.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Fin de semana en familia",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435947.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "El partido de frisbi",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425311.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Viaje a la nieve",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/425312.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 243316,
+                    "total_seasons": 2
+                },
+                {
                     "nombre": "Nuestro seul por descubrir",
                     "genero": "Comedia, Drama",
                     "descripcion": "Hermanas gemelas, cuyas similitudes terminan en su apariencia, intercambian identidades en medio de luchas personales y se embarcan en un viaje para redescubrir el amor y la vida.",
@@ -11451,75 +11505,6 @@
                         }
                     ],
                     "tmdb_id": 288915,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Papá Soltero",
-                    "genero": "",
-                    "descripcion": "La serie \"Papá Soltero\" regresa con una nueva versión en ViX, una plataforma de streaming en español. Esta nueva producción, que se estrenó el 13 de junio de 2025, es una versión renovada de la icónica serie de los años 80 y 90, que marcó a toda una generación.  La serie, protagonizada por Mauricio Ochmann, sigue la historia de César, un padre viudo que debe asumir la responsabilidad de criar a sus tres hijos: Miguel, Alejandra y Cesarín.",
-                    "anio": "2025",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/a53oOQ0oXMsS2ugVYRYkY5vtTqT.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tuStN6UMOkkA0Od3a7uDD9XUxDh.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "La manada",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435477.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "El papadrino",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435478.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Cumpleaños explosivo",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435479.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "No va más",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435480.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Cita doble",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435481.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "El juicio",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435482.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Al que le pique que se rasque",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435483.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "La familia perfecta",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435484.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "El adiós de María",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435485.mp4"
-                                },
-                                {
-                                    "numero": 10,
-                                    "titulo": "Visita inesperada",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/435476.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 293786,
                     "total_seasons": 1
                 }
             ]

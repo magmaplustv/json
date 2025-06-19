@@ -3699,6 +3699,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Hombre con H",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435899.mp4",
+                "icono": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
+                "iconoHorizontal": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
+                "iconpng": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
+                "descripcion": "Luego de vivir una niñez de represión, Ney Matogrosso revoluciona los escenarios de Brasil a través de la música, la creatividad y el fuego interior.",
+                "anio": "2025",
+                "genero": "",
+                "duracion": "",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Fiasco total: La tragedia del festival Astroworld",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435874.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/u8E4aR8ghCnc1gWJTyHxXseHvpy.jpg",
@@ -4710,18 +4722,6 @@
                 "anio": "2024",
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Un hombre lobo entre nosotros",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435899.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/4RkdBAVn3hbNWiXWinvYtkqVXZB.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ae25gpphxDPEYGUxvAGmR07oQqC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/yERntBVS2oSMUnQoNkabubWehp5.png",
-                "descripcion": "Cuando un oleoducto propuesto crea hostilidades entre los residentes de una pequeña ciudad, un guardabosques recién llegado debe mantener la paz después de que una tormenta de nieve confina a la gente del pueblo en un antiguo albergue. Pero cuando una criatura misteriosa comienza a aterrorizar al grupo, sus peores tendencias y prejuicios salen a la superficie, y el guardabosques debe mantener con vida a los residentes, tanto entre ellos como con el monstruo que los atormenta.",
-                "anio": "2021",
-                "genero": "Terror, Comedia",
-                "duracion": "96 min",
                 "type": "PELICULA"
             }
         ]

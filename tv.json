@@ -71,7 +71,7 @@
                 "name": "EVENTOS HD 2",
                 "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://postimg.cc/RNzSBN42",
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0900ce66b82de0fd07aa8f12a48f29a2&key=e5556dba688fda637374ab5c87d7cda6",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

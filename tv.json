@@ -83,7 +83,7 @@
                 "name": "EVENTOS HD 3",
                 "url": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://postimg.cc/RNzSBN42",
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48d0e34c8797c5c2a742d2630a8fb975&key=fb5d12b9d8febe836e5670abd003ddca",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

@@ -2857,6 +2857,12 @@
                 "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/294689",
                 "type": "HLS",
                 "icono": ""
+            },
+            {
+                "name": "24/7 Cuentos de la cripta",
+                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/11902.ts",
+                "type": "HLS",
+                "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1989/6/w1280/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"
             }
         ]
     },

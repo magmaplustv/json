@@ -11869,6 +11869,30 @@
                     ],
                     "tmdb_id": 291583,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Solo para Mujeres",
+                    "genero": "",
+                    "descripcion": "¡Quítate la ropa! Y prepárate para conocer la historia detrás de los gritos, destellos y bailes de las celebridades más sexys de México.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/svl3BC1FqxZWVvfWtmafXstvkrp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/s6ONpE4iOjGwm92kiNeaZBDmlAE.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Solo para damas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436019.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291151,
+                    "total_seasons": 1
                 }
             ]
         },

@@ -11893,6 +11893,115 @@
                     ],
                     "tmdb_id": 291151,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Selena: La serie",
+                    "genero": "Drama",
+                    "descripcion": "La cantante mexicoestadounidense Selena se hace adulta y cumple sus sueños. Para ello, su familia y ella tomarán decisiones para mantenerse unidas y vivir de su música.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wP3I5H29f3Jee1YhDeV0WYrMRwu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/iLVmgQXgIVXaBBvKn4prPuSDVxM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/Wu8kh7oyvaIfkNyMJyJHCamh5L.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un sueño",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436039.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Dame un beso",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436040.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Y la ganadora es...",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436041.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Teloneros",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436042.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Dulce amor",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436043.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "My Love",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436044.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Fideo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436045.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Fiebre del oro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436046.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Qué creías",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436047.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Como la flor",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436048.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Entre a mi mundo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436049.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "La llamada",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436050.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Bidi bidi bom bom",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436051.mp4"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "¡Oh, no!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436052.mp4"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Lo más bello",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436053.mp4"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Si una vez",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436054.mp4"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Astrodome",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436055.mp4"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Mientras el mundo duerme",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436056.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 97180,
+                    "total_seasons": 1
                 }
             ]
         },

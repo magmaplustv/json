@@ -9681,6 +9681,60 @@
                     ],
                     "tmdb_id": 249042,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Malditos",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Ante una expulsión inminente, una matriarca gitana y sus hijos luchan por salvar su clan, mientras ocultan un oscuro secreto que podría destruirlos.",
+                    "anio": "2025",
+                    "iconPng": "https://media.themoviedb.org/t/p/w500/8Es9BNTFa6nCal8rbeIZf2J1pwH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5erzJrE8lpoK7YMDSpqCcUv5FJv.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1F3z3iHZ4yDL4gqenW6U2zo6XXG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436012.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436013.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436014.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436015.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436016.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436017.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436018.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249822,
+                    "total_seasons": 1
                 }
             ]
         },

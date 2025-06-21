@@ -7064,6 +7064,18 @@
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Las guerreras k-pop",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/436023.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/n7z6rHymrRdZL0ZDZS4aL1JUbLq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yTxmLp7Qp77BxO5SL84TRXURn4b.png",
+                "descripcion": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+                "anio": "2025",
+                "genero": "Animación, Fantasía, Acción, Música, Comedia",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

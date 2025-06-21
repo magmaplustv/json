@@ -3723,6 +3723,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Las guerreras k-pop",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/436023.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/n7z6rHymrRdZL0ZDZS4aL1JUbLq.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yTxmLp7Qp77BxO5SL84TRXURn4b.png",
+                "descripcion": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+                "anio": "2025",
+                "genero": "Animación, Fantasía, Acción, Música, Comedia",
+                "duracion": "95 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Hombre con H",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435899.mp4",
                 "icono": "https://elcomercio.pe/resizer/v2/S2X2RGVVKFFVXEGSUAIASB6F6U.jpg?auth=454a4e18b3dc660623ba38cc4e57b6f3960b2162a8f63ee8bf5efcd78013f221&width=465&height=680&quality=75&smart=true",
@@ -4746,18 +4758,6 @@
                 "anio": "2024",
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Las guerreras k-pop",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/436023.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/swQRKmW7RLhncPYHvM0RHz8b7bT.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/n7z6rHymrRdZL0ZDZS4aL1JUbLq.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/yTxmLp7Qp77BxO5SL84TRXURn4b.png",
-                "descripcion": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
-                "anio": "2025",
-                "genero": "Animación, Fantasía, Acción, Música, Comedia",
-                "duracion": "95 min",
                 "type": "PELICULA"
             }
         ]

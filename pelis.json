@@ -8405,6 +8405,18 @@
                 "genero": "Comedia, Drama, Romance",
                 "duracion": "132 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Semidulce 2",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/436024.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oBYcfcCIaREA9XEHcggMumZCALF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/idUuT7vqq9GvdCZCFilEMiziyJU.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/7IeES9Xf0MJLS0tU9BUsVVdwqWu.png",
+                "descripcion": "Jaci y JP, una pareja de órdago, se ven metidos en un terrible aprieto cuando una propuesta laboral para una marca de bebés los obliga a fingir que son los padres perfectos.",
+                "anio": "2025",
+                "genero": "Romance, Comedia",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     },

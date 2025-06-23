@@ -137,6 +137,12 @@
                 "url": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png"
+            },
+            {
+                "name": "AR | C5N HD",
+                "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/543363.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png"
             }
         ]
     },

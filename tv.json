@@ -2539,6 +2539,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Cine Premium",
+                "url": "https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=812f89cb0024d3699e832d72e4f0ebb6&key=851d7496cd1a7e03125b2b6d3b41c922",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -2649,6 +2649,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Sony Channel",
+                "url": "https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/jzDc2Vs/6065f6e153054c65152bddd6-sony.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=258b455eee76d6406f87dd02ddc735d9&key=dd8aad74c79fe839cc142d0ff6694473",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

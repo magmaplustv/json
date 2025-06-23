@@ -2693,6 +2693,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "TCM",
+                "url": "https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=18cfe27adad2e444dc0f50a3238a1740&key=a0e25f18be94d6eb1c9733111135c047",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

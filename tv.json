@@ -3025,7 +3025,19 @@
     },
     {
         "name": "🎥CINE PREMIUM 2 (Opc 2)",
-        "samples": []
+        "samples": [
+            {
+                "name": "Universal TV",
+                "url": "https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
     },
     {
         "name": "🎬CANALES DE NOVELAS",

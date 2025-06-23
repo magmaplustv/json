@@ -2726,6 +2726,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Warner",
+                "url": "https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0cd16f9eade5bddab41fd3d59f804bcb&key=885dc93b0692e2efe37449a4a56173ef",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

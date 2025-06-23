@@ -3587,6 +3587,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Canal Infantil",
+                "url": "https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ytimg.com/vi/_5lIJyObc0w/maxresdefault.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=39673983f4ba22f0f80c0934ce0424c8&key=cd9f3498cb63cc72d1317b14a67ab93c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

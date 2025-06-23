@@ -2462,6 +2462,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "A&E",
+                "url": "https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=736bef197ba5c73203add79c8e8d279a&key=7f037dc5835305f22a7206d79d4d5db2",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

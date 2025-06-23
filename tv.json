@@ -2605,6 +2605,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "FX",
+                "url": "https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/5LvDcdV/587595.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bbb8c81822a1628f4986c6379ca5406a&key=b661265baada5324eb826224a4f358bd",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

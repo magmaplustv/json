@@ -199,6 +199,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | TN, Not",
+                "url": "https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b4ebe3c68c4c95c7639096e76c233d0&key=0c48cd5e3298b762a099acdc05a5182a",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

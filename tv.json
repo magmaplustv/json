@@ -1253,6 +1253,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "PX Sports",
+                "url": "https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e070a7426b8cb1cab5f63996b7bd7669&key=1c140e0715b26c7232942ab87d232964",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

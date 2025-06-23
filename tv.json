@@ -3069,6 +3069,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Universal Crime",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ad1cfe8edbc35b5bab1a66a5ce298b3&key=25794ae1df1e9908d43a102481e7d311",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

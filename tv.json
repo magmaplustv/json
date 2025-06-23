@@ -2495,6 +2495,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Cinecanal",
+                "url": "https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/cvghCHq/cinecanal.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=acea34a4dadf7896a0280b08496d49d5&key=6eb61a3bf3411c64f89b594e57d487c6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

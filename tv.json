@@ -3212,6 +3212,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "SONY NOVELAS",
+                "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/538847.ts",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504"
             }
         ]
     },

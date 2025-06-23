@@ -3080,6 +3080,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Universal Reality",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfbcbe656b34884d8f8dcc57d2dc51f8&key=d3e2c03003b443ccedd30d6442fbdd40",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

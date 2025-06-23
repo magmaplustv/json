@@ -2618,6 +2618,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "HBO Xtreme",
+                "url": "https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/newlogosfake/images/a/ad/HBOXtremeLA2020.png/revision/latest/scale-to-width-down/284?cb=20200116151733",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=33d4823ed2cae55c19fa0a7c20fa4235&key=a64c4d55edb20046802e76332c8aa75e",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -3047,6 +3047,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Universal Cinema",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a65e77fb5f2838b2f97c778cc571ac2&key=bc1f28b1ec619ed7da22fc9a80d3a35d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

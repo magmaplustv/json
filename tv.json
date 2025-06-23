@@ -2638,6 +2638,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Paramount Network",
+                "url": "https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://yt3.googleusercontent.com/DOBPQOBJxtHFJmxkmuLX-fvGX_XLfDmXn6uongpVzM4bEphxrva-DxTQvIviIEEf0fSBJ0hI=s900-c-k-c0x00ffffff-no-rj",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89a868599af0fa0368a547da1611201e&key=d7be949b296decca8d6a2d535c057dc6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

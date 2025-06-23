@@ -2572,6 +2572,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "DHE",
+                "url": "https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/00/DHE2017.png/revision/latest?cb=20210514013222&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5453180074c0a8ecfe2a21e0cd5f2c1b&key=1150fd93492ba8609fb94d0a3087b3a5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

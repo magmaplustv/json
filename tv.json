@@ -2682,6 +2682,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Studio Universal",
+                "url": "https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a07b220f8f142a0ef8662ffa0adee4f&key=e88846d040cd157b28ffda1d44a5cf89",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

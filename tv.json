@@ -3152,6 +3152,13 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "RCN Novelas",
+                "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "http://162.55.86.38/Kanrisha/resize?maxw=512&maxh=512&url=https%3A%2F%2Fyt3.googleusercontent.com%2Fjv9iG5lX6If2oKYfmNmMrtDRGTxPwLULMNqLHe6WNcuzIzw1ta11kz-vG992OHsmyVO5bVH9R0A%3Ds900-c-k-c0x00ffffff-no-rj",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
             }
         ]
     },

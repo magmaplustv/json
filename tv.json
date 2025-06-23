@@ -172,6 +172,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | C5N, Not",
+                "url": "https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

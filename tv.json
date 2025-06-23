@@ -127,12 +127,6 @@
                 "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png"
             },
             {
-                "name": "AR | TELEFE HD",
-                "url": "https://pro.pccaptv.xyz:2087/flamatv2.0/vkFdZG4BcqQp/74292",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png"
-            },
-            {
                 "name": "AR | TV PUBLICA",
                 "url": "http://wstv.lat:8080/live/Onlinetv/DgTHuWS7JK/3992.m3u8",
                 "type": "HLS",

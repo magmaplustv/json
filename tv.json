@@ -3474,6 +3474,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Discovery",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/271/CH_LOGO/350/500/0/0/48950714073066.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=74ec986b3388c62f5fa7c551e225d0b8&key=9327821de5eace5508cf573778c8c3c3",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

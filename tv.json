@@ -2552,7 +2552,19 @@
     },
     {
         "name": "🎥CINE PREMIUM 1 (Opc 2)",
-        "samples": []
+        "samples": [
+            {
+                "name": "HBO",
+                "url": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dead023f7a81634339ae639990c1517a&key=ba970222b4466c61d0deccc67ab34452",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
     },
     {
         "name": "🎥CINE PREMIUM 2",

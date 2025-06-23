@@ -3529,6 +3529,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Discovery TLC",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bed07c7fbbc6a3024baa8a44c052dd59&key=a632dead698156b3f2083076aa192b57",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

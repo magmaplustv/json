@@ -3653,6 +3653,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Nickelodeon",
+                "url": "https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d4632100135488925c1d7e9895a26b99&key=1da478f687b850c61c9af61985d97c17",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

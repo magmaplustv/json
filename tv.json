@@ -2583,6 +2583,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Eurochannel",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_Eurochannel.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bf1324eab263b72f5d8373a9678e6774&key=1375cd3390772b03b5136dce1641ba84",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

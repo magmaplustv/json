@@ -2506,6 +2506,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Cine Familiar",
+                "url": "https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.vimeocdn.com/video/1805384875-cf73b73bd6792b04d49146e0901764d40baee49d8be688930d94fedc58ef5445-d",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7686e3ee3e606e6694e6e39fcbc9a8b7&key=cd0fa59bb71a398843499febb859c341",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

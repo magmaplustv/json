@@ -2550,6 +2550,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Comedy Central",
+                "url": "https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eed9a193b3c6167b823030d788d771a4&key=d21daeba7e513d9f3ba714deeddd0630",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

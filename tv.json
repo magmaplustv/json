@@ -2552,6 +2552,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logowik.com/content/uploads/images/hbo-2-hd-nl3042.logowik.com.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f962b76c3693dafee011746344b5e823&key=1ac863f1633dfc2d3db069f3dd9a8145",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

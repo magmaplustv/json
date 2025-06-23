@@ -3686,6 +3686,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "PLIM PLIM TV",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a47bfb9e246f3b8405c1225fae73da9e&key=a4865fb8742b4541f64ac37370e902a6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -1209,6 +1209,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | TyC Sports",
+                "url": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d0cf6c1d49c16f5180f86e1870b00f&key=7eb6743b5f44b52ba27c88229c8c7ae2",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

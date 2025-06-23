@@ -1242,6 +1242,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "América Sports",
+                "url": "https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://cdn.storage.foromedios.com/monthly_2022_12/large.1669804474731.png.1462f23009d69b65350394e37c178da2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f9a70c294ea75346b991a61c55ff1d8f&key=7012eb6cd752998ee5cfbe68517491f5",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

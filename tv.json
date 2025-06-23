@@ -126,12 +126,6 @@
                 }
             },
             {
-                "name": "AR | Cronica",
-                "url": "http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/3541.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png"
-            },
-            {
                 "name": "AR | A24, Not",
                 "url": "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
                 "type": "CLEARKEY",

@@ -2528,6 +2528,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Cinemax",
+                "url": "https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b3d89f0e099f750bab4f8c2ebc4c7ec&key=114313f734e7a8e84b0ca6d16bd652cb",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

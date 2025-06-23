@@ -2645,17 +2645,6 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
-            },
-            {
-                "name": "Kanal D Drama",
-                "url": "https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/165/165/0/0/91513859074694.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9cab32316b3d8aae0452755cebdaadd&key=35e61869849168043a44045f2d7ff842",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
             }
         ]
     },

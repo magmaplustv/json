@@ -157,12 +157,6 @@
                 "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png"
             },
             {
-                "name": "AR | TN",
-                "url": "http://wstv.lat:8080/live/Onlinetv/DgTHuWS7JK/4299.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/dsvcQTLn/todo-noticias-logo-png-seeklogo-462511.png"
-            },
-            {
                 "name": "AR | A24, Not",
                 "url": "https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
                 "type": "CLEARKEY",

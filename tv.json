@@ -3179,6 +3179,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "TNT Novelas",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8a026fc3d443454cf1aae486b688ca9a&key=7665c2f6e791d44f047e5ffa927382aa",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

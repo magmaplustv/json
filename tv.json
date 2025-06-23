@@ -236,8 +236,13 @@
             {
                 "name": "AR | Telefé Satelital",
                 "url": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png"
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

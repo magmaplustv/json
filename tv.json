@@ -3620,6 +3620,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Discovery Kids",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://lokos.pages.dev/webp/logos/diskids.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d8b3220ac30e5c8148d4bcc225efa5a&key=eb6918dfe117fc405396a9c3986a0450",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -2616,6 +2616,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Golden",
+                "url": "https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ecbd132de727224c161abd8065b0dfb&key=75faf1eca3cef7208e19de379d0a529d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

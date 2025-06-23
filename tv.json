@@ -3576,7 +3576,19 @@
     },
     {
         "name": "👦CANALES INFANTILES (Opc 2)",
-        "samples": []
+        "samples": [
+            {
+                "name": "Baby TV",
+                "url": "https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://m.media-amazon.com/images/M/MV5BZDdkNzRjYzEtYzkxMy00NTA1LTg3ZmItN2FiNzYzNDdiNmQ5XkEyXkFqcGc@._V1_.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5cf6da7262ddb74c2f370ded6056f46c&key=78109125565ab1747f511f7e77e3bbaf",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
     },
     {
         "name": "🎬CANALES CINES VIP",

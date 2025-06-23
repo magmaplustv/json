@@ -3036,6 +3036,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Universal Premiere",
+                "url": "https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4ca479ba8963f132c701eefaa0fb2b5a&key=bed235194da5e18108c12ef81b324a80",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

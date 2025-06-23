@@ -3631,6 +3631,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Disney Channel",
+                "url": "https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://lokos.pages.dev/webp/logos/disney.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=70d91b14935a3599f02e5dab71ef21dc&key=803e9152e9daf717b772399a97802076",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

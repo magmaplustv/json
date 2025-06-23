@@ -183,6 +183,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | Canal 26, Not",
+                "url": "https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b35aecc554b859a97cf11b892731af1f&key=3a5da1a7c6a5cc6e488bdbbbf09132ff",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

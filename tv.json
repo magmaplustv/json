@@ -3831,6 +3831,13 @@
     },
     {
         "name": "Canales de IPTV",
-        "samples": []
+        "samples": [
+            {
+                "name": "AR | El Trece HD",
+                "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/539184.ts",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     }
 ]

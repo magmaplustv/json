@@ -115,7 +115,7 @@
         "name": "Canales de Argentina (IPTV)",
         "samples": [
             {
-                "name": "AR | America TV HD",
+                "name": "AR | America TV",
                 "url": "https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",

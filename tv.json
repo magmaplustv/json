@@ -1565,7 +1565,19 @@
     },
     {
         "name": "⚽DEPORTES FOX SPORTS (Opc 2)⚽",
-        "samples": []
+        "samples": [
+            {
+                "name": "AR | FOX Sports",
+                "url": "https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1a61b644fdc68568b5be3e2629041564&key=a1672cdfb5de64707151128f811da667",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
     },
     {
         "name": "⚽ DEPORTES TYC Y TNT SPORTS⚽",

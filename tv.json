@@ -125,6 +125,12 @@
                 "url": "http://tvvip.us:8880/live/FL4m4L4T$TV*Sv/eZWd*69I88$PWq*X25a$XVc0gW$/299545.ts",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png"
+            },
+            {
+                "name": "AR | TELEFE HD",
+                "url": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png"
             }
         ]
     },

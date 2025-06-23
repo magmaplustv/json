@@ -3157,7 +3157,19 @@
     },
     {
         "name": "🎬CANALES DE NOVELAS (Opc 2)",
-        "samples": []
+        "samples": [
+            {
+                "name": "Canal De Las Estrellas",
+                "url": "https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d17e47a4a6feed691363e2e57c2e322&key=5e4906262b25b3f461eb9c63ea04b500",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
     },
     {
         "name": "🐢CULTURA",

@@ -1576,6 +1576,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | FOX Sports 2",
+                "url": "https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ec1c5620f5c1553d3238988714e71b2&key=b8917b12e851dfc7bb8a3b832348b3be",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

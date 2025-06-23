@@ -2473,6 +2473,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AMC",
+                "url": "https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68fc78cb6fe580c35d269da87a471eb0&key=2bd623220a247d95d6900cea612769df",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

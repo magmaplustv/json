@@ -234,6 +234,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | Bravo TV",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://www.grupocronica.com.ar/resources/img/tv/cronica_Bravo_TV.jpg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1d7d1609477d0b0d51a5b7d1539e65eb&key=90b61b3fa577eab7b53ef6f1caeb82bf",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

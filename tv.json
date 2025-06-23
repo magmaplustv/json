@@ -3507,6 +3507,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Discovery Science",
+                "url": "https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fcef63599e86bd9bd69644234020cd6&key=a82db4ee21e762bf6c734e71088511c0",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

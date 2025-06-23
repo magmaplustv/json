@@ -2632,7 +2632,7 @@
                 "name": "Golden Edge",
                 "url": "https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/66/GoldenEdge2019.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=202c8579c94df506c1a1c54ef49a0c60&key=871f84901f3580cfa7273293482a66c5",
                 "headers": {
                     "Referer": "https://player.sensa.com.ar/",

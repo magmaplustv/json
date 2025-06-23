@@ -2704,6 +2704,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "TNT",
+                "url": "https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=902f1f857c30081b249ae358e12f9b82&key=fff8cb0d93b57845c1ccba458f51970d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

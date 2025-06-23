@@ -115,12 +115,6 @@
         "name": "Canales de Argentina (IPTV)",
         "samples": [
             {
-                "name": "AR | El Trece HD",
-                "url": "https://593zona.live:8443/live/Flamatv2.0/q4F479ZGZ5/539184.ts",
-                "type": "HLS",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png"
-            },
-            {
                 "name": "AR | America TV HD",
                 "url": "http://tvvip.us:8880/live/FL4m4L4T$TV*Sv/eZWd*69I88$PWq*X25a$XVc0gW$/299545.ts",
                 "type": "HLS",

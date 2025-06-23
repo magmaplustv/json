@@ -3496,6 +3496,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Discovery ID",
+                "url": "https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f413ca6b4955bab7d89a3d24bbf8c98b&key=58168613434035ceb98e18815f97436c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -3458,6 +3458,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Animal Planet",
+                "url": "https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbea5682978c5593d7f9f32ba3fbd000&key=992754095f050d53163c059ff4e81571",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

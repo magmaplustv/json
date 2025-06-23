@@ -143,6 +143,12 @@
                 "url": "https://593zona.live:8443/Flamatv2.0/q4F479ZGZ5/543363.ts",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/p6GQ3L3m/68747470733a2f2f692e696d6775722e636f6d2f453370616d41352e706e67.png"
+            },
+            {
+                "name": "AR | A24 HD",
+                "url": "http://venuschiletv.lat:8880/Todoen1824/Fbs72@9237Na2/384335",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/WWfTn7M9/LnXQkIU.png"
             }
         ]
     },

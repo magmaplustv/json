@@ -2596,6 +2596,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "HBO Pop",
+                "url": "https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5cf1ad9c7bc0a20051535aff63a5c04&key=019ea0de590a01385f50ae3fe090d19e",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

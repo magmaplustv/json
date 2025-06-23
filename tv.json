@@ -232,6 +232,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | Telefé Satelital",
+                "url": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png"
             }
         ]
     },

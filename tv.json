@@ -267,6 +267,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | Cine.AR",
+                "url": "https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b1d643b42908bda2927137cf3747e1a&key=9ccd9052a9a28c05096996e82c080eb3",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

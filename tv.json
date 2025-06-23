@@ -295,6 +295,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | Garage TV",
+                "url": "https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad1be5752980085910010adb9d72532d&key=8acfaacb600b382bfe18962964355ce6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

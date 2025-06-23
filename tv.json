@@ -1181,6 +1181,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "AR | DeporTV",
+                "url": "https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://git.io/JOTOg",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1904c4d846a99e940903174bdbab74f0&key=08a4ca972cd037a1fe042515c310bfe1",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -3642,6 +3642,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Disney Junior",
+                "url": "https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=18654944953b25a8b6392722a83db653&key=40bf6a9f05bbf0e06715ed5707f0edd2",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

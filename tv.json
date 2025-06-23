@@ -2660,6 +2660,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Space",
+                "url": "https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/cYXCsHG/Captura-de-pantalla-2017-03-23-a-las-12-53-24.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd7516e74eafbf6f9664a9465149f179&key=6aa2935d17fd4e1e8963ecbef4edb82b",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -3752,6 +3752,18 @@
                 "genero": "Acción, Suspense",
                 "duracion": "116 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sentimientos equivocados",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437172.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bg2VKQ0OirUl1M99khSyuSevHRL.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2SS7mY9IJ0npODTq6oqA3kMPfh1.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/o0LjnmKl4vQUEMEIG9k6RugurwX.png",
+                "descripcion": "Una profesora de secundaria enfrenta un gran problema cuando un alumno miente y dice que tuvo una aventura con ella, poniendo en riesgo su seguridad, su trabajo y la custodia de su hija.",
+                "anio": "2021",
+                "genero": "Suspense, Película de TV, Familia, Crimen",
+                "duracion": "85 min",
+                "type": "PELICULA"
             }
         ]
     },

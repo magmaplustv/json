@@ -11116,6 +11116,18 @@
                 "genero": "Documental",
                 "duracion": "100 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Higuita: El camino del Escorpión",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437121.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/hdSnhdqNE5bKa57qCwtCkWESjBA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/2ZepzCL5PT8f7q5arcudt9g4VAV.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/h723rHZU12qQmh5GSNUA0gJNBIg.png",
+                "descripcion": "De orígenes humildes a leyenda del fútbol, ​​este documental captura el ascenso del colombiano René Higuita, desde una carrera icónica hasta controversias personales.",
+                "anio": "2023",
+                "genero": "Documental",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -11128,6 +11128,18 @@
                 "genero": "Documental",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Queen Rock Montreal",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437119.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fmVYlLJjDg68cTV5LQN9FcwEkRQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6dYBTJwx68X7MTJHiBXHDXb21qY.jpg",
+                "iconpng": "",
+                "descripcion": "Se trata de una grabación recogida los días 24 y 25 de Noviembre de 1981 en el Forum de la ciudad canadiense ante un público de unas 18.000 personas cada noche. Son los únicos conciertos de Queen grabados en película (incluso la banda fue el primer grupo en grabar en 35mm).",
+                "anio": "1982",
+                "genero": "Música",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

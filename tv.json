@@ -1148,55 +1148,6 @@
         ]
     },
     {
-        "name": "⚽DEPORTES ESPN (Opc 2)⚽",
-        "samples": [
-            {
-                "name": "AR | ESPN",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d243ebd7a57bea4b4b052ae13f4c051&key=5c1925879de873d43b7c25925902539b",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "AR | ESPN 2",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "AR | ESPN 3",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836252059b793a79173838dc1186ff1&key=aa16f90e51ce5652dab93834e434caa8",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "AR | ESPN 4",
-                "url": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=034653d3413f23e87249d1fb7e68359a&key=a0d6b849f17c430e9cc02d07739a4e4a",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            }
-        ]
-    },
-    {
         "name": "⚽DEPORTES FOX SPORTS⚽",
         "samples": [
             {

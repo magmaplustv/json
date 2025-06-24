@@ -11560,6 +11560,65 @@
                     ],
                     "tmdb_id": 288915,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Mentiras, La Serie",
+                    "genero": "Comedia, Soap",
+                    "descripcion": "Tras enterarse que Emmanuel Mijares ha muerto, Daniela, Dulce, Yuri y Lupita son convocadas a una misteriosa mansión. Obligadas a interactuar, las enemistades entre ellas no tardarán en explotar y las mentiras que han escondido durante años saldrán a la luz. Pero, poco a poco, estás mujeres se empezarán a cuestionar, a verse a sí mismas, y a descubrir que comparten mucho más de lo que pensaban.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/56qJ7s23RTWdJZIm0Udh41tap1e.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jzfyq5YqzpGG83ZBcODK5BwvcGM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/romZHSReJrR0sHJ55PBWl1jb81s.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437178.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Chacales, castores y parásitos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437179.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Detrás de un gran hombre",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437180.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ecuaciones de Segundo Grado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437181.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Una Noche de Copas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437182.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una Noche Loca",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437183.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Confesiones",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437184.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Verdades",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437185.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290321,
+                    "total_seasons": 1
                 }
             ]
         },

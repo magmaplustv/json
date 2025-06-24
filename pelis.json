@@ -10817,6 +10817,18 @@
                 "genero": "",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi única familia",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437175.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/8TYbZxF49J7ysQrWcOnOec6bmyM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xE0ZIQ0uUwyVBugVCobrhU5hyme.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/mJuOFZfoKjj6OqGVa7LUBPddfDY.png",
+                "descripcion": "Pansy es una mujer tan llena de rabia que cada interacción que tiene se convierte en un ataque, ya sea contra su esposo e hijo completamente acobardados, o contra extraños al azar que tienen la temeridad de dirigirse a ella. En contraste, su hermana menor, Chantelle, vive con sus dos vivaces hijas y ejerce un exitoso oficio como peluquera, haciendo que los clientes se sientan cómodos durante todo el día. Sin embargo, bajo el exterior abrasivo de Pansy hay indicios de una psique más frágil, motivada por el miedo y dañada por el dolor reprimido.",
+                "anio": "2024",
+                "genero": "Drama, Comedia",
+                "duracion": "97 min",
+                "type": "PELICULA"
             }
         ]
     },

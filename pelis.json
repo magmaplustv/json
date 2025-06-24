@@ -10853,6 +10853,18 @@
                 "genero": "Drama, Comedia",
                 "duracion": "97 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Segundas oportunidades",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437176.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/ujsFVgMVXzrV5TkChEWAm5iLjk4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/pa4wy20Hr0JQcTKnMy3hDesL0Ap.jpg",
+                "iconpng": "",
+                "descripcion": "Eva siente que su tiempo se acaba, pero al forjar una amistad con un famoso actor, se da cuenta de que la vida está lejos de terminar; de hecho, podría estar comenzando de nuevo.",
+                "anio": "2025",
+                "genero": "Drama, Romance, Comedia",
+                "duracion": "114 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -3627,6 +3627,18 @@
                 "genero": "Drama, Comedia",
                 "duracion": "97 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Diego Maradona",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437117.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/9SRu5YKrA2qQoGBssEJQc3h04cd.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/baDD8h5aZfKygdkCuclqjYQlLup.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/blHebI4dv1AHphP8v5cZiTJaZbH.png",
+                "descripcion": "Construido a partir de más de 500 horas de imágenes nunca antes vistas, este documental se centra en la carrera del célebre jugador de fútbol Diego Maradona que jugó para el SSC Napoli en la década de 1980.",
+                "anio": "2019",
+                "genero": "Documental",
+                "duracion": "130 min",
+                "type": "PELICULA"
             }
         ]
     },

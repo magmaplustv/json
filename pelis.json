@@ -1218,6 +1218,18 @@
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Ecos y otros relatos asombrosos",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437177.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/4ApkaxocGRhYry7IWyuHJrPXhHC.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7rgQRem4WVo2KYWn6xBTetrWhhv.jpg",
+                "iconpng": "",
+                "descripcion": "Un fantasma atormentado o personas que luchan por sobrevivir en un mundo apocalíptico protagonizan esta antología de relatos de terror y ciencia ficción.",
+                "anio": "2025",
+                "genero": "Drama, Terror, Comedia, Ciencia ficción",
+                "duracion": "54 min",
+                "type": "PELICULA"
             }
         ]
     },

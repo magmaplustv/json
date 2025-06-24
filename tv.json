@@ -1923,7 +1923,7 @@
             },
             {
                 "name": "AXN",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd",
+                "url": "https://edge-vod01-bua.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwODgxNTY2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiN2ZlMWIwMTc1NmQ5MTU1YSIsInNlc3Npb25faWQiOiI4MDAxNzAwNy0xNzUwNzA4NzY2LTc3MyIsImNsaWVudF9pZCI6IjExMTIyMDExIiwiZGV2aWNlX2lkIjoiODAwMTcwMDciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMzMiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.ObhxDvIg209jg7PkDOiNeIRoH_rUMbSf8cu725nWEU16-9xP2bGdpPpmKQ08I7m8ngfhRifad5YYIQSykqGpMQ==/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/at6y20q6gjy47ufxbewtx/axn.json?rlkey=nimgylj6o4j7m0w0uyu0kb1lk&st=fqyxzvwe&dl=0",
                 "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg",

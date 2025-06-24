@@ -1689,6 +1689,12 @@
                 "headers": {
                     "User-Agent": "VLC/3.0.0 LibVLC/3.0.0"
                 }
+            },
+            {
+                "name": "Directv Sports (Opc2)",
+                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10506.ts",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
             }
         ]
     },

@@ -1803,7 +1803,7 @@
             },
             {
                 "name": "STUDIO UNIVERSAL",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
+                "url": "https://edge-vod01-bua.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwODgxNTY2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiN2ZlMWIwMTc1NmQ5MTU1YSIsInNlc3Npb25faWQiOiI4MDAxNzAwNy0xNzUwNzA4NzY2LTc3MyIsImNsaWVudF9pZCI6IjExMTIyMDExIiwiZGV2aWNlX2lkIjoiODAwMTcwMDciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMzMiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.ObhxDvIg209jg7PkDOiNeIRoH_rUMbSf8cu725nWEU16-9xP2bGdpPpmKQ08I7m8ngfhRifad5YYIQSykqGpMQ==/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/vaags2sms02ehi6veyijo/studio.json?rlkey=q33llpgieu83rrph1uh0hoqzr&st=l704gomk&dl=0",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",

@@ -11164,6 +11164,18 @@
                 "genero": "Documental",
                 "duracion": "130 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Maluma: Lo Que Era, Lo Que Soy, Lo Que Seré",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437082.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/twyytizzrcidwshjTTAT3Zm2qFM.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qGSEZK4OkRpFB1HQ7JJkNUlKmU2.jpg",
+                "iconpng": "",
+                "descripcion": "Una mirada al interior de la vida y obra de Maluma desde sus humildes orígenes en Colombia hasta la venta de estadios en todo el mundo. Con entrevistas a familiares, amigos y al propio Maluma.",
+                "anio": "2019",
+                "genero": "Documental, Música",
+                "duracion": "84 min",
+                "type": "PELICULA"
             }
         ]
     },

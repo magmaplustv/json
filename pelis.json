@@ -1206,6 +1206,18 @@
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La pantera rosa",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437171.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eVHH8peqVMN9VcEZvn9yTG6SDed.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hdT1giDaCTxQdeZ57yoSwzow2iw.png",
+                "descripcion": "La seductora Princesa Dala (Claudia Cardinale) llega con su preciosa “pantera rosa\", una magnífica joya en forma de felino, a un lujoso hotel, en el que conoce al elegante y amable Sir Charles (David Niven), bajo cuya inofensiva apariencia se oculta, sin embargo, un despiadado ladrón profesional conocido como “el fantasma”. De impedir que el astuto delincuente se salga con la suya, se encarga el inspector más torpe de la policía francesa, nada más y nada menos que el famoso Jacques Clouseau (Peter Sellers).",
+                "anio": "1963",
+                "genero": "Comedia, Crimen",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1959,7 +1959,7 @@
             },
             {
                 "name": "AMC",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd",
+                "url": "https://edge-vod01-bua.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwODgxNTY2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiN2ZlMWIwMTc1NmQ5MTU1YSIsInNlc3Npb25faWQiOiI4MDAxNzAwNy0xNzUwNzA4NzY2LTc3MyIsImNsaWVudF9pZCI6IjExMTIyMDExIiwiZGV2aWNlX2lkIjoiODAwMTcwMDciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMzMiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.ObhxDvIg209jg7PkDOiNeIRoH_rUMbSf8cu725nWEU16-9xP2bGdpPpmKQ08I7m8ngfhRifad5YYIQSykqGpMQ==/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0",
                 "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",

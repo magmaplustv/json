@@ -3771,6 +3771,18 @@
         "name": "⭐️Netflix⭐️",
         "samples": [
             {
+                "name": "Torre Grenfell: El incendio al descubierto",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437173.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/2kjTyXPJUqGs1iAwL1nIEyj0rew.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v6ebrYpYebaM3jPClvJR0IwtO9h.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5Y9pCZ1rPYCe8w7aIDPWvxS1Pl9.png",
+                "descripcion": "Supervivientes, testigos y expertos cuentan la historia del trágico incendio que envolvió un bloque de viviendas en Londres, y la investigación que siguió.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Semidulce 2",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/436024.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/oBYcfcCIaREA9XEHcggMumZCALF.jpg",
@@ -4818,18 +4830,6 @@
                 "anio": "2024",
                 "genero": "Suspense, Misterio, Drama",
                 "duracion": "93 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Grenfell: Uncovered",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437173.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/2kjTyXPJUqGs1iAwL1nIEyj0rew.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/v6ebrYpYebaM3jPClvJR0IwtO9h.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5Y9pCZ1rPYCe8w7aIDPWvxS1Pl9.png",
-                "descripcion": "Supervivientes, testigos y expertos cuentan la historia del trágico incendio que envolvió un bloque de viviendas en Londres, y la investigación que siguió.",
-                "anio": "2025",
-                "genero": "Documental",
-                "duracion": "100 min",
                 "type": "PELICULA"
             }
         ]

@@ -8525,6 +8525,18 @@
                 "genero": "Romance, Comedia",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Tu año perfecto",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437174.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/amZLGiZXP3gp9RkQjafGtAAqeR4.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/xTzOOyzNRW58KtqBUcjcc9pIhzQ.jpg",
+                "iconpng": "",
+                "descripcion": "Hannah, una alegre y enérgica maestra, desea salvar su relación con su novio Simon. Para ello crea una agenda llena de actividades para el próximo año con el fin de reavivar su relación, pero accidentalmente se deja la agenda olvidada en el banco de un parque. Jonathan, un solitario y adinerado heredero de una editorial, la encuentra y, con creciente curiosidad, se propone encontrar al autor. Milagrosamente, sus caminos se cruzan a partir de entonces, sin ser conscientes inicialmente de su conexión a través de la agenda.",
+                "anio": "2024",
+                "genero": "Película de TV, Comedia, Romance",
+                "duracion": "89 min",
+                "type": "PELICULA"
             }
         ]
     },

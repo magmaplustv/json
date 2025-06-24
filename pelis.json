@@ -8100,6 +8100,18 @@
                 "genero": "Misterio",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "El Secuestro De Mi Padre",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437169.mp4",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6lA4Ci1CYgxau8NsyyGTOfhfNK9AWmE6xg&s",
+                "iconoHorizontal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6lA4Ci1CYgxau8NsyyGTOfhfNK9AWmE6xg&s",
+                "iconpng": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6lA4Ci1CYgxau8NsyyGTOfhfNK9AWmE6xg&s",
+                "descripcion": "Melda, una mujer aparentemente común y corriente, ve su vida dar un giro inesperado cuando su padre, Don Rubén, un reconocido empresario, es secuestrado por una banda de delincuentes.",
+                "anio": "2025",
+                "genero": "",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

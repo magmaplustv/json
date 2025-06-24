@@ -392,6 +392,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "El Secuestro De Mi Padre",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437169.mp4",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6lA4Ci1CYgxau8NsyyGTOfhfNK9AWmE6xg&s",
+                "iconoHorizontal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6lA4Ci1CYgxau8NsyyGTOfhfNK9AWmE6xg&s",
+                "iconpng": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6lA4Ci1CYgxau8NsyyGTOfhfNK9AWmE6xg&s",
+                "descripcion": "Melda, una mujer aparentemente común y corriente, ve su vida dar un giro inesperado cuando su padre, Don Rubén, un reconocido empresario, es secuestrado por una banda de delincuentes.",
+                "anio": "2025",
+                "genero": "",
+                "duracion": "90 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Wunderschöner",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/435898.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/kmO8yiagxx5eDiHz4YQAuhY59qP.jpg",
@@ -1181,18 +1193,6 @@
                 "anio": "2025",
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Secuestro",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437169.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/uSZA4ciGCA9CqBFBaf2HtQ02C2H.jpg",
-                "iconoHorizontal": "",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "",
-                "duracion": "3 min",
                 "type": "PELICULA"
             }
         ]

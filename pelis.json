@@ -8148,6 +8148,18 @@
                 "genero": "",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Las Panteras",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437171.mp4",
+                "icono": "https://i.ytimg.com/vi/ZTB4YyjAlUU/sddefault.jpg?v=6841250b",
+                "iconoHorizontal": "https://i.ytimg.com/vi/ZTB4YyjAlUU/sddefault.jpg?v=6841250b",
+                "iconpng": "https://i.ytimg.com/vi/ZTB4YyjAlUU/sddefault.jpg?v=6841250b",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Comedia, Crimen, Suspense",
+                "duracion": "113 min",
+                "type": "PELICULA"
             }
         ]
     },

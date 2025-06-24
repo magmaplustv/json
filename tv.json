@@ -641,8 +641,8 @@
                 "icono": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-c003ec15-111102125227-cnnee-logo-story-top.jpg?c=16x9&q=h_833,w_1480,c_fill",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a",
                 "headers": {
-                    "Origin": "https://portal.app.flow.com.ar/",
-                    "Referer": "https://web.app.flow.com.py/",
+                    "Origin": "https://web.app.flow.com.py/",
+                    "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
             },

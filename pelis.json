@@ -1182,6 +1182,18 @@
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Secuestro",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437169.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uSZA4ciGCA9CqBFBaf2HtQ02C2H.jpg",
+                "iconoHorizontal": "",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "",
+                "duracion": "3 min",
+                "type": "PELICULA"
             }
         ]
     },

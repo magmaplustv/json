@@ -2370,7 +2370,7 @@
             },
             {
                 "name": "DISCOVERY CHANNEL",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
+                "url": "https://edge-vod01-bua.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwODgxNTY2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiN2ZlMWIwMTc1NmQ5MTU1YSIsInNlc3Npb25faWQiOiI4MDAxNzAwNy0xNzUwNzA4NzY2LTc3MyIsImNsaWVudF9pZCI6IjExMTIyMDExIiwiZGV2aWNlX2lkIjoiODAwMTcwMDciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMzMiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.ObhxDvIg209jg7PkDOiNeIRoH_rUMbSf8cu725nWEU16-9xP2bGdpPpmKQ08I7m8ngfhRifad5YYIQSykqGpMQ==/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
                 "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",

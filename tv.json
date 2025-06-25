@@ -3420,7 +3420,7 @@
             },
             {
                 "name": "CANAL PRO PY",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_C/Canal_PRO.mpd",
+                "url": "https://edge-mix03-mus.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwOTYzMjE2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVhNTJjN2VlYTg0YjgzYzQiLCJzZXNzaW9uX2lkIjoiODAwMTcwMDctMTc1MDc5MDQxNi0zODciLCJjbGllbnRfaWQiOiIxMTEyMjAxMSIsImRldmljZV9pZCI6IjgwMDE3MDA3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTM3Iiwic291cmNlcyI6Wzc1LDg1LDE0NCw4Niw4OF19.6GIU7jjEZS5_tCbWPxIyyBVKkHLfhl5f7YzBA-hew-morqwinBhzIqsNkc9QuXl2AahxIQeZbyNVJpIPbCdz3A==/live/c7eds/Canal_PRO/SA_Live_dash_enc_C/Canal_PRO.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/3ea2rcaxm4c73e1i4er7p/canalpro.json?rlkey=i4w63twvt8w66a1mx1fs4myr4&st=kie9io96&dl=0",
                 "icono": "https://i.ibb.co/bRvgPF2K/3fae4e-bf58b7726a1e4f4992cb3fe7a0bd7e50-mv2.png",

@@ -8462,6 +8462,60 @@
             "nombre": "⭐️⭐️Crimen⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Malditos",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "Ante una expulsión inminente, una matriarca gitana y sus hijos luchan por salvar su clan, mientras ocultan un oscuro secreto que podría destruirlos.",
+                    "anio": "2025",
+                    "iconPng": "https://media.themoviedb.org/t/p/w500/8Es9BNTFa6nCal8rbeIZf2J1pwH.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5erzJrE8lpoK7YMDSpqCcUv5FJv.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/1F3z3iHZ4yDL4gqenW6U2zo6XXG.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436012.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436013.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436014.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436015.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436016.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436017.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436018.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 249822,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Traición y Redención",
                     "genero": "Drama, Crimen",
                     "descripcion": "Seok, una brillante y entusiasta neurocirujana, se reencuentra con Deokhee, el doctor que le arruinó la vida hace años. En su día, los dos tenían una relación muy especial, pero ahora solo se desprecian. Seok está furiosa de que haya vuelto a su vida y jura vengarse.",
@@ -11506,6 +11560,65 @@
                     ],
                     "tmdb_id": 288915,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Mentiras, La Serie",
+                    "genero": "Comedia, Soap",
+                    "descripcion": "Tras enterarse que Emmanuel Mijares ha muerto, Daniela, Dulce, Yuri y Lupita son convocadas a una misteriosa mansión. Obligadas a interactuar, las enemistades entre ellas no tardarán en explotar y las mentiras que han escondido durante años saldrán a la luz. Pero, poco a poco, estás mujeres se empezarán a cuestionar, a verse a sí mismas, y a descubrir que comparten mucho más de lo que pensaban.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/56qJ7s23RTWdJZIm0Udh41tap1e.png",
+                    "icono": "https://image.tmdb.org/t/p/original/jzfyq5YqzpGG83ZBcODK5BwvcGM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/romZHSReJrR0sHJ55PBWl1jb81s.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Mentiras",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437178.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Chacales, castores y parásitos",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437179.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Detrás de un gran hombre",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437180.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ecuaciones de Segundo Grado",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437181.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Una Noche de Copas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437182.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Una Noche Loca",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437183.mkv"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Confesiones",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437184.mkv"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Verdades",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/437185.mkv"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 290321,
+                    "total_seasons": 1
                 }
             ]
         },
@@ -11814,6 +11927,139 @@
                         }
                     ],
                     "tmdb_id": 291583,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Solo para Mujeres",
+                    "genero": "",
+                    "descripcion": "¡Quítate la ropa! Y prepárate para conocer la historia detrás de los gritos, destellos y bailes de las celebridades más sexys de México.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/svl3BC1FqxZWVvfWtmafXstvkrp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/s6ONpE4iOjGwm92kiNeaZBDmlAE.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Solo para damas",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436019.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 291151,
+                    "total_seasons": 1
+                },
+                {
+                    "nombre": "Selena: La serie",
+                    "genero": "Drama",
+                    "descripcion": "La cantante mexicoestadounidense Selena se hace adulta y cumple sus sueños. Para ello, su familia y ella tomarán decisiones para mantenerse unidas y vivir de su música.",
+                    "anio": "2020",
+                    "iconPng": "https://image.tmdb.org/t/p/original/wP3I5H29f3Jee1YhDeV0WYrMRwu.png",
+                    "icono": "https://image.tmdb.org/t/p/original/iLVmgQXgIVXaBBvKn4prPuSDVxM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/Wu8kh7oyvaIfkNyMJyJHCamh5L.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Un sueño",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436039.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Dame un beso",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436040.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Y la ganadora es...",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436041.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Teloneros",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436042.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Dulce amor",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436043.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "My Love",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436044.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Fideo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436045.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Fiebre del oro",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436046.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Qué creías",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436047.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Como la flor",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436048.mp4"
+                                },
+                                {
+                                    "numero": 11,
+                                    "titulo": "Entre a mi mundo",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436049.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "La llamada",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436050.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Bidi bidi bom bom",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436051.mp4"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "¡Oh, no!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436052.mp4"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Lo más bello",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436053.mp4"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Si una vez",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436054.mp4"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Astrodome",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436055.mp4"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Mientras el mundo duerme",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436056.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 97180,
                     "total_seasons": 1
                 }
             ]
@@ -13710,57 +13956,92 @@
                                 {
                                     "numero": 1,
                                     "titulo": "Un sueño",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/9270AE07D15C4AC6B00F40A5DCFFABD6_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436039.mp4"
                                 },
                                 {
                                     "numero": 2,
                                     "titulo": "Dame un beso",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/5BDE87B82BC34928B3DF3DA938B296A4_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436040.mp4"
                                 },
                                 {
                                     "numero": 3,
                                     "titulo": "Y la ganadora es...",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/7639C833EF78420094C799AFBD267BA5_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436041.mp4"
                                 },
                                 {
                                     "numero": 4,
                                     "titulo": "Teloneros",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/CC4A4B4EDB174E738A4041F387DAEA7B_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436042.mp4"
                                 },
                                 {
                                     "numero": 5,
                                     "titulo": "Dulce amor",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8CC01792BB3A485497139F5EFF0ED319_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436043.mp4"
                                 },
                                 {
                                     "numero": 6,
                                     "titulo": "My Love",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/12B1DCF1B878465EB072842F6B531CE0_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436044.mp4"
                                 },
                                 {
                                     "numero": 7,
                                     "titulo": "Fideo",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/EBD22749BE27407C8ED70279B00BDA45_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436045.mp4"
                                 },
                                 {
                                     "numero": 8,
                                     "titulo": "Fiebre del oro",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/8083A0D18F51412382E0925FD6EF6234_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436046.mp4"
                                 },
                                 {
                                     "numero": 9,
                                     "titulo": "Qué creías",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/DB61932F0DAE4F7BB1C6076575A777B8_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436047.mp4"
                                 },
                                 {
                                     "numero": 10,
                                     "titulo": "Como la flor",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/91B143DA22334946B6948E278A303B45_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436048.mp4"
                                 },
                                 {
                                     "numero": 11,
                                     "titulo": "Entre a mi mundo",
-                                    "url": "http://vddgcoud02.gd34fdldh.xyz/vod/D394BD0A46F04A848E4E0239240F1BB6_media.mp4"
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436049.mp4"
+                                },
+                                {
+                                    "numero": 12,
+                                    "titulo": "La llamada",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436050.mp4"
+                                },
+                                {
+                                    "numero": 13,
+                                    "titulo": "Bidi bidi bom bom",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436051.mp4"
+                                },
+                                {
+                                    "numero": 14,
+                                    "titulo": "¡Oh, no!",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436052.mp4"
+                                },
+                                {
+                                    "numero": 15,
+                                    "titulo": "Lo más bello",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436053.mp4"
+                                },
+                                {
+                                    "numero": 16,
+                                    "titulo": "Si una vez",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436054.mp4"
+                                },
+                                {
+                                    "numero": 17,
+                                    "titulo": "Astrodome",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436055.mp4"
+                                },
+                                {
+                                    "numero": 18,
+                                    "titulo": "Mientras el mundo duerme",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/436056.mp4"
                                 }
                             ]
                         }

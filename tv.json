@@ -2670,7 +2670,10 @@
                 "name": "RUGRATS 24/7",
                 "url": "http://plpro.org/stream/secure/xxx/797.m3u8",
                 "type": "HLS",
-                "icono": ""
+                "icono": "",
+                "headers": {
+                    "User-Agent": "PLPro/8"
+                }
             }
         ]
     },

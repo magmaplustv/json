@@ -2665,7 +2665,14 @@
     },
     {
         "name": "👦 INFANTILES 24/7👦",
-        "samples": []
+        "samples": [
+            {
+                "name": "RUGRATS 24/7",
+                "url": "http://plpro.org/stream/secure/xxx/797.m3u8",
+                "type": "HLS",
+                "icono": ""
+            }
+        ]
     },
     {
         "name": "🎬CANALES CINES VIP",

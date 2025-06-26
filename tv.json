@@ -122,7 +122,7 @@
         "samples": [
             {
                 "name": "America TV",
-                "url": "https://edge-vod01-bua.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwODgxNTY2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiN2ZlMWIwMTc1NmQ5MTU1YSIsInNlc3Npb25faWQiOiI4MDAxNzAwNy0xNzUwNzA4NzY2LTc3MyIsImNsaWVudF9pZCI6IjExMTIyMDExIiwiZGV2aWNlX2lkIjoiODAwMTcwMDciLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMzMiLCJzb3VyY2VzIjpbNzUsODUsMTQ0LDg2LDg4XX0=.ObhxDvIg209jg7PkDOiNeIRoH_rUMbSf8cu725nWEU16-9xP2bGdpPpmKQ08I7m8ngfhRifad5YYIQSykqGpMQ==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+                "url": "https://edge-mix03-mus.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwOTYzMjE2Iiwic2lwIjoiMTgxLjk1LjI0NC4xNDUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvQ2FuYWw3L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVhNTJjN2VlYTg0YjgzYzQiLCJzZXNzaW9uX2lkIjoiODAwMTcwMDctMTc1MDc5MDQxNi0zODciLCJjbGllbnRfaWQiOiIxMTEyMjAxMSIsImRldmljZV9pZCI6IjgwMDE3MDA3IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTM3Iiwic291cmNlcyI6Wzc1LDg1LDE0NCw4Niw4OF19.6GIU7jjEZS5_tCbWPxIyyBVKkHLfhl5f7YzBA-hew-morqwinBhzIqsNkc9QuXl2AahxIQeZbyNVJpIPbCdz3A==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",

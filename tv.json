@@ -2715,6 +2715,16 @@
                     "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF",
                     "User-Agent": "PLPro/8"
                 }
+            },
+            {
+                "name": "24/7 - DRAGON BALL GT",
+                "url": "http://plpro.org/stream/secure/xxx/303.m3u8",
+                "type": "HLS",
+                "icono": "https://c3.klipartz.com/pngpicture/318/422/sticker-png-logo-dragon-ball-gt-anime-original-05-dragon-ball-gt.png",
+                "headers": {
+                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF",
+                    "User-Agent": "PLPro/8"
+                }
             }
         ]
     },

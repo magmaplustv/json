@@ -13684,6 +13684,42 @@
                                     "url": "http://vddgcoud02.gd34fdldh.xyz/vod/40396A76447D4EFBB5AA3987ECFD5B0A_media.mp4"
                                 }
                             ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505945.mkv"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505946.mkv"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505947.mkv"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505948.mkv"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505949.mkv"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://iptvpremium.ink:55577/series/contenido23f834/72cjDfjfUr7/505950.mkv"
+                                }
+                            ]
                         }
                     ],
                     "tmdb_id": 93405,

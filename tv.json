@@ -2887,6 +2887,16 @@
                 }
             },
             {
+                "name": "LA PEQUEÑA LULU 24/7",
+                "url": "http://plpro.org/stream/secure/xxx/598.m3u8",
+                "type": "HLS",
+                "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1995/11/w1280/qvMb4xMSg01H9HSWdZDSeBSCosU.jpg",
+                "headers": {
+                    "User-Agent": "PLPro/8",
+                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+                }
+            },
+            {
                 "name": "24/7 La liga de la justicia",
                 "url": "http://totalplay.site:80/SVCable8264819i4@/sWj7BX5f66/428532",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP1AukvG1VSUbkTANpVTo-1tj-Q88CVZFlg&s",
@@ -2977,16 +2987,6 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/11902.ts",
                 "type": "HLS",
                 "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1989/6/w1280/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"
-            },
-            {
-                "name": "LA PEQUEÑA LULU 24/7",
-                "url": "http://plpro.org/stream/secure/xxx/598.m3u8",
-                "type": "HLS",
-                "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1995/11/w1280/qvMb4xMSg01H9HSWdZDSeBSCosU.jpg",
-                "headers": {
-                    "User-Agent": "PLPro/8",
-                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
-                }
             }
         ]
     },

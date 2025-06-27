@@ -2890,6 +2890,16 @@
                 "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31068.ts",
                 "type": "HLS",
                 "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdudD1sZ-SQdG5aSJ8sRZ20l4_wgTDX8rnaKJywtBk-mnRUdF88jSltPf6-grkxytM80Vl0FiEoeoS01g9wovievCY44Wlzn19fOoSzPxfDYbzsas0aYLEm3jVFhh1wR5L.png"
+            },
+            {
+                "name": "TWO AND A HALF MEN",
+                "url": "http://plpro.org/stream/secure/xxx/973.m3u8",
+                "type": "HLS",
+                "icono": "https://m.media-amazon.com/images/M/MV5BMzI2ZDMyNGEtNmIwOS00NTI1LThlZDctYzYzYmE3NDNlNTJlXkEyXkFqcGc@._V1_.jpg",
+                "headers": {
+                    "User-Agent": "PLPro/8",
+                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF-3xL-Equ-yTv6adIfnhJBI-PYtqOdtPUaSKrdkJq-eMlY8ZfEo7FkPYwUOdH3-WKaNH5P5Utq0D07D7zU6eOl4kgX7XasyMFFjDO35w5jXyf3BQg4Owk8Hiuw72IzTg11aP_4tHUQ4ojEAEJjvFVLznzvgMPYqcQGy4brugwUf8WIHsXaI_W7XEBLJ6DeU3ZZD94ZsNNtHAg049b"
+                }
             }
         ]
     },

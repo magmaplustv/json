@@ -2997,6 +2997,16 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/11902.ts",
                 "type": "HLS",
                 "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1989/6/w1280/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"
+            },
+            {
+                "name": "24/7 DRAGON BALL",
+                "url": "http://plpro.org/stream/secure/xxx/301.m3u8",
+                "type": "HLS",
+                "icono": "https://m.media-amazon.com/images/S/pv-target-images/db3e5296e42861d8b2d7626a2a9ab9d3ce21848cc4ebe9f92cfd621837755c9d.jpg",
+                "headers": {
+                    "User-Agent": "PLPro/8",
+                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF"
+                }
             }
         ]
     },

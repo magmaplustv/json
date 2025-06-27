@@ -331,6 +331,16 @@
                 }
             },
             {
+                "name": "El Trece Internacional (opc 2)",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbG_zXk26OB9XaghuSQO1paiL3tlZhZdN7bw&s",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
                 "name": "Net TV",
                 "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMTM4Mzg5Iiwic2lwIjoiMTg2LjE4LjEwMy4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzMjcyNThmM2UwNWY3MjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDE4NCw4Niw4OF19.gSJazI-eia-80s5wbIHtHuM_FIFaRylHNvSQHvsJYHIBOw6dcFiDcpMFnoDS3XskW_mk5-pcy9PPBCdUyw1R1A==/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
                 "type": "CLEARKEY",
@@ -423,16 +433,6 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar/",
                     "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                }
-            },
-            {
-                "name": "El Trece Internacional (opc 2)",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbG_zXk26OB9XaghuSQO1paiL3tlZhZdN7bw&s",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add",
-                "headers": {
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
             },

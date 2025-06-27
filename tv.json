@@ -665,7 +665,18 @@
     },
     {
         "name": "🕵🏻‍♂️CANALES DE NOTICIAS Opc 2",
-        "samples": []
+        "samples": [
+            {
+                "name": "A24 (opc2)",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/0mL54db/a24logo-invert.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            }
+        ]
     },
     {
         "name": "🇦🇷INTERIOR DE ARGENTINA 📺",

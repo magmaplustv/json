@@ -3027,6 +3027,16 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/11902.ts",
                 "type": "HLS",
                 "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1989/6/w1280/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"
+            },
+            {
+                "name": "24/7 DRAGON BALL SUPER",
+                "url": "http://plpro.org/stream/secure/xxx/305.m3u8",
+                "type": "HLS",
+                "icono": "https://www.planetadelibros.com/usuaris/libros/fotos/410/original/portada_dragon-ball-super-n-22_akira-toriyama_202502051525.jpg",
+                "headers": {
+                    "User-Agent": "PLPro/8",
+                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF"
+                }
             }
         ]
     },

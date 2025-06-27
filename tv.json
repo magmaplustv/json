@@ -193,16 +193,6 @@
                 }
             },
             {
-                "name": "Canal 9 (opc 2)",
-                "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
-                "headers": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            },
-            {
                 "name": "Canal 26",
                 "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMTM4Mzg5Iiwic2lwIjoiMTg2LjE4LjEwMy4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzMjcyNThmM2UwNWY3MjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDE4NCw4Niw4OF19.gSJazI-eia-80s5wbIHtHuM_FIFaRylHNvSQHvsJYHIBOw6dcFiDcpMFnoDS3XskW_mk5-pcy9PPBCdUyw1R1A==/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
                 "type": "CLEARKEY",

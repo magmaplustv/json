@@ -632,7 +632,7 @@
                 }
             },
             {
-                "name": "Bravo TV",
+                "name": "Bravo TV (opc2)",
                 "url": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://www.grupocronica.com.ar/resources/img/tv/cronica_Bravo_TV.jpg",

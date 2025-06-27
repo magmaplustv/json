@@ -2880,6 +2880,16 @@
                 "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31068.ts",
                 "type": "HLS",
                 "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdudD1sZ-SQdG5aSJ8sRZ20l4_wgTDX8rnaKJywtBk-mnRUdF88jSltPf6-grkxytM80Vl0FiEoeoS01g9wovievCY44Wlzn19fOoSzPxfDYbzsas0aYLEm3jVFhh1wR5L.png"
+            },
+            {
+                "name": "YOGUI",
+                "url": "http://plpro.org/stream/secure/xxx/1051.m3u8",
+                "type": "HLS",
+                "icono": "https://i.pinimg.com/originals/03/69/e1/0369e10b77eb4178b179e45bf53c4b9c.jpg",
+                "headers": {
+                    "User-Agent": "PLPro/8",
+                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF"
+                }
             }
         ]
     },

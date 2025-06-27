@@ -612,7 +612,7 @@
                 }
             },
             {
-                "name": "America TV (opc 2)",
+                "name": "America TV (opc2)",
                 "url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",

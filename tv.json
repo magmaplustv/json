@@ -622,7 +622,7 @@
                 }
             },
             {
-                "name": "Argentinísima Satelital (opc 2)",
+                "name": "Argentinísima Satelital",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png",

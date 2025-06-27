@@ -508,9 +508,13 @@
             },
             {
                 "name": "Telefé Internacional (opc 2)",
-                "url": "",
-                "type": "HLS",
-                "icono": ""
+                "url": "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/Xk2ZFyC/telefe-internacional.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

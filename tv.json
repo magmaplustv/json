@@ -1190,6 +1190,16 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "EL DESTAPE (opc2)",
+                "url": "http://m.mtd.llc:2082/eldestape/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

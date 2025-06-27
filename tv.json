@@ -287,6 +287,16 @@
                 }
             },
             {
+                "name": "Ciudad Magazine (opc 2)",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
+                "headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
+            },
+            {
                 "name": "El Trece",
                 "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMTM4Mzg5Iiwic2lwIjoiMTg2LjE4LjEwMy4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzMjcyNThmM2UwNWY3MjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDE4NCw4Niw4OF19.gSJazI-eia-80s5wbIHtHuM_FIFaRylHNvSQHvsJYHIBOw6dcFiDcpMFnoDS3XskW_mk5-pcy9PPBCdUyw1R1A==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
                 "type": "CLEARKEY",
@@ -403,16 +413,6 @@
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar/",
                     "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                }
-            },
-            {
-                "name": "Ciudad Magazine (opc 2)",
-                "url": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
-                "headers": {
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
             },

@@ -2431,6 +2431,18 @@
                     "Referer": "https://portal.app.flow.com.ar/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
+            },
+            {
+                "name": "UNIVERSAL REALITY",
+                "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxMTM4Mzg5Iiwic2lwIjoiMTg2LjE4LjEwMy4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzMjcyNThmM2UwNWY3MjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDE4NCw4Niw4OF19.gSJazI-eia-80s5wbIHtHuM_FIFaRylHNvSQHvsJYHIBOw6dcFiDcpMFnoDS3XskW_mk5-pcy9PPBCdUyw1R1A==/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.ar",
+                    "Referer": "https://portal.app.flow.com.ar/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                }
             }
         ]
     },

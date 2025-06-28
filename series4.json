@@ -7249,6 +7249,40 @@
             "nombre": "⭐️⭐️Ciencia Ficción⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Ironheart",
+                    "genero": "Sci-Fi & Fantasy, Crimen",
+                    "descripcion": "La brillante inventora Riri Williams vuelve a Chicago, donde conoce a Parker Robins, el Encapuchado.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/6DHtWG4tmGoAmEExgXjmcn1qzY6.png",
+                    "icono": "https://image.tmdb.org/t/p/original/1z0nm8ZkPfxYuIdjZXxSIgl8SCz.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Llévame a casa",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443651.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "¿Puede ponerse en pie la auténtica Natalie?",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443652.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Corremos peligro, tía",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443653.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 114471,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Obtuve una habilidad para hacer trampa en otro mundo y también me volví incomparable en el mundo",
                     "genero": "Animación, Sci-Fi & Fantasy, Action & Adventure",
                     "descripcion": "Una puerta misteriosa está abierta, invitando a un niño que ha sido brutalmente acosado toda su vida a dar un valiente paso hacia lo desconocido. Por otro lado, encuentra un tesoro de artefactos invaluables y un mundo tan lleno de magia como de monstruos. Sin embargo, la revelación más impactante es que puede traer consigo lo que quiera cuando regrese a la Tierra. No pasará mucho tiempo antes de que esta doble vida lo cambie para siempre...",
@@ -8469,40 +8503,6 @@
                         }
                     ],
                     "tmdb_id": 99071,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Ironheart",
-                    "genero": "Sci-Fi & Fantasy, Crimen",
-                    "descripcion": "La brillante inventora Riri Williams vuelve a Chicago, donde conoce a Parker Robins, el Encapuchado.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/6DHtWG4tmGoAmEExgXjmcn1qzY6.png",
-                    "icono": "https://image.tmdb.org/t/p/original/1z0nm8ZkPfxYuIdjZXxSIgl8SCz.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Llévame a casa",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443651.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "¿Puede ponerse en pie la auténtica Natalie?",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443652.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Corremos peligro, tía",
-                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443653.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 114471,
                     "total_seasons": 1
                 }
             ]

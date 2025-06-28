@@ -2784,16 +2784,6 @@
         "name": "🎬CANALES CINES VIP",
         "samples": [
             {
-                "name": "THE WALKING DEAD",
-                "url": "http://plpro.org/stream/secure/xxx/901.m3u8",
-                "type": "HLS",
-                "icono": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                "headers": {
-                    "User-Agent": "PLPro/8",
-                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF"
-                }
-            },
-            {
                 "name": "DPelicula Plus",
                 "url": "https://arestv.vip:443/live/T3stN0v@25/2Khh9Ah35S/219.m3u8",
                 "type": "HLS",

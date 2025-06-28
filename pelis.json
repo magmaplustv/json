@@ -10201,6 +10201,18 @@
                 "genero": "Terror, Acción, Fantasía",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/xnQIxEBCiuhHf0oa97lKKvVNRu1.png"
+            },
+            {
+                "name": "Morgan: Killer Doll",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/443657.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kZfcanjFBVpyKskuMg7zJTMHzRF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jfSjAU29orZXCDgX8uNInR2GRhK.jpg",
+                "iconpng": "",
+                "descripcion": "Darcy ama a Astrid, pero ella no siente lo mismo. Esta historia de amor no va a terminar como ninguno de los dos imagina.",
+                "anio": "2025",
+                "genero": "Terror, Comedia",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     },

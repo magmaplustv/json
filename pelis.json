@@ -392,6 +392,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Morgan: Killer Doll",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/443657.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/kZfcanjFBVpyKskuMg7zJTMHzRF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jfSjAU29orZXCDgX8uNInR2GRhK.jpg",
+                "iconpng": "",
+                "descripcion": "Darcy ama a Astrid, pero ella no siente lo mismo. Esta historia de amor no va a terminar como ninguno de los dos imagina.",
+                "anio": "2025",
+                "genero": "Terror, Comedia",
+                "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Ecos y otros relatos asombrosos",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/437177.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/4ApkaxocGRhYry7IWyuHJrPXhHC.jpg",
@@ -1229,18 +1241,6 @@
                 "anio": "2025",
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Morgan: Killer Doll",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/443657.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/kZfcanjFBVpyKskuMg7zJTMHzRF.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jfSjAU29orZXCDgX8uNInR2GRhK.jpg",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Terror, Comedia",
-                "duracion": "93 min",
                 "type": "PELICULA"
             }
         ]

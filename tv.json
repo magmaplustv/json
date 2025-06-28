@@ -2368,6 +2368,12 @@
                 "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/317288.ts",
                 "type": "HLS",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHKK-g6oMoVwbw0pRHpPprflnvM6qzTigJw&s"
+            },
+            {
+                "name": "24/7 PORCEL Y OLMEDO",
+                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/185040.ts",
+                "type": "HLS",
+                "icono": "https://preview.redd.it/supuestos-gritos-en-un-programa-de-porcel-y-olmedo-v0-2ccianrge4fa1.jpg?width=640&crop=smart&auto=webp&s=834bc8060e91af90b1438d47c35509b63a7bfad8"
             }
         ]
     },

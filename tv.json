@@ -2380,6 +2380,12 @@
                 "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/185044.ts",
                 "type": "HLS",
                 "icono": "https://m.media-amazon.com/images/S/pv-target-images/fbc1e2e797d0876748c87ed9cabb00a86718b272c7a60dcba30e2303312e8b88.jpg"
+            },
+            {
+                "name": "24/7 MR BEAN",
+                "url": "http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/185025.ts",
+                "type": "HLS",
+                "icono": "https://i.ytimg.com/vi/4TaKLqMhtPk/maxresdefault.jpg"
             }
         ]
     },

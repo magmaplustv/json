@@ -2784,16 +2784,6 @@
         "name": "🎬CANALES CINES VIP",
         "samples": [
             {
-                "name": "YOGUI",
-                "url": "http://plpro.org/stream/secure/xxx/1051.m3u8",
-                "type": "HLS",
-                "icono": "https://i.pinimg.com/originals/03/69/e1/0369e10b77eb4178b179e45bf53c4b9c.jpg",
-                "headers": {
-                    "User-Agent": "PLPro/8",
-                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF"
-                }
-            },
-            {
                 "name": "TWO AND A HALF MEN",
                 "url": "http://plpro.org/stream/secure/xxx/973.m3u8",
                 "type": "HLS",

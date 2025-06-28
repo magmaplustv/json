@@ -2849,16 +2849,6 @@
         "name": "🎬 24/7 INFANTILES",
         "samples": [
             {
-                "name": "24/7 DRAGON BALL GT",
-                "url": "http://plpro.org/stream/secure/xxx/303.m3u8",
-                "type": "HLS",
-                "icono": "https://m.media-amazon.com/images/S/pv-target-images/0d032e975500c0b9553890b3973de28876c95b4cd56cd22b42df47df2736cc2a.jpg",
-                "headers": {
-                    "User-Agent": "PLPro/8",
-                    "X-Hash": "3Psgssli_FgiVDrErKLAJ5uY8VeyhU7rCUM7YkJRwclYmKezMomSL9WwyZlG1dB_LsnggemLHLVijh2qwKU5YyRmDZTq_Ml3Le_m0MujZ5qAXbYF"
-                }
-            },
-            {
                 "name": "24/7 DRAGON BALL SUPER",
                 "url": "http://plpro.org/stream/secure/xxx/305.m3u8",
                 "type": "HLS",

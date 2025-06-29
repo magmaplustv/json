@@ -2806,6 +2806,18 @@
                 "genero": "Documental, Música",
                 "duracion": "91 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mejores amigas",
+                "url": "http://uyjj.xmqkychtb.com/vod/D27F5F70536F4835AC3ADAE79AE52074_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/zh0J9bMEzW8RSiopn7FRxFnB2rq.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ngqJ2DqgXBygo1GoZP5IsBnXvy9.jpg",
+                "iconpng": "",
+                "descripcion": "Dos amigas de toda la vida, una juerguista y la otra más tranquila. Cuando una de ellas se compromete, surge la pregunta: ¿podrán seguir siendo tan unidas? Una comedia que explora la amistad y el miedo a crecer.",
+                "anio": "2024",
+                "genero": "Comedia",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -10285,6 +10285,18 @@
                 "genero": "Terror, Comedia",
                 "duracion": "93 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Belle",
+                "url": "http://uyjj.xmqkychtb.com/vod/37C3AC40DD8849068C24762C829C4C99_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/h5iXBcCNRXkN4Q5Fq3iGDrouSEG.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1bntYrhWGNEueJeQi5qqfu9O69N.jpg",
+                "iconpng": "",
+                "descripcion": "",
+                "anio": "2023",
+                "genero": "Terror, Fantasía, Romance",
+                "duracion": "92 min",
+                "type": "PELICULA"
             }
         ]
     },

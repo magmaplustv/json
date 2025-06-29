@@ -1266,6 +1266,18 @@
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Encerrado",
+                "url": "http://uyjj.xmqkychtb.com/vod/D03D7C402D6B4EBD9EF965112221D8EE_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/wlo2rGpjjHh3X8XImBdeUayKJ6g.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/gHIDQuweOpuqDidWUTCkxV1A2Du.png",
+                "descripcion": "Un ladrón irrumpe en un todoterreno de lujo y se da cuenta de que ha tropezado con una trampa compleja y mortal tendida por una misteriosa figura.",
+                "anio": "2025",
+                "genero": "Suspense, Terror",
+                "duracion": "95 min",
+                "type": "PELICULA"
             }
         ]
     },

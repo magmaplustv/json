@@ -914,7 +914,7 @@
                 "name": "LatinaTv",
                 "url": "https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8",
                 "type": "HLS",
-                "icono": ""
+                "icono": "https://videostream.shockmedia.com.ar:2000/system/theme/Material/images/vlc.gif"
             }
         ]
     },

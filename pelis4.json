@@ -11392,6 +11392,18 @@
                 "genero": "Documental, Música",
                 "duracion": "84 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Niñxs",
+                "url": "http://uyjj.xmqkychtb.com/vod/7DDFC11C252841D09DFF135D81B14713_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/3CMuNTwcGL2PXOREItE6OQo60UJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/taS81CrpPak95vgMHfmxkAAma5u.jpg",
+                "iconpng": "",
+                "descripcion": "Karla esta haciendo una pelicula sobre su historia con Kani, mientras se enfrentan a una sociedad binaria que quiere clasificar en un genero u otro.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "86 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -1278,6 +1278,18 @@
                 "genero": "Familia, Ciencia ficción, Comedia, Aventura",
                 "duracion": "108 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Los salvajes",
+                "url": "http://uyjj.xmqkychtb.com/vod/2989456811AD4437853012AFC5F0D321_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/inDlRPwUPbHkkQQa3KnlNSxTnhJ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fOcAU0Jzw4sx4aUTopRavJrLHeF.jpg",
+                "iconpng": "",
+                "descripcion": "En el siglo XIII, Batu Khan pasó dos meses intentando tomar la ciudad de Kozelsk. Perdió muchos hombres y máquinas de asedio en el proceso. Cuando por fin la tomó, mató a todos los habitantes, incluidos mujeres y niños, y ordenó que se olvidara el nombre de Kozelsk. La llamó Ciudad Feroz.",
+                "anio": "2025",
+                "genero": "Drama, Historia, Acción",
+                "duracion": "",
+                "type": "PELICULA"
             }
         ]
     },

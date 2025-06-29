@@ -1290,6 +1290,18 @@
                 "genero": "Drama, Historia, Acción",
                 "duracion": "",
                 "type": "PELICULA"
+            },
+            {
+                "name": "It Feeds",
+                "url": "http://uyjj.xmqkychtb.com/vod/D93CA4EB3F8E4BAAB2013C9AAA38812B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iinb9KTcTqVWVj8sgNIFssaUGae.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FQoxqPxMQjlqluCvBQMlfX5hy2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/585DGLWmWea4S41q1GnudE7Jwbb.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "102 min",
+                "type": "PELICULA"
             }
         ]
     },

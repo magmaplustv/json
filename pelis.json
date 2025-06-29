@@ -404,6 +404,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "It Feeds",
+                "url": "http://uyjj.xmqkychtb.com/vod/D93CA4EB3F8E4BAAB2013C9AAA38812B_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/iinb9KTcTqVWVj8sgNIFssaUGae.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FQoxqPxMQjlqluCvBQMlfX5hy2.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/585DGLWmWea4S41q1GnudE7Jwbb.png",
+                "descripcion": "Cuando una chica irrumpe en su consulta de psiquiatría afirmando que un ente se está alimentando de ella, Jordan y su clarividente madre deben encontrar la forma de detener a la fuerza antes de que se apodere de ella por completo.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "102 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Encerrado",
                 "url": "http://uyjj.xmqkychtb.com/vod/D03D7C402D6B4EBD9EF965112221D8EE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/wlo2rGpjjHh3X8XImBdeUayKJ6g.jpg",
@@ -1289,18 +1301,6 @@
                 "anio": "2025",
                 "genero": "Drama, Historia, Acción",
                 "duracion": "",
-                "type": "PELICULA"
-            },
-            {
-                "name": "It Feeds",
-                "url": "http://uyjj.xmqkychtb.com/vod/D93CA4EB3F8E4BAAB2013C9AAA38812B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iinb9KTcTqVWVj8sgNIFssaUGae.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4FQoxqPxMQjlqluCvBQMlfX5hy2.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/585DGLWmWea4S41q1GnudE7Jwbb.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Terror",
-                "duracion": "102 min",
                 "type": "PELICULA"
             }
         ]

@@ -3154,6 +3154,35 @@
                     ],
                     "tmdb_id": 243316,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Smoke",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Un investigador de incendios tiene que colaborar con una agente de policía y su carrera contrarreloj para atrapar a dos pirómanos desata un retorcido juego de secretos y sospechas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fmNSefk4GEJ8Pzk5vGg2xxF75zD.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ftbV3JuMSlM5Dk93TgYIMvbD9mY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/fGZb1DAINMvQIuwLZOUOUHcRBD4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C33AA2E0A866478EB37EA6CACCC017BD_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Vuestra alegría me entristece",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/E94F3AE7531047E3B60D9AB09B05AB6B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 215995,
+                    "total_seasons": 1
                 }
             ]
         },

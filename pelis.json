@@ -9495,6 +9495,18 @@
                 "genero": "Suspense, Película de TV, Familia, Crimen",
                 "duracion": "85 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Redada 2",
+                "url": "http://uyjj.xmqkychtb.com/vod/579073CD7540435ABCDD5C6CFE254F96_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/utt2SOmhcsv5TmgdZRhOFt0mgoY.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/yCMcExahhtFaiwyHcQU6JgGAh6e.png",
+                "descripcion": "En el Rajastán de 1989, el oficial Patnaik efectúa una redada sin éxito. Tras solicitar un soborno, le trasladan a Bhoj, donde investiga a Dada Bhai, figura respetada. Suspendido tras otra redada, descubre secretos.",
+                "anio": "2025",
+                "genero": "Crimen, Drama, Suspense",
+                "duracion": "139 min",
+                "type": "PELICULA"
             }
         ]
     },

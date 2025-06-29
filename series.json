@@ -17805,6 +17805,60 @@
                     ],
                     "tmdb_id": 284605,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Desaparecido",
+                    "genero": "Drama, Crimen, Misterio",
+                    "descripcion": "Tras pasar una noche en el monte con su grupo de amigos, Jon, un joven vasco, desaparece sin dejar rastro. La única pista es un inquietante vídeo que él mismo publica en redes sociales minutos antes de perderse su pista.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/7RXYDPM6l1gxhuwGyMQWiUfvYVu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/s1X8estPMaySkXboIGbaJXqh9rr.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Amigos",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/A8C18E20D5A046AE90B2ADEA2C10730C_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mikel",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/2523A3327D9A4E4B821B7E089B0EEFF3_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "María",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/8C53AF5AD8CD496F9A1BCBB8F39B1F93_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Javi",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/2FDFFB33207B4250AB900A8814C81733_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Amaia",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/E9D851793E8344F69278B2BD0B40612F_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Iker",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/CD2B8F687A2849BF9DE1C1871088EE7A_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Ane",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/AB84B9B52BA54788B4D4B2C25CE04827_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 292012,
+                    "total_seasons": 1
                 }
             ]
         }

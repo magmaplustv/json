@@ -9784,6 +9784,40 @@
                     ],
                     "tmdb_id": 249042,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Las mil muertes de Nora Dalmasso",
+                    "genero": "Documental, Crimen",
+                    "descripcion": "¿Quién mató a Nora Dalmasso? En esta serie documental, su familia y periodistas comparten detalles inéditos de su asesinato, la investigación y la tormenta que se desató.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/lwAJIMJNNLlfKJQjiil1YD4brr3.png",
+                    "icono": "https://image.tmdb.org/t/p/original/ja6BP5xleodB50Gv8sl59TRHAC1.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/9txuMkMnK9T50qhb08y6LSP6FEt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443654.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443655.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/443656.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 293130,
+                    "total_seasons": 1
                 }
             ]
         },

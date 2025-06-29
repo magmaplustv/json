@@ -3464,6 +3464,55 @@
             "nombre": "⭐️⭐️Acción⭐️⭐️",
             "series": [
                 {
+                    "nombre": "La frontera del Este",
+                    "genero": "War & Politics, Action & Adventure, Misterio",
+                    "descripcion": "En el flanco oriental de la OTAN se están llevando a cabo maniobras militares rusas en un punto estratégicamente crítico. Ewa Oginiec, tras un drama personal, se propone abandonar el servicio secreto y empezar de nuevo. Las cosas se tuercen cuando su compañero, también agente secreto, es descubierto por la inteligencia rusa y desaparece misteriosamente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/vvKJ9UUIXVQs4IPkZa2yFkS0LeL.png",
+                    "icono": "https://image.tmdb.org/t/p/original/uL5onQXgVas65Ts8Fok2uXCR8Cp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oFSHiP5GEN66vQyQqsXxPmPCqcu.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio uno",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/212C9F88C19E46E19037C1202560941D_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio dos",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/E5A2234DB2D84819A0CC7427536419AF_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio tres",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/8F032DC42160415A8FE4A58CCC31E33F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio cuatro",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/AC3DD59AE2CB421AB1B58255F57EA5DB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio cinco",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89BE116667EC42B594EFBEFB11570F0D_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio seis",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/5C048E72F21149968A1F6C02D7901B0B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 253370,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "La frontera",
                     "genero": "Drama, Action & Adventure",
                     "descripcion": "Año 1987. Un grupo disidente de la banda terrorista ETA planea atentar en París. Solo tres personas, tan incompatibles como complementarias, podrán evitarlo.",
@@ -5213,55 +5262,6 @@
                         }
                     ],
                     "tmdb_id": 232766,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "La frontera del Este",
-                    "genero": "War & Politics, Action & Adventure, Misterio",
-                    "descripcion": "En el flanco oriental de la OTAN se están llevando a cabo maniobras militares rusas en un punto estratégicamente crítico. Ewa Oginiec, tras un drama personal, se propone abandonar el servicio secreto y empezar de nuevo. Las cosas se tuercen cuando su compañero, también agente secreto, es descubierto por la inteligencia rusa y desaparece misteriosamente.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/vvKJ9UUIXVQs4IPkZa2yFkS0LeL.png",
-                    "icono": "https://image.tmdb.org/t/p/original/uL5onQXgVas65Ts8Fok2uXCR8Cp.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oFSHiP5GEN66vQyQqsXxPmPCqcu.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio uno",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/212C9F88C19E46E19037C1202560941D_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio dos",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/E5A2234DB2D84819A0CC7427536419AF_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio tres",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/8F032DC42160415A8FE4A58CCC31E33F_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio cuatro",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/AC3DD59AE2CB421AB1B58255F57EA5DB_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio cinco",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89BE116667EC42B594EFBEFB11570F0D_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio seis",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/5C048E72F21149968A1F6C02D7901B0B_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 253370,
                     "total_seasons": 1
                 }
             ]

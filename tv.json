@@ -3742,6 +3742,12 @@
                 "url": "http://190.60.40.35:12500/play/a0e7/index.m3u8",
                 "type": "HLS",
                 "icono": "https://static.wikia.nocookie.net/logopedia/images/1/10/Cablenoticias2007.png/revision/latest?cb=20210422011621&path-prefix=es"
+            },
+            {
+                "name": "DW ESPAÑOL",
+                "url": "http://190.60.40.35:12500/play/a0h6/index.m3u8",
+                "type": "HLS",
+                "icono": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj"
             }
         ]
     }

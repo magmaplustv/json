@@ -1226,7 +1226,7 @@
         "samples": [
             {
                 "name": "ESPN PREMIUM (USA)",
-                "url": "http://38.199.6.1:17001/play/a06g/index.m3u8",
+                "url": "http://190.60.40.35:12500/play/a0m1/index.m3u8",
                 "type": "HLS",
                 "icono": "https://www.ole.com.ar/2022/05/02/236LIWWcJ_386x280__1.jpg"
             },

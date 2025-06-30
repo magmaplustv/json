@@ -3486,6 +3486,75 @@
                     ],
                     "tmdb_id": 231003,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Un chico ejemplar",
+                    "genero": "Crimen, Comedia, Action & Adventure, Drama",
+                    "descripcion": "Tras 11 años, la Policía de Insung acoge a antiguos deportistas de la selección nacional. Estos medallistas que fueron héroes se enfrentan hoy a una cruda realidad. Pese a estrecheces económicas, tragedias inesperadas y el desprecio de sus compañeros, aúnan fuerzas como fuerza operativa especial para enfrentarse a graves delitos con el valor y la destreza de sus tiempos como deportistas.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/96M5sQ1wGa9FPbB7k1V2cvKGf01.png",
+                    "icono": "https://image.tmdb.org/t/p/original/9gE5ugcbRWd11E2kBAVrpi1GcaU.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hYwZR2P8MNJZz2Dnj68M8bUOfLt.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431453.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://novabox.club:80/series/conectStreax/K2tbMNebMW/431454.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/17AC1439AC7243E2AF13C597B8E21962_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/BC52A7B63FD0408092CBEEA929A40599_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/DB7B3F70A2E44FC3BA90B714DF1FD470_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/EDE78EE733424634845D6FA77371B8BB_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/8525251CEB024FB3838F8AC86BDEAF8C_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/A32E34321DB2459EADE1942E66F276EE_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/093D891E7D9A4DE080FDC73BC90D925C_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3AE3648CE2C34CE6930F00FC4624F827_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231280,
+                    "total_seasons": 1
                 }
             ]
         },

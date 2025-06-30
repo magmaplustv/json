@@ -11962,6 +11962,65 @@
                     ],
                     "tmdb_id": 290321,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Adults",
+                    "genero": "Comedia",
+                    "descripcion": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/8tU8cxeWPr7uxFppW71Y1M0pf8b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5Qx7Apsmtte1LOD4VQDWHnHmljM.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/r2yaABeXmcgQDmRxRJsmLbTsPHQ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Piloto",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2433852B8E6E4B548FFEF7263ED8CF76_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Perforación",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B28239261A4A457088D91BEC845441E8_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Ha visto a este hombre?",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D7AB7FAE66B247B28A28B581E3FFE7D8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Las normas de casa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B53F08ED5FBC4CF2B3C36CC816C6AD84_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Theracide",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/60C3221094FA4036812270BB6FABAEF8_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Pollo asado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3A246C4D2799430BAA49BB33C88ACDCE_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Annabelle",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2BD6B9AF38164E0C9F12FEE0F0EF985E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El correo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B60F0DD088894176A6D659043C4E3195_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 260458,
+                    "total_seasons": 1
                 }
             ]
         },

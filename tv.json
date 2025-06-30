@@ -3485,6 +3485,12 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/2600.ts",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png"
+            },
+            {
+                "name": "America TV (opc2)",
+                "url": "http://190.60.40.35:12500/play/a0en/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png"
             }
         ]
     },

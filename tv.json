@@ -3700,6 +3700,13 @@
     },
     {
         "name": "INTERNACIONALES",
-        "samples": []
+        "samples": [
+            {
+                "name": "CNN Español",
+                "url": "http://38.211.242.128:8001/play/a0c7/index.m3u8",
+                "type": "HLS",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/c/cf/CNN_en_Espa%C3%B1ol_1997.svg/revision/latest?cb=20220409050309&path-prefix=es"
+            }
+        ]
     }
 ]

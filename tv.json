@@ -2540,6 +2540,12 @@
                 "url": "http://skytvpluzz.xyz:80/rodotv/ChhSVdWKm7/31068.ts",
                 "type": "HLS",
                 "icono": "http://skytvpluzz.xyz:80/images/p9NQIZs6uYELnnQxnWqhtgKcLdXF8P234pG3H0dIP7B4pdFQz6JRUUJPAqNUxrfdudD1sZ-SQdG5aSJ8sRZ20l4_wgTDX8rnaKJywtBk-mnRUdF88jSltPf6-grkxytM80Vl0FiEoeoS01g9wovievCY44Wlzn19fOoSzPxfDYbzsas0aYLEm3jVFhh1wR5L.png"
+            },
+            {
+                "name": "CINE FAMILIAR",
+                "url": "http://190.60.40.35:12500/play/a0eh/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.vimeocdn.com/video/1805384875-cf73b73bd6792b04d49146e0901764d40baee49d8be688930d94fedc58ef5445-d?f=webp"
             }
         ]
     },

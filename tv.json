@@ -3506,6 +3506,12 @@
                 "url": "http://38.211.242.128:8001/play/a09h/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png"
+            },
+            {
+                "name": "TVPE (OPC2)",
+                "url": "http://38.211.242.128:8001/play/a05n/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg"
             }
         ]
     },

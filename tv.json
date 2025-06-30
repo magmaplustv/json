@@ -3482,6 +3482,12 @@
                 "url": "http://38.211.242.128:8001/play/a09g/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/C592Sf3C/R-3.png"
+            },
+            {
+                "name": "MOVISTAR DEPORTES (Opc2)",
+                "url": "http://38.211.242.128:8001/play/a09i/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/TDS0Fm3q/movistar-deportes.webp"
             }
         ]
     },

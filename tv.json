@@ -3029,6 +3029,12 @@
                 "name": "CLICKTV",
                 "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+            },
+            {
+                "name": "TNT SPORTS CHILE",
+                "url": "http://38.211.242.128:8001/play/a03x/index.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s"
             }
         ]
     },

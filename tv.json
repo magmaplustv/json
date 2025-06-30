@@ -3047,6 +3047,12 @@
                 "url": "http://38.211.242.128:8001/play/a0cd/index.m3u8",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Canal_13C_2025.svg/1200px-Canal_13C_2025.svg.png"
+            },
+            {
+                "name": "CHILEVISION OPC2",
+                "url": "http://38.211.242.128:8001/play/a045/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/B27gzhQd/R-3.png"
             }
         ]
     },

@@ -1389,6 +1389,12 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10441.ts",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png"
+            },
+            {
+                "name": "TNT SPORTS CHILE",
+                "url": "http://38.211.242.128:8001/play/a03x/index.m3u8",
+                "type": "HLS",
+                "icono": "https://images.ctfassets.net/39rse3bmgvj6/5HTYEiinxfXGfbTPHvk7ol/04ac6b7a5d3dabd5f24002189e599128/Cards_TNT_Sport_Premium.png"
             }
         ]
     },

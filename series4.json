@@ -12411,6 +12411,65 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Mr Loverman",
+                    "genero": "Drama",
+                    "descripcion": "Barrington Walker (Lennie James) es el protagonista de una historia que abarca toda una vida. Barry y Carmel son un matrimonio que en la mediana edad ve cómo se agravan las grietas de su convivencia. Morris de la Roux es, a vista de todos, el mejor amigo de Barry. Y todos tienen algo en común, una trayectoria llena de secretos y renuncias que comenzará a tener consecuencias para ellos y el resto de familia y amigos que dan forma a su entorno. Tras años de sacrificios, parece que por fin ha llegado la hora de que Barry tenga la oportunidad de experimentar la libertad definitiva.",
+                    "anio": "2024",
+                    "iconPng": "https://image.tmdb.org/t/p/original/iHh0Z66AzVOcF5kkh7QM7mPyr32.png",
+                    "icono": "https://image.tmdb.org/t/p/original/6UuxprhNsGCD4ai7JSD81gD8EgN.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/a45JC8EvKpg1OvPJHTx1fhw2XMC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1848C5D71FF9489C9DADCCBAA46A41BA_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9F06605A74A84E1A94041F899BE624E0_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/55F92D252FD04C1897A51ADC1F7E2A38_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7D084A9893B54F9D8BD31D644F452CCD_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8403846E23024541811A6D61ED9ECEF5_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/749A236682C84693AFF36E801418A7FF_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B849ACEAE396468A931CA0D502A0E05F_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1B7DBC26715F4B6DA7B7C5D74515A5DE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 252133,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Adolescencia",
                     "genero": "Drama, Crimen",
                     "descripcion": "Cuando acusan a un chico de 13 años del asesinato de una compañera de clase, su familia, su terapeuta y el inspector al mando se preguntan qué pasó realmente.",
@@ -16306,65 +16365,6 @@
                         }
                     ],
                     "tmdb_id": 292012,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Mr Loverman",
-                    "genero": "Drama",
-                    "descripcion": "Barrington Walker (Lennie James) es el protagonista de una historia que abarca toda una vida. Barry y Carmel son un matrimonio que en la mediana edad ve cómo se agravan las grietas de su convivencia. Morris de la Roux es, a vista de todos, el mejor amigo de Barry. Y todos tienen algo en común, una trayectoria llena de secretos y renuncias que comenzará a tener consecuencias para ellos y el resto de familia y amigos que dan forma a su entorno. Tras años de sacrificios, parece que por fin ha llegado la hora de que Barry tenga la oportunidad de experimentar la libertad definitiva.",
-                    "anio": "2024",
-                    "iconPng": "https://image.tmdb.org/t/p/original/iHh0Z66AzVOcF5kkh7QM7mPyr32.png",
-                    "icono": "https://image.tmdb.org/t/p/original/6UuxprhNsGCD4ai7JSD81gD8EgN.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/a45JC8EvKpg1OvPJHTx1fhw2XMC.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1848C5D71FF9489C9DADCCBAA46A41BA_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9F06605A74A84E1A94041F899BE624E0_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/55F92D252FD04C1897A51ADC1F7E2A38_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7D084A9893B54F9D8BD31D644F452CCD_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8403846E23024541811A6D61ED9ECEF5_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/749A236682C84693AFF36E801418A7FF_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B849ACEAE396468A931CA0D502A0E05F_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1B7DBC26715F4B6DA7B7C5D74515A5DE_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 252133,
                     "total_seasons": 1
                 }
             ]

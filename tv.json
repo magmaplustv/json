@@ -2558,6 +2558,12 @@
                 "url": "http://190.60.40.35:12500/play/a0cn/index.m3u8",
                 "type": "HLS",
                 "icono": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png"
+            },
+            {
+                "name": "Golden Premiere",
+                "url": "http://190.60.40.35:12500/play/a0mg/index.m3u8",
+                "type": "HLS",
+                "icono": "https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg"
             }
         ]
     },

@@ -3476,6 +3476,12 @@
                 "url": "http://38.199.6.1:17001/play/a05y/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png"
+            },
+            {
+                "name": "ATV (Opc2)",
+                "url": "http://38.211.242.128:8001/play/a09g/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/C592Sf3C/R-3.png"
             }
         ]
     },

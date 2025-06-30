@@ -3491,6 +3491,12 @@
                 "url": "http://190.60.40.35:12500/play/a0en/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/P6Xz8Jc/Am-rica-Televisi-n-svg.png"
+            },
+            {
+                "name": "GOL PERÚ opc 2",
+                "url": "http://38.199.6.1:17001/play/a05y/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png"
             }
         ]
     },

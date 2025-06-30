@@ -1223,12 +1223,6 @@
                 }
             },
             {
-                "name": "Directv Sports 2 (Opc2)",
-                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10606.ts",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png"
-            },
-            {
                 "name": "Directv Sports + (Opc2)",
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/10607.ts",
                 "type": "HLS",

@@ -1206,7 +1206,7 @@
             },
             {
                 "name": "DIRECTV SPORTS 2",
-                "url": "http://novabox.club:80/conectStreax/K2tbMNebMW/384296.ts",
+                "url": "http://38.211.242.128:8001/play/a05g/index.m3u8",
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
                 "type": "HLS",
                 "headers": {

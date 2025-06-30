@@ -3448,8 +3448,8 @@
                 "type": "HLS"
             },
             {
-                "name": "LIGA 1 MAX",
-                "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/12191.ts",
+                "name": "L1 MAX",
+                "url": "http://38.211.242.128:8001/play/a09r/index.m3u8",
                 "icono": "https://elcomercio.pe/resizer/B6H3HRs6cygo7DsP4dshkAj03uY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYO6MTKKL5EGPNR3OIVKF5V7LI.jpeg",
                 "type": "HLS"
             },

@@ -3198,6 +3198,12 @@
                 "url": "http://190.2.212.209:8050/play/a0ne",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png"
+            },
+            {
+                "name": "CANAL CAPITAL",
+                "url": "https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/MDsNCv3D/2020-Canal-Capital-logo-svg.png"
             }
         ]
     },

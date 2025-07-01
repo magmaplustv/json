@@ -3057,11 +3057,6 @@
         "name": "🇧🇴CANALES DE BOLIVIA",
         "samples": [
             {
-                "name": "ATB",
-                "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg",
-                "url": "http://186.121.206.197/live/daniel/index.m3u8"
-            },
-            {
                 "name": "CADENA A",
                 "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
                 "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"

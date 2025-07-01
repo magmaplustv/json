@@ -3931,6 +3931,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "FOX SPORTS 2",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fb87b63bd6ea4005b66b41cdaca7ba9b&key=bb54f7132fb47d804723ec429ef65c81",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

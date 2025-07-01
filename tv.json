@@ -1900,7 +1900,7 @@
                 "name": "HBO 2",
                 "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUxNTAwMDc5Iiwic2lwIjoiMTgxLjQ2LjU3LjExMiIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9NYWdhemluZS9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI3MTg3ODJiOWY1YTQ1ZDExIiwic2Vzc2lvbl9pZCI6IjgwOTg3NzY4LTE3NTEzMjcyNzgtODU0IiwiY2xpZW50X2lkIjoiNjI0NDk4NyIsImRldmljZV9pZCI6IjgwOTg3NzY4IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCwxODQsODYsODhdfQ==.8aGA46qNGPjFSzhTpmNp6FKaMFRfR2tm8aqzb26MxfCJwFGYKnWuyjws-AH4JIN9_WpB8e1iMiZrYIbp28owEA==/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/8qz7g0yfn1qim2vr2358b/hbo2.json?rlkey=wmxlc9q1ion3s3uleyo913ns1&st=4f36f0ou&dl=0",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
                 "icono": "https://logowik.com/content/uploads/images/hbo-2-hd-nl3042.logowik.com.webp",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",

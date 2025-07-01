@@ -4123,6 +4123,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "DISNEY JUNIOR",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/DISNEY_JR/sa_live_dash/DISNEY_JR.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/MyL3yR7b/DISNEY-JUNIOR.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3ab0e382392041d0ba4e0c8614d86f54&key=b2eeb65ed3963f7b36656ded24b3fe0d",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

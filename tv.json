@@ -915,6 +915,12 @@
                 "url": "https://cdn.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/160/160/0/0/35003362076629.png"
+            },
+            {
+                "name": "Unidos Tv",
+                "url": "https://cdn.sensa.com.ar/output/NDS/unidostvH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/160/160/0/0/49748039075506.png"
             }
         ]
     },

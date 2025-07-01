@@ -4051,7 +4051,7 @@
                 "name": "HBO XTREME",
                 "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_XTR3M3/sa_live_dash/HBO_XTR3M3.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://static.wikia.nocookie.net/newlogosfake/images/a/ad/HBOXtremeLA2020.png/revision/latest/scale-to-width-down/284?cb=20200116151733",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=36efe3476d3c4cec9d0102ad8be27d77&key=f1b1d782434e4411b591f4b94918fe83",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",

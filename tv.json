@@ -3898,6 +3898,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "TNT SPORTS HD",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/KDVFxxW/TNT-SPORT-removebg-preview-1.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c79a27f46f44bfbb774b8c7f1f1e57f&key=530fd0cba9dc556a339b03af4b0951b9",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

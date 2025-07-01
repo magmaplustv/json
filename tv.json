@@ -4041,6 +4041,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "HBO SIGNATURE",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_SIGNATURE/sa_live_dash/HBO_SIGNATURE.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=615dfe1b92f34ebd997209dfe8e74cb9&key=4ab6b3b7dd17d359d416647e8d88cdad",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

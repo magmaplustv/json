@@ -3846,9 +3846,9 @@
             },
             {
                 "name": "A24",
-                "url": "https://i.ibb.co/0mL54db/a24logo-invert.png",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd",
+                "icono": "https://i.ibb.co/0mL54db/a24logo-invert.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aaa33fd380564479b57ab8296570aa3a&key=a89018f86f4402ad626bec3803bf3194",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",

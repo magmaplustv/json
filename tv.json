@@ -3997,6 +3997,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "\"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58ded572926940b19e275d4956deda3c&key=a8018610386328f46738aa830453a6e2",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

@@ -1304,6 +1304,17 @@
                 "url": "http://38.211.242.128:8001/play/a05h/index.m3u8",
                 "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
                 "type": "HLS"
+            },
+            {
+                "name": "Punta Alta Visión",
+                "url": "https://cdn.sensa.com.ar/output/SMT2/CEPATVD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/160/160/0/0/45581772073270.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

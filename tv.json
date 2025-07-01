@@ -4074,6 +4074,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "CARTOONITO",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/CARTOONITO/sa_live_dash/CARTOONITO.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08c256c2691645c7862b0859676f3613&key=d36fdcc51ca4c3e69a76a34c1bcbbca1",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

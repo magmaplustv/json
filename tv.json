@@ -3925,9 +3925,14 @@
             },
             {
                 "name": "DW ESPAÑOL",
-                "url": "http://190.60.40.35:12500/play/a0h6/index.m3u8",
-                "type": "HLS",
-                "icono": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj"
+                "url": "adbd7d96395740ad5a389cba976e31d8",
+                "type": "CLEARKEY",
+                "icono": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             },
             {
                 "name": "EVOL TV",

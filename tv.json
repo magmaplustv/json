@@ -4018,7 +4018,7 @@
                 "name": "HBO MUNDI",
                 "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_MUNDI_BACKUP/sa_live_dash/HBO_MUNDI_BACKUP.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc897c86ea684a799131d10ddd54976d&key=dba9e1e108ce048a530dfc86e445e47c",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",

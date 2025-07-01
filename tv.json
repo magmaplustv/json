@@ -4107,6 +4107,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "NICK",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/NICK/sa_live_dash/NICK.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1bc619a1a4994207b178c31d251b1852&key=208f071a5aa2f68d2ac55f57a61d2413",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

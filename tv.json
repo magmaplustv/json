@@ -3891,9 +3891,14 @@
         "samples": [
             {
                 "name": "CNN Español",
-                "url": "http://38.211.242.128:8001/play/a0c7/index.m3u8",
-                "type": "HLS",
-                "icono": "https://logowik.com/content/uploads/images/cnn-en-espanol-with-text7362.logowik.com.webp"
+                "url": "https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logowik.com/content/uploads/images/cnn-en-espanol-with-text7362.logowik.com.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=718f07e2beccf40cc207365ea8a70ef6&key=672d59d617c4a697025be0fb8d382cc0",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             },
             {
                 "name": "CNN INTERNACIONAL",

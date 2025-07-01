@@ -3194,6 +3194,12 @@
                 "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png"
+            },
+            {
+                "name": "MEGA TV",
+                "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/TxqSrMpc/3d4uiZF.png"
             }
         ]
     },

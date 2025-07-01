@@ -3827,7 +3827,7 @@
                 "url": "https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://logos-download.com/wp-content/uploads/2019/01/Televisi%C3%B3n_P%C3%BAblica_Argentina_Logo-700x470.png",
-                "drm_license_uri": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9825d6a017d5406e8bc50bb2bc7857c9&key=26196b3593c359c226bb7637cb188ce4",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"

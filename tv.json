@@ -4096,6 +4096,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "DISNEY CHANNEL",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/DISNEY/sa_live_dash/DISNEY.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=deb672e305c9437eacdbc9d089d22d55&key=12472c24acd1d9f45af3e506d8de76da",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

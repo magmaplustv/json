@@ -4134,6 +4134,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "BABY TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/BABY_TV/sa_live_dash/BABY_TV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6636c4891a34c8490d33f71dc273b27&key=831e07d055984d3a1810ed8ed28536bc",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

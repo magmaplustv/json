@@ -938,6 +938,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "COONET Brinkmann",
+                "url": "https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/160/160/0/0/42902231076974.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

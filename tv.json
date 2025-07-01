@@ -897,6 +897,12 @@
                 "url": "https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/160/160/0/0/30214768077125.png"
+            },
+            {
+                "name": "TvCoop Posse",
+                "url": "https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png"
             }
         ]
     },

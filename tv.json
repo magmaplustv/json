@@ -3876,6 +3876,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "CANAL IP",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/IPTV_BACKUP/sa_live_dash/IPTV_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/NKxWFcF/IP-removebg-preview.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b423130cc75a4ebea18f41ad46c03d0f&key=f87bccf9c8dbf7226c6863ed631aaa0b",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

@@ -389,17 +389,6 @@
                     "Referer": "https://portal.app.flow.com.ar",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                 }
-            },
-            {
-                "name": "prueba",
-                "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
-                "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=737a88876b64489ab46cf69f8c5dfe5a&key=bf0ae0a5210cb0604e465690c201eec4",
-                "headers": {
-                    "Origin": "https://www.trimi.com.ar",
-                    "Referer": "https://www.trimi.com.ar/"
-                }
             }
         ]
     },

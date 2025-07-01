@@ -971,6 +971,17 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "LDM TV La Pampa",
+                "url": "https://cdn.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1061/CH_LOGO/160/160/0/0/79624310076902.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

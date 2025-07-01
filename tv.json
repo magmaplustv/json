@@ -3788,6 +3788,18 @@
     },
     {
         "name": "PRUEBA ARG",
-        "samples": []
+        "samples": [
+            {
+                "name": "AMERICA TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=737a88876b64489ab46cf69f8c5dfe5a&key=bf0ae0a5210cb0604e465690c201eec4",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
+            }
+        ]
     }
 ]

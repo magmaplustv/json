@@ -4156,6 +4156,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "NICK JR",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/NICK_JR/sa_live_dash/NICK_JR.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d61ca4efb76b43b89cc4180958edbfce&key=95315da03f990fa4cf950c0141a4c4c1",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

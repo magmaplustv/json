@@ -3870,7 +3870,7 @@
                 "name": "LN+",
                 "url": "https://cdn.trimi.com.ar/live/sm-live/L4_NACION_M45/sa_live_dash/L4_NACION_M45.mpd",
                 "type": "CLEARKEY",
-                "icono": "ttps://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",
+                "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ca7e4a4a0314d15bad3b2066b4f1b30&key=bc77f956816ee72f9e02f8d43fee43c5",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",

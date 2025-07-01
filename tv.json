@@ -3902,6 +3902,17 @@
                 "url": "http://190.60.40.35:12500/play/a0mi/index.m3u8",
                 "type": "HLS",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWp4UE0IT2p0hFoCq40Sf7O3QyAgrV3_Aqg&s"
+            },
+            {
+                "name": "Telemundo Internacional",
+                "url": "https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093073070.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ae7b0708be4edf3453c1ab9d6976974&key=8b31a9788f6dc12640ba69560fcb4b39",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

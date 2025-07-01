@@ -4118,6 +4118,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "DISCOVERY KIDS",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/DISCOVERY_KIDS/sa_live_dash/DISCOVERY_KIDS.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfbc1a31ab534cbb84ecd4bf643bb892&key=e88cebf2c562fbc15d993f30912678eb",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

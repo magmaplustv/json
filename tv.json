@@ -3192,6 +3192,12 @@
                 "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/4Rj6jjfd/kuqkTMC.png"
+            },
+            {
+                "name": "TELECAFE",
+                "url": "http://190.2.212.209:8050/play/a0ne",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/kNQndsm/z18LRqM.png"
             }
         ]
     },

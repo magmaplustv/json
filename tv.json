@@ -864,13 +864,13 @@
             },
             {
                 "name": "EL DESTAPE",
-                "url": "http://m.mtd.llc:2082/eldestape/index_fkr.mpd",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=af0566c50e733c311bdfa6736a95ce50&key=e4dfd12993097b3c35ad47562d61b4ce",
                 "headers": {
-                    "Origin": "https://www.telecentroplay.com.ar",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
                 }
             },
             {

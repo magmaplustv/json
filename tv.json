@@ -903,6 +903,12 @@
                 "url": "https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png"
+            },
+            {
+                "name": "CEOSCA-Camilo Aldao",
+                "url": "https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2522/CH_LOGO/160/160/0/0/97778346077157.png"
             }
         ]
     },

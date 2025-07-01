@@ -3180,6 +3180,12 @@
                 "url": "http://tvvip.us:8880/live/FL4m4L4T$TV*Sv/eZWd*69I88$PWq*X25a$XVc0gW$/34.ts",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png"
+            },
+            {
+                "name": "RCN CANAL",
+                "url": "http://190.2.212.209:8050/play/a0lt",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/BVqjFvVp/Logo-RCN-Televisi-n.png"
             }
         ]
     },

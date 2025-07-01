@@ -3184,6 +3184,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "BOLIVIA TV",
+                "url": "https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png"
             }
         ]
     },

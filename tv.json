@@ -3986,6 +3986,13 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_DOS/sa_live_dash/HBO_DOS.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": ""
             }
         ]
     }

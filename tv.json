@@ -4029,7 +4029,7 @@
                 "name": "HBO POP",
                 "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_POP_BACKUP/sa_live_dash/HBO_POP_BACKUP.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=80f5d4b6b8854de89942dcec02ddb327&key=aa7b2a2c4a18e5b8487ed343fcf4c9a9",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",

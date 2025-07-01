@@ -4,6 +4,147 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "El juego del calamar",
+                    "genero": "Action & Adventure, Misterio, Drama",
+                    "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+                    "anio": "2021",
+                    "iconPng": "https://image.tmdb.org/t/p/original/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
+                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Luz roja, luz verde",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Infierno",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/DA114A2AFA804FF9974E9C3C454D9704_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "El hombre del paraguas",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/42DF541B1095497D9D88EAC096396B92_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "El equipo es lo primero",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/2EBDEB0E233543D8AFBAD832A2584D0E_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Un mundo justo",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/CB2A3E2A592B4C49A352CE137DB92586_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Gganbu",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/7C44D9B4036E46EC9C2BCEED722B383E_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Personas importantes",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/0C0C532D94E74BF68406B6646CAAA396_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "El líder",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/B0161A72EA6E4586A7292BE4DC215677_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Un día con suerte",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/F899020D2FAC4342AD8B11B3BBFDE592_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Pan y lotería",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/0250A21A1B8347F6A0A5BDDF9FE50372_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Fiesta de Halloween",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/A0CB2183FDF540B3BF88EC3CB91D938B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "001",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/0F9EB3ED1E97403DA4FA5FDB165E943B_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Seis piernas",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/DA1445F3B967431C85B20BD7902A8666_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Otro juego",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/1F1CF0572CE44AE68BB32C1AC427EA9E_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "O ﻿ X",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/DD8033C72CF9457FA57D102F03DCF2D0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Amigos o enemigos",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/40396A76447D4EFBB5AA3987ECFD5B0A_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 3",
+                            "numero_temporada": 3,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/125168B1A9714853A86F586EA345CBB8_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5261DDFDD8004601844AA8D55B0EA7E0_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CF057D6183854F04BEC7BEA815D8E08F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B54A4CD2A028498C88D6734C9CA14642_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1C421FD2E8BD4F3A8725E347E417BBFC_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9DA9C661A618407EBE42750C3D72BA42_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 93405,
+                    "total_seasons": 3
+                },
+                {
                     "nombre": "Los supervivientes",
                     "genero": "Drama, Misterio",
                     "descripcion": "Hace quince años, la muerte de tres jóvenes destrozó a este tranquilo pueblo costero. Ahora, la misteriosa muerte de una joven vuelve a sacar el pasado a la luz.",
@@ -3154,147 +3295,6 @@
                     ],
                     "tmdb_id": 243316,
                     "total_seasons": 2
-                },
-                {
-                    "nombre": "El juego del calamar",
-                    "genero": "Action & Adventure, Misterio, Drama",
-                    "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
-                    "anio": "2021",
-                    "iconPng": "https://image.tmdb.org/t/p/original/ivkt4d2ffX9scRGzc0BYAq23j2A.png",
-                    "icono": "https://image.tmdb.org/t/p/original/74qMRUy0lwkBBi39vsQVerIDkHj.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Luz roja, luz verde",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/016251FB27034E2AA81B513CBB142018_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Infierno",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/DA114A2AFA804FF9974E9C3C454D9704_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "El hombre del paraguas",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/42DF541B1095497D9D88EAC096396B92_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "El equipo es lo primero",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/2EBDEB0E233543D8AFBAD832A2584D0E_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Un mundo justo",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/CB2A3E2A592B4C49A352CE137DB92586_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Gganbu",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/7C44D9B4036E46EC9C2BCEED722B383E_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Personas importantes",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/0C0C532D94E74BF68406B6646CAAA396_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "El líder",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/B0161A72EA6E4586A7292BE4DC215677_media.mp4"
-                                },
-                                {
-                                    "numero": 9,
-                                    "titulo": "Un día con suerte",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/F899020D2FAC4342AD8B11B3BBFDE592_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Pan y lotería",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/0250A21A1B8347F6A0A5BDDF9FE50372_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Fiesta de Halloween",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/A0CB2183FDF540B3BF88EC3CB91D938B_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "001",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/0F9EB3ED1E97403DA4FA5FDB165E943B_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Seis piernas",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/DA1445F3B967431C85B20BD7902A8666_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Otro juego",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/1F1CF0572CE44AE68BB32C1AC427EA9E_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "O ﻿ X",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/DD8033C72CF9457FA57D102F03DCF2D0_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Amigos o enemigos",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/40396A76447D4EFBB5AA3987ECFD5B0A_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 3",
-                            "numero_temporada": 3,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/125168B1A9714853A86F586EA345CBB8_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/5261DDFDD8004601844AA8D55B0EA7E0_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/CF057D6183854F04BEC7BEA815D8E08F_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B54A4CD2A028498C88D6734C9CA14642_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1C421FD2E8BD4F3A8725E347E417BBFC_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9DA9C661A618407EBE42750C3D72BA42_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 93405,
-                    "total_seasons": 3
                 }
             ]
         },

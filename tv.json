@@ -3918,12 +3918,6 @@
                 "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png"
             },
             {
-                "name": "CABLENOTICIAS",
-                "url": "http://190.60.40.35:12500/play/a0e7/index.m3u8",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/1/10/Cablenoticias2007.png/revision/latest?cb=20210422011621&path-prefix=es"
-            },
-            {
                 "name": "DW ESPAÑOL",
                 "url": "adbd7d96395740ad5a389cba976e31d8",
                 "type": "CLEARKEY",

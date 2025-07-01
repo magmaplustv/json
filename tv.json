@@ -4008,6 +4008,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "HBO FAMILY",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HBO_FAMILY/sa_live_dash/HBO_FAMILY.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b748b7e967884690956dd5ec1609c661&key=c3666ed5f172f2f890a775361587b7e3",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

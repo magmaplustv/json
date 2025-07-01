@@ -3887,6 +3887,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "NET TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://media.canalnet.tv/2018/08/N-600x720.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f519a4181806429bb2a998d77a937f32&key=6dbf5c8f0c50938cebc35fdf095833e1",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

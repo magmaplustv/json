@@ -927,6 +927,17 @@
                 "url": "https://cdn.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/160/160/0/0/29838770078011.png"
+            },
+            {
+                "name": "Telediario Televisión",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/160/160/0/0/93452015074309.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff1e6f58369fa0457670eb452cb49f8a&key=4a5b005a7dbd38fe00c50d27fa23ab0a",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             }
         ]
     },

@@ -3975,6 +3975,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "HBO",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/HB0_BACKUP/sa_live_dash/HB0_BACKUP.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13b2c63340e84314ad2c44d6e4ecf686&key=1bae790e285fcedc3c8bc9597438bb0e",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

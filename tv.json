@@ -3079,12 +3079,6 @@
                 }
             },
             {
-                "name": "CARACOL",
-                "url": "http://38.211.242.128:8001/play/a04h/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png"
-            },
-            {
                 "name": "DW ESPAÑOL",
                 "url": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
                 "type": "CLEARKEY",

@@ -3187,6 +3187,12 @@
                 "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/VYsmY1by/R-2.png"
+            },
+            {
+                "name": "ATB",
+                "url": "http://186.121.206.197/live/daniel/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg"
             }
         ]
     },

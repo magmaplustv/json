@@ -3857,9 +3857,9 @@
             },
             {
                 "name": "CANAL 26",
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://cdn.trimi.com.ar/live/sm-live/26TV_BACKUP/sa_live_dash/26TV_BACKUP.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b835e5cb05e431cb57a3dcc775e4d0f&key=21e9e0ab74fc12306a2624a1ee80eef2",
                 "headers": {
                     "Origin": "https://www.trimi.com.ar",

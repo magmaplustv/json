@@ -3964,6 +3964,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "GOLF CANNELS",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/GOLF_CHANNEL/sa_live_dash/GOLF_CHANNEL.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/PrXS1x2/GOLFC.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=472d5fe5f6ae4063bc9cbd2377076589&key=30210605c23e8b1117c3b5c7701892a7",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

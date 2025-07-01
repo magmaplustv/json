@@ -3832,6 +3832,17 @@
                     "Origin": "https://www.trimi.com.ar",
                     "Referer": "https://www.trimi.com.ar/"
                 }
+            },
+            {
+                "name": "CRONICA TV",
+                "url": "https://cdn.trimi.com.ar/live/sm-live/CR0N1C4_TV/sa_live_dash/CR0N1C4_TV.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://play-lh.googleusercontent.com/kgXOWT_-1jV1MJhBIBtUkvbhFBgBLPD_TkXNW1gYpqq8Uwhsgqw2BT5zhrjL9cb64d49",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f37298e504974d279d241a77fd872620&key=866fcb859136415b83960cda9863d445",
+                "headers": {
+                    "Origin": "https://www.trimi.com.ar",
+                    "Referer": "https://www.trimi.com.ar/"
+                }
             }
         ]
     }

@@ -3094,6 +3094,100 @@
         ]
     },
     {
+        "name": "🌎INTERNACIONALES🌎",
+        "samples": [
+            {
+                "name": "CNN Español",
+                "url": "https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://logowik.com/content/uploads/images/cnn-en-espanol-with-text7362.logowik.com.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=718f07e2beccf40cc207365ea8a70ef6&key=672d59d617c4a697025be0fb8d382cc0",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "CNN INTERNACIONAL",
+                "url": "https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20210624193131&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16c07e6ffdddf95b34e666f9fb745eb4&key=adbd7d96395740ad5a389cba976e31d8",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "CARACOL",
+                "url": "http://38.211.242.128:8001/play/a04h/index.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png"
+            },
+            {
+                "name": "DW ESPAÑOL",
+                "url": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "EVOL TV",
+                "url": "http://190.60.40.35:12500/play/a0mi/index.m3u8",
+                "type": "HLS",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWp4UE0IT2p0hFoCq40Sf7O3QyAgrV3_Aqg&s"
+            },
+            {
+                "name": "Telemundo Internacional",
+                "url": "https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093073070.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ae7b0708be4edf3453c1ab9d6976974&key=8b31a9788f6dc12640ba69560fcb4b39",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "RAI Italia",
+                "url": "https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cd225327cc07001ffff55bd9271b1b2f&key=faae6578b5c3fde01b9f41fd39696605",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "France24 Español",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "D News",
+                "url": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.ibb.co/gJL91wN/DNews.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            }
+        ]
+    },
+    {
         "name": "🇨🇴CANALES DE COLOMBIA",
         "samples": [
             {
@@ -3883,100 +3977,6 @@
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281215",
                 "type": "HLS",
                 "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png"
-            }
-        ]
-    },
-    {
-        "name": "🌎INTERNACIONALES🌎",
-        "samples": [
-            {
-                "name": "CNN Español",
-                "url": "https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://logowik.com/content/uploads/images/cnn-en-espanol-with-text7362.logowik.com.webp",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=718f07e2beccf40cc207365ea8a70ef6&key=672d59d617c4a697025be0fb8d382cc0",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "CNN INTERNACIONAL",
-                "url": "https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20210624193131&path-prefix=es",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16c07e6ffdddf95b34e666f9fb745eb4&key=adbd7d96395740ad5a389cba976e31d8",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "CARACOL",
-                "url": "http://38.211.242.128:8001/play/a04h/index.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/RTpXZ9RK/caracol-television-2017-logo.png"
-            },
-            {
-                "name": "DW ESPAÑOL",
-                "url": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "EVOL TV",
-                "url": "http://190.60.40.35:12500/play/a0mi/index.m3u8",
-                "type": "HLS",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWp4UE0IT2p0hFoCq40Sf7O3QyAgrV3_Aqg&s"
-            },
-            {
-                "name": "Telemundo Internacional",
-                "url": "https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093073070.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ae7b0708be4edf3453c1ab9d6976974&key=8b31a9788f6dc12640ba69560fcb4b39",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "RAI Italia",
-                "url": "https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cd225327cc07001ffff55bd9271b1b2f&key=faae6578b5c3fde01b9f41fd39696605",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "France24 Español",
-                "url": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "D News",
-                "url": "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/gJL91wN/DNews.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
             }
         ]
     },

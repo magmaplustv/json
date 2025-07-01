@@ -3902,9 +3902,14 @@
             },
             {
                 "name": "CNN INTERNACIONAL",
-                "url": "http://38.211.242.128:8001/play/a0ao/index.m3u8",
-                "type": "HLS",
-                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20210624193131&path-prefix=es"
+                "url": "https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20210624193131&path-prefix=es",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16c07e6ffdddf95b34e666f9fb745eb4&key=adbd7d96395740ad5a389cba976e31d8",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
             },
             {
                 "name": "CARACOL",

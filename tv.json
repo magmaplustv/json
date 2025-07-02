@@ -1703,6 +1703,12 @@
                 "url": "https://ipanel.instream.audio/8004/stream",
                 "type": "HLS",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+            },
+            {
+                "name": "Cadena Alegria Mendoza",
+                "url": "https://srv10.streamingradio.ar:8014",
+                "type": "HLS",
+                "icono": "blob:https://web.whatsapp.com/49964e1d-e6aa-4d77-896b-66040ab97ae3"
             }
         ]
     },

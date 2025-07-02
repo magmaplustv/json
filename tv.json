@@ -9,6 +9,12 @@
                 "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
             },
             {
+                "name": "13:00 | Islandia (F) vs. Finlandia (F) | EUROPEO FEMENINO",
+                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2848.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
+            },
+            {
                 "name": "16:00 | Real Madrid vs Juventus | CLUB WORLD CUP",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2821.m3u8",
                 "type": "HLS",
@@ -23,12 +29,6 @@
             {
                 "name": "22:00 | Borussia Dortmund vs Monterrey | CLUB WORLD CUP",
                 "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2821.m3u8",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
-            },
-            {
-                "name": "13:00 | Islandia (F) vs. Finlandia (F) | EUROPEO FEMENINO",
-                "url": "http://mundosoporte.xyz:80/Betflix02/N5auNq85Rg/2848.m3u8",
                 "type": "HLS",
                 "icono": "https://i.postimg.cc/yYDk0Z56/LOGOM-PLUS-aafa-37d9b8543e69.jpg"
             }

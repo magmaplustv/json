@@ -1709,6 +1709,12 @@
                 "url": "https://srv10.streamingradio.ar:8014",
                 "type": "HLS",
                 "icono": "blob:https://web.whatsapp.com/49964e1d-e6aa-4d77-896b-66040ab97ae3"
+            },
+            {
+                "name": "Estacion 21",
+                "url": "https://server.laradio.online/proxy/jorge_benitez?mp=/stream",
+                "type": "HLS",
+                "icono": "https://web.whatsapp.com/07090019-a520-4283-9701-06b77cd14b61"
             }
         ]
     },

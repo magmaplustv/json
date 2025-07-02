@@ -3302,6 +3302,30 @@
             "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Viudas negras: P*tas y chorras",
+                    "genero": "Comedia, Crimen",
+                    "descripcion": "Una exdupla de ladronas debe desempolvar sus viejos trucos de seducción cuando un chantaje amenaza con sacar sus trapos sucios al sol.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/dyS7L97MLiJ5qha3Qtt29ieDXdk.png",
+                    "icono": "https://image.tmdb.org/t/p/original/5Vlv9pBlvdAHRyKEm7jNEjA1p9N.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8LfHsnOgh81VJX9OrDwKSuv3ToK.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "El Reencuentro",
+                                    "url": "6D32EB141F1045A291E9496CABE2C47A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 294972,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Buen chico",
                     "genero": "Crimen, Comedia, Action & Adventure, Drama",
                     "descripcion": "Tras 11 años, la Policía de Insung acoge a antiguos deportistas de la selección nacional. Estos medallistas que fueron héroes se enfrentan hoy a una cruda realidad. Pese a estrecheces económicas, tragedias inesperadas y el desprecio de sus compañeros, aúnan fuerzas como fuerza operativa especial para enfrentarse a graves delitos con el valor y la destreza de sus tiempos como deportistas.",
@@ -3740,30 +3764,6 @@
                         }
                     ],
                     "tmdb_id": 231003,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Viudas negras: P*tas y chorras",
-                    "genero": "Comedia, Crimen",
-                    "descripcion": "Una exdupla de ladronas debe desempolvar sus viejos trucos de seducción cuando un chantaje amenaza con sacar sus trapos sucios al sol.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/dyS7L97MLiJ5qha3Qtt29ieDXdk.png",
-                    "icono": "https://image.tmdb.org/t/p/original/5Vlv9pBlvdAHRyKEm7jNEjA1p9N.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8LfHsnOgh81VJX9OrDwKSuv3ToK.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El Reencuentro",
-                                    "url": "6D32EB141F1045A291E9496CABE2C47A_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 294972,
                     "total_seasons": 1
                 }
             ]

@@ -1705,12 +1705,6 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
             },
             {
-                "name": "Cadena Alegria Mendoza",
-                "url": "https://srv10.streamingradio.ar:8014",
-                "type": "HLS",
-                "icono": "https://play-lh.googleusercontent.com/5IE-yamV2Aiu90jKd9YZMN4jvdGiO2B2yN3hWGA8xUiLcBnOkPHwCxRUr99WfDD3t8Pf"
-            },
-            {
                 "name": "Estacion 21",
                 "url": "https://server.laradio.online/proxy/jorge_benitez?mp=/stream",
                 "type": "HLS",

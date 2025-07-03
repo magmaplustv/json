@@ -4,6 +4,106 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Los Protectores",
+                    "genero": "Drama, Comedia",
+                    "descripcion": "La historia se centra en tres representantes de fútbol que se encuentran en decadencia, ya que se encuentran en una situación económica difícil y deberán ingeniárselas para salir de la quiebra, formando así una alianza entre los tres, sin embargo, aparecerá una estrella del fútbol internacional y empezarán a disputarse por él hasta que deciden hacer una unión transitoria: un trabajo de protectores.",
+                    "anio": "2022",
+                    "iconPng": "https://image.tmdb.org/t/p/original/9DgxmcbVzY35x3CNJ1FiZfaw54n.png",
+                    "icono": "https://image.tmdb.org/t/p/original/kx0hXpQ3JW6QMBwKEgl7mnu5GgY.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oLYSfcy1X9YV1kjBIiIcdaIAOsI.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/83402D344AF443BBA7C47DF06D8A7F75_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94A13063FB4C4878808D58FE78EFD1D5_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89D9BEE4A60A4EC2BFA5E1B2AF97009A_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8485CF5D3244239A5D82353DCBADE79_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/755EB8D5F992429D99655E26F1557F66_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51664EA0DD4A4719BF24072648778090_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94827774842942DABEE176051EBBCABD_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/81FE8A51DB6F45EA8256F8BB50D0B224_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/8488C76A61A448EA80F0AD3542E611B1_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/B06446F1A3AE47F39C4546D4C5243883_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9492C54B7994143A0C4149486651F01_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2B33424886C34D5AB56364DEE777411F_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3D073F430A0242F0B44E6982246CD067_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F5FECB4F39E540DD814C0A3B59679B3D_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/596E356E0C234E6F8E6BB8AA086EB54A_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 122046,
+                    "total_seasons": 2
+                },
+                {
                     "nombre": "El juego del calamar",
                     "genero": "Action & Adventure, Misterio, Drama",
                     "descripcion": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
@@ -3294,106 +3394,6 @@
                         }
                     ],
                     "tmdb_id": 243316,
-                    "total_seasons": 2
-                },
-                {
-                    "nombre": "Los protectores",
-                    "genero": "Drama, Comedia",
-                    "descripcion": "La historia se centra en tres representantes de fútbol que se encuentran en decadencia, ya que se encuentran en una situación económica difícil y deberán ingeniárselas para salir de la quiebra, formando así una alianza entre los tres, sin embargo, aparecerá una estrella del fútbol internacional y empezarán a disputarse por él hasta que deciden hacer una unión transitoria: un trabajo de protectores.",
-                    "anio": "2022",
-                    "iconPng": "https://image.tmdb.org/t/p/original/9DgxmcbVzY35x3CNJ1FiZfaw54n.png",
-                    "icono": "https://image.tmdb.org/t/p/original/kx0hXpQ3JW6QMBwKEgl7mnu5GgY.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/oLYSfcy1X9YV1kjBIiIcdaIAOsI.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/83402D344AF443BBA7C47DF06D8A7F75_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94A13063FB4C4878808D58FE78EFD1D5_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/89D9BEE4A60A4EC2BFA5E1B2AF97009A_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8485CF5D3244239A5D82353DCBADE79_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/755EB8D5F992429D99655E26F1557F66_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/51664EA0DD4A4719BF24072648778090_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/94827774842942DABEE176051EBBCABD_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/81FE8A51DB6F45EA8256F8BB50D0B224_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/8488C76A61A448EA80F0AD3542E611B1_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://uyjj.xmqkychtb.com/vod/B06446F1A3AE47F39C4546D4C5243883_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F9492C54B7994143A0C4149486651F01_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2B33424886C34D5AB56364DEE777411F_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3D073F430A0242F0B44E6982246CD067_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F5FECB4F39E540DD814C0A3B59679B3D_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/596E356E0C234E6F8E6BB8AA086EB54A_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 122046,
                     "total_seasons": 2
                 }
             ]

@@ -11872,6 +11872,18 @@
                 "genero": "Documental",
                 "duracion": "96 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Mi mamá Jayne",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/FD3BFE04C69743D5BB82434037C249D6_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/k4MZdogt1DZX0b2tlkr17EFUvP5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/teQPeI0AgHTKUAMCYsr7UYkYoeO.png",
+                "descripcion": "A través de entrevistas profundamente personales con sus hermanos y un examen de las fotografías, cartas y pertenencias dejadas atrás, Mariska arma un nuevo retrato de su madre Jayne Mansfield, una mujer extraordinaria y compleja.",
+                "anio": "2025",
+                "genero": "Documental",
+                "duracion": "106 min",
+                "type": "PELICULA"
             }
         ]
     },

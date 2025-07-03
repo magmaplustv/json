@@ -1428,6 +1428,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "CATAMARCA TV",
+                "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/WKCytzW/CEu-Poq-G-removebg-preview.png"
             }
         ]
     },

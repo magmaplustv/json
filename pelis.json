@@ -404,18 +404,6 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
-                "name": "Samurai Fury",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466729.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/6U0i0HsSCvhRW4IpGzdead6QRo3.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHHWF01W2vNpjI8UzWh2F7tJEZp.jpg",
-                "iconpng": "",
-                "descripcion": "Ambientada en el Kioto del siglo XV devastado por la guerra, en vísperas de la Guerra de Onin, la película se centra en una banda de forajidos liderada por Hyoe (Oizumi), un sinvergüenza cuyas letales habilidades con la espada lo colocan en la punta de la lanza en un levantamiento mortal contra el corrupto Shogunato y su ejército, liderado por su antiguo amigo convertido en archirrival, Doken (Tsutsumi).",
-                "anio": "2025",
-                "genero": "Acción, Drama",
-                "duracion": "135 min",
-                "type": "PELICULA"
-            },
-            {
                 "name": "Thunderbolts*",
                 "url": "http://ptccloud.lsdwedsfsc.site/vod/F0C427E6AA8D4497B545CB82A40034BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cGOBis1KNC8AkYMcOEw4lCycfD1.jpg",
@@ -6794,6 +6782,18 @@
                 "anio": "2025",
                 "genero": "Acción, Ciencia ficción, Aventura",
                 "duracion": "127 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Samurai Fury",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466729.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/6U0i0HsSCvhRW4IpGzdead6QRo3.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iHHWF01W2vNpjI8UzWh2F7tJEZp.jpg",
+                "iconpng": "",
+                "descripcion": "Ambientada en el Kioto del siglo XV devastado por la guerra, en vísperas de la Guerra de Onin, la película se centra en una banda de forajidos liderada por Hyoe (Oizumi), un sinvergüenza cuyas letales habilidades con la espada lo colocan en la punta de la lanza en un levantamiento mortal contra el corrupto Shogunato y su ejército, liderado por su antiguo amigo convertido en archirrival, Doken (Tsutsumi).",
+                "anio": "2025",
+                "genero": "Acción, Drama",
+                "duracion": "135 min",
                 "type": "PELICULA"
             }
         ]

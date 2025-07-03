@@ -404,6 +404,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Marshmallow",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466731.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oxCJDzkFahBxRaeKoCBJwQkJZUE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/buuovNgwRDGGuhl8Xi07utqmWlk.png",
+                "descripcion": "Cuando un cuento de campamento se convierte en realidad, un grupo de campistas descubre un profundo secreto que cuestiona su propia existencia.",
+                "anio": "2025",
+                "genero": "Terror, Ciencia ficción",
+                "duracion": "93 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Samurai Fury",
                 "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466729.mkv",
                 "icono": "https://image.tmdb.org/t/p/original/6U0i0HsSCvhRW4IpGzdead6QRo3.jpg",
@@ -1373,18 +1385,6 @@
                 "anio": "2025",
                 "genero": "Ciencia ficción, Romance",
                 "duracion": "113 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Marshmallow",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466731.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/oxCJDzkFahBxRaeKoCBJwQkJZUE.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/buuovNgwRDGGuhl8Xi07utqmWlk.png",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Terror, Ciencia ficción",
-                "duracion": "93 min",
                 "type": "PELICULA"
             }
         ]

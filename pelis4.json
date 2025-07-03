@@ -11429,6 +11429,18 @@
                 "genero": "Crimen, Drama, Suspense",
                 "duracion": "139 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Sus hijos después de ellos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/EA3419C4A5C344C59B5905C164FF7421_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/57S1ZUx6f5hvw1tVtY47mExtKhf.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
+                "iconpng": "",
+                "descripcion": "En el este de Francia, dos primos adolescentes pasan el verano de sus vidas cuando reman en una canoa robada hasta la orilla más lejana de un lago.",
+                "anio": "2024",
+                "genero": "Drama",
+                "duracion": "146 min",
+                "type": "PELICULA"
             }
         ]
     },

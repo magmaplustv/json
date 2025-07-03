@@ -9956,6 +9956,18 @@
                 "genero": "Acción, Ciencia ficción, Aventura",
                 "duracion": "127 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Crown of Shadows",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466730.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX5EdYeRX1GReFQlfxp7DJUzYxW.jpg",
+                "iconpng": "",
+                "descripcion": "Tras asesinar al Rey, la Reina Ginnarra sume a Aberon en tinieblas. El Príncipe Elderon, exiliado, une fuerzas con rebeldes e invoca un dragón contra ella y sus Dioses Oscuros.",
+                "anio": "2025",
+                "genero": "Fantasía, Aventura",
+                "duracion": "144 min",
+                "type": "PELICULA"
             }
         ]
     },

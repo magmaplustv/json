@@ -1374,6 +1374,18 @@
                 "genero": "Ciencia ficción, Romance",
                 "duracion": "113 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Marshmallow",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466731.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oxCJDzkFahBxRaeKoCBJwQkJZUE.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/buuovNgwRDGGuhl8Xi07utqmWlk.png",
+                "descripcion": "",
+                "anio": "2025",
+                "genero": "Terror, Ciencia ficción",
+                "duracion": "93 min",
+                "type": "PELICULA"
             }
         ]
     },

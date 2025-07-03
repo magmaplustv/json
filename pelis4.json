@@ -404,6 +404,18 @@
         "name": "⭐️Estrenos 2025⭐️",
         "samples": [
             {
+                "name": "Crown of Shadows",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466730.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX5EdYeRX1GReFQlfxp7DJUzYxW.jpg",
+                "iconpng": "",
+                "descripcion": "Tras asesinar al Rey, la Reina Ginnarra sume a Aberon en tinieblas. El Príncipe Elderon, exiliado, une fuerzas con rebeldes e invoca un dragón contra ella y sus Dioses Oscuros.",
+                "anio": "2025",
+                "genero": "Fantasía, Aventura",
+                "duracion": "144 min",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Thunderbolts*",
                 "url": "http://ptccloud.lsdwedsfsc.site/vod/F0C427E6AA8D4497B545CB82A40034BE_media.mp4",
                 "icono": "https://image.tmdb.org/t/p/original/cGOBis1KNC8AkYMcOEw4lCycfD1.jpg",
@@ -1349,18 +1361,6 @@
                 "anio": "2025",
                 "genero": "Ciencia ficción, Romance",
                 "duracion": "113 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Crown of Shadows",
-                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466730.mkv",
-                "icono": "https://image.tmdb.org/t/p/original/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX5EdYeRX1GReFQlfxp7DJUzYxW.jpg",
-                "iconpng": "",
-                "descripcion": "",
-                "anio": "2025",
-                "genero": "Fantasía, Aventura",
-                "duracion": "144 min",
                 "type": "PELICULA"
             }
         ]

@@ -12712,6 +12712,40 @@
                     ],
                     "tmdb_id": 97180,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Súper Sara",
+                    "genero": "Documental",
+                    "descripcion": "Explora la figura de Maria Antonia Abad Fernández, la mujer detrás del mito de Sara Montiel, una pionera como feminista, como actriz y como mujer. A lo largo de tres episodios descubriremos la historia menos conocida de uno de los iconos más internacionales del cine español, desde sus orígenes humildes en Campo de Criptana hasta su salto a Hollywood, donde se codeó con Marlon Brando, Elizabeth Taylor, Alfred Hitchcock o Marilyn Monroe; desde el éxito sin precedentes con 'El último cuplé' hasta su reinvención en el teatro y la televisión.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/fKjizDbU52N4cNUMu88PmSkAnYx.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AfH6uFqDG4m3cjN5wMWNur7egtp.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/xmLeP0Ud3jIf7DsFTC5V4b2XQtd.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Los huevos fritos",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/085266D9F72A4A65BDD82E67B550AFE2_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Me fumo un puro",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1E6C6E578C1940DD897CAA49480AD035_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "¿Pero que invento es esto",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/83402D344AF443BBA7C47DF06D8A7F75_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 278764,
+                    "total_seasons": 1
                 }
             ]
         },

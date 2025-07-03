@@ -1583,6 +1583,18 @@
                 "genero": "Documental, Música",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/w500/qk3jMgmSx2NcoyVbry6Ggf4WY5Z.png"
+            },
+            {
+                "name": "Jurassic World: El renacer",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/466728.mkv",
+                "icono": "https://image.tmdb.org/t/p/original/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/bMathNQ0Gnpra5Ac7IKIS9b2czm.png",
+                "descripcion": "Cinco años después de los eventos de \"Dominion\", sigue a Zora (Scarlett Johansson), que dirige un equipo para conseguir material genético de tres enormes dinosaurios. Cuando la operación se cruza con una familia, quedan varados en una isla donde hacen un siniestro descubrimiento.",
+                "anio": "2025",
+                "genero": "Ciencia ficción, Aventura, Acción",
+                "duracion": "134 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -13002,6 +13002,75 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Bronco: Un éxito indomable",
+                    "genero": "Drama",
+                    "descripcion": "La serie cuenta la historia desde los inicio de Bronco, la forma en que se gestó la banda, sus obstáculos en el mundo de la música y el éxito total que los llevó a llenar el estadio Azteca con más de 100 mil personas para un concierto. Su separación, la muerte de algunos integrantes y su regreso a los escenarios.",
+                    "anio": "2019",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/uWf4Yrnr17CHwJjhAOcMgVdv7Cj.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/33ZG1rtN0VtrsK69OgP3NhqNdGa.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8790A1A1C65C48FEB32F6004D4A5F1EF_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC498ED7753B4CFB9DD45FAF53A033A9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/937DA2B61A3D4BA5A8B43AAA84361BD8_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75AB69F554A842209A1557054FBBB394_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4E19E023D6E54553A672DF48E5C07784_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1926C8C3D4594CA98C5ED8A3B74FD7E2_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B47A6F7CA9034494BDC154DE5E51AC82_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/2190F920FA3645A0AEAF829D39D4A4F9_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://uyjj.xmqkychtb.com/vod/BE1C53C63F6844F2B595910B78B57FA0_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FE5E7F531FA94664A52F64531C323242_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 94703,
+                    "total_seasons": 1
+                },
+                {
                     "nombre": "Con esa misma mirada",
                     "genero": "Drama",
                     "descripcion": "Después de 25 años de matrimonio Eloísa descubre la infidelidad de su esposo con alguien más joven y decide separarse. Su inesperada soledad la obliga a cuestionarse y darse valor para redescubrir el amor con un hombre menor que ella.",
@@ -17110,55 +17179,6 @@
                         }
                     ],
                     "tmdb_id": 292012,
-                    "total_seasons": 1
-                },
-                {
-                    "nombre": "Bronco: Un éxito indomable",
-                    "genero": "Drama",
-                    "descripcion": "La serie cuenta la historia desde los inicio de Bronco, la forma en que se gestó la banda, sus obstáculos en el mundo de la música y el éxito total que los llevó a llenar el estadio Azteca con más de 100 mil personas para un concierto. Su separación, la muerte de algunos integrantes y su regreso a los escenarios.",
-                    "anio": "2019",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/uWf4Yrnr17CHwJjhAOcMgVdv7Cj.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/33ZG1rtN0VtrsK69OgP3NhqNdGa.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8790A1A1C65C48FEB32F6004D4A5F1EF_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AC498ED7753B4CFB9DD45FAF53A033A9_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/937DA2B61A3D4BA5A8B43AAA84361BD8_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75AB69F554A842209A1557054FBBB394_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/4E19E023D6E54553A672DF48E5C07784_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1926C8C3D4594CA98C5ED8A3B74FD7E2_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 94703,
                     "total_seasons": 1
                 }
             ]

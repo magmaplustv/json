@@ -4387,17 +4387,6 @@
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281215",
                 "type": "HLS",
                 "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png"
-            },
-            {
-                "name": "dnews",
-                "url": "https://83ea134cb61e48669ae54c96ee535d26.mediatailor.us-east-1.amazonaws.com/v1/tracking/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1264/d2237f13-fb5b-466a-8cda-76c8a226f3a8",
-                "type": "HLS",
-                "icono": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58e1ebe75d944f6a98ea67b1c7c0a572&key=1c311b069dbce31ce8e62a6e7e2433eb",
-                "headers": {
-                    "Origin": "https://www.directvgo.com",
-                    "Referer": "https://www.directvgo.com/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-                }
             }
         ]
     }

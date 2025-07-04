@@ -7580,6 +7580,18 @@
                 "genero": "Animación, Familia, Historia",
                 "duracion": "82 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Enredados otra vez",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434671.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/dP8nQe6jG1blGFNZS0U5N8LZWJK.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/hXC8Hh0J9LGN7MIukNu736AsyOA.png",
+                "descripcion": "¡Mientras Rapunzel se prepara para su coronación como Princesa de Corona, una noche inolvidable cambiará su pelo otra vez!",
+                "anio": "2017",
+                "genero": "Aventura, Animación, Comedia, Familia, Fantasía, Película de TV",
+                "duracion": "90 min",
+                "type": "PELICULA"
             }
         ]
     },

@@ -7592,6 +7592,18 @@
                 "genero": "Aventura, Animación, Comedia, Familia, Fantasía, Película de TV",
                 "duracion": "90 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Enredados",
+                "url": "http://novabox.club:80/movie/conectStreax/K2tbMNebMW/434398.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/dHkN6MBT9WnmahgHPGKXWvucDkE.png",
+                "descripcion": "Flynn Rider, el más buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y allí se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada allí desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivirá emocionantes aventuras en compañía de un caballo superpolicía, un camaleón sobreprotector y una ruda pandilla de matones",
+                "anio": "2010",
+                "genero": "Animación, Familia, Aventura",
+                "duracion": "101 min",
+                "type": "PELICULA"
             }
         ]
     },

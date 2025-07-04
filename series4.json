@@ -12953,6 +12953,101 @@
             "nombre": "⭐️⭐️Drama⭐️⭐️",
             "series": [
                 {
+                    "nombre": "Con esa misma mirada",
+                    "genero": "Drama",
+                    "descripcion": "Después de 25 años de matrimonio Eloísa descubre la infidelidad de su esposo con alguien más joven y decide separarse. Su inesperada soledad la obliga a cuestionarse y darse valor para redescubrir el amor con un hombre menor que ella.",
+                    "anio": "2025",
+                    "iconPng": "",
+                    "icono": "https://image.tmdb.org/t/p/original/yaAqgf2xJqU7dJwEoUAizHK8cFw.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qKeYeBcfJ75jm0dkh45pSN0XIL4.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7035E9C4A7544DB58EDBE51CABD5C6E3_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C008481961E541319ED02E83E3085E7B_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28908BDEE978459F8CD4E061E2CA8B42_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3043977911774E2BB91DB80EED4E0DDB_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0F9E83C1CC2947DF9D9F11E0808E6AF7_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80D463CAD7ED40A4ABCD7D33C2319B09_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ADAB5296243E4EE98FCC81C207307B32_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE12D708178C4D5783FA57A5843A99B0_media.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FA7A6D441AFA451E99D7A200306A3478_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/506EB7F862034F07B03FCB885475EC70_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8D9A007948840CCA867DE619BB9A461_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84E0B9F707FC43E88C74AD93392890E1_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DC39837C8A144F659D74CB96525F8DD5_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod//179905948B5648A39071EF7AF568D67F_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 286993,
+                    "total_seasons": 2
+                },
+                {
                     "nombre": "Olympo",
                     "genero": "Drama, Misterio",
                     "descripcion": "Cuando una nadadora sufre un colapso en un centro deportivo de alto rendimiento, Amaia descubre que la ambición de sus compañeros les está llevando a tomar riesgos extremos.",
@@ -16967,101 +17062,6 @@
                     ],
                     "tmdb_id": 292012,
                     "total_seasons": 1
-                },
-                {
-                    "nombre": "Con esa misma mirada",
-                    "genero": "Drama",
-                    "descripcion": "Después de 25 años de matrimonio Eloísa descubre la infidelidad de su esposo con alguien más joven y decide separarse. Su inesperada soledad la obliga a cuestionarse y darse valor para redescubrir el amor con un hombre menor que ella.",
-                    "anio": "2025",
-                    "iconPng": "",
-                    "icono": "https://image.tmdb.org/t/p/original/yaAqgf2xJqU7dJwEoUAizHK8cFw.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/qKeYeBcfJ75jm0dkh45pSN0XIL4.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/7035E9C4A7544DB58EDBE51CABD5C6E3_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/C008481961E541319ED02E83E3085E7B_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/28908BDEE978459F8CD4E061E2CA8B42_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/3043977911774E2BB91DB80EED4E0DDB_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0F9E83C1CC2947DF9D9F11E0808E6AF7_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/80D463CAD7ED40A4ABCD7D33C2319B09_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Episodio 7",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/ADAB5296243E4EE98FCC81C207307B32_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Episodio 8",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AE12D708178C4D5783FA57A5843A99B0_media.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FA7A6D441AFA451E99D7A200306A3478_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "Episodio 2",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/506EB7F862034F07B03FCB885475EC70_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Episodio 3",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8D9A007948840CCA867DE619BB9A461_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Episodio 4",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84E0B9F707FC43E88C74AD93392890E1_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Episodio 5",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DC39837C8A144F659D74CB96525F8DD5_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Episodio 6",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod//179905948B5648A39071EF7AF568D67F_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 286993,
-                    "total_seasons": 2
                 }
             ]
         },

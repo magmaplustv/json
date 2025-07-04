@@ -3490,6 +3490,55 @@
                     ],
                     "tmdb_id": 286993,
                     "total_seasons": 2
+                },
+                {
+                    "nombre": "Matices",
+                    "genero": "Crimen, Misterio",
+                    "descripcion": "Seis pacientes psiquiátricos se reúnen en una bodega aislada para completar el tratamiento del doctor Marlow, pero cuando se produce una muerte sospechosa, todos se convierten en sospechosos de una investigación de asesinato.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/1IXAzimOE6ZJYuBtjZiKMQkCF1K.png",
+                    "icono": "https://image.tmdb.org/t/p/original/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/tG8EUw9lYeZsPrDL4vePhLWj7D.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Eviana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FF945F9013B843D580A7EA76C4712752_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Doctor Marlow",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/474BA5EE24984896B698732697C1D5D9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Ceci",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/61BB4DE7917C4A3ABB86350B7EB77348_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Ana",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/93A00622E6EB4242B9C6897D96F0C01C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "El Sr. y la Sra. Polan",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/25521BFE39834671A10BB0D4B252921A_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Fariba",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/D144E3D84A714A0F98DCD595326540FE_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 259854,
+                    "total_seasons": 1
                 }
             ]
         },

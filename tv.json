@@ -4407,7 +4407,7 @@
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "drm_license_uri": "https://panel.magmaplus.lat/keys/dsports.json",
                 "headers": {
-                    "Origin": "http://android_mobile.directvgo.com/",
+                    "Origin": "http://cdn.tvar.io/MXKo30MCFK.json",
                     "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
                     "cookie": "http://cdn.tvar.io/MXKo30MCFK.json"
                 }

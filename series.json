@@ -4,6 +4,75 @@
             "nombre": "⚡️Recomendados⚡️",
             "series": [
                 {
+                    "nombre": "Rosario Tijeras 4 Temporada",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La serie cuenta la historia de una guerrera de uno de los barrios más pobres y peligrosos en Ciudad de México. Su belleza y nobleza contrasta con el ambiente gris y desolado donde creció. Ella es temida por sus enemigos y adorada por sus amigos.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jmjEiNArL1eGqbE254Ku8sN8Jno.png",
+                    "icono": "https://image.tmdb.org/t/p/original/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/27EDE9CBB451457AA7C7D754DB6C3A26_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Episodio 2",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32D6636BF7044C0BA8A60856D860F280_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Episodio 3",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8A395FB78BD9448980F5E85F03514987_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Episodio 4",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/20240D7C9EB540289D2A21FAA3814C4C_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Episodio 5",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/B8138B1201B44AD48600C50A01F2F0F0_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Episodio 6",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/84E53224A4E44994833E9DC1EBC4DFF0_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "Episodio 7",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/F280D89AE3694D758ED2127445F57D8E_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "Episodio 8",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/24000894F1604435BAE922D4E9D7676F_media.mp4"
+                                },
+                                {
+                                    "numero": 9,
+                                    "titulo": "Episodio 9",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E8211A70B52C4D5DA823118E58FF42D9_media.mp4"
+                                },
+                                {
+                                    "numero": 10,
+                                    "titulo": "Episodio 10",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/32120A15A0194350B894138177C30356_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 74428,
+                    "total_seasons": 4
+                },
+                {
                     "nombre": "Los Protectores",
                     "genero": "Drama, Comedia",
                     "descripcion": "La historia se centra en tres representantes de fútbol que se encuentran en decadencia, ya que se encuentran en una situación económica difícil y deberán ingeniárselas para salir de la quiebra, formando así una alianza entre los tres, sin embargo, aparecerá una estrella del fútbol internacional y empezarán a disputarse por él hasta que deciden hacer una unión transitoria: un trabajo de protectores.",
@@ -3539,45 +3608,6 @@
                     ],
                     "tmdb_id": 259854,
                     "total_seasons": 1
-                },
-                {
-                    "nombre": "Rosario Tijeras 4 Temporada",
-                    "genero": "Drama, Crimen",
-                    "descripcion": "La serie cuenta la historia de una guerrera de uno de los barrios más pobres y peligrosos en Ciudad de México. Su belleza y nobleza contrasta con el ambiente gris y desolado donde creció. Ella es temida por sus enemigos y adorada por sus amigos.",
-                    "anio": "2016",
-                    "iconPng": "https://image.tmdb.org/t/p/original/jmjEiNArL1eGqbE254Ku8sN8Jno.png",
-                    "icono": "https://image.tmdb.org/t/p/original/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": []
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": []
-                        },
-                        {
-                            "nombre": "Temporada 2",
-                            "numero_temporada": 2,
-                            "capitulos": []
-                        },
-                        {
-                            "nombre": "Temporada 4",
-                            "numero_temporada": 4,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "Episodio 1",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/27EDE9CBB451457AA7C7D754DB6C3A26_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 74428,
-                    "total_seasons": 4
                 }
             ]
         },

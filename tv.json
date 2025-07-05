@@ -4399,18 +4399,6 @@
                     "cookie": "http://cdn.tvar.io/MXKo30MCFK.json"
                 },
                 "drm_license_uri": "https://panel.magmaplus.lat/keys/americatv_dgo.json"
-            },
-            {
-                "name": "Dsports",
-                "url": "https://1057-aws-da-mt.vrioott.com/3246000a22764effbc70013d052b6126/manifest.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "drm_license_uri": "https://panel.magmaplus.lat/keys/dsports.json",
-                "headers": {
-                    "Origin": "http://cdn.tvar.io/MXKo30MCFK.json",
-                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
-                    "cookie": "http://cdn.tvar.io/MXKo30MCFK.json"
-                }
             }
         ]
     }

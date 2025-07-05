@@ -3539,6 +3539,45 @@
                     ],
                     "tmdb_id": 259854,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Rosario Tijeras 4 Temporada",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "La serie cuenta la historia de una guerrera de uno de los barrios más pobres y peligrosos en Ciudad de México. Su belleza y nobleza contrasta con el ambiente gris y desolado donde creció. Ella es temida por sus enemigos y adorada por sus amigos.",
+                    "anio": "2016",
+                    "iconPng": "https://image.tmdb.org/t/p/original/jmjEiNArL1eGqbE254Ku8sN8Jno.png",
+                    "icono": "https://image.tmdb.org/t/p/original/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": []
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": []
+                        },
+                        {
+                            "nombre": "Temporada 2",
+                            "numero_temporada": 2,
+                            "capitulos": []
+                        },
+                        {
+                            "nombre": "Temporada 4",
+                            "numero_temporada": 4,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Episodio 1",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/27EDE9CBB451457AA7C7D754DB6C3A26_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 74428,
+                    "total_seasons": 4
                 }
             ]
         },

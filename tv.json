@@ -4394,7 +4394,7 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
                 "headers": {
-                    "Origin": "http://android_mobile.directvgo.com/",
+                    "Origin": "http://android_mobile.directvgo.com",
                     "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1",
                     "cookie": "http://cdn.tvar.io/MXKo30MCFK.json"
                 },

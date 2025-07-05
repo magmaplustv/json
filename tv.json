@@ -4387,6 +4387,16 @@
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281215",
                 "type": "HLS",
                 "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png"
+            },
+            {
+                "name": "America TV",
+                "url": "https://1010-aws-da-mt.vrioott.com/04efcbe4176a48debfe516d995fd9a24/manifest.mpd",
+                "type": "HLS",
+                "icono": "",
+                "headers": {
+                    "Origin": "http://android_mobile.directvgo.com/",
+                    "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+                }
             }
         ]
     }

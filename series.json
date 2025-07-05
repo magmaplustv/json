@@ -17686,6 +17686,65 @@
                     ],
                     "tmdb_id": 292012,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Duster",
+                    "genero": "Crimen, Drama",
+                    "descripcion": "En 1972, la primera agente negra del FBI se dirige al suroeste y recluta a un valiente conductor de escape en un audaz esfuerzo por acabar con un sindicato criminal en creciente.",
+                    "anio": "2025",
+                    "iconPng": "https://image.tmdb.org/t/p/original/sidoMlKGJYVgZws2CZTx5scRMtI.png",
+                    "icono": "https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/gs9gImz03a5fIUMZmI9QZAky0xC.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Baltimore lo cambia todo",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/75D119F8076C4020AB2654EB2B349928_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Mentes sospechosas",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/8EF4F4B4C86B4A16B436CDA3196D15E9_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "No eres bueno",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDC2FE7593DD4088B54AD9857D0A585F_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Crimunalus Velocitus Super-Sonicus",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0ECE0DCDB3D04C56A3B8F31BC624CF64_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Luz y gloria deslumbrantes",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/33716EA870D94F7CA2436BF0320FB955_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Conocerse por la ropa",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/E106430B0B6A491593622C7A9C2BDF66_media.mp4"
+                                },
+                                {
+                                    "numero": 7,
+                                    "titulo": "K-129",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/282CC7BED2964400B88313666B0C70B2_media.mp4"
+                                },
+                                {
+                                    "numero": 8,
+                                    "titulo": "66 Reno Split",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/9EE727C381A345458D4B7F40B680CC3B_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 113959,
+                    "total_seasons": 1
                 }
             ]
         },

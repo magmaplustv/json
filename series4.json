@@ -10904,6 +10904,55 @@
                     ],
                     "tmdb_id": 113959,
                     "total_seasons": 1
+                },
+                {
+                    "nombre": "Las viudas de los jueves",
+                    "genero": "Drama, Crimen",
+                    "descripcion": "Para los amantes del suspenso, Las viudas de los jueves es casi un visionado obligado. En cada capítulo, la trama promete dar giros y desmoronar las vidas idílicas de las familias que viven en Las Cascadas. Además, el avance nos indica cierto tono oscuro que le viene bien a una trama como ésta. La adaptación a las costumbres mexicanas promete dar de qué hablar, y eso es algo que tiene muy emocionada a la autora del texto original, quien ha dado su visto bueno a la adaptación.",
+                    "anio": "2023",
+                    "iconPng": "https://image.tmdb.org/t/p/original/432pY0AsG0mEPo45H1YfRho7q4b.png",
+                    "icono": "https://image.tmdb.org/t/p/original/z8siNqkZO3le59CRVbdCh9aQOTF.jpg",
+                    "logoHorizontal": "https://image.tmdb.org/t/p/original/AqNwbPA4loNEP8O6PP8IH12k8yZ.jpg",
+                    "temporadas": [
+                        {
+                            "nombre": "Temporada 1",
+                            "numero_temporada": 1,
+                            "capitulos": [
+                                {
+                                    "numero": 1,
+                                    "titulo": "Tienen que saber la verdad",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DDA18A033FD948C1A9C24E6AE05B48A4_media.mp4"
+                                },
+                                {
+                                    "numero": 2,
+                                    "titulo": "Familia Scaglia",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/EE39A718590F4A4C9ED3A4A9B1A613EC_media.mp4"
+                                },
+                                {
+                                    "numero": 3,
+                                    "titulo": "Familia Andrade",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/62555BA3E23E4290BA688A2C24504032_media.mp4"
+                                },
+                                {
+                                    "numero": 4,
+                                    "titulo": "Familia De la Luna",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FEEFE7A2849541E4A73F19B45EA5CFB7_media.mp4"
+                                },
+                                {
+                                    "numero": 5,
+                                    "titulo": "Familia Maldonado",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/183F1F671798461FA29D7BA495A7A6EF_media.mp4"
+                                },
+                                {
+                                    "numero": 6,
+                                    "titulo": "Familia Guevara",
+                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/DCB9D4231E49425BB4449B282147A110_media.mp4"
+                                }
+                            ]
+                        }
+                    ],
+                    "tmdb_id": 231681,
+                    "total_seasons": 1
                 }
             ]
         },

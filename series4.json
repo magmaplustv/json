@@ -3824,65 +3824,6 @@
             "nombre": "⭐️⭐️Serie en Emision⭐️⭐️",
             "series": [
                 {
-                    "nombre": "Viudas negras: P*tas y chorras",
-                    "genero": "Comedia, Crimen",
-                    "descripcion": "Una exdupla de ladronas debe desempolvar sus viejos trucos de seducción cuando un chantaje amenaza con sacar sus trapos sucios al sol.",
-                    "anio": "2025",
-                    "iconPng": "https://image.tmdb.org/t/p/original/dyS7L97MLiJ5qha3Qtt29ieDXdk.png",
-                    "icono": "https://image.tmdb.org/t/p/original/5Vlv9pBlvdAHRyKEm7jNEjA1p9N.jpg",
-                    "logoHorizontal": "https://image.tmdb.org/t/p/original/8LfHsnOgh81VJX9OrDwKSuv3ToK.jpg",
-                    "temporadas": [
-                        {
-                            "nombre": "Temporada 1",
-                            "numero_temporada": 1,
-                            "capitulos": [
-                                {
-                                    "numero": 1,
-                                    "titulo": "El Reencuentro",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/6D32EB141F1045A291E9496CABE2C47A_media.mp4"
-                                },
-                                {
-                                    "numero": 2,
-                                    "titulo": "El Plan",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A8058DA436DD4F1EABB99B950921ACDA_media.mp4"
-                                },
-                                {
-                                    "numero": 3,
-                                    "titulo": "Barbitúricos",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/AB4A525949C842B2A167BD134D92E87D_media.mp4"
-                                },
-                                {
-                                    "numero": 4,
-                                    "titulo": "Oxidadas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/65A8A701C4E045A893C40D5C81CD7F40_media.mp4"
-                                },
-                                {
-                                    "numero": 5,
-                                    "titulo": "Trombón",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/1C85471DEAB147BEA3C9F5FF97F74D58_media.mp4"
-                                },
-                                {
-                                    "numero": 6,
-                                    "titulo": "Club de Pelotudas",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/A4409DB5522548BDA241D713DF1DDE40_media.mp4"
-                                },
-                                {
-                                    "numero": 7,
-                                    "titulo": "Walter",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/FFD6EEF6F5C34833ABE47BB226F66BBD_media.mp4"
-                                },
-                                {
-                                    "numero": 8,
-                                    "titulo": "Mitad de cuadra",
-                                    "url": "http://ptccloud.lsdwedsfsc.site/vod/0908C796CF9C454EAA27EDD63938B15C_media.mp4"
-                                }
-                            ]
-                        }
-                    ],
-                    "tmdb_id": 294972,
-                    "total_seasons": 1
-                },
-                {
                     "nombre": "Buen chico",
                     "genero": "Crimen, Comedia, Action & Adventure, Drama",
                     "descripcion": "Tras 11 años, la Policía de Insung acoge a antiguos deportistas de la selección nacional. Estos medallistas que fueron héroes se enfrentan hoy a una cruda realidad. Pese a estrecheces económicas, tragedias inesperadas y el desprecio de sus compañeros, aúnan fuerzas como fuerza operativa especial para enfrentarse a graves delitos con el valor y la destreza de sus tiempos como deportistas.",

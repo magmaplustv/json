@@ -10292,6 +10292,18 @@
                 "genero": "Aventura, Comedia, Familia",
                 "duracion": "96 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "La trama fenicia",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/0D2BF6F3738F4F86BB14D262787F0408_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/uy3ojOX8Ppp4ZFtBZobYxbvIiyn.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/w3RDV3pSpxN0C2DZ4Xpw4o5LWpI.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/wmgwKcaUSSc7JNd14aTpGBbEXxx.png",
+                "descripcion": "El magnate Zsa-zsa Korda es un rico empresario europeo que se ve envuelto en una trama de espionaje junto a su hija Liesl, una monja con la que mantiene una relación difícil y a la quiere dejar el negocio familiar.",
+                "anio": "2025",
+                "genero": "Aventura, Comedia",
+                "duracion": "102 min",
+                "type": "PELICULA"
             }
         ]
     },

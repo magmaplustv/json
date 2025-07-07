@@ -2110,6 +2110,12 @@
                 "url": "https://srv10.streamingradio.ar:8014/stream?type=http&nocache=22",
                 "type": "HLS",
                 "icono": "https://play-lh.googleusercontent.com/5IE-yamV2Aiu90jKd9YZMN4jvdGiO2B2yN3hWGA8xUiLcBnOkPHwCxRUr99WfDD3t8Pf"
+            },
+            {
+                "name": "LU5 de Neuquén",
+                "url": "https://live.lu5am.com:8443/LU5?type=.mp3&_=1",
+                "type": "HLS",
+                "icono": "https://lu5am.com/wp-content/uploads/2022/05/lu5-150x150.png"
             }
         ]
     },

@@ -4397,12 +4397,12 @@
                 "name": "SKY LA LIGA",
                 "url": "http://vps-4729499-x.dattaweb.com/flow/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
                 "type": "CLEARKEY",
-                "icono": "",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.ar",
                     "Referer": "https://portal.app.flow.com.ar/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
                 }
             }
         ]

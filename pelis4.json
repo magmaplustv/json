@@ -4040,6 +4040,18 @@
                 "genero": "Comedia, Ciencia ficción, Misterio, Drama",
                 "duracion": "117 min",
                 "type": "PELICULA"
+            },
+            {
+                "name": "Hombres de honor",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/653440A795D947379A7D44C02044B81D_media.mp4",
+                "icono": "https://image.tmdb.org/t/p/original/bnsEO5HeS5AgS8OWIZ8BYGHyKNQ.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/w4bGf8VoByfmZN024udKaLRGClC.png",
+                "descripcion": "La historia de Carl Brashear, un hombre que combatió el racismo y se convirtió en el primer oficial afroamericano de la armada americana. La acción se desarrolla durante más de 30 años, periodo en el que destaca su relación con Billy Sunday , un oficial rebelde de alta graduación y experto buceador que fue degradado por permitir la graduación de Brashear.",
+                "anio": "2000",
+                "genero": "Drama",
+                "duracion": "150 min",
+                "type": "PELICULA"
             }
         ]
     },

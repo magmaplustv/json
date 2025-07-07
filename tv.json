@@ -3404,6 +3404,12 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "Un Poco De Ruido",
+                "url": "https://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.ibb.co/V3CcRHT/unpoco.png"
             }
         ]
     },

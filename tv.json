@@ -3221,6 +3221,12 @@
                 "url": "https://wstv.lat:443/Onlinetv/DgTHuWS7JK/11902.ts",
                 "type": "HLS",
                 "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1989/6/w1280/oCFFp4VBRz420FKGrQJFZqJDc1h.jpg"
+            },
+            {
+                "name": "24/7 LOS SIMPSONS",
+                "url": "http://flx.lat:8080/Goldentv675/Tv54794t5656tv/126495",
+                "type": "HLS",
+                "icono": "https://external-preview.redd.it/disney-adds-new-the-simpsons-24-7-livestream-v0-36C-uyg0k4RztL4Yz-ISD-LpFoAHEvktbf_VzIcDExo.jpg?auto=webp&s=6f136398d1109925b033cb967f7fe7074d90f699"
             }
         ]
     },

@@ -4387,6 +4387,18 @@
                 "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281215",
                 "type": "HLS",
                 "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png"
+            },
+            {
+                "name": "America TV",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+                "type": "CLEARKEY",
+                "icono": "",
+                "drm_license_uri": "https://delgadolife.net/mundo/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+                "headers": {
+                    "Origin": "https://web.app.flow.com.py",
+                    "Referer": "https://web.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+                }
             }
         ]
     }

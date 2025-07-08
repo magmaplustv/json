@@ -3167,20 +3167,6 @@
                 "type": "HLS"
             },
             {
-                "name": "24/7 CHESPIRITO",
-                "url": "http://magmaplayer.com/stream/m3u8/AGZjKmR1Z18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/153.m3u8",
-                "icono": "https://www.telegratishd.com/imge/chespirito.png",
-                "headers": {
-                    "X-Hash": "UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw",
-                    "X-Did": "704b97090ad1fb5e",
-                    "X-Version": "8/1.0.7",
-                    "User-Agent": "Magma Player/8",
-                    "Accept-Encoding": "gzip",
-                    "Connection": "Keep-Alive"
-                },
-                "type": "HLS"
-            },
-            {
                 "name": "24/7 FUTURAMA",
                 "url": "http://flx.lat:8080/Goldentv675/Tv54794t5656tv/126518",
                 "type": "HLS",

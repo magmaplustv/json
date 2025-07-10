@@ -3939,41 +3939,5 @@
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
             }
         ]
-    },
-    {
-        "name": "🇪🇸DEPORTES LALIGA⚽",
-        "samples": [
-            {
-                "name": "SKY SPORTS LA LIGA",
-                "url": "https://pro.boxdigital.org:2087/flamatv2.0/vkFdZG4BcqQp/181928",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/QjdqmjHs/Sky-Sports-La-Liga-II.png"
-            },
-            {
-                "name": "LaLiga HyperMotion",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d8235cccf08d0ff149a20dfcd11ff68b&key=e8ea3a1ae6892eb76a73dc1b14d216d6"
-            },
-            {
-                "name": "LALIGA 2 HyperMotion",
-                "url": "http://tv-cool.com:25461/coolevents@/qtzjdnS9PA3hswww1223/281215",
-                "type": "HLS",
-                "icono": "https://fclogo.top/static/080afa20cc48e6a27599456ca36dfdc0/LALIGA-Primera-Division-v2023.png"
-            },
-            {
-                "name": "America TV",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
-                "type": "CLEARKEY",
-                "icono": "",
-                "drm_license_uri": "https://delgadolife.net/mundo/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "headers": {
-                    "Origin": "https://web.app.flow.com.py",
-                    "Referer": "https://web.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
-                }
-            }
-        ]
     }
 ]
